@@ -27,7 +27,7 @@ WHEN & WHERE THESE TERMS APPLY
 These Terms apply to your use of “**Copilot**,” which includes:
 
 *   The standalone Copilot apps on your computer or mobile device
-*   The Copilot service we offer at [copilot.microsoft.com](https://copilot.microsoft.com/), [copilot.com](https://copilot.com/), and [copilot.ai](https://copilot.ai/)
+*   The Copilot service we offer at [copilot.microsoft.com](https://copilot.microsoft.com/), copilot.com, and [copilot.ai](https://copilot.ai/)
 *   Conversations you have with Copilot through other Microsoft apps and websites
 *   Conversations you have with Copilot through third-party apps and platforms
 *   Other Copilot-branded apps and services that link to these Terms
