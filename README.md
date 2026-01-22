@@ -1,6 +1,6 @@
 # Versions of terms from the *genai-eu* collection
 
-The terms in this collection are tracked by _ _ _ _ _ ✍️ using [Open Terms Archive](https://opentermsarchive.org).
+The terms in this collection are tracked by the members of the Lab Platform Governance, Media and Technology of the Centre for Media, Communication and Information (ZeMKI), University of Bremen, namely Kim Lisa Ermler, Zenobio De Almeida Ramos Neto, Ayse Darakçi and Gleb Tomashevskii, ✍️ using [Open Terms Archive](https://opentermsarchive.org).
 
 ## Usage
 
