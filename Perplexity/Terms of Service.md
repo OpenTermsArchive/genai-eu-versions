@@ -3,7 +3,7 @@ Perplexity Terms of Service
 
   
 
-**Last updated: June 4th, 2024**
+**Last updated: January 23rd, 2026**
 
   
 
@@ -53,7 +53,7 @@ For purposes of these Terms, “you” and “your” means you as the user of t
     
       
     
-    **2.1 Creating and Safeguarding your Account.** To use certain of the Services, you need to create an account or link another account, such as your Apple or Google account (“Account”). You agree to provide us with accurate, complete and updated information for your Account. You can access, edit and update your Account through the settings page of your Account profile. You are solely responsible for any activity on your Account and for maintaining the confidentiality and security of your password. We are not liable for any acts or omissions by you in connection with your Account. You must immediately notify us at [support@perplexity.ai](mailto:support@perplexity.ai) if you know or have any reason to suspect that your Account or password have been stolen, misappropriated or otherwise compromised, or in case of any actual or suspected unauthorized use of your Account. You agree not to create an Account if we have previously removed your Account, or we previously banned you from any of our Services, unless we provide written consent otherwise.  
+    **2.1 Creating and Safeguarding Your Account.** To use certain of the Services, you need to create an account or link another account, such as your Apple or Google account (“Account”). You agree to provide us with accurate, complete and updated information for your Account. You can access, edit and update your Account through the settings page of your Account profile. You are solely responsible for any activity on your Account and for maintaining the confidentiality and security of your password. We are not liable for any acts or omissions by you in connection with your Account. You must immediately notify us at [support@perplexity.ai](mailto:support@perplexity.ai) if you know or have any reason to suspect that your Account or password have been stolen, misappropriated or otherwise compromised, or in case of any actual or suspected unauthorized use of your Account. You agree not to create an Account if we have previously removed your Account, or we previously banned you from any of our Services, unless we provide written consent otherwise.  
       
     
     **2.2 Paid Services.** Certain of our Services are free; however, if you subscribe to any of our paid Services, you agree to pay us the applicable fees and taxes in U.S. Dollars. Failure to pay these fees and taxes will result in the termination of your access to the paid Services. You agree that (a) if you purchase a recurring subscription to any of the Services, we may store and continue billing your payment method (e.g. credit card) to avoid interruption of such Services, and (b) we may calculate taxes payable by you based on the billing information that you provide us at the time of purchase. We reserve the right to change our subscription plans or adjust pricing for the paid Services in any manner and at any time as we may determine in our sole and absolute discretion. Except as otherwise provided in these Terms, any price changes or changes to your subscription plan will take effect following reasonable notice to you. All subscriptions are payable in accordance with payment terms in effect at the time the subscription becomes payable. Payment can be made by credit card, debit card, or other means that we may make available. Subscriptions will not be processed until payment has been received in full, and any holds on your account by any other payment processor are solely your responsibility.  
@@ -63,6 +63,10 @@ For purposes of these Terms, “you” and “your” means you as the user of t
     **  
     
     **2.4 No Subscription Refunds.** Except as expressly set forth in these Terms, payments for any subscriptions to the Services are nonrefundable and there are no credits for partially used periods. Following any cancellation by you, however, you will continue to have access to the paid Services through the end of the subscription period for which payment has already been made.
+    
+      
+    
+    **2.5 Free Trials.** You may receive free trial access to the Services, including through third-party promotions. Free trials may be subject to additional terms and conditions, are non-transferrable, and have no monetary value. Violating any additional terms and conditions or these Terms may result in immediate termination of your free trial. Free trials are available only to users that have not previously subscribed to the Services or previously received a free trial. In order to receive your free trial, you must agree to Perplexity’s sign-up requirements, which Perplexity may update from time-to-time and which may include providing a valid credit card and email address. If a credit card is required, your credit card will not be charged until after your free trial expires. Upon expiration of your free trial, you will be charged the then-current subscription price for the applicable Service. You may cancel your free trial at any time by navigating to perplexity.ai/account/details, selecting “view details” and “cancel subscription” while logged in.
     
       
       
@@ -309,7 +313,7 @@ For purposes of these Terms, “you” and “your” means you as the user of t
              
                
              
-         3.  Company may send you text messages in connection with your order, and you consent to receiving such text messages in accordance with Section 10.1 above, \[provided that, if you do not provide or opt-out of such consent, you will be unable to make any purchases using ProShop\]
+         3.  Company may send you text messages in connection with your order, and you consent to receiving such text messages in accordance with Section 10.1 above, \[provided that, if you do not provide or opt-out of such consent, you will be unable to make any purchases using ProShop\]; and
              
                
              
