@@ -1,12 +1,12 @@
 Terms of Service for consumers in the European Union
 ====================================================
 
-Effective:November 28, 2025
+Effective:January 26, 2026
 
 Terms of Service for consumers in the European Union
 ====================================================
 
-Effective:November 28, 2025
+Effective:January 26, 2026
 
 **Welcome to Mistral AI!** We provide technology that enables access to and use of Mistral AI’s artificial intelligence models. These Terms of Service (these “**Terms**”) govern your personal use as an EU user of Mistral AI Studio, Le Chat, Mistral Code, and the other websites, products, services, and technologies we offer (the “**Mistral AI Products**”). If you are a consumer residing outside the European Union, the [Consumer Terms for the rest of the world](http://legal.mistral.ai/terms/row-consumer-terms) apply to you. If you are accessing the Mistral AI Products on behalf of a business or to integrate the Mistral AI Products with your own products or services that are distributed to third-party end users, please review our [Commercial Terms of Service](http://legal.mistral.ai/terms/commercial-terms-of-service) for the terms governing such use.
 
@@ -97,7 +97,7 @@ Effective:November 28, 2025
 
 **Feedback.** For certain Mistral AI Products, such as Le Chat, you have the option to provide feedback, such as by selecting "thumbs up" or "thumbs down” (“**Feedback**”). By providing Feedback, you acknowledge and agree that Mistral AI may use your Feedback, along with the associated Input and Output data, for the purpose of training our artificial intelligence models and improving the Mistral AI Products, to the extent strictly necessary. 
 
-**How we use Your Data.** We do not use Your Data to train our artificial intelligence models except (a) when you (i) use Mistral AI Products under a free subscription, or are subscribed to Le Chat Pro or Le Chat Student, and (ii) you have not opted-out of training, (b) when you provide Feedback to us, or (c) when Your Data is flagged as part of our automated moderation or reported as prohibited content, in which case we may use Your Data to improve the Mistral AI Products and enforce our Usage Policy. You grant us a worldwide, non-exclusive, non-transferable (except as permitted in Section 10 (Assignment), royalty-free, fully-paid license (with the right to sublicense to our delegates and subcontractors) to use Your Data for the purpose of (a) providing, maintaining and optimizing the Mistral AI Products, which includes debugging, assessing, reviewing, and correcting the performance of the Mistral AI Products, but excludes model training, (b) performing our obligations under these Terms or other terms located on our website at [www.legal.mistral.ai/terms](https://legal.mistral.ai/terms/www.legal.mistral.ai/terms), and (c) as applicable and solely in the cases provided in the previous sentence, to train our artificial intelligence models, each for the duration necessary to achieve the intended purposes.
+**How we use Your Data.** We do not use Your Data to train our artificial intelligence models except (a) when you (i) use Mistral AI Products under a free subscription, or are subscribed to Le Chat Pro or Le Chat Student, and (ii) you have not opted-out of training, (b) when you provide Feedback to us, or (c) when Your Data is flagged as part of our automated moderation or reported as prohibited content, in which case we may use Your Data to improve the Mistral AI Products and enforce our Usage Policy. You grant us a worldwide, non-exclusive, non-transferable (except as permitted in Section 13 (Assignment), royalty-free, fully-paid license (with the right to sublicense to our delegates and subcontractors) to use Your Data for the purpose of (a) providing, maintaining and optimizing the Mistral AI Products, which includes debugging, assessing, reviewing, and correcting the performance of the Mistral AI Products, but excludes model training, (b) performing our obligations under these Terms or other terms located on our website at [www.legal.mistral.ai/terms](https://legal.mistral.ai/terms/www.legal.mistral.ai/terms), and (c) as applicable and solely in the cases provided in the previous sentence, to train our artificial intelligence models, each for the duration necessary to achieve the intended purposes.
 
 **Similarity of Output.** Due to the nature of the Mistral AI Products, your Output may be similar or identical to the response generated for another user of the Mistral AI Products. We provide no guarantees that your Output will be unique. Any responses generated for other users by the Mistral AI Product are not considered your Output even if similar or identical to your Output.
 
@@ -128,7 +128,28 @@ Effective:November 28, 2025
 
 **Effects of withdrawal.** If you cancel the subscription in accordance with your right of withdrawal, we will refund all payments made by you without undue delay and in any event not later than fourteen (14) days from the day on which we are informed about your decision to cancel. We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement.
 
-8\. Term, Suspension, and Termination
+8\. Data Switching 
+-------------------
+
+**Switching**. You have the right to switch to another service provider or your own infrastructure. If you want to delete your data and digital assets, please use the automated procedure described on our [Help Center](https://help.mistral.ai/).
+
+**Exportable data and digital assets.** You may export your data and digital assets via the export features provided on your Mistral AI Account, which includes at least your Le Chat conversations (prompts and outputs). Access to these export features enables you to complete the switching process in respect of such data and digital assets. In any case, data and digital assets that do not belong to you, such as our proprietary products, technologies and data, do not constitute exportable data and digital assets.
+
+**Switching Request.** For any data and digital asset which is not included in the export features provided on your Mistral AI Account, you may exercise this right by writing  to Mistral AI at support@mistral.ai with all information necessary to fulfil the request (the “Switching Request”). Please ensure to submit your Switching Request two (2) months before your planned switching date (the "Notice Period"), and you must inform us of your new service provider or on-premise infrastructure at least 30 days before the end of the Notice Period.
+
+**Transitional Period.** Assuming your Switching Request is complete, the switch will be completed within thirty (30) days following the end of the Notice Period (the “Transitional Period”), subject to any extension you or we can require.
+
+**Mistral AI’s Obligations.** Until you notify us of your successful switch,  we will continue (a) providing you access to your data and digital assets, including through the self-serve export tool, which constitutes the assistance we provide to facilitate the switching process; (b) acting with due care to maintain business continuity, and continue the provision of Mistral AI Products; and (c) ensure the security and integrity of your data at every stage of the switching process. You are also informed that switching is performed solely by making your data and digital assets available to you and does not affect the provision of the Mistral AI Products until the end of your subscription; accordingly, no material continuity risks are expected in our provision of the Mistral AI Products.
+
+**Retrieval Period.** Once you have exported your data and digital assets, or following the Transitional Period, Mistral AI will retain them for a period of at least thirty (30) days. 
+
+**Data Erasure.** Once you have notified us of your successful switch Mistral AI will permanently erase all your data and digital assets, unless retention is required under applicable law.
+
+**Liability.** Mistral AI does not warrant that the exported data and digital assets, or any specific data format, will be compatible, interoperable, or fit for use with the infrastructure, systems, software, or services of other service providers or any on-premise infrastructure.
+
+**Termination.** These terms shall be considered terminated, and you will be notified accordingly, upon your notification of successful completion of the switch.
+
+9\. Term, Suspension, and Termination
 -------------------------------------
 
 **Term.** These Terms will commence on the earlier of (a) the date you first use the Mistral AI Products or (b) the date you accept these Terms, and will continue until terminated.
@@ -139,19 +160,19 @@ Effective:November 28, 2025
 
 **Effects of termination.** Prior to the termination of your Mistral AI account, you must pay all outstanding fees, including any unpaid invoices and other charges incurred up to the termination date. You may not be able to export Your Data after your account is terminated, so if you would like to export Your Data, please complete the export prior to the termination of your account. Termination or expiration will not affect any rights or obligations, including the payment of amounts due, which have accrued under these Terms up to the date of termination or expiration. Upon termination or expiration of these Terms, the provisions of these Terms that are intended by their nature to survive termination will survive and continue in full force and effect in accordance with their terms, including payment obligations and termination provisions.
 
-9\. Privacy
------------
+10\. Privacy
+------------
 
 **Privacy Policy.** We process your personal data as a data controller for the purposes of (a) providing the Mistral AI Products to you and (b) managing your relationship with us in accordance with these Terms, including any billing, payment, or marketing activities. For clarity, our [Privacy Policy](http://legal.mistral.ai/terms/privacy-policy) explains how we collect and use personal information.
 
-10\. Changes to these Terms 
+11\. Changes to these Terms 
 ----------------------------
 
 **Updates to these Terms.** We may update these Terms and our [Usage Policy](https://legal.mistral.ai/terms/usage-policy) from time to time. Some reasons for such changes may include changes to take into account new features or functionality, or changes to applicable law or regulatory requirements governing the Mistral AI Products or your use thereof.
 
 **Notice.** We will give you at least thirty (30) days advance notice of changes to these Terms that are expected to materially impact you either via email or an in-product notification. All other changes will be effective as soon as we post them at [www.legal.mistral.ai/terms](https://legal.mistral.ai/terms/www.legal.mistral.ai/terms). If you do not agree to the changes, you can terminate these Terms at any time, but you must stop using our Mistral AI Products as soon as the changes enter into force.
 
-11\. Governing law and dispute resolution
+12\. Governing law and dispute resolution
 -----------------------------------------
 
 **Governing law and venue.** Subject to any mandatory legal restrictions under the laws of your country of residence, these Terms are governed by French law and any litigation arising out of or in connection with these Terms, whether contractual, tortious, or otherwise, shall be brought exclusively before the competent courts of Paris, France, and shall be governed by French law. You may also bring claims before the courts of your country of residence and, where permitted by law, such claims shall be governed by the substantive law of your country of residence.
@@ -166,7 +187,7 @@ Effective:November 28, 2025
 
 Participation in mediation is voluntary. Either party may withdraw from the process at any time, without prejudice to their legal rights.
 
-12\. General
+13\. General
 ------------
 
 **Your rights.** You will benefit from any mandatory provisions of the laws of your country of residence or domicile and nothing in these Terms shall affect your rights as a consumer to rely on such mandatory provisions of the laws of your country of residence or domicile.
@@ -185,7 +206,7 @@ Participation in mediation is voluntary. Either party may withdraw from the proc
 
 **Entire Agreement; Severability.** Unless otherwise agreed in writing between you and Mistral AI, these Terms, including our [Usage Policy](http://legal.mistral.ai/terms/usage-policy), constitute the entire agreement between you and us concerning your use of the Mistral AI Products. Any statements or comments made between you and any of our employees or representatives are expressly excluded from these Terms and will not apply to you or us, or to your access to or use of the Mistral AI Products absent a separate written agreement. If any provision of these Terms is deemed invalid by a court of competent jurisdiction, the invalidity of such provision will not affect the validity of the remaining provisions of these Terms, which will remain in full force and effect.
 
-13\. Mobile applications
+14\. Mobile applications
 ------------------------
 
 **General.** If you wish to access any Mistral AI Products made available as a mobile application (each, a “Mistral AI App”), you must have a compatible mobile device. Mistral AI currently makes Mistral AI Apps available for certain mobile device types in the (a) Apple App Store (each, an “iOS App”) and (b) Google Play Store (each, an “Android App”). Mistral AI does not warrant that any particular Mistral AI App will be compatible with your specific device. Use of a Mistral AI App with your mobile device may result in charges from your mobile service provider, such as for the use of wireless data. You agree that you are solely responsible for any such mobile service provider charges.Subject to your compliance with these Terms, Mistral AI hereby grants you a non-exclusive, limited, non-transferable, and revocable license to use a compiled code copy of each Mistral AI App on each personal mobile device that you own or control (or such additional shared use as permitted by Apple or Google in their terms referenced below):
@@ -194,7 +215,7 @@ Participation in mediation is voluntary. Either party may withdraw from the proc
 
 **Android App.** The terms of this subsection apply solely to your use of any Android App. You agree that: (a) these Terms are between you and Mistral AI only, and neither Google LLC nor any affiliate thereof (collectively, “Google”) are a party to the Terms; (b) your access to and use of the Android App must comply with Google’s latest [Google Play Terms of Service](https://play.google.com/about/play-terms/); (c) Google is solely a provider of the Google Play Store where you obtained the Android App, meaning Mistral AI (and not Google) is solely responsible for the Android App; (d) Google has no obligation or liability to you with respect to the Android App or these Terms; and (e) Google is a third-party beneficiary to these Terms as they relate to the Android App.
 
-14\. Contacting us
+15\. Contacting us
 ------------------
 
 Should you have any questions, comments, or feedback regarding these Terms or the Mistral AI Products, we are committed to evaluating them. You may reach us at any time using the following details:
@@ -365,7 +386,7 @@ Consumers residing in Belgium also benefit from the following legal guarantee fo
 
 **Feedback.** For certain Mistral AI Products, such as Le Chat, you have the option to provide feedback, such as by selecting "thumbs up" or "thumbs down” (“**Feedback**”). By providing Feedback, you acknowledge and agree that Mistral AI may use your Feedback, along with the associated Input and Output data, for the purpose of training our artificial intelligence models and improving the Mistral AI Products, to the extent strictly necessary. 
 
-**How we use Your Data.** We do not use Your Data to train our artificial intelligence models except (a) when you (i) use Mistral AI Products under a free subscription, or are subscribed to Le Chat Pro or Le Chat Student, and (ii) you have not opted-out of training, (b) when you provide Feedback to us, or (c) when Your Data is flagged as part of our automated moderation or reported as prohibited content, in which case we may use Your Data to improve the Mistral AI Products and enforce our Usage Policy. You grant us a worldwide, non-exclusive, non-transferable (except as permitted in Section 10 (Assignment), royalty-free, fully-paid license (with the right to sublicense to our delegates and subcontractors) to use Your Data for the purpose of (a) providing, maintaining and optimizing the Mistral AI Products, which includes debugging, assessing, reviewing, and correcting the performance of the Mistral AI Products, but excludes model training, (b) performing our obligations under these Terms or other terms located on our website at [www.legal.mistral.ai/terms](https://legal.mistral.ai/terms/www.legal.mistral.ai/terms), and (c) as applicable and solely in the cases provided in the previous sentence, to train our artificial intelligence models, each for the duration necessary to achieve the intended purposes.
+**How we use Your Data.** We do not use Your Data to train our artificial intelligence models except (a) when you (i) use Mistral AI Products under a free subscription, or are subscribed to Le Chat Pro or Le Chat Student, and (ii) you have not opted-out of training, (b) when you provide Feedback to us, or (c) when Your Data is flagged as part of our automated moderation or reported as prohibited content, in which case we may use Your Data to improve the Mistral AI Products and enforce our Usage Policy. You grant us a worldwide, non-exclusive, non-transferable (except as permitted in Section 13 (Assignment), royalty-free, fully-paid license (with the right to sublicense to our delegates and subcontractors) to use Your Data for the purpose of (a) providing, maintaining and optimizing the Mistral AI Products, which includes debugging, assessing, reviewing, and correcting the performance of the Mistral AI Products, but excludes model training, (b) performing our obligations under these Terms or other terms located on our website at [www.legal.mistral.ai/terms](https://legal.mistral.ai/terms/www.legal.mistral.ai/terms), and (c) as applicable and solely in the cases provided in the previous sentence, to train our artificial intelligence models, each for the duration necessary to achieve the intended purposes.
 
 **Similarity of Output.** Due to the nature of the Mistral AI Products, your Output may be similar or identical to the response generated for another user of the Mistral AI Products. We provide no guarantees that your Output will be unique. Any responses generated for other users by the Mistral AI Product are not considered your Output even if similar or identical to your Output.
 
@@ -396,7 +417,28 @@ Consumers residing in Belgium also benefit from the following legal guarantee fo
 
 **Effects of withdrawal.** If you cancel the subscription in accordance with your right of withdrawal, we will refund all payments made by you without undue delay and in any event not later than fourteen (14) days from the day on which we are informed about your decision to cancel. We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement.
 
-8\. Term, Suspension, and Termination
+8\. Data Switching 
+-------------------
+
+**Switching**. You have the right to switch to another service provider or your own infrastructure. If you want to delete your data and digital assets, please use the automated procedure described on our [Help Center](https://help.mistral.ai/).
+
+**Exportable data and digital assets.** You may export your data and digital assets via the export features provided on your Mistral AI Account, which includes at least your Le Chat conversations (prompts and outputs). Access to these export features enables you to complete the switching process in respect of such data and digital assets. In any case, data and digital assets that do not belong to you, such as our proprietary products, technologies and data, do not constitute exportable data and digital assets.
+
+**Switching Request.** For any data and digital asset which is not included in the export features provided on your Mistral AI Account, you may exercise this right by writing  to Mistral AI at support@mistral.ai with all information necessary to fulfil the request (the “Switching Request”). Please ensure to submit your Switching Request two (2) months before your planned switching date (the "Notice Period"), and you must inform us of your new service provider or on-premise infrastructure at least 30 days before the end of the Notice Period.
+
+**Transitional Period.** Assuming your Switching Request is complete, the switch will be completed within thirty (30) days following the end of the Notice Period (the “Transitional Period”), subject to any extension you or we can require.
+
+**Mistral AI’s Obligations.** Until you notify us of your successful switch,  we will continue (a) providing you access to your data and digital assets, including through the self-serve export tool, which constitutes the assistance we provide to facilitate the switching process; (b) acting with due care to maintain business continuity, and continue the provision of Mistral AI Products; and (c) ensure the security and integrity of your data at every stage of the switching process. You are also informed that switching is performed solely by making your data and digital assets available to you and does not affect the provision of the Mistral AI Products until the end of your subscription; accordingly, no material continuity risks are expected in our provision of the Mistral AI Products.
+
+**Retrieval Period.** Once you have exported your data and digital assets, or following the Transitional Period, Mistral AI will retain them for a period of at least thirty (30) days. 
+
+**Data Erasure.** Once you have notified us of your successful switch Mistral AI will permanently erase all your data and digital assets, unless retention is required under applicable law.
+
+**Liability.** Mistral AI does not warrant that the exported data and digital assets, or any specific data format, will be compatible, interoperable, or fit for use with the infrastructure, systems, software, or services of other service providers or any on-premise infrastructure.
+
+**Termination.** These terms shall be considered terminated, and you will be notified accordingly, upon your notification of successful completion of the switch.
+
+9\. Term, Suspension, and Termination
 -------------------------------------
 
 **Term.** These Terms will commence on the earlier of (a) the date you first use the Mistral AI Products or (b) the date you accept these Terms, and will continue until terminated.
@@ -407,19 +449,19 @@ Consumers residing in Belgium also benefit from the following legal guarantee fo
 
 **Effects of termination.** Prior to the termination of your Mistral AI account, you must pay all outstanding fees, including any unpaid invoices and other charges incurred up to the termination date. You may not be able to export Your Data after your account is terminated, so if you would like to export Your Data, please complete the export prior to the termination of your account. Termination or expiration will not affect any rights or obligations, including the payment of amounts due, which have accrued under these Terms up to the date of termination or expiration. Upon termination or expiration of these Terms, the provisions of these Terms that are intended by their nature to survive termination will survive and continue in full force and effect in accordance with their terms, including payment obligations and termination provisions.
 
-9\. Privacy
------------
+10\. Privacy
+------------
 
 **Privacy Policy.** We process your personal data as a data controller for the purposes of (a) providing the Mistral AI Products to you and (b) managing your relationship with us in accordance with these Terms, including any billing, payment, or marketing activities. For clarity, our [Privacy Policy](http://legal.mistral.ai/terms/privacy-policy) explains how we collect and use personal information.
 
-10\. Changes to these Terms 
+11\. Changes to these Terms 
 ----------------------------
 
 **Updates to these Terms.** We may update these Terms and our [Usage Policy](https://legal.mistral.ai/terms/usage-policy) from time to time. Some reasons for such changes may include changes to take into account new features or functionality, or changes to applicable law or regulatory requirements governing the Mistral AI Products or your use thereof.
 
 **Notice.** We will give you at least thirty (30) days advance notice of changes to these Terms that are expected to materially impact you either via email or an in-product notification. All other changes will be effective as soon as we post them at [www.legal.mistral.ai/terms](https://legal.mistral.ai/terms/www.legal.mistral.ai/terms). If you do not agree to the changes, you can terminate these Terms at any time, but you must stop using our Mistral AI Products as soon as the changes enter into force.
 
-11\. Governing law and dispute resolution
+12\. Governing law and dispute resolution
 -----------------------------------------
 
 **Governing law and venue.** Subject to any mandatory legal restrictions under the laws of your country of residence, these Terms are governed by French law and any litigation arising out of or in connection with these Terms, whether contractual, tortious, or otherwise, shall be brought exclusively before the competent courts of Paris, France, and shall be governed by French law. You may also bring claims before the courts of your country of residence and, where permitted by law, such claims shall be governed by the substantive law of your country of residence.
@@ -434,7 +476,7 @@ Consumers residing in Belgium also benefit from the following legal guarantee fo
 
 Participation in mediation is voluntary. Either party may withdraw from the process at any time, without prejudice to their legal rights.
 
-12\. General
+13\. General
 ------------
 
 **Your rights.** You will benefit from any mandatory provisions of the laws of your country of residence or domicile and nothing in these Terms shall affect your rights as a consumer to rely on such mandatory provisions of the laws of your country of residence or domicile.
@@ -453,7 +495,7 @@ Participation in mediation is voluntary. Either party may withdraw from the proc
 
 **Entire Agreement; Severability.** Unless otherwise agreed in writing between you and Mistral AI, these Terms, including our [Usage Policy](http://legal.mistral.ai/terms/usage-policy), constitute the entire agreement between you and us concerning your use of the Mistral AI Products. Any statements or comments made between you and any of our employees or representatives are expressly excluded from these Terms and will not apply to you or us, or to your access to or use of the Mistral AI Products absent a separate written agreement. If any provision of these Terms is deemed invalid by a court of competent jurisdiction, the invalidity of such provision will not affect the validity of the remaining provisions of these Terms, which will remain in full force and effect.
 
-13\. Mobile applications
+14\. Mobile applications
 ------------------------
 
 **General.** If you wish to access any Mistral AI Products made available as a mobile application (each, a “Mistral AI App”), you must have a compatible mobile device. Mistral AI currently makes Mistral AI Apps available for certain mobile device types in the (a) Apple App Store (each, an “iOS App”) and (b) Google Play Store (each, an “Android App”). Mistral AI does not warrant that any particular Mistral AI App will be compatible with your specific device. Use of a Mistral AI App with your mobile device may result in charges from your mobile service provider, such as for the use of wireless data. You agree that you are solely responsible for any such mobile service provider charges.Subject to your compliance with these Terms, Mistral AI hereby grants you a non-exclusive, limited, non-transferable, and revocable license to use a compiled code copy of each Mistral AI App on each personal mobile device that you own or control (or such additional shared use as permitted by Apple or Google in their terms referenced below):
@@ -462,7 +504,7 @@ Participation in mediation is voluntary. Either party may withdraw from the proc
 
 **Android App.** The terms of this subsection apply solely to your use of any Android App. You agree that: (a) these Terms are between you and Mistral AI only, and neither Google LLC nor any affiliate thereof (collectively, “Google”) are a party to the Terms; (b) your access to and use of the Android App must comply with Google’s latest [Google Play Terms of Service](https://play.google.com/about/play-terms/); (c) Google is solely a provider of the Google Play Store where you obtained the Android App, meaning Mistral AI (and not Google) is solely responsible for the Android App; (d) Google has no obligation or liability to you with respect to the Android App or these Terms; and (e) Google is a third-party beneficiary to these Terms as they relate to the Android App.
 
-14\. Contacting us
+15\. Contacting us
 ------------------
 
 Should you have any questions, comments, or feedback regarding these Terms or the Mistral AI Products, we are committed to evaluating them. You may reach us at any time using the following details:
