@@ -147,7 +147,7 @@ Effective:January 26, 2026
 
 **Liability.** Mistral AI does not warrant that the exported data and digital assets, or any specific data format, will be compatible, interoperable, or fit for use with the infrastructure, systems, software, or services of other service providers or any on-premise infrastructure.
 
-**Termination.** These terms shall be considered terminated, and you will be notified accordingly, upon your notification of successful completion of the switch.
+**Termination.** These Terms shall be considered terminated, and you will be notified accordingly, upon your notification of successful completion of the switch.
 
 9\. Term, Suspension, and Termination
 -------------------------------------
@@ -436,7 +436,7 @@ Consumers residing in Belgium also benefit from the following legal guarantee fo
 
 **Liability.** Mistral AI does not warrant that the exported data and digital assets, or any specific data format, will be compatible, interoperable, or fit for use with the infrastructure, systems, software, or services of other service providers or any on-premise infrastructure.
 
-**Termination.** These terms shall be considered terminated, and you will be notified accordingly, upon your notification of successful completion of the switch.
+**Termination.** These Terms shall be considered terminated, and you will be notified accordingly, upon your notification of successful completion of the switch.
 
 9\. Term, Suspension, and Termination
 -------------------------------------
