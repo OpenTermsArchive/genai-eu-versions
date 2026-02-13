@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Effective January 12, 2026[Previous Version](https://www.anthropic.com/legal/archive/7251e1b0-37ff-49eb-9fb7-7d7c5a92ac84)
+Effective 12 January 2026[Previous Version](https://www.anthropic.com/legal/archive/7251e1b0-37ff-49eb-9fb7-7d7c5a92ac84)
 
 English
 
