@@ -1,10 +1,3 @@
-[Llama API](https://llama.developer.meta.com/)
-==============================================
-
-Documentation
-
-Log in
-
 Llama API Data Commitments
 ==========================
 
