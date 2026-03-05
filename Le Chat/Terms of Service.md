@@ -588,9 +588,9 @@ Consumers residing in Belgium also benefit from the following legal guarantee fo
 
 - - -
 
-[![Mistral AI Logo](/_next/image?url=%2Fimg%2Fmistral-ai-logo.svg&w=256&q=75&dpl=a4680180787f084550b808eb18c9abe234a721576b988fc0ccfb409d8c295560363961393336373862386566373630303038363230613335)
+[![Mistral AI Logo](/_next/image?url=%2Fimg%2Fmistral-ai-logo.svg&w=256&q=75&dpl=54313dcb4a82dd5548c6d0d3c760a388b9b71eb9f6d55afcc462600d02ac453a363961393863303563336435323330303038363639386365)
 
-![Mistral AI Logo White](/_next/image?url=%2Fimg%2Fmistral-ai-logo-white.svg&w=256&q=75&dpl=a4680180787f084550b808eb18c9abe234a721576b988fc0ccfb409d8c295560363961393336373862386566373630303038363230613335)](https://mistral.ai/)
+![Mistral AI Logo White](/_next/image?url=%2Fimg%2Fmistral-ai-logo-white.svg&w=256&q=75&dpl=54313dcb4a82dd5548c6d0d3c760a388b9b71eb9f6d55afcc462600d02ac453a363961393863303563336435323330303038363639386365)](https://mistral.ai/)
 
 Products
 
@@ -622,7 +622,7 @@ The publication director of the website at https://mistral.ai/ is Arthur Mensch,
 Hosting
 -------
 
-The company tasked with hosting the https://mistral.ai/ website is Vercel Inc, 650 California St, San Francisco, CA 94108, US.
+The company tasked with hosting the https://mistral.ai/ website is Netlify, Inc., located at 101 2nd Street, San Francisco, CA 94105. 
 
                                                                    ...::-=-.                  
                                                          ..:::-----------*%%*-:               
