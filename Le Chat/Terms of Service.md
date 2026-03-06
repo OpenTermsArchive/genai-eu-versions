@@ -588,9 +588,9 @@ Consumers residing in Belgium also benefit from the following legal guarantee fo
 
 - - -
 
-[![Mistral AI Logo](/_next/image?url=%2Fimg%2Fmistral-ai-logo.svg&w=256&q=75&dpl=54313dcb4a82dd5548c6d0d3c760a388b9b71eb9f6d55afcc462600d02ac453a363961393863303563336435323330303038363639386365)
+[![Mistral AI Logo](/_next/image?url=%2Fimg%2Fmistral-ai-logo.svg&w=256&q=75&dpl=3bc98dad5d18006a4920562a72363c44f9f7f2213f0ecad2dac8db4d06cc5623363961613930653761323935323539653037333439633233)
 
-![Mistral AI Logo White](/_next/image?url=%2Fimg%2Fmistral-ai-logo-white.svg&w=256&q=75&dpl=54313dcb4a82dd5548c6d0d3c760a388b9b71eb9f6d55afcc462600d02ac453a363961393863303563336435323330303038363639386365)](https://mistral.ai/)
+![Mistral AI Logo White](/_next/image?url=%2Fimg%2Fmistral-ai-logo-white.svg&w=256&q=75&dpl=3bc98dad5d18006a4920562a72363c44f9f7f2213f0ecad2dac8db4d06cc5623363961613930653761323935323539653037333439633233)](https://mistral.ai/)
 
 Products
 
