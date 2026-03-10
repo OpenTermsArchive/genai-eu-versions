@@ -793,7 +793,7 @@ _close_
 
 - - -
 
-### **Last updated:** February 18, 2026
+### **Last updated:** March 10, 2026
 
 Table of contents
 -----------------
@@ -833,7 +833,7 @@ Table of contents
         *   [How do I manage my mobile permissions when Gemini is my device assistant?](#mobile_permissions)
     *   **[Uploads](#files)**
         *   [How does Google work with my uploaded images?](#uploaded_images)
-        *   [What happens when I share a photo or video from Google Photos with Gemini Apps?](#google_photos_content)
+        *   [What happens when I share a photo or video from a media gallery connected app with Gemini Apps?](#google_photos_content)
     *   **[Connected Apps in Gemini](#extensions)**
         *   [What happens with my data that Gemini, Connected Apps, and other services exchange?](#data_exchange)
         
@@ -844,11 +844,10 @@ Table of contents
         *   [How does Google work with Gemini Live data?](#live_data)
     *   **[Gemini in Chrome](#chrome)**
         *   [What happens to my data when I use Gemini in Chrome?](#chrome_data)
+    *   **[Screen automation in Android apps](#screen_automation)**
+        *   [What happens with my data when Gemini uses screen automation to help me get tasks done in Android apps?](#mydata_screen_automation)
     *   **[Shopping](#shopping)**
-        
         *   [What happens to my data when I use Google Pay in Gemini?](#shopping_data)
-        
-        [](#shopping_data)
     *   **[Gems from Google Labs](#gems_from_labs)**
         *   [What happens to my data when I interact with Gems from Google Labs?](#gems_from_labs_data)
     *   **[Canvas](#canvas)**
@@ -859,7 +858,7 @@ Table of contents
 Gemini Apps Privacy Notice
 --------------------------
 
-**Last updated:** February 18, 2026
+**Last updated:** March 10, 2026
 
 This notice supplements the Google [Privacy Policy](https://policies.google.com/privacy), and they explain how Google processes your data when you interact with Gemini, your personal AI assistant from Google, through the services listed [here](https://support.google.com/gemini?p=pn_gemini_apps) (“**Gemini Apps**” or “**Gemini**” for short) while signed in. The Google Privacy Policy explains how Google processes your data when you use Gemini while you’re signed out.
 
@@ -881,6 +880,7 @@ Gemini Apps are provided by Google Ireland Limited in the European Economic Area
 *   **Content that Gemini Apps generates** (like text, code, audio, images, video, music, [public links](https://support.google.com/gemini?p=pn_pub_links), citations, chat summaries and personalized insights)
 *   **Information from your apps, browsers, and devices**
     *   Information from your [Connected Apps](https://support.google.com/gemini?p=pn_apps) and other Google services you use with Gemini Apps (such as your Search or YouTube history, or your page context and URL from Chrome)
+    *   Information about the apps on your device (for example, to help you get things done using your apps)
     *   Information about the apps, browsers, and devices you use to access Gemini Apps (such as identifiers, browser type and settings, device type and settings, operating system)
     *   Interaction of your apps, browsers, and devices with Gemini Apps (such as interaction logs, performance metrics, crash and debug information)
     *   System permissions and device data when you use Gemini mobile apps, such as call and message logs, contacts (to help you keep in touch), installed apps (like Clock), language preferences (to help you speak to Gemini), screen content (to help you act on it), and other app info like page context and URL (when you use Gemini overlay to ask questions)
@@ -973,7 +973,7 @@ Please [respect others' rights](https://policies.google.com/terms/generative-ai/
 Privacy questions
 -----------------
 
-**Last updated:** January 28, 2026
+**Last updated:** March 10, 2026
 
 ### General
 
@@ -1253,9 +1253,9 @@ How does Google work with my uploaded images?
 
 You can include an image with your prompt to ask Gemini questions about it, edit it, or use it to generate other content (such as a video). When you add an image to your prompt, or a screenshot through a screen action, such as "Ask about this screen," Gemini Apps also use Google Lens technology to understand what's in the image and to read the text. Google uses this information just like any other prompt, as explained in the [Gemini Apps Privacy Notice](https://support.google.com/gemini/answer/13594961#privacy_notice).
 
-What happens when I share a photo or video from Google Photos with Gemini Apps?
+What happens when I share a photo or video from a media gallery connected app with Gemini Apps?
 
-If you share a photo or video from Google Photos with Gemini Apps, your photo or video is processed according to the [Gemini Apps Privacy Notice](#privacy_notice). This means, for example, that if you use [screen actions](https://support.google.com/gemini/answer/15850607) or the [Gemini upload feature](https://support.google.com/gemini/answer/14903178) to share a photo or video from Google Photos with Gemini Apps, and if your [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) setting is on, your photo or video is used to improve Google services with the help of human reviewers. [Learn more about the Keep Activity setting](#keep_activity_setting).
+If you share a photo or video from a media gallery connected app (like Google Photos) with Gemini Apps, your photo or video is processed according to the [Gemini Apps Privacy Notice](#privacy_notice). This means, for example, that if you use [screen actions](https://support.google.com/gemini/answer/15850607) or the [Gemini upload feature](https://support.google.com/gemini/answer/14903178) to share a photo or video from a media gallery app with Gemini Apps, and if your [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) setting is on, your photo or video is used to improve Google services with the help of human reviewers. [Learn more about the Keep Activity setting](#keep_activity_setting).
 
 ### Connected Apps in Gemini
 
@@ -1380,6 +1380,24 @@ Info from websites you visit with the Gemini in Chrome feature, and audio and fi
 #### How to control & manage your data
 
 You can choose to stop sharing your current tab and any other open tabs you’ve shared with Gemini. [Learn more](https://support.google.com/gemini/answer/16283624).
+
+### Screen automation in Android apps
+
+What happens with my data when Gemini uses screen automation to help me get tasks done in Android apps?
+
+[Gemini can help with tasks](https://support.google.com/gemini/answer/16940971), like placing orders or booking rides, using screen automation on certain apps on your device.
+
+#### You’re in control
+
+Gemini can make mistakes. You’re responsible for what it does on your behalf, so supervise it closely. You can stop it, view its progress, and manually take control.
+
+#### Keep in mind
+
+During automation, Gemini takes screenshots, which can include any info visible in the app. Screenshots are reviewed by trained reviewers and used to improve Google services if [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) is on. Don’t enter login or payment information into Gemini chats.
+
+Avoid using screen automation for emergencies or tasks involving sensitive information. If screen automation is off, you can still use Gemini with Connected Apps. [Learn more about Connected Apps](https://support.google.com/gemini/answer/13695044).
+
+Learn more about [how you can use Gemini to get tasks done with screen automation](https://support.google.com/gemini/answer/16940971).
 
 ### Shopping
 
