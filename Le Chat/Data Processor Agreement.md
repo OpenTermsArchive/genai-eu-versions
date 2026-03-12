@@ -1,12 +1,12 @@
 Data Processing Addendum
 ========================
 
-Effective:November 28, 2025
+Effective:March 12, 2026
 
 Data Processing Addendum
 ========================
 
-Effective:November 28, 2025
+Effective:March 12, 2026
 
 This Data Processing Addendum (the “**Data Processing Addendum**” or the “**DPA**”) forms part of and supplements the Agreement entered into by and between Mistral AI and Customer as of the Effective Date. 
 
@@ -56,7 +56,7 @@ Mistral AI is authorized to process the Personal Data as Controller for the purp
 
 *   Training its artificial intelligence models in accordance with its [Privacy Policy](https://legal.mistral.ai/terms/privacy-policy), unless (a) Customer opted-out of training or (b) uses a Mistral AI Product that is opted-out by default and has not opted-in. Customer acknowledges that if Customer provides feedback to Mistral AI by using the in-app "thumbs up" or "thumbs down" features (the "**Feedback**"), Mistral will use such Feedback as well as the associated Input and Output, as Controller, to train its artificial intelligence models, conduct research or improve the Mistral AI Products.
 *   Automated moderation, including abuse monitoring on our APIs (except, in this last case, when zero data retention has been activated), to enforce the Agreement. 
-*   Make anonymized and aggregated statistics regarding the use by Customer of the Mistral AI Products (example: number of web search requests on Le Chat), in order to improve the Mistral AI Products and for roadmap prioritization purposes.
+*   Processing usage and operational data (such as product usage events, performance metrics, billing metrics, and Feedback) to produce aggregated or anonymized data or statistics in accordance with the Agreement. Customer Data and Outputs will not be used to generate such data and statistics. Such data or statistics will be used for Mistral AI’s business purposes, including conducting research, developing or improving Mistral AI Products, performance, functionality, and/or user experience, provided that such use shall not include the training of Mistral AI's models.
 
 3\. General obligations of the Parties
 --------------------------------------
@@ -330,7 +330,7 @@ Mistral AI is authorized to process the Personal Data as Controller for the purp
 
 *   Training its artificial intelligence models in accordance with its [Privacy Policy](https://legal.mistral.ai/terms/privacy-policy), unless (a) Customer opted-out of training or (b) uses a Mistral AI Product that is opted-out by default and has not opted-in. Customer acknowledges that if Customer provides feedback to Mistral AI by using the in-app "thumbs up" or "thumbs down" features (the "**Feedback**"), Mistral will use such Feedback as well as the associated Input and Output, as Controller, to train its artificial intelligence models, conduct research or improve the Mistral AI Products.
 *   Automated moderation, including abuse monitoring on our APIs (except, in this last case, when zero data retention has been activated), to enforce the Agreement. 
-*   Make anonymized and aggregated statistics regarding the use by Customer of the Mistral AI Products (example: number of web search requests on Le Chat), in order to improve the Mistral AI Products and for roadmap prioritization purposes.
+*   Processing usage and operational data (such as product usage events, performance metrics, billing metrics, and Feedback) to produce aggregated or anonymized data or statistics in accordance with the Agreement. Customer Data and Outputs will not be used to generate such data and statistics. Such data or statistics will be used for Mistral AI’s business purposes, including conducting research, developing or improving Mistral AI Products, performance, functionality, and/or user experience, provided that such use shall not include the training of Mistral AI's models.
 
 3\. General obligations of the Parties
 --------------------------------------
