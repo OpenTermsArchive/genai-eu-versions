@@ -1,7 +1,7 @@
 Llama API Data Commitments
 ==========================
 
-Meta’s [responsible innovation principles](https://about.meta.com/metaverse/responsible-innovation/) serve as the foundation for all our work. These principles are specifically crafted to protect people’s privacy so they feel empowered to explore, connect and engage with our products.Meta does not train its AI models on Llama API Customer Content or Customer Data.
+Meta’s [responsible innovation principles](https://llama.developer.meta.com/docs/trust/https%3A%2F%2Fabout.meta.com%2Fmetaverse%2Fresponsible-innovation%2F=) serve as the foundation for all our work. These principles are specifically crafted to protect people’s privacy so they feel empowered to explore, connect and engage with our products.Meta does not train its AI models on Llama API Customer Content or Customer Data.
 
 *   •Customer Data comprises your account data, roles, and profile fields.
 *   •Customer Content comprises both the inputs you submit to the model (prompts) and the outputs you receive based on your inputs (model responses).
@@ -10,7 +10,7 @@ Your Customer Content and Customer Data are used only:
 
 1.  To provide Llama API services.
 2.  To understand how our services are used.
-3.  To ensure adherence to the [Acceptable Use Policy](https://llama.developer.meta.com/legal/acceptable-use-policy).
+3.  To ensure adherence to the [Acceptable Use Policy](https://llama.developer.meta.com/docs/trust/%2Flegal%2Facceptable-use-policy=).
 4.  To comply with legal obligations.
 
 Your Customer Content and your Customer Data are not used for any purposes other than those described in our permitted purposes. Customer Content and Customer Data are not used for personalization of consumer Meta Products or advertising, and personal data collected from the use of Llama API products is not used to personalize ads.Your Customer Content and Customer Data are logically separated except when shared to enforce the AUP, to facilitate payments, or to comply with other legal or regulatory requirements. Your Customer Content and Customer Data are always stored subject to strict access controls, and Meta will not sell any customer or user data as defined in the Terms of Service.
@@ -63,6 +63,18 @@ Meta partners with and serves respected businesses around the world.
 ----------------------------------------------------------------------
 
 Meta is a trusted partner to many organizations around the world. Our customers trust us because they benefit from Meta’s heavy investments in security technology, resilient infrastructure, policies and processes–investments necessary to protect the data of billions of people worldwide using Meta’s products and services.
+
+Was this page helpful?
+
+[Encryption](https://llama.developer.meta.com/docs/trust/%23encryption=)
+
+[Payment Data](https://llama.developer.meta.com/docs/trust/%23payment-data=)
+
+[Meta’s investments in Security](https://llama.developer.meta.com/docs/trust/%23meta%E2%80%99s-investments-in-security=)
+
+[Managing the security lifecycle](https://llama.developer.meta.com/docs/trust/%23managing-the-security-lifecycle=)
+
+[Meta partners with and serves respected businesses around the world.](https://llama.developer.meta.com/docs/trust/%23meta-partners-with-and-serves-respected-businesses-around-the-world.=)
 
 - - -
 
