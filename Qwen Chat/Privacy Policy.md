@@ -1,7 +1,7 @@
 Qwen Chat Privacy Policy
 ========================
 
-Last updated: April 25, 2025
+Last updated: March 18, 2026
 ----------------------------
 
 Thank you for using Qwen Chat! Before using Qwen Chat, please read this Privacy Policy carefully to learn how we collect, use, disclose, and protect your personal data. This Privacy Policy will also provide you with more information about the bases upon which we may lawfully collect, use, and/or disclose your personal data, where permitted by applicable law.
@@ -100,65 +100,7 @@ Further, in relation to particular products or services or in your interactions 
 
 **III. How Do We Use Cookies and Similar Technologies**
 
-**1\. Cookies and similar technologies we used**
-
-We may use cookies and similar technologies to gather information resulting from access and/or use of our Services. The technologies we use may include:
-
-**1.1 Cookies or Browser Cookies**
-
-Cookies are small text files stored in your computing or other electronic devices when you visit our website and platforms for record keeping purposes. Cookies can allow us to provide you with a personalised user experience, such as by allowing us to retrieve information which you previously provided us.
-
-Cookies can be “Persistent” or “Session” Cookies. Persistent Cookies may remain on your personal computer or mobile device across browsing sessions, while Session Cookies are generally deleted as soon as you close your web browser. We may use both Session and Persistent Cookies for the purposes set out below:
-
-*   Necessary / Essential Cookies
-    
-    Type: Session Cookies
-    
-    Administered by: US
-    
-    Purpose: These cookies are essential to provide you with our Services. They help to authenticate users and prevent fraudulent use of our Services. Without these cookies, we will not be able to provide you with the Services. We only use these Cookies to provide you with those services.
-    
-
-*   Cookies Policy / Notice Acceptance Cookies
-    
-    Type: Persistent Cookies
-    
-    Administered by: US
-    
-    Purpose: These cookies identify if users have accepted the use of cookies on Services.
-    
-
-*   Functionality Cookies
-    
-    Type: Persistent Cookies
-    
-    Administered by: US
-    
-    Purpose: These cookies allow us to remember choices you make when you use our Services, such as remembering your login details or language preference. The purpose of these cookies is to provide you with a more personal experience and to avoid you having to re-enter your preferences every time you use our Services.
-    
-
-In addition, we may also use cookie or similar tracking technologies to analyze trends, manage website, track user behavior on the Services, and better understand how users use our Services. We automatically collect certain information to analyze cumulative trends and manage our website. The aforementioned information may include Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), reference/exit pages, files you view on our website (such as HTML pages, graphics, etc.), operating system, date/time stamp and/or click-stream data.
-
-**1.2 Web Beacons.**
-
-Certain sections of our services may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit us, for example, to count users who have visited those pages and understand how our Services are used (for example, to assess the popularity of certain pages and services) and to improve the performance and reliability of our Services.
-
-**2\. Clear/disable cookies**
-
-You can turn on the cookie related functions or perform corresponding operations through methods to manage cookies or set cookie preferences in commonly used browser software disclosed below, and we will strictly follow your decision to use cookies and similar technologies.
-
-Some functions of our services depend on cookies. If you do not consent to our use of cookies and similar technologies, or if you disable or delete cookies, some features of the Services may not operate as intended. You may wish to refer to the documentation provided by your web browser for information about how to manage your cookie preferences. We have included some links to documentation for commonly used browsers below for your convenience only and we disclaim all liability for the accuracy, reliability, and completeness of the information linked:
-
-*   [Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
-*   [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
-*   [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
-*   [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
-*   [Safari for macOS](https://support.apple.com/kb/PH21411)
-*   [Safari for iOS](https://support.apple.com/en-gb/HT201265)
-
-**3\. More information about cookies**
-
-For more information about cookie and instructions on how to set up your browser to accept, delete or disable cookies, see [www.allaboutcookies.org](file:///C:%5CUsers%5Czhaotianqi%5CAppData%5CLocal%5CMicrosoft%5CWindows%5CINetCache%5CContent.Outlook%5CR6KQ43J8%5Cwww.allaboutcookies.org).
+We may use cookies and similar technologies to gather information resulting from access and/or use of our Services. For details about our use of cookies, please read our [Cookies Notice](https://qwen.ai/cookies-notice).
 
 **IV. How Do We Disclose Your Personal Data**
 
