@@ -793,7 +793,7 @@ _close_
 
 - - -
 
-### **Last updated:** March 10, 2026
+### **Last updated:** March 20, 2026
 
 Table of contents
 -----------------
@@ -973,7 +973,7 @@ Please [respect others' rights](https://policies.google.com/terms/generative-ai/
 Privacy questions
 -----------------
 
-**Last updated:** March 10, 2026
+**Last updated:** March 20, 2026
 
 ### General
 
@@ -1165,9 +1165,9 @@ Gemini Apps use your info and instructions to provide more customized responses.
 
 How can I control whether Gemini Apps use my past chats to personalize my experience?
 
-Outside of the European Economic Area, Switzerland, and the UK, Gemini personalizes your experience by referencing your chats in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) and using them to generate personalized insights. You can [turn off personalization based on your past Gemini chats](https://support.google.com/gemini/answer/16598469) anytime. Keep Activity must be on to use this feature.
+Outside of the European Economic Area, Switzerland, and the UK, Gemini personalizes your experience by referencing your chats in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) and using them to generate personalized insights. You can [turn off Memory](https://support.google.com/gemini/answer/16598469#control_past_chats) anytime to stop personalization based on your past Gemini chats. Keep Activity must be on to use this feature.
 
-If this feature is on:
+If Memory is on:
 
 *   Gemini may use sensitive info you provided in your chats to personalize your experience.
 *   You can [start a Temporary Chat](https://support.google.com/gemini/answer/13275745#temp_chats) to discuss info that you don’t want Gemini to remember or use to personalize your experience.
