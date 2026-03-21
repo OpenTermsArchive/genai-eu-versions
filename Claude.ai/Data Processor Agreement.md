@@ -22,11 +22,11 @@ A.6. **"GDPR"** means Regulation (EU) 2016/679.
 
 A.7. **"Security Breach"** means a breach of Anthropic’s security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or unauthorized access to, Customer Personal Data.
 
-A.8. **"Standard Contractual Clauses"** or **“SCCs”** means Module Two (controller to processor) or Module Three (processor to processor) of the Standard Contractual Clauses for the transfer of personal data to third countries pursuant to Regulation (EU) 2016/679 of the European Parliament and the Council approved by European Commission Implementing Decision (EU) 2021/914 of 4 June 2021, available at [https://eurlex.europa.eu/eli/dec\_impl/2021/914/oj](https://eurlex.europa.eu/eli/dec_impl/2021/914/oj).
+A.8. **"Standard Contractual Clauses"** or **“SCCs”** means Module Two (controller to processor) or Module Three (processor to processor) of the Standard Contractual Clauses for the transfer of personal data to third countries pursuant to Regulation (EU) 2016/679 of the European Parliament and the Council approved by European Commission Implementing Decision (EU) 2021/914 of 4 June 2021, available at https://eurlex.europa.eu/eli/dec\_impl/2021/914/oj.
 
 A.9. **"Subprocessor"** means an entity engaged by Anthropic to process Customer Personal Data.
 
-A.10. **“UK Addendum”** means the International Data Transfer Addendum to the SCCs, issued by the Information Commissioner under S119A(1) Data Protection Act 2018, available at [https://ico.org.uk/media/for-organisations/documents/4019539/international-data-transfer-addendum.pdf](https://ico.org.uk/media/for-organisations/documents/4019539/international-data-transfer-addendum.pdf)).
+A.10. **“UK Addendum”** means the International Data Transfer Addendum to the SCCs, issued by the Information Commissioner under S119A(1) Data Protection Act 2018, available at [https://ico.org.uk/media2/migrated/4019538/international-data-transfer-agreement.pdf](https://ico.org.uk/media2/migrated/4019538/international-data-transfer-agreement.pdf)).
 
 A.11. The terms **“personal data”**, **“data subject”**, **“processing”**, **“controller”**, and **“processor”** as used in this DPA have the meanings given by Applicable Data Protection Laws or, absent any such meaning or law, by GDPR.
 
@@ -411,7 +411,3 @@ Anthropic’s list of subprocessors is available at [https://www.anthropic.com/s
 | ![Logo for Iterable](/logos/iterable)<br><br>Iterable<br><br>•<br><br>Email communications<br><br>United States<br><br>Products: All Products except Claude for Government |
 | ![Logo for Functional Software, dba Sentry](/logos/sentry.io)<br><br>Functional Software, dba Sentry<br><br>•<br><br>Error Handling, User Support<br><br>United States<br><br>Products: All products except Claude for Government |
 | ![Logo for Sift](/logos/www.sift.com)<br><br>Sift<br><br>•<br><br>Fraud and abuse detection<br><br>United States<br><br>Products: All products except Claude for Government |
-| ![Arkose Labs](/doc?s=3m5tvox8ynci870b8hoi2)<br><br>Arkose Labs<br><br>•<br><br>Fraud and abuse detection<br><br>United States<br><br>Products: All products except Claude for Government |
-| ![Logo for Brave Search](/logos/search.brave.com)<br><br>Brave Search<br><br>•<br><br>Web Search<br><br>United States<br><br>Products: All products<br><br>[More Information](https://support.anthropic.com/en/articles/10684626-enabling-and-using-web-search) |
-| ![Logo for ElevenLabs](/logos/elevenlabs.io)<br><br>ElevenLabs<br><br>•<br><br>Text to speech<br><br>United States<br><br>Product: Claude for Work<br><br>[More Information](https://support.anthropic.com/en/articles/11101966-using-voice-mode-on-claude-mobile-apps) |
-| ![Palantir Federal Cloud Service (PFCS)](/doc?s=xv7gvw2pdh9i0214h3wqp5)<br><br>Palantir Federal Cloud Service (PFCS)<br><br>•<br><br>FedRAMP Cloud<br><br>United States<br><br>Product: Claude for Government (C4G) |
