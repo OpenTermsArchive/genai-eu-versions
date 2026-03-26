@@ -1,12 +1,12 @@
 Usage Policy
 ============
 
-Effective:November 28, 2025
+Effective:March 25, 2026
 
 Usage Policy
 ============
 
-Effective:November 28, 2025
+Effective:March 25, 2026
 
 Scope
 -----
@@ -71,13 +71,15 @@ Prohibited content and activities
 *   Promoting conspiracy theories that can cause harm,
 *   Misinformation that targets protected groups.
 
-**Privacy.** Generating content that invades or violates the privacy of others is prohibited.
+**Privacy.** Generating content that invades or violates the privacy of others is prohibited. This includes, for instance, using someone else’s likeness or voice to generate outputs or impersonate them, without their prior consent.
 
 **Professional advice.** You shall not use our Mistral AI Products to provide professional advice without proper qualification. This includes, for instance:
 
 *   Offering investment advice, financial planning, or any form of financial guidance;
 *   Providing legal counsel, interpretations of the law, or recommendations on legal actions;
 *   Offering medical diagnoses, treatment suggestions, or any form of health-related guidance.
+
+**Security Violations.** You shall not use the Mistral AI Products to compromise, or attempt to compromise, the security of Mistral AI, the Mistral AI Products, or any other third party. This includes creating malware and exploiting vulnerabilities. You shall not try to circumvent security protections and AI safety filters.
 
 Our enforcement
 ---------------
@@ -157,13 +159,15 @@ Prohibited content and activities
 *   Promoting conspiracy theories that can cause harm,
 *   Misinformation that targets protected groups.
 
-**Privacy.** Generating content that invades or violates the privacy of others is prohibited.
+**Privacy.** Generating content that invades or violates the privacy of others is prohibited. This includes, for instance, using someone else’s likeness or voice to generate outputs or impersonate them, without their prior consent.
 
 **Professional advice.** You shall not use our Mistral AI Products to provide professional advice without proper qualification. This includes, for instance:
 
 *   Offering investment advice, financial planning, or any form of financial guidance;
 *   Providing legal counsel, interpretations of the law, or recommendations on legal actions;
 *   Offering medical diagnoses, treatment suggestions, or any form of health-related guidance.
+
+**Security Violations.** You shall not use the Mistral AI Products to compromise, or attempt to compromise, the security of Mistral AI, the Mistral AI Products, or any other third party. This includes creating malware and exploiting vulnerabilities. You shall not try to circumvent security protections and AI safety filters.
 
 Our enforcement
 ---------------
