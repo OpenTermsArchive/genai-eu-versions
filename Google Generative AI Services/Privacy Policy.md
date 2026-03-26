@@ -850,6 +850,8 @@ Table of contents
         *   [What happens to my data when I use Google Pay in Gemini?](#shopping_data)
     *   **[Gems from Google Labs](#gems_from_labs)**
         *   [What happens to my data when I interact with Gems from Google Labs?](#gems_from_labs_data)
+    *   **[Imported data from other AI platforms](#import)**
+        *   [What happens to my data when I import memory or chats from other AI platforms?](#import_chats)
     *   **[Canvas](#canvas)**
         *   [What happens to my data when I interact with Canvas web apps?](#canvas_data)
     *   **[Terms of service](#tos_section)**
@@ -1432,6 +1434,14 @@ Gems from Google Labs ![](//storage.googleapis.com/support-kms-prod/SmwXxWT4yIAS
 You can delete Gems from Google Labs in the [Gems manager](https://gemini.google.com/gems/view) of the Gemini web app or in the “Opal” folder in your [Google Drive](https://drive.google.com/). Interaction history associated with the Gem from Google Labs will be deleted as well.
 
 [Learn more about Gems from Google Labs](https://support.google.com/gemini/answer/16802014).
+
+### Imported data from other AI platforms
+
+What happens to my data when I import memory or chats from other AI platforms?
+
+Data (memory and chats) that you import from other AI platforms is saved in your Activity. This data is used consistently with your Gemini Apps activity, including to improve our services (including training generative AI models), and to protect Google, our users and the public. You can manage or delete your activity anytime.  [Learn how to manage & delete your Gemini Apps activity](https://support.google.com/gemini/answer/13278892).
+
+You can also choose at any time to delete individual imported chats, or bulk delete all imported chats associated with the `.zip` file used to import them to Gemini Apps.
 
 ### Canvas
 
