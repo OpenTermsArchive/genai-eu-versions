@@ -793,7 +793,7 @@ _close_
 
 - - -
 
-### **Last updated:** March 20, 2026
+### **Last updated:** March 27, 2026
 
 Table of contents
 -----------------
@@ -860,7 +860,7 @@ Table of contents
 Gemini Apps Privacy Notice
 --------------------------
 
-**Last updated:** March 10, 2026
+**Last updated:** March 27, 2026
 
 This notice supplements the Google [Privacy Policy](https://policies.google.com/privacy), and they explain how Google processes your data when you interact with Gemini, your personal AI assistant from Google, through the services listed [here](https://support.google.com/gemini?p=pn_gemini_apps) (“**Gemini Apps**” or “**Gemini**” for short) while signed in. The Google Privacy Policy explains how Google processes your data when you use Gemini while you’re signed out.
 
@@ -871,7 +871,7 @@ Gemini Apps are provided by Google Ireland Limited in the European Economic Area
 #### Information you provide Gemini Apps
 
 *   What you say to Gemini Apps (like the prompts you submit or speak)
-*   What you share with Gemini Apps (like files, videos, [screens you ask about](https://support.google.com/gemini/answer/15850607), photos, and page content you share from your browser)
+*   What you share with Gemini Apps (like files, videos, [screens you ask about](https://support.google.com/gemini/answer/15850607), photos, imported chats, and page content you share from your browser)
 *   Transcripts and recordings of your interactions with Gemini Live (including audio, [video and screens](https://support.google.com/gemini?p=pn_vss) you share with Live)
 *   Your [feedback](https://support.google.com/gemini?p=pn_feedback_use)
 *   Names and custom instructions of your [Gems](https://support.google.com/gemini?p=pn_gems)
@@ -932,7 +932,7 @@ When you interact with a user-generated Canvas app, the creator of the app can s
 
 You can visit [your Google Account](https://account.google.com/) to manage your data and privacy. Gemini Apps also provide settings to help you manage your data and experience, like:
 
-*   Visit [Gemini Apps Activity](https://myactivity.google.com/product/gemini) to review and delete your activity, change your auto-delete period, and control whether your data is used to improve Google AI. These services include, for example, the generative AI models powering Gemini Apps. The settings in Gemini Apps Activity don’t control processing of your chats to create anonymized data to improve Google services. When your Keep Activity setting is off, Google still uses your chats to respond to you and help protect Google, our users, and the public, including with help from human reviewers.
+*   Visit [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) to review and delete your activity (which includes imported chats), change your auto-delete period, and control whether your data is used to improve Google AI. These services include, for example, the generative AI models powering Gemini Apps. The settings in Gemini Apps Activity don’t control processing of your chats to create anonymized data to improve Google services. When your Keep Activity setting is off, Google still uses your chats to respond to you and help protect Google, our users, and the public, including with help from human reviewers.
 *   Manage Gems in [Gem Manager](https://gemini.google.com/gems/view).
 *   Manage public links in [Your Public Links](https://gemini.google.com/sharing).
 *   Manage Gemini Apps’ access to other apps and data in [Apps](https://support.google.com/gemini?p=pn_manage_ext) settings.
