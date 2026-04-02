@@ -1,12 +1,12 @@
 Terms of Service for consumers in the European Economic Area
 ============================================================
 
-Effective:March 25, 2026
+Effective:April 7, 2026
 
 Terms of Service for consumers in the European Economic Area
 ============================================================
 
-Effective:March 25, 2026
+Effective:April 7, 2026
 
 **Welcome to Mistral AI!** We provide technology that enables access to and use of Mistral AI’s artificial intelligence models. These Terms of Service (these “**Terms**”) govern your personal use as an EEA consumer of Mistral AI Studio, Le Chat and the other websites, products, software, services, and technologies we offer (the “**Mistral AI Products**”). If you are a consumer residing outside the European Economic Area, the [Consumer Terms for the rest of the world](http://legal.mistral.ai/terms/row-consumer-terms) apply to you. If you are accessing the Mistral AI Products for business purposes such as to integrate the Mistral AI Products with your own products or services that are distributed to third-party end users, please review our [Commercial Terms of Service](http://legal.mistral.ai/terms/commercial-terms-of-service).
 
@@ -85,8 +85,6 @@ Effective:March 25, 2026
 **Mandatory updates.**  During the term of these Terms, we will notify you of any updates that you will need to install in order to continue using the Mistral AI Products, including to maintain compliance of the Mistral AI Products to these Terms (“Mandatory Updates”), and provide clear installation instructions when necessary. We will inform you of the availability of Mandatory Updates and any consequences of not installing them. We will not be liable for any issues with your use of the Mistral AI Products arising solely from your failure to install Mandatory Updates, unless such failure results from our breach of our obligations under these Terms and/or the applicable law.
 
 **Non-mandatory updates.** We may deploy non-mandatory updates for implementing enhancements or making available new features. If an update materially impairs your use of the Mistral AI Products, we will notify your accordingly, and if we don’t provide an alternative, you may terminate these Terms and your Mistral AI account free of charge within thirty (30) days of the date of receipt of the notification or the update’s effective date, whichever is later. Termination is your sole remedy and ends your access to the affected Mistral AI Products.
-
-**Audio Mistral AI Products.** We may provide Mistral AI Products such as models or APIs capable of generating audio outputs, including through voice cloning features. By using such audio Mistral AI Products, you agree to comply with all applicable laws and Mistral AI’s Usage Policy. You are not authorized to use such audio Mistral AI Products for any unlawful purpose, including to impersonate others, clone voices without explicit consent, or engage in fraud, deception, misinformation, disinformation, harm, or the generation of unlawful, harmful, libelous, abusive, harassing, discriminatory, hateful, or privacy-invasive content. You must disclose AI-generated or partially AI-generated content generated through the audio Mistral AI Product where required by applicable law. We disclaim all liability for your non-compliant use of the audio Mistral AI Products.
 
 4\. Your Data
 -------------
@@ -393,8 +391,6 @@ Consumers residing in Belgium also benefit from the following legal guarantee fo
 **Mandatory updates.**  During the term of these Terms, we will notify you of any updates that you will need to install in order to continue using the Mistral AI Products, including to maintain compliance of the Mistral AI Products to these Terms (“Mandatory Updates”), and provide clear installation instructions when necessary. We will inform you of the availability of Mandatory Updates and any consequences of not installing them. We will not be liable for any issues with your use of the Mistral AI Products arising solely from your failure to install Mandatory Updates, unless such failure results from our breach of our obligations under these Terms and/or the applicable law.
 
 **Non-mandatory updates.** We may deploy non-mandatory updates for implementing enhancements or making available new features. If an update materially impairs your use of the Mistral AI Products, we will notify your accordingly, and if we don’t provide an alternative, you may terminate these Terms and your Mistral AI account free of charge within thirty (30) days of the date of receipt of the notification or the update’s effective date, whichever is later. Termination is your sole remedy and ends your access to the affected Mistral AI Products.
-
-**Audio Mistral AI Products.** We may provide Mistral AI Products such as models or APIs capable of generating audio outputs, including through voice cloning features. By using such audio Mistral AI Products, you agree to comply with all applicable laws and Mistral AI’s Usage Policy. You are not authorized to use such audio Mistral AI Products for any unlawful purpose, including to impersonate others, clone voices without explicit consent, or engage in fraud, deception, misinformation, disinformation, harm, or the generation of unlawful, harmful, libelous, abusive, harassing, discriminatory, hateful, or privacy-invasive content. You must disclose AI-generated or partially AI-generated content generated through the audio Mistral AI Product where required by applicable law. We disclaim all liability for your non-compliant use of the audio Mistral AI Products.
 
 4\. Your Data
 -------------
