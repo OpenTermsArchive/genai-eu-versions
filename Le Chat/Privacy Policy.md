@@ -1,12 +1,12 @@
 Privacy Policy
 ==============
 
-Effective:January 1, 2026
+Effective:April 2, 2026
 
 Privacy Policy
 ==============
 
-Effective:January 1, 2026
+Effective:April 2, 2026
 
 **Welcome to Mistral AI!** We know that your privacy is important, and we're committed to protecting it. This Privacy Policy explains, in a clear and simple way, how we collect, use, and protect your personal data when you use our generative AI Mistral AI Products such as Le Chat or Mistral AI Studio (the "**Mistral AI Products**").
 
@@ -21,9 +21,17 @@ Effective:January 1, 2026
 
 **How to contact us:**
 
-*   By using the “Privacy Requests” contact form available [here.](https://mistral.ai/en/contact) 
-*   Through our [Help Center](https://help.mistral.ai/en/). 
-*   By sending us a letter at Mistral AI, Attn: Privacy Team, Mistral AI, 15 rue des Halles, 75001 Paris, France. 
+*   By sending us a letter at Mistral AI: Mistral AI, 15 rue des Halles, 75001 Paris, France. 
+    
+*   For any other concerns, please consult our [Help Center](https://help.mistral.ai/en/) and the relevant contact forms.
+    
+
+**How to contact our Data Protection Officer (DPO):** 
+
+*   By using the “Privacy Requests” contact form available [here](https://mistral.ai/en/contact) 
+    
+*   By sending us a letter at Mistral AI, Attn: DPO, Mistral AI, 15 rue des Halles, 75001 Paris, France.
+    
 
 2\. What data do we collect?
 ----------------------------
@@ -205,9 +213,17 @@ We may amend this Privacy Policy from time to time as our products continuously 
 
 **How to contact us:**
 
-*   By using the “Privacy Requests” contact form available [here.](https://mistral.ai/en/contact) 
-*   Through our [Help Center](https://help.mistral.ai/en/). 
-*   By sending us a letter at Mistral AI, Attn: Privacy Team, Mistral AI, 15 rue des Halles, 75001 Paris, France. 
+*   By sending us a letter at Mistral AI: Mistral AI, 15 rue des Halles, 75001 Paris, France. 
+    
+*   For any other concerns, please consult our [Help Center](https://help.mistral.ai/en/) and the relevant contact forms.
+    
+
+**How to contact our Data Protection Officer (DPO):** 
+
+*   By using the “Privacy Requests” contact form available [here](https://mistral.ai/en/contact) 
+    
+*   By sending us a letter at Mistral AI, Attn: DPO, Mistral AI, 15 rue des Halles, 75001 Paris, France.
+    
 
 2\. What data do we collect?
 ----------------------------
