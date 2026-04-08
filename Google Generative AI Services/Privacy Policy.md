@@ -1129,6 +1129,7 @@ Your future chats won’t appear in your Activity, and won’t be used to train 
 *   [Some Connected Apps](https://support.google.com/gemini/answer/13695044) are unavailable when this setting is off.
 *   Other settings like [Web & App Activity](https://support.google.com/websearch/answer/54068) or [Location History](https://support.google.com/accounts/answer/14200149) may continue to save location and other data as part of your use of other Google services.
 *   Turning off Keep Activity or deleting Gemini Apps activity doesn’t delete data in other Google services. Learn more about [how Google services retain data](https://policies.google.com/technologies/retention).
+*   Source files you add to your Notebooks are saved in Notebooks. [View the Privacy and Terms of Use in NotebookLM](https://support.google.com/notebooklm/answer/17004255).
 
 You can [manage this setting](https://support.google.com/gemini/answer/13278892) anytime.
 
