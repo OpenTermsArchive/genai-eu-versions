@@ -1,12 +1,12 @@
-Qwen Chat Privacy Policy
-========================
+Privacy Policy
+==============
 
-Last updated: March 18, 2026
-----------------------------
+Last updated: April 9, 2026
+---------------------------
 
-Thank you for using Qwen Chat! Before using Qwen Chat, please read this Privacy Policy carefully to learn how we collect, use, disclose, and protect your personal data. This Privacy Policy will also provide you with more information about the bases upon which we may lawfully collect, use, and/or disclose your personal data, where permitted by applicable law.
+Thank you for using our services! Before using our services, please read this Privacy Policy carefully to learn how we collect, use, disclose, and protect your personal data. This Privacy Policy will also provide you with more information about the bases upon which we may lawfully collect, use, and/or disclose your personal data, where permitted by applicable law.
 
-This Qwen Chat Privacy Policy (“**Privacy Policy**”) applies to your access and/or use of the Qwen Chat services (“**Services**”)provided by Alibaba Cloud (Singapore) Private Limited and available at chat.qwenlm.ai and/or such other location as we may designate from time to time. By accessing and/or using any Services, or clicking "Agree"on the account registration screen, you agree and consent to Alibaba and its related corporations (collectively, the “**Companies**”) as well as their respective representatives and agents (“**Representatives**”) (the Companies and Representatives collectively referred to as “**we**”, “**us**”,“**our**” or “**Alibaba**” hereinafter) collecting, using, disclosing, and/or sharing your personal data, and disclosing your personal data to our authorised service providers and relevant third parties in the manner and for any of the purposes set forth in this Privacy Policy.
+This Privacy Policy (“**Privacy Policy**”) applies to your access and/or use of the Qwen Studio services and other services accessible via qwen.ai and/or such other location as we may designate from time to time (“**Services**”) provided by Alibaba Cloud (Singapore) Private Limited. By accessing and/or using any Services, or clicking "Agree" on the account registration screen, you agree and consent to Qwen and its related corporations (collectively, the "**Companies**") as well as their respective representatives and agents ("**Representatives**") (the Companies and Representatives collectively referred to as “**we**”, “**us**”,“**our**” or “**Qwen**” hereinafter) collecting, using, disclosing, and/or sharing your personal data, and disclosing your personal data to our authorised service providers and relevant third parties in the manner and for any of the purposes set forth in this Privacy Policy.
 
 If you do not agree with the terms of this Privacy Policy, you must not access or use any Services.
 
@@ -47,10 +47,10 @@ Generally, we collect personal data in the following ways:
 | Data Description | Source |
 | --- | --- |
 | **Account Information**: We may collect your personal data, such as your name, email address when you sign up for an account, or where you otherwise provide us with your personal data (such as to receive information on our Services). | Information directly provided by you to us. |
-| **User Content**:We may collect personal data that you provide or upload when accessing or using our Services, including your prompts and other content you upload, such as text, files, images, and audio (if any), depending on the features you use. |
+| **User Content**:We may collect personal data that you provide or upload when accessing or using our Services, including your prompts and other content you upload, such as text, files, images, audio and video (if any), depending on the features you use. |
 | **Feedback**: We appreciate feedback, including ideas and suggestions for improvement or rating an output in response to a prompt. If you rate an output in response to a prompt—for example, by using the thumbs up/thumbs down icon—we will store the related conversation as part of your feedback. |
 | **Communication Information**: If you communicate with us, such as via email or our pages on social media sites, we may collect personal data such as your name, contact information, and the contents of the messages you send. |
-| **Log Data**: We may collect information that your browser or device automatically sends when you use our Services. This may include the brand, model, and ID of your device, your Internet Protocol (IP)address, browser type and settings, the date and time of your request, and how you interact with our Services. | Information we automatically collect during your use of the Services |
+| **Log Data**: We may collect information that your browser or device automatically sends when you use our Services. This may include the brand, model, and ID of your device, your Internet Protocol (IP)address, browser type and settings, the date and time of your request, and how you interact with our Services. | Information we automatically collect during your use of the Services. |
 | **Usage Data** : We may collect information about your use of the Services, such as the types of content that you view or engage with, the features you use and the actions you take, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection. |
 | **Cookies**: To improve your experience, we may use cookies and similar technologies to operate our Services. For details about our use of cookies, please refer to the Section III of this Privacy Policy. |
 | **Account Information**: We may offer you an option to log in using your existing account with certain third-party social networking sites (“SNSs”) such as Google and Github. If you elect to do so, we may obtain your personal data from the SNS pursuant to your agreement with that SNS. The personal data we collect may depend on the privacy settings you have set with the SNS. We suggest that you check the privacy and data policies and practices of the SNS to learn how they handle personal data. | Information we collect from third parties. |
@@ -94,7 +94,7 @@ In addition to the matters set forth above, subject to and in accordance with ap
 
 (a) where in response to a request for your personal data in connection with identified purposes, you voluntarily provide such personal data to us for such purpose(s) and it is reasonable that you would voluntarily provide such personal data; and
 
-(b) (a) where the collection, use and/or disclosure of your personal data is reasonably necessary for the conclusion and/or performance of a contract, between you and us or any other organisation entered into at your request, which may include recipients of your personal data not indicated in this Privacy Policy.
+(b) where the collection, use and/or disclosure of your personal data is reasonably necessary for the conclusion and/or performance of a contract, between you and us or any other organisation entered into at your request, which may include recipients of your personal data not indicated in this Privacy Policy.
 
 Further, in relation to particular products or services or in your interactions with us, we may also have specifically notified you of other purposes for which we collect, use and/or disclose your Personal Data. If so, we will collect, use and/or disclose your Personal Data for these purposes as well.
 
@@ -106,18 +106,27 @@ We may use cookies and similar technologies to gather information resulting from
 
 We may disclose your personal data to the following categories of recipients:
 
-1.  our affiliated companies in the Alibaba Group and/or their designated service providers, who provide data processing services necessary to provide you with our Services;
-2.  third party service providers and partners who provide data processing services to us as necessary to provide you with our Services, or who otherwise process personal data for purposes described in this Privacy Policy;
-3.  analytics, search engine providers or other third party service providers that assist us in delivering our products, services, websites and platforms as well as improving and optimising the same;
-4.  any business partner, investor, assignee or transferee (actual or prospective) to facilitate business asset transactions (which may extend to any merger, acquisition or any debt or asset sale) involving any of the Companies;
-5.  any competent law enforcement body, regulatory, government agency, court or other third party (such as our professional advisers) where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights or so a third party can defend theirs, or (iii) to protect your vital interests or those of any other person; and
-6.  any other person, with your consent to the disclosure.
+1.  (a) our group companies and affiliates and/or their designated service providers, who provide data processing services necessary to provide you with our Services;
+2.  (b) third party service providers and partners who provide data processing services to us as necessary to provide you with our Services, or who otherwise process personal data for purposes described in this Privacy Policy;
+3.  (c) analytics, search engine providers or other third party service providers that assist us in delivering our products, services, websites and platforms as well as improving and optimising the same;
+4.  (d) any business partner, investor, assignee or transferee (actual or prospective) to facilitate business asset transactions (which may extend to any merger, acquisition or any debt or asset sale) involving any of the Companies;
+5.  (e) any competent law enforcement body, regulatory, government agency, court or other third party (such as our professional advisers) where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights or so a third party can defend theirs, or (iii) to protect your vital interests or those of any other person; and
+6.  (f) any other person, with your consent to the disclosure.
 
 **V. How Your Personal Data May Be Transferred Globally**
 
-1.  Depending on where you are located and the features of our Services which you access or use, your personal data may be transferred out of and processed outside of the jurisdiction in which you are located, such as to an affiliated company in Alibaba Group or third party (as explained in section IV) located overseas. These countries may have data protection laws that are different from the laws of your jurisdiction (and, in some cases, may not be as protective).
-2.  We generally provide the Services from Singapore, and our group companies and their designated service providers are generally located in Singapore, Indonesia, and/or China. Your personal data if therefore generally processed in one or both of these countries.
-3.  We take appropriate safeguards to ensure that your personal data will remain protected in accordance with this Privacy Policy and applicable laws and we only transfer your data overseas in accordance with applicable law and legally valid transfer mechanisms.
+1.  Depending on where you are located and the features of our Services which you access or use, your personal data described in section II. How Do We Use Your Personal Data may be transferred out of and processed outside of the jurisdiction in which you are located, such as to our group companies and affiliates or third parties (as explained in section IV. How Do We Disclose Your Personal Data) located overseas. These countries may have data protection laws that are different from the laws of your jurisdiction (and, in some cases, may not be as protective).
+2.  We store or process personal data described in sectionI. How We Collect Your Personal Data in Singapore and Mainland China.
+3.  Certain entities in our corporate group located in Singapore and Mainland China are given limited remote access to this data so they can provide certain important functions, as described in section II. How Do We Use Your Personal Data. Any such access is limited, secure and only granted where necessary under strict security controls and authorization approval protocols.
+4.  We share certain of your personal data with our business partners, service providers and other third-party entities, as described in section IV. How Do We Disclose Your Personal Data. These third parties can be located outside your country of residence.
+5.  We take appropriate safeguards to ensure that your personal data will remain protected in accordance with this Privacy Policy and applicable laws. We require those entities to commit with taking the necessary steps to comply with the applicable privacy laws and to implement appropriate security measures to protect your personal data.
+6.  When we transfer your personal data outside of the European Union, European Economic Area, Switzerland or the United Kingdom, we ensure that it benefits from an adequate level of data protection by relying on:
+    
+    (a) Adequacy decisions. These are decisions from the European Commission under Article 45 GDPR (or equivalent decisions under other laws) where they recognize that a country offers an adequate level of data protection. We transfer your personal data as described in section**I. How We Collect Your Personal Data** to some countries with adequacy decisions, such as the countries listed [here](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en); or
+    
+    (b) Standard contractual clauses. The European Commission has approved contractual clauses under Article 46 of the GDPR that allows companies subject to the GDPR to transfer data outside the European Union and European Economic Area. These (and their approved equivalents for the United Kingdom and Switzerland) are called standard contractual clauses. We rely on standard contractual clauses to transfer information as described in section**I. How We Collect Your Personal Data** to certain of our group companies and affiliates and third parties in countries without an adequacy decision.
+    
+    (c) For a copy of these adequacy decisions or standard contractual clauses, please contact us via the details provided in the section**XI. How to Contact Us** below. Please note that some sensitive commercial information will be redacted from the standard contractual clauses.
 
 **VI. How Do We Retain Your Personal Data**
 
@@ -135,15 +144,15 @@ Our Services are not directed to, or intended for, the individual under 18. We d
 
 **IX. Your Rights to Your Personal Data**
 
-1\. Depending on the jurisdiction in which you are residing, you may have the right to:
+Depending on the jurisdiction in which you are residing, you may have the right to:
 
-*   1.1 access your Personal Data and information relating to how it is processed;
-*   1.2 erasure or delete your Personal Data;
-*   1.3 update or correct your Personal Data;
-*   1.4 data portability;
-*   1.5 restrict or object to how we process your Personal Data;
-*   1.6 withdraw your consent; and/or
-*   1.7 make a complaint to the data protection agency in your country.
+*   (a) access your Personal Data and information relating to how it is processed;
+*   (b) erasure or delete your Personal Data;
+*   (c) update or correct your Personal Data;
+*   (d) data portability;
+*   (e) restrict or object to how we process your Personal Data;
+*   (f) withdraw your consent; and/or
+*   (g) make a complaint to the data protection agency in your country.
 
 You can exercise some of these rights through your Services account. If you are unable to exercise your rights through your account, please submit your request to [DPO\_qwenlm-intl@service.alibaba.com](mailto:DPO_qwenlm-intl@service.alibaba.com). We will respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
 
