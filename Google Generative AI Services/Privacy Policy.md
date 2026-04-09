@@ -975,7 +975,7 @@ Please [respect others' rights](https://policies.google.com/terms/generative-ai/
 Privacy questions
 -----------------
 
-**Last updated:** March 20, 2026
+**Last updated:** April 8, 2026
 
 ### General
 
