@@ -64,18 +64,6 @@ Meta partners with and serves respected businesses around the world.
 
 Meta is a trusted partner to many organizations around the world. Our customers trust us because they benefit from Meta’s heavy investments in security technology, resilient infrastructure, policies and processes–investments necessary to protect the data of billions of people worldwide using Meta’s products and services.
 
-Was this page helpful?
-
-[Encryption](https://llama.developer.meta.com/docs/trust/%23encryption=)
-
-[Payment Data](https://llama.developer.meta.com/docs/trust/%23payment-data=)
-
-[Meta’s investments in Security](https://llama.developer.meta.com/docs/trust/%23meta%E2%80%99s-investments-in-security=)
-
-[Managing the security lifecycle](https://llama.developer.meta.com/docs/trust/%23managing-the-security-lifecycle=)
-
-[Meta partners with and serves respected businesses around the world.](https://llama.developer.meta.com/docs/trust/%23meta-partners-with-and-serves-respected-businesses-around-the-world.=)
-
 - - -
 
 How to manage the info we use
