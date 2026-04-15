@@ -605,3 +605,165 @@ Disclaimers
 **Use discretion before relying on, publishing or otherwise using content provided by the Services.**
 
 **Don’t rely on the Services for medical, legal, financial or other professional advice. Any content regarding those topics is provided for informational purposes only and is not a substitute for advice from a qualified professional.**
+
+- - -
+
+Gemini Enterprise – Business Edition Additional Terms of Service
+================================================================
+
+_These terms apply only to Gemini Enterprise – Business Edition and do not apply to any_ [_Google Cloud Platform services_](https://cloud.google.com/terms/services)_, including_ [_Gemini Enterprise – Standard Edition_](https://cloud.google.com/gemini/enterprise/docs/editions).
+
+To use **Gemini Enterprise – Business Edition** (the **"Service"**), you must accept (1) the [Google Terms of Service](https://policies.google.com/terms?hl=en-US), and (2) these Gemini Enterprise – Business Edition Additional Terms of Service (the **"Additional Terms"**). Terms that are not defined in these Additional Terms have the meanings given to them in the Google Terms of Service.
+
+Please read these documents carefully. Together, these documents are known as the **"Terms"**. They establish what you can expect from us as you use our services, and what we expect from you.
+
+We also encourage you to read our [Privacy Policy](https://policies.google.com/privacy) to better understand how we collect, use, and protect your information.
+
+#### 1\. Administrators, Organizations, and Teams
+
+**Organizational Use.** If you are using the Service on behalf of an organization, an authorized representative of that organization must agree to these terms, as described in the “Using Google services” section of the [Google Terms of Service](https://policies.google.com/terms).
+
+**Roles.** You may create a collaborative workspace (**"Team"**) as an **"Administrator**.**"** As an Administrator, you control who can join your Team as an **"End User."** You are responsible and liable for all acts and omissions of your End Users within that Team and for their compliance with these Terms. As an End User, your access to a Team is managed by that Team’s Administrator.
+
+#### 2\. Payments
+
+**Payment Obligations.** The Administrator is responsible for all fees and applicable taxes associated with their Team. All fees are based on our then-current prices.
+
+**Billing.** By providing a payment method, the Administrator authorizes Google or its payment processor to charge all applicable fees. The Administrator must maintain complete and accurate billing information.
+
+**Price Changes.** We may change our prices, but we will provide the Administrator at least 15 days’ notice before any changes take effect.
+
+**Late Payments.** We may suspend or terminate access to the Service if fees are past due. All fees are non-refundable unless required by law.
+
+#### 3\. Data Use
+
+**"Your Content"** means the content you submit to the Service and any generated responses. When you use the Service, we process Your Content in accordance with the [Google Data Processing Addendum](https://business.safety.google/processorterms/). 
+
+**Paid Services and Trial Period**
+
+When the Service is being offered for a fee, it is considered a paid Service (**"Paid Service"**). When you initially sign up to use the Service, we may offer you a limited trial period (**"Trial Period"**) for no fee.
+
+**Service Data**
+
+We also collect data necessary to operate and maintain the Service, such as account information, billing history, direct communications and feedback, and usage details (including operational status, performance metrics, and other technical details) (**"Service Data"**). We process Administrator Service Data in accordance with our [Privacy Policy](https://policies.google.com/privacy) and the [Google Controller-Controller Data Protection Terms](https://business.safety.google/controllerterms/).
+
+**Communications**. You may receive periodic communications from Google at the email address you used during the sign up flow and which is associated with your account, such as training and on-boarding materials, product tips and updates, event information and special offers related to Google products and services. You can stop receiving email communications by opting out via the unsubscribe link in the emails. Personal data we collect for communications is subject to [Google’s Privacy Policy](https://policies.google.com/privacy).
+
+#### 4\. Using the Service
+
+**Accounts.** You may sign in to the Service using a Google Account or a supported third-party identity provider. You are responsible for all activity that occurs under your account for the Service, including taking reasonable steps to keep it secure. For the purposes of enforcement, including suspension and termination, references to "Google Account" in the [Google Terms of Service](https://policies.google.com/terms) will be interpreted to mean your account for the Service.
+
+**Responsibilities for Agentic AI.** The Service may include AI agents that perform tasks on your behalf. You are solely responsible for configuring these agents; authorizing their access to data, applications, and systems; supervising the agents; and for all actions they perform.
+
+**Connected Services.** You may be able to access and interact with other services, software libraries, APIs, and content through the Service, including some provided by third parties. These offerings are subject to applicable terms and licenses, as described in the "Other content" section of the [Google Terms of Service](https://policies.google.com/terms). You are responsible for your use of any third-party offerings and for complying with their applicable terms. Google does not operate, control, or endorse these offerings, and is not responsible or liable for them. When you sign in using credentials provided by a third party, we rely on that third party for necessary identity verification.
+
+**Limitation on Use.** You agree that use of the Service is for trade, business, or professional purposes only.
+
+#### 5\. Age Requirements
+
+You must be 18 years of age or older to use the Service.
+
+#### 6\. Your Relationship with Google
+
+You’re contracting for the Service with the entity identified below, and when the [Google Terms of Service](https://policies.google.com/terms), these Additional Terms, the [Google Privacy Policy](https://policies.google.com/privacy?hl=en-US), or the [Google Data Processing Addendum](https://business.safety.google/processorterms/) refer to "Google," "we," "us," "our" or the "data controller," they mean that contracting entity in relation to your use of the Service (even if the Google Terms of Service or Google’s Privacy Policy states otherwise):
+
+|     |     |
+| --- | --- |
+| **Your billing address** | **Your Google contracting entity** |
+| Asia Pacific (except Australia, India, Indonesia, Japan, New Zealand, and South Korea) | Google Asia Pacific Pte. Ltd. ("**GAP**"), a company organized under the laws of Singapore with its address at 70 Pasir Panjang Road, #03-71, Mapletree Business City II Singapore 117371 |
+| Australia | Google Australia Pty Ltd. ("**Google Australia**"), a company organized under the laws of Australia with its address at Level 5, 48 Pirrama Road, Pyrmont, NSW 2009, Australia |
+| India | Google Cloud India Private Limited ("**Google Cloud India**"), a company organized under the laws of India with its address at 5th Floor, DLF Centre, Block-124, Narindra Place, Sansad Marg, New Delhi 110001, India |
+| Indonesia | PT Google Cloud Indonesia (**"Google Cloud Indonesia"**), a company organized under the laws of Indonesia with its address at Pacific Century Place Tower, Level 45, Sudirman Central Business District, Lot 10, Jalan Jenderal Sudirman, Kav. 52-53, Jakarta, Indonesia, 12190 |
+| Japan | Google Cloud Japan G.K. (**"Google Cloud Japan"**), a company organized under the laws of Japan with its address at SHIBUYA STREAM, 3-21-3 Shibuya, Shibuya-ku, Tokyo 150-0002, Japan |
+| New Zealand | Google New Zealand Limited (**"Google New Zealand"**), a company organized under the laws of New Zealand with its address at PWC Tower, Level 27, 188 Quay Street, Auckland, New Zealand 1010 |
+| South Korea | Google Cloud Korea LLC, (**"Google Cloud Koea"**) a company organized under the laws of the Republic of Korea with its address at Gangnam Finance Center 20fl., 152 Teheran-ro, Gangnam-gu, Seoul, South Korea |
+| Brazil | Google Cloud Brasil Computação e Serviços de Dados Ltda, a company organized under the laws of Brazil with its address at Av. Brigadeiro Faria Lima, 3729, 4º e 5º andares, Itaim Bibi, São Paulo, Brasil |
+| Canada | Google Cloud Canada Corporation, a company organized under the laws of Canada with its address at 111 Richmond Street West, Toronto, ON M5H 2G4, Canada |
+| Europe, Middle East and Africa, except France, Italy and Poland | Google Cloud EMEA Limited, a company organized under the laws of Ireland with its address at 70 Sir John Rogerson’s Quay, Dublin 2, Ireland |
+| France | Google Cloud France SARL, a company organized under the laws of France with its address at 8 Rue de Londres, Paris 75009, France |
+| Italy | Google Cloud Italy S.r.l., a company organized under the laws of Italy with its address at Via Federico Confalonieri 4 Milan, 20124, Italy |
+| Mexico | Google Cloud México, S. de R.L. de C.V. a company organized under the laws of Mexico with its address at Montes Urales 445, Piso 5, Lomas de Chapultepec I Sección, Miguel Hidalgo, Ciudad de México, 11000, México |
+| Poland | Google Cloud Poland Sp. z o.o, a company organized under the laws of Poland with its address at Rondo Daszyńskiego 2C, 00-843 Warsaw, Poland |
+| United States and any other location not covered above | The entity identified in the Google TOS |
+
+**Your billing address**
+
+**Your Google contracting entity**
+
+Asia Pacific (except Australia, India, Indonesia, Japan, New Zealand, and South Korea)
+
+Google Asia Pacific Pte. Ltd. ("**GAP**"), a company organized under the laws of Singapore with its address at 70 Pasir Panjang Road, #03-71, Mapletree Business City II Singapore 117371
+
+Australia
+
+Google Australia Pty Ltd. ("**Google Australia**"), a company organized under the laws of Australia with its address at Level 5, 48 Pirrama Road, Pyrmont, NSW 2009, Australia
+
+India
+
+Google Cloud India Private Limited ("**Google Cloud India**"), a company organized under the laws of India with its address at 5th Floor, DLF Centre, Block-124, Narindra Place, Sansad Marg, New Delhi 110001, India
+
+Indonesia
+
+PT Google Cloud Indonesia (**"Google Cloud Indonesia"**), a company organized under the laws of Indonesia with its address at Pacific Century Place Tower, Level 45, Sudirman Central Business District, Lot 10, Jalan Jenderal Sudirman, Kav. 52-53, Jakarta, Indonesia, 12190
+
+Japan
+
+Google Cloud Japan G.K. (**"Google Cloud Japan"**), a company organized under the laws of Japan with its address at SHIBUYA STREAM, 3-21-3 Shibuya, Shibuya-ku, Tokyo 150-0002, Japan
+
+New Zealand
+
+Google New Zealand Limited (**"Google New Zealand"**), a company organized under the laws of New Zealand with its address at PWC Tower, Level 27, 188 Quay Street, Auckland, New Zealand 1010
+
+South Korea
+
+Google Cloud Korea LLC, (**"Google Cloud Koea"**) a company organized under the laws of the Republic of Korea with its address at Gangnam Finance Center 20fl., 152 Teheran-ro, Gangnam-gu, Seoul, South Korea
+
+Brazil
+
+Google Cloud Brasil Computação e Serviços de Dados Ltda, a company organized under the laws of Brazil with its address at Av. Brigadeiro Faria Lima, 3729, 4º e 5º andares, Itaim Bibi, São Paulo, Brasil
+
+Canada
+
+Google Cloud Canada Corporation, a company organized under the laws of Canada with its address at 111 Richmond Street West, Toronto, ON M5H 2G4, Canada
+
+Europe, Middle East and Africa, except France, Italy and Poland
+
+Google Cloud EMEA Limited, a company organized under the laws of Ireland with its address at 70 Sir John Rogerson’s Quay, Dublin 2, Ireland
+
+France
+
+Google Cloud France SARL, a company organized under the laws of France with its address at 8 Rue de Londres, Paris 75009, France
+
+Italy
+
+Google Cloud Italy S.r.l., a company organized under the laws of Italy with its address at Via Federico Confalonieri 4 Milan, 20124, Italy
+
+Mexico
+
+Google Cloud México, S. de R.L. de C.V. a company organized under the laws of Mexico with its address at Montes Urales 445, Piso 5, Lomas de Chapultepec I Sección, Miguel Hidalgo, Ciudad de México, 11000, México
+
+Poland
+
+Google Cloud Poland Sp. z o.o, a company organized under the laws of Poland with its address at Rondo Daszyńskiego 2C, 00-843 Warsaw, Poland
+
+United States and any other location not covered above
+
+The entity identified in the Google TOS
+
+The Service is provided to you by your Google contracting entity, except as described below:
+
+(a) if your billing address is in Australia, Google Australia is an authorized reseller of GAP, and when the [Google Terms of Service](https://policies.google.com/terms), these Additional Terms, the [Google Privacy Policy](https://policies.google.com/privacy?hl=en-US), or the [Google Data Processing Addendum](https://business.safety.google/processorterms/) refer to "Google," "we," "us," "our" or the "data controller," they mean GAP and/or its affiliates (including Google Australia), as the context requires (and even if the Google Terms of Service or Google Privacy Policy states otherwise);
+
+(b) if your billing address is in India, Google Cloud India is authorized as a non-exclusive reseller of GAP, and when the [Google Terms of Service](https://policies.google.com/terms), these Additional Terms, the [Google Privacy Policy](https://policies.google.com/privacy?hl=en-US), or the [Google Data Processing Addendum](https://business.safety.google/processorterms/) refer to "Google," "we," "us," "our" or the "data controller," they mean GAP and/or its affiliates (including Google Cloud India), as the context requires (and even if the Google Terms of Service or Google Privacy Policy states otherwise). For clarity, this means that GAP (not Google Cloud India) is entirely responsible for all obligations related to provision of the Service, while Google Cloud India is responsible for all obligations related to the sale of the Service, including obligations related to invoicing, termination, etc;
+
+(c) if your billing address is in Indonesia, Google Cloud Indonesia is an authorized reseller of GAP, and when the [Google Terms of Service](https://policies.google.com/terms), these Additional Terms, the [Google Privacy Policy](https://policies.google.com/privacy?hl=en-US), or the [Google Data Processing Addendum](https://business.safety.google/processorterms/) refer to "Google," "we," "us," "our" or the "data controller," they mean GAP and/or its affiliates (including Google Cloud Indonesia), as the context requires (and even if the Google Terms of Service or Google Privacy Policy states otherwise);
+
+(d) if your billing address is in Japan, Google Cloud Japan is an authorized reseller of GAP, and when the [Google Terms of Service](https://policies.google.com/terms), these Additional Terms, the [Google Privacy Policy](https://policies.google.com/privacy?hl=en-US), or the [Google Data Processing Addendum](https://business.safety.google/processorterms/) refer to "Google," "we," "us," "our" or the "data controller," they mean GAP and/or its affiliates (including Google Cloud Japan), as the context requires (and even if the Google Terms of Service or Google Privacy Policy states otherwise);
+
+(e) if your billing address is in New Zealand, Google New Zealand is an authorized reseller of GAP and when the [Google Terms of Service](https://policies.google.com/terms), these Additional Terms, the [Google Privacy Policy](https://policies.google.com/privacy?hl=en-US), or the [Google Data Processing Addendum](https://business.safety.google/processorterms/) refer to "Google," "we," "us," "our" or the "data controller," they mean GAP and/or its affiliates (including Google New Zealand), as the context requires (and even if the Google Terms of Service or Google Privacy Policy states otherwise);
+
+(f) if your billing address is in South Korea, Google Cloud Korea is an authorized reseller of GAP, and when the [Google Terms of Service](https://policies.google.com/terms), these Additional Terms, the [Google Privacy Policy](https://policies.google.com/privacy?hl=en-US), or the [Google Data Processing Addendum](https://business.safety.google/processorterms/) refer to "Google," "we," "us," "our" or the "data controller," they mean GAP and/or its affiliates (including Google Cloud Korea), as the context requires (and even if the Google Terms of Service or Google Privacy Policy states otherwise).
+
+**Previous versions** _(Last modified March 30, 2026)_
+
+[December 18, 2025](https://cloud.google.com/archive/terms/gemini-enterprise/business-20251218)[November 18, 2025](https://cloud.google.com/archive/terms/gemini-enterprise/business-20251118)
