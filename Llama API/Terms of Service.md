@@ -1,5 +1,3 @@
-[](https://llama.developer.meta.com/legal)
-
 Llama API Terms of Service
 ==========================
 
