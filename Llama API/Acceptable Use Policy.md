@@ -1,8 +1,3 @@
-[](https://llama.developer.meta.com/legal)
-
-Llama API AUP
-=============
-
 Meta is committed to promoting safe and fair use of its tools and features, including Services as defined in the Llama API Terms.Prohibited UsesWe want everyone to use the Services safely and responsibly. You agree you will not use, or allow others to use, Services to:
 
 1.  Violate the law or others’ rights, including to:
