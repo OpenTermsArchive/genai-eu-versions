@@ -1479,3 +1479,4 @@ Related resources
 
 *   [What you can do with your Gemini mobile app](https://support.google.com/gemini/answer/14579631)
 *   [Get started with the Gemini mobile app](https://support.google.com/gemini/answer/14554984)
+*   [Manage or delete the Gemini app on your Android device](https://support.google.com/gemini/answer/16938321)
