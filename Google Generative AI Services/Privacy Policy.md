@@ -836,7 +836,7 @@ Table of contents
         *   [What happens when I share a photo or video from a media gallery connected app with Gemini Apps?](#google_photos_content)
     *   **[Connected Apps in Gemini](#extensions)**
         *   [What happens with my data that Gemini, Connected Apps, and other services exchange?](#data_exchange)
-        
+        *   [How can I allow Gemini to personalize my experience with my data from Connected Apps?](#app_data_personalization)
         *   [How is my data used to make calls & send messages with Connected Apps in Gemini?](#comms_ext)
     *   **[Gemini Agent](#gemini_agent)**
         *   [How does Gemini Agent use my data with the remote browser?](#agent_browser_data)
@@ -1298,6 +1298,10 @@ Some Connected Apps such as Phone, Messages, WhatsApp, and Utilities are availab
 #### Things to know
 
 If you ask Gemini Apps to change shared content or control shared devices in other services, those actions may be visible to anyone with access to that shared content or device.
+
+How can I allow Gemini to personalize my experience with my data from Connected Apps?
+
+[Eligible users](https://support.google.com/gemini/answer/16598406#reqs&prereqs) with Personal Intelligence can connect some Google apps to Gemini to get new, more personalized experiences previously unavailable in Gemini through Connected Apps. Learn more [about personalization with your data from Connected Apps](https://support.google.com/gemini/answer/16836988).
 
 How is my data used to make calls & send messages with Connected Apps in Gemini?
 
