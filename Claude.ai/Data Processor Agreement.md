@@ -1,7 +1,7 @@
 Data Processing Addendum
 ========================
 
-Effective 24 February 2025
+Effective February 24, 2025
 
 This Data Processing Addendum (**“DPA”**) is incorporated into and forms part of the Anthropic Commercial Terms of Service or other agreement between Customer and Anthropic that references this DPA and governs Customer’s use of the Services (the **“Agreement”**), and applies to Anthropic’s processing of Customer Data (defined below). Capitalized terms used but not otherwise defined in this DPA will have the meaning set forth in the Agreement. Anthropic may amend this DPA from time to time on reasonable notice to Customer to the extent such changes are required due to changes in Applicable Data Protection Laws. If there is any conflict between the terms of this DPA and the Agreement, the conflicting terms in this DPA will govern.
 
