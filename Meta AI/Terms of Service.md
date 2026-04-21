@@ -137,4 +137,4 @@ These Terms of Service (“Terms”) apply when you access and use Meta AIs and 
     
 *   **Effective Date**
     
-    January 5, 2026
+    Effective January 5, 2026
