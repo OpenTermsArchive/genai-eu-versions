@@ -1473,7 +1473,7 @@ If you’re a Korea-based consumer, you also agree that your use of Gemini Apps 
 Related resources
 -----------------
 
-*   [Manage & delete your Gemini Apps activity](https://support.google.com/gemini/answer/13278892)
+*   [Manage & delete your activity in Gemini Apps](https://support.google.com/gemini/answer/13278892)
 *   [Manage your Location History](https://support.google.com/accounts/answer/3118687)
 *   [Send feedback or report a problem with Gemini Apps](https://support.google.com/gemini/answer/13275746)
 *   [Use Gemini Apps](https://support.google.com/gemini/answer/13275745)
