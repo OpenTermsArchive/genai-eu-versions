@@ -800,8 +800,8 @@ Table of contents
 
 *   **[Gemini Apps Privacy Notice](#privacy_notice)**
     *   [What data is collected](#pn_what_data)
-        *   [Information you provide Gemini Apps](#pn_info_you_provide)
-        *   [Information we collect as you use Gemini Apps](#pn_info_we_collect)
+        *   [Information you provide Gemini Apps](#pn_info_you_provide&pn_what_data)
+        *   [Information we collect as you use Gemini Apps](#pn_info_we_collect&pn_what_data)
     *   [How your data is used](#pn_data_usage)
     *   [How Gemini Apps get help from Google services](#pn_other_google_services)
     *   [How Gemini Apps work with Connected Apps](#pn_connected_apps)
