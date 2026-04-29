@@ -793,7 +793,7 @@ _close_
 
 - - -
 
-### **Last updated:** April 8, 2026
+### **Last updated:** April 28, 2026
 
 Table of contents
 -----------------
@@ -822,7 +822,7 @@ Table of contents
         *   [How long does Google retain my temporary chats and chats I have when Keep Activity is off, and what does Google do with this data?](#retention)
         *   [How does Google use my feedback?](#feedback)
         *   [What does the Keep Activity setting control?](#keep_activity_setting)
-        *   [How can I control whether Google uses my audio & Live recordings to improve its services?](#audio_live)
+        *   [How can I control whether Google uses my audio and Gemini Live videos & screenshares to improve its services?](#audio_live)
         *   [How does Gemini Apps use my saved info and instructions?](#saved_info)
         *   [How can I control whether Gemini Apps use my past chats to personalize my experience?](#past_chats)
         *   [How does Google handle my data when I use Gemini Apps while signed out?](#signed_out)
@@ -975,7 +975,7 @@ Please [respect others' rights](https://policies.google.com/terms/generative-ai/
 Privacy questions
 -----------------
 
-**Last updated:** April 8, 2026
+**Last updated:** April 28, 2026
 
 ### General
 
@@ -1103,11 +1103,11 @@ What does the Keep Activity setting control?
 
 Your chats and what you share with Gemini (like files, videos, screens, and photos) will be saved in your Activity.
 
-Your saved activity also includes audio, recordings and transcripts of your Gemini Live interactions, your feedback, info from websites you visit with Gemini, product usage, and location info (including your device’s general location, IP address, or Home or Work addresses in your Google Account).
+Your saved activity also includes audio, [Gemini Live videos and screenshares](https://support.google.com/gemini/answer/15274899#ss_vid), feedback, info from websites you visit with Gemini, product usage, and location info (including your device’s general location, IP address, or Home or Work addresses in your Google Account).
 
 #### How your activity is used
 
-Google uses your activity to provide, develop, and improve its services (including training generative AI models), as well as to protect Google, its users, and the public with the help of human reviewers. Data reviewed by service providers is disconnected from your account and saved for 3 years. Your audio and Gemini Live recordings aren’t used to improve Google services by default. Depending on your settings and region, Google also uses your activity to [personalize your experience](#past_chats).
+Google uses your activity to provide, develop, and improve its services (including training generative AI models), as well as to protect Google, its users, and the public with the help of human reviewers. Data reviewed by service providers is disconnected from your account and saved for 3 years. Your audio and Gemini Live videos and screenshares aren’t used to improve Google services by default. Depending on your settings and region, Google also uses your activity to [personalize your experience](#past_chats).
 
 #### You’re in control
 
@@ -1115,7 +1115,7 @@ Your activity is auto-deleted after 18 months. You can change this to 3 or 36 mo
 
 #### Keep in mind
 
-*   Gemini Apps are designed to wait in standby mode until they’re activated, for example when they detect “Hey Google.” Recordings may begin a few seconds before activation.
+*   Gemini Apps are designed to wait in standby mode until they’re activated, for example when they detect “Hey Google.” Audio recordings may begin a few seconds before activation.
 *   Gemini can activate accidentally, like if it detects a noise like “Hey Google.” Transcripts of these recordings are also used to help reduce unintended activations for everyone.
 *   Turning this setting on restores Gemini's access to apps that were previously connected.
 
@@ -1133,34 +1133,34 @@ Your future chats won’t appear in your Activity, and won’t be used to train 
 
 You can [manage this setting](https://support.google.com/gemini/answer/13278892) anytime.
 
-How can I control whether Google uses my audio & Live recordings to improve its services?
+How can I control whether Google uses my audio and Gemini Live videos & screenshares to improve its services?
 
-You can choose to let Google use your audio and Live recordings to improve its services for everyone in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help).
+You can choose to let Google use your audio and Gemini Live videos and screenshares to improve its services for everyone in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help).
 
 ### **If you turn this setting on:**
 
-Google uses your audio recordings and Gemini Live recordings (including audio, video, and screenshares) in Gemini Apps Activity to improve and develop our services (including training generative AI models). This includes recordings already stored in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) as well as future ones.
+Google uses your audio and [Gemini Live videos and screenshares](https://support.google.com/gemini/answer/15274899#ss_vid) in Gemini Apps Activity to improve and develop our services (including training generative AI models). This includes audio and Gemini Live videos and screenshares already stored in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) and added in the future.
 
-Some recordings are reviewed by human reviewers. To protect your privacy, recordings sent to service providers aren’t connected with your Google Account.
+Some audio and Gemini Live videos and screenshares are reviewed by human reviewers. To protect your privacy, activity sent to service providers isn't connected with your Google Account.
 
 #### **Keep in mind**
 
-*   Gemini Apps are designed to wait in standby mode until they’re activated, for example when they detect “Hey Google.” Recordings may begin a few seconds before activation.
+*   Gemini Apps are designed to wait in standby mode until they’re activated, for example when they detect “Hey Google.” Audio recordings may begin a few seconds before activation.
 *   Gemini can activate accidentally, like if it detects a noise like “Hey Google.” These recordings are also used to help reduce unintended activations for everyone.
 *   If you use Gemini with [Voice Match](https://support.google.com/gemini/answer/14579631?co=GENIE.Platform%3DAndroid#vm), a model of your voice is temporarily used to improve Voice Match.
 
 #### You’re in control
 
-You can turn this setting off or [manage and delete](https://support.google.com/gemini/answer/13278892) your audio and Live recordings anytime.
+You can turn this setting off or [manage and delete](https://support.google.com/gemini/answer/13278892) your audio and Gemini Live videos and screenshares anytime.
 
 ### **If you turn this setting off:**
 
-Your future audio and Gemini Live recordings won’t be used to improve our services (including AI models), unless you choose to send Google feedback.
+Your future audio and [Gemini Live videos and screenshares](https://support.google.com/gemini/answer/15274899#ss_vid) won’t be used to improve our services (including AI models), unless you choose to send Google feedback.
 
 #### **Keep in mind**
 
-*   Your future audio and Gemini Live recordings will still be used to respond to you and help make Gemini safe.
-*   Transcripts of your Live chats and any other [files, images, & YouTube videos](https://support.google.com/gemini/answer/15274899#content_live) you share with Live are covered by the [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) setting, which you can turn off anytime.
+*   Future audio and Gemini Live videos and screenshares will still be used to respond to you and help make Gemini safe.
+*   Transcripts of your Live chats and any other content you share with Gemini are covered by the [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) setting, which you can turn off anytime.
 
 How does Gemini Apps use my saved info and instructions?
 
@@ -1366,9 +1366,9 @@ If Keep Activity is off, your Gemini Live chats are stored in your Google Accoun
 
 If [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) is on, transcripts of your Live chats are used to improve Google services, including AI models. [Learn more about your Keep Activity setting](#keep_activity_setting).
 
-#### Gemini Live recordings
+#### Gemini Live audio, videos & screenshares
 
-Gemini Live recordings (including audio, video and screenshares) are not used to improve Google services by default. [Learn more about how to change this anytime](https://support.google.com/gemini/answer/13594961#audio_live).
+Your Gemini Live audio, [video and screenshares](https://support.google.com/gemini/answer/15274899#ss_vid) are not used to improve Google services by default. [Learn more about how to change this anytime](https://support.google.com/gemini/answer/13594961#audio_live).
 
 Please [respect others’ privacy](https://policies.google.com/terms/generative-ai/use-policy) and ask permission before you record or include them in a Live chat.
 
