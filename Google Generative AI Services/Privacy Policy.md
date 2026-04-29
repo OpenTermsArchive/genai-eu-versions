@@ -793,7 +793,7 @@ _close_
 
 - - -
 
-### **Last updated:** April 28, 2026
+### **Last updated:** April 29, 2026
 
 Table of contents
 -----------------
@@ -866,7 +866,9 @@ This notice supplements the Google [Privacy Policy](https://policies.google.com/
 
 Gemini Apps are provided by Google Ireland Limited in the European Economic Area and Switzerland and by Google LLC everywhere else. We refer to both companies as "Google" below.
 
-### What data is collected
+[Expand all](#pn_what_data&pn_data_usage&pn_other_google_services&pn_connected_apps&pn_audio_features&pn_canvas&pn_config_settings&pn_retain_data&pn_remove_export&pn_things_to_know&pn_respect_rights) [Collapse all](https://support.google.com/gemini/answer/13594961#privacy_notice)
+
+What data is collected
 
 #### Information you provide Gemini Apps
 
@@ -893,7 +895,7 @@ Gemini Apps are provided by Google Ireland Limited in the European Economic Area
 *   **Location information:** the general area from your device, IP address, or Home or Work addresses in your Google Account. Learn more at [g.co/privacypolicy/location](https://g.co/privacypolicy/location).
 *   **Subscription information:** if you have a paid subscription to Gemini, subscription related information.
 
-### How your data is used
+How your data is used
 
 Google uses this data, as described in our [Privacy Policy](https://policies.google.com/privacy), to:
 
@@ -910,25 +912,25 @@ These uses extend to the generative AI models and other machine-learning technol
 
 Human reviewers (including trained reviewers from our service providers) review some of the data we collect for these purposes. _Please don’t enter confidential information that you wouldn’t want a reviewer to see or Google to use to improve our services, including machine-learning technologies._
 
-### How Gemini Apps get help from Google services
+How Gemini Apps get help from Google services
 
 *   We rely on other Google services and infrastructure to provide Gemini Apps. For example, some Gemini responses are grounded on Search results.
 *   Gemini also gets help from other Google services such as Google Assistant. When Gemini gets help from Google Assistant for certain actions, relevant Google Assistant settings apply.
 *   If you are 18 or older and upgrade to Gemini Apps, your calling or texting history may be imported from your Web & App Activity to Gemini Apps Activity in some regions. This helps improve your Gemini Apps experience, like contact suggestions. [Learn more](https://support.google.com/gemini?p=awb_opt_in).
 
-### How Gemini Apps work with Connected Apps
+How Gemini Apps work with Connected Apps
 
 Gemini Apps work with Connected Apps, including Google apps and third-party services. Gemini saves and uses info from Connected Apps according to this notice, including to provide and improve Gemini Apps. Connected Google apps save and use your data, per their policies and the [Google Privacy Policy](https://policies.google.com/privacy), including to provide and improve their services. If you use Gemini Apps to interact with third-party services, they process your data according to their own privacy policies.
 
-### Audio Features
+Audio Features
 
 Gemini Apps may activate when you didn’t intend them to, for example, if there’s a noise that sounds like “Hey Google” or if you activate them accidentally by touch. If Gemini Apps respond, they will treat your input like a normal activation. Depending on your settings, this data is used to improve Google services. These include [Gemini models](https://deepmind.google/technologies/gemini/), other generative AI models that power Gemini Apps, and technologies that help reduce unintended activations.
 
-### Canvas
+Canvas
 
 When you interact with a user-generated Canvas app, the creator of the app can see any data you share and can save it where they choose. Google provides storage for Canvas app data in Firebase, but the app creator can also save your data elsewhere. Anyone with the public link can also view and edit data saved with the app. Be cautious and only share data with Canvas apps you trust.
 
-### Configuring your settings
+Configuring your settings
 
 You can visit [your Google Account](https://account.google.com/) to manage your data and privacy. Gemini Apps also provide settings to help you manage your data and experience, like:
 
@@ -945,7 +947,7 @@ You can visit [your Google Account](https://account.google.com/) to manage your 
 
 If you change your Gemini Apps settings, other Google settings won’t change. Those settings, like [Web & App Activity](https://support.google.com/gemini?p=gemini_pntos_waa) or [Location History](https://support.google.com/gemini?p=gemini_pntos_loc_hist), may keep saving location and other data as you use other Google services.
 
-### How long we retain your data
+How long we retain your data
 
 We retain your data for different periods of time, depending on what it is and how we use it, as explained in Google's [Privacy Policy](https://policies.google.com/privacy) and [How Google Retains Data We Collect](https://policies.google.com/technologies/retention).
 
@@ -956,11 +958,11 @@ We retain your data for different periods of time, depending on what it is and h
 
 Learn more about Google’s [data retention periods](https://policies.google.com/technologies/retention), including how long it takes us to delete your information.
 
-### Requesting content removal and exporting your information
+Requesting content removal and exporting your information
 
 You can [request](https://support.google.com/gemini?p=gemini_pntos_removal_request) the removal of content under our policies or applicable laws. You can also [export](https://takeout.google.com/) your information.
 
-### Other things to know
+Other things to know
 
 *   Gemini Apps are continuously evolving and may produce inaccurate or offensive information (including about people) that doesn’t represent Google’s views.
 *   Don’t rely on responses from Gemini Apps for diagnosis, treatment, or medical, legal, financial, or other professional advice. Its output is for informational purposes only.
@@ -968,14 +970,14 @@ You can [request](https://support.google.com/gemini?p=gemini_pntos_removal_reque
 
 Learn more in the [Gemini Apps Privacy Hub](https://support.google.com/gemini?p=privacy_help) and [Google Privacy Policy](https://policies.google.com/privacy).
 
-### Respect others’ rights
+Respect others’ rights
 
 Please [respect others' rights](https://policies.google.com/terms/generative-ai/use-policy) when using Gemini Apps and ask permission before recording them in a Live chat. Only upload, generate, and edit content you have rights to.
 
 Privacy questions
 -----------------
 
-**Last updated:** April 28, 2026
+**Last updated:** April 29, 2026
 
 ### General
 
@@ -1041,7 +1043,7 @@ Google’s legal bases are:
         *   Processing this information for this purpose is also necessary for the legitimate interests of Google and our commercial partners in fulfilling obligations to our partners like developers and rights holders (such as honoring removal requests from intellectual property rights holders).
     *   To respond to your request, for example to summarize an email from a named contact, we process personal data about others that you've given Gemini Apps (such as when you ask Gemini Apps to retrieve information from Google Workspace or Google Photos).
 *   **Legal obligations.** We’ll also process your Gemini Apps information to meet any applicable law, regulation, legal process, or enforceable governmental request (such as if we get a legal request for information from a governmental authority).
-*   **Your consent.** We rely on your consent when you use certain features such as [Voice Match](https://support.google.com/gemini?p=ph_vm) and when you allow Google to use your [audio & Live recordings to improve Google services for everyone](https://myactivity.google.com/product/gemini?utm_source=help). Where we rely on your consent to process information, you will have the right to withdraw your consent at any time.
+*   **Your consent.** We rely on your consent when you use certain features such as [Voice Match](https://support.google.com/gemini?p=ph_vm), [Memory](https://support.google.com/gemini/answer/16598469), and when you allow Google to use your [audio & Live recordings to improve Google services for everyone](https://myactivity.google.com/product/gemini?utm_source=help). Where we rely on your consent to process information, you will have the right to withdraw your consent at any time.
 
 Do you use my Gemini Apps chats to show me ads?
 
@@ -1168,7 +1170,7 @@ Gemini Apps use your info and instructions to provide more customized responses.
 
 How can I control whether Gemini Apps use my past chats to personalize my experience?
 
-Outside of the European Economic Area, Switzerland, and the UK, Gemini personalizes your experience by referencing your chats in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) and using them to generate personalized insights. You can [turn off Memory](https://support.google.com/gemini/answer/16598469#control_past_chats) anytime to stop personalization based on your past Gemini chats. Keep Activity must be on to use this feature.
+Gemini can personalize your experience by referencing your chats in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) and using them to generate personalized insights. [Learn how to turn this Memory feature on or off](https://support.google.com/gemini/answer/16598469#control_past_chats).
 
 If Memory is on:
 
