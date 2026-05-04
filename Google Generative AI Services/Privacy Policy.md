@@ -991,6 +991,7 @@ The Gemini Apps referred to in the [Gemini Apps Privacy Notice](https://support.
     *   The [Gemini app](https://apps.apple.com/us/app/google-gemini/id6477489729) on iOS.
 *   Gemini in the Google Messages app in [specific locations](https://support.google.com/gemini/answer/14599070#countries).
 *   Gemini in Android Auto
+*   Gemini in [Google Built-in](https://support.google.com/built-in/answer/16518944)
 *   Gemini in Maps
 *   The [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome) feature. [Learn more about availability](https://support.google.com/gemini/answer/16283624).
 *   Gemini on Android XR.
@@ -1227,8 +1228,9 @@ How to check in:
 *   [The Gemini mobile app on an iPhone or iPad](https://support.google.com/gemini/answer/14554984?co=GENIE.Platform%3DiOS&oco=0#location) 
 *   [Gemini on Watch on a WearOS device](https://support.google.com/gemini/answer/16401122#location)
 *   [Gemini in Chrome](https://support.google.com/gemini/answer/16283624#config_settings)
+*   Google Built-in
 
-Gemini may receive your precise location data from another Google service, like Android Auto, to fulfill your request even if the precise location settings above are off.  [Learn how to turn off precise location in Android Auto](https://support.google.com/accounts/answer/3467281).
+Gemini may receive your precise location data from another Google service, like Android Auto, to fulfill your request even if the precise location settings above are off.  [Learn how to turn off precise location in Android Auto](https://support.google.com/accounts/answer/3467281) and Google Built-in.
 
 #### Gemini in Google Messages
 
