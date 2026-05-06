@@ -793,7 +793,7 @@ _close_
 
 - - -
 
-### **Last updated:** April 29, 2026
+### **Last updated:** May 5, 2026
 
 Table of contents
 -----------------
@@ -852,6 +852,8 @@ Table of contents
         *   [What happens to my data when I interact with Gems from Google Labs?](#gems_from_labs_data)
     *   **[Imported data from other AI platforms](#import)**
         *   [What happens to my data when I import memory or chats from other AI platforms?](#import_chats)
+    *   **[Notebooks](#notebooks)**
+        *   [What happens to my data when when I use Notebooks in Gemini?](#notebook_data)
     *   **[Canvas](#canvas)**
         *   [What happens to my data when I interact with Canvas web apps?](#canvas_data)
     *   **[Terms of service](#tos_section)**
@@ -977,7 +979,7 @@ Please [respect others' rights](https://policies.google.com/terms/generative-ai/
 Privacy questions
 -----------------
 
-**Last updated:** April 29, 2026
+**Last updated:** May 5, 2026
 
 ### General
 
@@ -1450,6 +1452,12 @@ What happens to my data when I import memory or chats from other AI platforms?
 Data (memory and chats) that you import from other AI platforms is saved in your Activity. This data is used consistently with your Gemini Apps activity, including to improve our services (including training generative AI models), and to protect Google, our users and the public. You can manage or delete your activity anytime.  [Learn how to manage & delete your Gemini Apps activity](https://support.google.com/gemini/answer/13278892).
 
 You can also choose at any time to delete individual imported chats, or bulk delete all imported chats associated with the `.zip` file used to import them to Gemini Apps.
+
+### Notebooks
+
+What happens to my data when when I use Notebooks in Gemini?
+
+Chats with your Notebooks in Gemini are saved according to your [Keep Activity setting](https://myactivity.google.com/product/gemini?utm_source=gemini) and used as described in the [Gemini Apps Privacy Notice](https://support.google.com/gemini/answer/13594961?hl=en#privacy_notice), including to improve Gemini with the help of human reviewers. Files you add to your Notebook as a source in Gemini are not used directly for training our generative AI models.
 
 ### Canvas
 
