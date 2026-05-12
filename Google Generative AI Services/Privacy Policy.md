@@ -1173,7 +1173,7 @@ Gemini Apps use your info and instructions to provide more customized responses.
 
 How can I control whether Gemini Apps use my past chats to personalize my experience?
 
-Gemini can personalize your experience by referencing your chats in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) and using them to generate personalized insights. [Learn how to turn this Memory feature on or off](https://support.google.com/gemini/answer/16598469#control_past_chats).
+Gemini can personalize your experience and help you get things done (like tasks) by referencing your chats in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) and using them to generate personalized insights. [Learn how to turn this Memory feature on or off](https://support.google.com/gemini/answer/16598469#control_past_chats).
 
 If Memory is on:
 
