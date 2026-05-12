@@ -84,9 +84,3 @@ Cookie settings are device- and browser-specific, so you will need to set cookie
 For more information about cookies and instructions on how to set up your browser to accept, delete or disable cookies, see [www.allaboutcookies.org](https://www.allaboutcookies.org/).
 
 For information about our processing of personal data, including personal data derived from cookies and your rights relating to that personal data, please visit the [Privacy Policy](https://qwen.ai/privacypolicy). You may contact us by sending emails to [DPO\_qwenlm-intl@service.alibaba.com](mailto:qwenlm-intl@service.alibaba.com).
-
-Cookie Notice
-
-We'd like to use cookies to remember your preferences and show relevant content. You can accept all cookies for a fully personalized experience, or select only the strictly necessary ones to keep Qwen Studio running securely. For more details, please read our [Cookie Notice](https://qwen.ai/cookies-notice).
-
-Accept all cookiesAccept all strictly necessary cookies
