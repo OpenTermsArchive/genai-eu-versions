@@ -3,25 +3,54 @@ Perplexity's Privacy Policy
 
   
 
-**Last updated: October 31, 2025**
+**Effective date: February 5, 2026**
 
   
 
   
 
-This Privacy Policy describes how Perplexity AI, Inc. (“**we**”, “**us**,” “**our**”) collects, uses and discloses information about individuals who use our websites ([www.perplexity.ai](https://www.perplexity.ai/) and [https://labs.perplexity.ai](https://labs.perplexity.ai/)) to access the free version of our product or Perplexity Pro, other applications, services, tools and features, or who purchase our products or otherwise interact with us (collectively, the “**Services**”). For the purposes of this Privacy Policy, we are the data controller, and “**you**” and “**your**” means you as the user of the Services, whether you are a customer, website visitor, job applicant, representative of a company with whom we do business, or another individual whose information we have collected pursuant to this Privacy Policy. This Privacy Policy does not cover the use of the Perplexity API or Enterprise Pro, where we act solely as a processor, and which are governed by the applicable Terms and Conditions, including the Data Processing Addendum incorporated therein, that you agree to when signing up for a subscription to the Business Services. 
+This Privacy Policy describes how Perplexity AI, Inc. (“**we**”, “**us**,” “**our**”) collects, uses and discloses information about individuals who use our websites ([www.perplexity.ai](https://www.perplexity.ai/) and [https://labs.perplexity.ai](https://labs.perplexity.ai/)) to access the free version of our product or Perplexity Pro or Perplexity Max, other applications, services, tools and features, or who purchase our products or otherwise interact with us (collectively, the “**Services**”). For the purposes of this Privacy Policy, we are the data controller, and “**you**” and “**your**” means you as the user of the Services, whether you are a customer, website visitor, job applicant, representative of a company with whom we do business, or another individual whose information we have collected pursuant to this Privacy Policy. This Privacy Policy does not cover the use of the Perplexity API or Enterprise Pro, where we act solely as a processor, and which are governed by the applicable Terms and Conditions, including the Data Processing Addendum incorporated therein, that you agree to when signing up for a subscription to the Business Services. 
 
   
 
-iuro Rechtsanwälte GmbH t/a Prighter and Prighter Ltd. (collectively, “**Prighter Group**”) registered at Schellinggasse 3, 1010 Vienna, Austria, with the contact email address privacy@perplexity.ai, is our representative in the European Economic Area (**“EEA”**) for the purposes of the EU GDPR and the United Kingdom (“**UK**”) for the purposes of the UK GDPR. TrustKeith Ltd, a company registered at 20-22 Wenlock Road, London, N1 7GU with the contact email address privacy@perplexity.ai, is our DPO. 
+TrustKeith Ltd, a company registered at 20-22 Wenlock Road, London, is our DPO. To contact our representative or DPO, please submit a data request here: [https://perplexity.typeform.com/datarequest](https://perplexity.typeform.com/datarequest).
 
   
 
 Please read this Privacy Policy carefully. By using any of the Services, you agree to the collection, use, and disclosure of your information as described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not use or access the Services.
 
+1.  CHANGES TO THIS PRIVACY POLICY
+    
+2.  COLLECTION AND USE OF YOUR INFORMATION
+    
+3.  COOKIES AND OTHER TRACKING TECHNOLOGIES
+    
+4.  DISCLOSURE OF YOUR INFORMATION
+    
+5.  SOCIAL FEATURES
+    
+6.  THIRD PARTY WEBSITES AND LINKS
+    
+7.  CHILDREN’S PRIVACY
+    
+8.  DATA SECURITY AND RETENTION
+    
+9.  U.S. RESIDENTS
+    
+10.  DATA TRANSFERS
+     
+11.  YOUR RIGHTS AND CHOICES
+     
+12.  COMPLAINTS
+     
+13.  HOW TO CONTACT US
+     
+14.  LANGUAGE
+     
+
   
 
-1.  CHANGES TO THIS PRIVACY NOTICE
+1.  CHANGES TO THIS PRIVACY POLICY
     ------------------------------
     
 
@@ -47,7 +76,7 @@ When you use or access the Services, we collect certain categories of informatio
 
 Some features of the Services may require you to directly provide us with certain information about yourself. You may elect not to provide this information, but doing so may prevent you from using or accessing these features. Information that you directly submit through our Services includes:
 
-*   Basic contact details, such as name, address, phone number, and email (“**Contact Information**”). We use this information where necessary to perform our contract with you to provide the Services, and to communicate with you (including, with your consent where required, to tell you about certain promotions or products or services that may be of interest to you).
+*   Basic contact details, such as name, address, phone number, and email (“**Contact Information**”). We use this information where necessary to perform our contract with you to provide the Services, and to communicate with you (including, with your consent where required, to tell you about certain promotions or products or services that may be of interest to you). If you invite others to use our Services, we will collect their email address from you to send the invitation. We use this information solely to facilitate the invitation and do not use it for other marketing purposes unless the recipient becomes a user.
     
 
 *   Account information, such as name, username, email and password (“**Account Information**”). We use this information where necessary to perform our contract with you to provide the Services and to maintain and secure your account with us. If you choose to register an account, you are responsible for keeping your account credentials safe. We recommend you do not share your access details with anyone else. If you believe your account has been compromised, please contact us immediately at support@perplexity.ai.
@@ -59,7 +88,11 @@ Some features of the Services may require you to directly provide us with certai
 *   Applicant details, such as information included in your resume or CV, references, and job history (“**Applicant Information**”). We use applicant details in our legitimate interests to process your application for employment and to evaluate your candidacy. For Singapore, we use this information for evaluative purposes and for the purposes of entering into an employment relationship with you. 
     
 
-*   Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“**Service Interaction Information**”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.
+*   Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“**Service Interaction Information**”). Service Interaction Information may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services and to personalize output for you. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.
+    
+      
+    
+*   Where available in your location, any health information you choose to provide. We use this information when you voluntarily consent to opt in to Perplexity Health.
     
 
 *   Any other information you choose to include in communications with us when necessary to perform our contract with you, for example, when sending a message through the Services or providing your size when purchasing certain products (“**Other Information You Provide**”).
@@ -106,7 +139,7 @@ We may obtain information about you from outside sources, including information 
 *   Information we receive from business partners and other companies that we partner with to provide you with free or discounted access to the Services or other offers or promotions, which we use in our legitimate interests to provide you with free or discounted access to the Services (“**Partner Information**”).
     
 
-*   Information we receive when you choose to link any third-party platforms to your account, such as when you sign into your account through Google or Apple (“**Third Party Platform Information**”). We use this information only where necessary to perform our contract with you, to maintain your account and login information and to provide you with the Services, including to generate and output new content.  Third Party Platform Information may includes your name, profile picture and email address.
+*   Information we receive when you choose to link any third-party platforms to your account, such as when you sign into your account through Google or Apple (“**Third Party Platform Information**”) or when you voluntarily link one or more of your health and wellness applications (such as HealthKit or myFitnessPal) to Perplexity Health. We use this information only where necessary to perform our contract with you, to maintain your account and login information and to provide you with the Services, including to generate and output new content.  Third Party Platform Information may includes your name, profile picture and email address.
     
 
 *   Information from publicly accessible sources, such as information that’s publicly available online (like articles, websites, and journals) or from other public sources, which we use where necessary to perform our contract with you (“**Public Information**”).
@@ -114,7 +147,7 @@ We may obtain information about you from outside sources, including information 
 
   
 
-In addition to the specific uses described above, we may use any of the above information to provide you with and improve the Services (including our AI models) and to maintain our business relationship, including by enhancing the safety and security of our Services (e.g., troubleshooting, data analysis, testing, system maintenance, and reporting), providing customer support, sending service and other non-marketing communications, monitoring and analyzing trends, and conducting internal research and development. We may also use the information to comply with applicable legal obligations, enforce any applicable terms of service, and protect the Services, our rights, and the rights of our employees, users or other individuals.
+In addition to the specific uses described above, we may use most of the above information to provide you with and improve the Services (including our AI models) and to maintain our business relationship, including by enhancing the safety and security of our Services (e.g., troubleshooting, data analysis, testing, system maintenance, and reporting), providing customer support, sending service and other non-marketing communications, monitoring and analyzing trends, and conducting internal research and development. We may also use the information to comply with applicable legal obligations, enforce any applicable terms of service, and protect the Services, our rights, and the rights of our employees, users or other individuals.
 
   
 
@@ -126,7 +159,7 @@ Finally, we may, in our legitimate interests, deidentify or anonymize your infor
 
   
 
-Any information we receive from outside sources will be treated in accordance with this Privacy Policy. We are not responsible for the accuracy of the information provided to us by third parties and are not responsible for any third party’s policies or practices. For more information, see the section below, Third Party Websites and Links. To the extent the laws in your jurisdiction do not recognize the legal basis of legitimate interest or another legal basis specified above for a particular purpose, you consent to the processing of your personal data for that purpose through using the Services. 
+Any information we receive from outside sources will be treated in accordance with this Privacy Policy. We are not responsible for the accuracy of the information provided to us by third parties and are not responsible for any third party’s policies or practices. For more information, see the section below, Third Party Websites and Links. To the extent the laws in your jurisdiction do not recognize the legal basis of legitimate interest or another legal basis specified above for a particular purpose, you consent to the processing of your personal information for that purpose through using the Services. 
 
   
 
@@ -171,7 +204,7 @@ We may disclose your information to third parties subject to this Privacy Policy
 *   **Advertising Partners:** Third parties who display advertising information on our Services or otherwise assist with the delivery of ads.
     
 
-*   **Professional Advisors:** As necessary, we will share your personal data with professional advisors such as auditors, law firms, or accounting firms. 
+*   **Professional Advisors:** As necessary, we will share your personal information with professional advisors such as auditors, law firms, or accounting firms. 
     
 
 *   **Business Transactions:** We will share personal information with a prospective buyer, seller, new owner, or other relevant third party as necessary while negotiating or in relation to a change of corporate control such as a restructuring, merger, asset sale or purchase, bankruptcy or other business transaction or re-organization. We do this in our legitimate interest to run a successful and compliant business, and as required by applicable law.
@@ -199,7 +232,7 @@ Certain features of the Services may allow you to initiate interactions between 
 
   
 
-We may provide links to third-party websites or platforms, such as Discord and X (formerly Twitter). If you follow links to sites or platforms that we do not control and are not affiliated with us, you should review the applicable privacy notice, policies and other terms. We are not responsible for the privacy or security of, or information found on, these sites or platforms. Information you provide on public or semi-public venues, such as third-party social networking platforms, may also be viewable by other users of the Services and/or users of those third-party platforms without limitation as to its use. Our inclusion of such links does not, by itself, imply any endorsement of the content on such platforms or of their owners or operators.
+We may provide links to third-party websites or platforms, such as Discord and X (formerly Twitter). If you follow links to sites or platforms that we do not control and are not affiliated with us, you should review the applicable privacy policy, policies and other terms. We are not responsible for the privacy or security of, or information found on, these sites or platforms. Information you provide on public or semi-public venues, such as third-party social networking platforms, may also be viewable by other users of the Services and/or users of those third-party platforms without limitation as to its use. Our inclusion of such links does not, by itself, imply any endorsement of the content on such platforms or of their owners or operators.
 
   
 
@@ -244,7 +277,24 @@ This section supplements the other sections of this Privacy Policy and applies t
 
   
 
-In the preceding 12 months, we collected and disclosed for a business purpose the following categories of personal information and sensitive personal information (denoted by \*) about residents:
+In the preceding 12 months, we collected and disclosed for a business purpose the following categories of personal information:
+
+|     |     |     |
+| --- | --- | --- |
+| Category of Personal Information | Category of Recipients |     |
+| Disclosures for a  <br>Business Purpose | Sharing for Targeted Advertising |
+| Identifiers – this may include things like name, alias, postal address, unique personal identifier, online identifier, email address, or account name. | *   Company Group.<br>    <br>*   Service Providers.<br>    <br>*   Business Partners.<br>    <br>*   Other Third Parties<br>    <br>*   Professional Advisors. | *   Advertising Partners. |
+| Financial Information – this may include bank account number, credit card number, debit card number, and other financial information. | *   Company Group.<br>    <br>*   Service Providers.<br>    <br>*   Professional Advisors. | N/A. |
+| Health Related Information – this may include mental or physical condition. | *   Company Group.<br>    <br>*   Service Providers.<br>    <br>*   Professional Advisors. | N/A |
+| Commercial information – this may include information about products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies. | *   Company Group.<br>    <br>*   Service Providers.<br>    <br>*   Business Partners.<br>    <br>*   Other Third Parties<br>    <br>*   Professional Advisors. | N/A. |
+| Internet or other electronic network activity information – this may include browsing history, search history, and information regarding an individual’s interaction with an internet website, app, or ad. | *   Company Group.<br>    <br>*   Service Providers.<br>    <br>*   Business Partners.<br>    <br>*   Other Third Parties<br>    <br>*   Professional Advisors. | *   Advertising Partners. |
+| Geolocation data – this could include precise or non-precise geolocation information. | *   Company Group.<br>    <br>*   Service Providers.<br>    <br>*   Other Third Parties<br>    <br>*   Professional Advisors. | *   Advertising Partners. |
+| Professional or employment-related information – this includes, for example, information submitted by job applicants. | *   Company Group.<br>    <br>*   Service Providers.<br>    <br>*   Other Third Parties<br>    <br>*   Professional Advisors. | N/A. |
+| Non-public education information (as defined in the Family Educational Rights and Privacy Act) | *   Company Group.<br>    <br>*   Service Providers.<br>    <br>*   Business Partners.<br>    <br>*   Other Third Parties<br>    <br>*   Professional Advisors. | N/A. |
+| Inferences drawn from any of the information listed above | *   Company Group.<br>    <br>*   Service Providers.<br>    <br>*   Business Partners.<br>    <br>*   Other Third Parties<br>    <br>*   Professional Advisors. | N/A. |
+| Additional categories of personal data described in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)) – this may include signature, physical characteristics, or description, insurance policy number. | *   Company Group.<br>    <br>*   Service Providers.<br>    <br>*   Business Partners.<br>    <br>*   Other Third Parties<br>    <br>*   Professional Advisors. | N/A. |
+
+  
 
 *   Identifiers, such as name, e-mail address and IP address
     
@@ -267,15 +317,37 @@ In the preceding 12 months, we collected and disclosed for a business purpose th
 
   
 
-The specific business or commercial purposes for which we have collected and disclosed your personal information and the categories of sources from which we collect your personal information are described in the section above, Collection and Use Your Information. The third parties that we have disclosed your information to are described in Section 4 (Disclosure of Your Information) above. We only use and disclose sensitive personal information for the purposes specified in the CCPA or otherwise in line with your consent. The criteria we use to determine how long to retain your personal information is described in the section above, Data Security and Retention. 
+The specific business or commercial purposes for which we have collected and disclosed your personal information and the categories of sources from which we collect your personal information are described in the section above, Collection and Use Your Information. The third parties that we have disclosed your information to are described in Section 4 (Disclosure of Your Information) above. The criteria we use to determine how long to retain your personal information is described in the section above, Data Security and Retention. 
 
   
+
+**Non-Health Sensitive Information Disclosure**: We may collect the following types of sensitive information when you interact with our Services. Note that we do not use such data for any purposes that are not identified within Cal. Civ. Code § 1798.121. We also do not “sell” or “share” sensitive personal information for cross-context behavioral advertising.
+
+*   When you create or log-in to your account, your account log-in and password (as defined under California law). 
+    
+*   When you apply for a job with us, we may collect your government ID in order to process your application. 
+    
+*   When you use our mobile application, and consent to the processing of precise geolocation information, such information will be collected.
+    
+*   If you choose to submit sensitive information as part of a Service Interaction, we will receive such information.  For example, if you were to submit government identifiers, precise geolocation, racial or ethnic origin, citizenship or immigration status, religious or philosophical beliefs, or union membership, contents of mail, email, or text messages, genetic data, neural data, or data concerning sex life or sexual orientation, then we would receive those categories of information.  
+    
+
+  
+
+**Health Sensitive Information Disclosure (Consumer Health Data Privacy Notice)**
+
+We may collect the following types of health-related sensitive information when you interact with our Services. Note that we do not use such data for any purposes that are not identified within Cal. Civ. Code § 1798.121. We also do not “sell” or “share” sensitive personal information for cross-context behavioral advertising.
+
+*   When you consent to use Perplexity Health and upload data, your health, genetic, and biometric information.
+    
+*   If you choose to submit health-related sensitive information as part of a Service Interaction, we will receive such information.  For example, if you choose to provide to us through the Services health-related data, or data concerning sex life or sexual orientation, then we would receive those categories of information.  This may include where you provide sensitive information through Service Interaction Information.  
+    
+
+See Section 11 to exercise your rights concerning health-related data.  Your health information may be shared in the following ways, in addition to those described elsewhere in this policy: with service providers that help us provide requested services, Apps/services that you connect to Perplexity Health, third party AI models that help us provide requested services.
 
 **Selling and/or Sharing of Personal Information:** 
 
-  
-
-**We do not “sell” or “share” (as those terms are defined under the CCPA) personal information, nor have we done so in the preceding 12 months.** Further, we do not have actual knowledge that we “sell” or “share” personal information of residents under 16 years of age. 
+**We do not “sell” (as defined under the CCPA) personal information, nor have we done so in the preceding 12 months.** Further, we do not have actual knowledge that we “sell” or “share” personal information of residents under 16 years of age. 
 
   
 
@@ -296,7 +368,7 @@ The personal information that we collect will be transferred to, stored at/proce
 
   
 
-We process the personal information that you provide to us by creating an account and using our Services in countries outside the relevant jurisdiction you are resident in in order to perform our contract with you (to provide you with our Services). By using the Services and acknowledging the Privacy Policy, you consent to the transfer of your personal information to third parties (if any), which may include the cross-border transfer of your information to any country or region where we have databases or affiliates and, in particular, to the jurisdictions specified herein. For such transfers of data outside the relevant jurisdiction will use applicable safeguards, for example,  for UK and EEA users, the European Commission’s model contracts for the transfer of personal information to third countries (i.e., the standard contractual clauses) (the “**Model Clauses**”), or any equivalent contracts issued by the relevant competent authority of the UK, as relevant, unless the data transfer is to a country that has been determined by the European Commission or the relevant UK authorities, as applicable, to provide an adequate level of protection for individuals’ rights and freedoms for their personal information. Please contact us at support@perplexity.ai should you wish to inquire further as to such data transfer mechanisms, including to examine a copy of the Model Clauses.
+We process the personal information that you provide to us by creating an account and using our Services in countries outside the relevant jurisdiction you are resident in in order to perform our contract with you (to provide you with our Services). By using the Services and acknowledging the Privacy Policy, you acknowledge and, if necessary in your jurisdiction, consent to the transfer of your personal information to third parties (if any), which may include the cross-border transfer of your information to any country or region where we have databases or affiliates and, in particular, to the jurisdictions specified herein. For such transfers of data outside the relevant jurisdiction will use applicable safeguards, for example,  for UK and EEA users, the European Commission’s model contracts for the transfer of personal information to third countries (i.e., the standard contractual clauses) (the “**Model Clauses**”), or any equivalent contracts issued by the relevant competent authority of the UK, as relevant, unless the data transfer is to a country that has been determined by the European Commission or the relevant UK authorities, as applicable, to provide an adequate level of protection for individuals’ rights and freedoms for their personal information. Please contact us at support@perplexity.ai should you wish to inquire further as to such data transfer mechanisms, including to examine a copy of the Model Clauses.
 
   
 
@@ -304,7 +376,7 @@ We process the personal information that you provide to us by creating an accoun
 
   
 
-We comply with the EU-U.S. Data Privacy Framework and the UK Extension to the EU-U.S. DPF as set forth by the U.S. Department of Commerce (collectively, the “DPF”) and have certified to the U.S. Department of Commerce that we adhere to the DPF Principles with regard to the processing of personal data received from the European Union and UK (and Gibraltar) in reliance on the DPF.
+We comply with the EU-U.S. Data Privacy Framework and the UK Extension to the EU-U.S. DPF as set forth by the U.S. Department of Commerce (collectively, the “DPF”) and have certified to the U.S. Department of Commerce that we adhere to the DPF Principles with regard to the processing of personal information received from the European Union and UK (and Gibraltar) in reliance on the DPF.
 
   
 
@@ -312,7 +384,7 @@ If there is any conflict between the terms in this privacy policy and the DPF Pr
 
   
 
-We commit to resolve DPF Principles-related complaints about our collection and use of personal information. Individuals in the EU and UK with inquiries or complaints regarding our compliance with the DPF should first contact us, at support@perplexity.ai. If you have an unresolved complaint concerning our handling of personal information received in reliance on the DPF that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/). Under certain conditions (more fully described here) you may be entitled to invoke binding arbitration to resolve your complaint. In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, we commit to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF.
+We commit to resolve DPF Principles-related complaints about our collection and use of personal information. Individuals in the EU and UK with inquiries or complaints regarding our compliance with the DPF should first contact us, at support@perplexity.ai. If you have an unresolved complaint concerning our handling of personal information received in reliance on the DPF that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/). Under certain conditions (more fully described here) you may be entitled to invoke binding arbitration to resolve your complaint. In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, we commit to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) with regard to unresolved complaints concerning our handling of personal information received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF.
 
   
 
@@ -325,6 +397,10 @@ We commit to resolve DPF Principles-related complaints about our collection and 
 Depending on where you live, you may have some or all of the rights listed below in relation to personal information that we have collected about you. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. 
 
 *   **Right to Access / Know.** You may have a right to request access to personal information that we hold about you, or to request information about our collection, use and disclosure of your personal information, such as the categories of personal information we have collected or disclosed for a business purpose. 
+    
+      
+    
+*   **Right to Request a List of Third-Party Recipients**.  You may request a list of specific third parties to which we have disclosed personal information. Some areas also allow you to obtain a list of the categories of third parties to which we have disclosed personal information. You can find that information in the table above under Section 9 (U.S. RESIDENTS).
     
 
 *   **Right to Delete**.  You may have a right to request that we delete personal information we maintain about you.
@@ -340,6 +416,10 @@ Depending on where you live, you may have some or all of the rights listed below
     
 
 *   **Objection**. You may have the right to object to our processing of personal information.
+    
+      
+    
+*   **Opt-out of Website Targeted Advertising**. You may opt-out of online targeted advertising (e.g., cookies) by clicking the cookie settings link here or the “Do Not Share” link on our homepage. We recognize Global Privacy Control (GPC) signals broadcast from web browsers as a valid opt-out request where required by applicable law. Please note that the GPC will apply only to your current browser. We do not recognize the “Do Not Track Signal.” If there is a conflict between the GPC signal and a manual choice that you have made on our website regarding targeted advertising, we will honor your manual choice.
     
 
 *   **Withdrawal of Consent**. Where we rely on consent to process your personal information, you may have the right to withdraw this consent at any time by contacting us at [support@perplexity.ai](mailto:support@perplexity.ai). Please note that the withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal, and that where you withdraw your consent, we may not be able to deliver the expected service to you.
@@ -361,7 +441,7 @@ You may exercise any of these rights by contacting us using the information prov
 
   
 
-If you have complaints about how we process your personal information, please contact us at [support@perplexity.ai](mailto:support@perplexity.ai) and/or your local representative’s contact details as set out above, and we will respond to your request as soon as possible.
+If you have complaints about how we process your personal information, or if you need to access this Privacy Policy in a different form due to a disability, please contact us at [support@perplexity.ai](mailto:support@perplexity.ai) and/or your local representative’s contact details as set out above, and we will respond to your request as soon as possible.
 
   
 
@@ -372,20 +452,19 @@ If you think we have infringed data protection laws, you can file a claim with t
 13.  HOW TO CONTACT US
      -----------------
      
+       
+     
+
+Should you have any questions about our privacy practices or this Privacy Policy, please email us at support@perplexity.ai and/or your local representative’s contact details as set out below.
+
+|     |
+| --- |
+| For EU inquiries:<br><br>Perplexity AI<br><br>Leipziger Platz 16<br><br>10117 Berlin<br><br>Germany |
+| For UK inquiries:<br><br>Perplexity AI<br><br>10 Devonshire Square<br><br>London EC2M 4YP<br><br>United Kingdom |
 
   
 
-Should you have any questions about our privacy practices or this Privacy Policy, please email us at support@perplexity.ai and/or your local representative’s contact details as set our below.
-
-  
-
-We value your privacy and your rights as a data subject and have therefore appointed Prighter Group with its local partners as our privacy representative and your point of contact for the EEA/EU and UK
-
-  
-
-Prighter gives you an easy way to exercise your privacy-related rights (e.g. requests to access or erase personal data). If you want to contact us via our representative, Prighter or make use of your data subject rights, please visit the following website: [https://app.prighter.com/portal/14066241084](https://app.prighter.com/portal/14066241084)
-
-  
+---
 
 14.  LANGUAGE
      --------
