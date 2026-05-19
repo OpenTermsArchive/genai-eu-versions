@@ -1,8 +1,8 @@
 Privacy Policy
 ==============
 
-Last updated: April 9, 2026
----------------------------
+Last updated: May 19, 2026
+--------------------------
 
 Thank you for using our services! Before using our services, please read this Privacy Policy carefully to learn how we collect, use, disclose, and protect your personal data. This Privacy Policy will also provide you with more information about the bases upon which we may lawfully collect, use, and/or disclose your personal data, where permitted by applicable law.
 
@@ -47,7 +47,7 @@ Generally, we collect personal data in the following ways:
 | Data Description | Source |
 | --- | --- |
 | **Account Information**: We may collect your personal data, such as your name, email address when you sign up for an account, or where you otherwise provide us with your personal data (such as to receive information on our Services). | Information directly provided by you to us. |
-| **User Content**:We may collect personal data that you provide or upload when accessing or using our Services, including your prompts and other content you upload, such as text, files, images, audio and video (if any), depending on the features you use. |
+| **User Content**:We may collect personal data that you provide or upload when accessing or using our Services, including your prompts and other content you upload, such as text, files, images, audio and videos, depending on the features you use.We may collect voice or video recordings when you choose to use the voice, speech, audio, and audiovisual functionalities within the Services. This process involves the processing of data that may be considered biometric identifiers or biometric information under applicable laws. |
 | **Feedback**: We appreciate feedback, including ideas and suggestions for improvement or rating an output in response to a prompt. If you rate an output in response to a prompt—for example, by using the thumbs up/thumbs down icon—we will store the related conversation as part of your feedback. |
 | **Communication Information**: If you communicate with us, such as via email or our pages on social media sites, we may collect personal data such as your name, contact information, and the contents of the messages you send. |
 | **Log Data**: We may collect information that your browser or device automatically sends when you use our Services. This may include the brand, model, and ID of your device, your Internet Protocol (IP)address, browser type and settings, the date and time of your request, and how you interact with our Services. | Information we automatically collect during your use of the Services. |
@@ -65,30 +65,24 @@ We may collect, use, process and/or disclose your personal data for the purposes
 
 | Purpose/Activity | Type of personal data | Lawful basis for processing |
 | --- | --- | --- |
-| To provide, maintain and facilitate our Services | \- Account Information<br><br>\- User Content<br><br>\- Feedback<br><br>\- Communication Information<br><br>\- Log Data<br><br>\- Usage Data<br><br>\-  Cookies | \- To perform a service contract with you |
-| To send you marketing communications, where you have signed up to receive them | \- Account Information<br><br>\- Communication Information | \- Consent (where required under applicable law) |
-| To prevent fraud, illegal activity, or misuses of our Services, and to protect the security of our systems and Services | \- Account Information<br><br>\- User Content<br><br>\- Log Data<br><br>\- Usage Data<br><br>\- Cookies | \- Legitimate interests (managing the security of our Services)<br><br>\- Legal obligation |
-| To provide you with technical support, and to maintain and improve our Services | \- Account Information<br><br>\- Feedback<br><br>\- Log Data<br><br>\- Usage Data<br><br>\- Cookies | \- Legitimate interests (managing the security of our Services) |
-| To improve the accuracy and quality of our services (including our AI models) | \- De-identified User Content<br><br>\- Feedback | \- Legitimate interests (to provide you more accurate and helpful services) |
-| To comply with legal obligations and to protect the rights, privacy, safety, or property of our users, us, or third parties. | \- Account Information<br><br>\- User Content<br><br>\- Feedback<br><br>\- Communication Information<br><br>\- Log Data<br><br>\- Usage Data<br><br>\- Cookies | \- Legitimate interests (managing the security and stability of our Services)<br><br>\- Legal obligation |
+| To provide, maintain and facilitate our Services, including by:<br><br>\- creating and administering your Account;<br><br>\- authenticating your login; and<br><br>\- generating and providing responses based on your prompts. | \- Account Information<br><br>\- User Content<br><br>\- Feedback<br><br>\- Communication Information<br><br>\- Log Data<br><br>\- Usage Data<br><br>\-  Cookies | \- Performance of a contract with you |
+| To provide voice-, audio-, or video-enabled features of the Services. | \- Account Information<br><br>\- User Content<br><br>\- Log Data<br><br>\- Usage Data<br><br>\-  Cookies | \- Performance of a contract with you<br><br>\- Your explicit consent, where sensitive personal data is included in your User Content |
+| To provide personalised Services, including through the Memory feature, which may retain certain details from your conversations to enable more personalised and consistent responses in future chats, as well as through other information you provide via applicable personalisation settings, prompts, or banners within the Services to tailor your experience. | \- Account Information<br><br>\- User Content<br><br>\- Log Data<br><br>\- Usage Data<br><br>\- Cookies | \- Performance of a contract with you<br><br>\- Legitimate interests (to ensure the security and quality of our Services) |
+| To communicate with you, including to send you information about our Services and events, and to send you marketing communications where you have opted in to receive them. | \- Account Information<br><br>\- Communication Information | \- Performance of a contract with you (for non-marketing communication, such as technical notices relating to the Services)<br><br>\- Consent (for marketing communications, where required under applicable law) |
+| To prevent fraud, illegal activity, or misuses of our Services, to protect the security of our systems and Services, and to manage, document, and report incidents or accidents. | \- Account Information<br><br>\- User Content<br><br>\- Log Data<br><br>\- Usage Data<br><br>\- Cookies | \- Legitimate interests (to ensure the security, integrity, quality, and proper functioning of our Services,)<br><br>\- Compliance with a legal obligation |
+| To develop and improve our Services, and to conduct research and statistical analysis relating to the Services. | \- Account Information<br><br>\- User Content<br><br>\- Feedback<br><br>\- Communication Information<br><br>\- Log Data<br><br>\- Usage Data<br><br>\- Cookies | \- Legitimate interests (to ensure the security and quality of our Services and to develop, maintain, and improve our Services) |
+| To provide customer support and troubleshooting, and to respond to your inquiries, requests, feedback, and suggestions. | \- Account Information<br><br>\- User Content<br><br>\- Feedback<br><br>\- Communication Information<br><br>\- Log Data<br><br>\- Usage Data<br><br>\- Cookies | \- Performance of a contract with you<br><br>\- Legitimate interests (to respond to inquiries and provide customer support, where applicable)<br><br>\- Compliance with a legal obligation (to respond to requests to exercise data protection rights) |
+| To train and improve the accuracy, performance, and quality of our services (including our AI models) | \- De-identified User Content<br><br>\- Feedback | \- Legitimate interests (to provide more accurate, reliable and helpful Services and to develop and provide advanced AI models as part of the Services) |
+| To comply with legal obligations and to protect the rights, privacy, safety, or property of our users, our company, or third parties. | \- Account Information<br><br>\- User Content<br><br>\- Feedback<br><br>\- Communication Information<br><br>\- Log Data<br><br>\- Usage Data<br><br>\- Cookies | \- Legitimate interests (to ensure the security, quality, and stability of our Services and to protect the rights, property, and safety of our users, our company, and third parties)<br><br>\- Compliance with a legal obligation |
+| To investigate and resolve disputes in connection with claims, actions, or proceedings (including, without limitation, drafting and reviewing documents, preparing transaction-related documentation, obtaining legal advice, and facilitating dispute resolution), and/or to protect, establish, exercise, or enforce our contractual and legal rights and obligations. | \- Account Information<br><br>\- User Content<br><br>\- Feedback<br><br>\- Communication Information<br><br>\- Log Data<br><br>\- Usage Data<br><br>\- Cookies<br><br>\- Any other data necessary for the investigation or resolution of the dispute | \- Performance of a contract with you<br><br>\- Legitimate interests (to protect, establish, exercise, or defend our legal rights) |
 
-In addition, where permitted under applicable law, we may also collect, use and disclose your Personal Data for the following purposes:
+In addition, where permitted under applicable law, we may also collect, use and disclose your Personal Data for the following purposes, on the basis of protecting our legitimate interests:
 
-(a) responding to, processing and handling your queries, requests, feedback and suggestions, or otherwise providing customer support;
+(a) managing the administrative and business operations of the Companies and complying with internal policies and procedures;
 
-(b) verifying your identity;
+(b) facilitating business asset transactions (which may extend to any mergers, acquisitions or asset sales) involving any of the Companies;
 
-(c) managing the administrative and business operations of the Companies and complying with internal policies and procedures;
-
-(d) facilitating business asset transactions (which may extend to any mergers, acquisitions or asset sales) involving any of the Companies;
-
-(e) making media announcements and providing responses to media queries;
-
-(f) in connection with any claims, actions or proceedings (including but not limited to drafting and reviewing documents, transaction documentation, obtaining legal advice, and facilitating dispute resolution), and/or protecting and enforcing our contractual and legal rights and obligations;
-
-(g) managing and preparing reports on incidents and accidents; and/or
-
-(h) any other purpose relating to or reasonably necessary for any of the above.
+(c) any other purpose relating to or reasonably necessary for any of the above.
 
 In addition to the matters set forth above, subject to and in accordance with applicable law, you shall be deemed to have consented to us collecting, using, disclosing and sharing amongst ourselves your personal data, and disclosing such personal data to our authorised service providers and relevant third parties:
 
@@ -110,8 +104,9 @@ We may disclose your personal data to the following categories of recipients:
 2.  (b) third party service providers and partners who provide data processing services to us as necessary to provide you with our Services, or who otherwise process personal data for purposes described in this Privacy Policy;
 3.  (c) analytics, search engine providers or other third party service providers that assist us in delivering our products, services, websites and platforms as well as improving and optimising the same;
 4.  (d) any business partner, investor, assignee or transferee (actual or prospective) to facilitate business asset transactions (which may extend to any merger, acquisition or any debt or asset sale) involving any of the Companies;
-5.  (e) any competent law enforcement body, regulatory, government agency, court or other third party (such as our professional advisers) where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights or so a third party can defend theirs, or (iii) to protect your vital interests or those of any other person; and
-6.  (f) any other person, with your consent to the disclosure.
+5.  (e) any competent law enforcement body, regulatory, government agency, court or other third party (such as our professional advisers) where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights or so a third party can defend theirs, or (iii) to protect your vital interests or those of any other person;
+6.  (f) To an actual or potential buyer (and its agents and advisers) in connection with any actual or proposed purchase, merger or acquisition of any part of our business, provided that we inform the buyer it must use your personal data only for the purposes disclosed in this Privacy Policy; and
+7.  (g) any other person, with your consent to the disclosure.
 
 **V. How Your Personal Data May Be Transferred Globally**
 
@@ -140,7 +135,7 @@ We may disclose your personal data to the following categories of recipients:
 
 **VIII. How Do We Process Children’s Personal Data**
 
-Our Services are not directed to, or intended for, the individual under 18. We do not knowingly collect Personal Data from children under 13. If you have reason to believe that a child under 13 has provided Personal Data to us through the Services, please contact our DPO via the contact details set out below. We will investigate any notification and, if appropriate, delete the Personal Data from our systems.
+Our Services are not directed to, or intended for, the individual under 18 (“Minors”). We do not knowingly collect Personal Data from Minors. If you have reason to believe that a Minor has provided Personal Data to us through the Services, please contact our DPO via the contact details set out below. We will investigate any notification and, if appropriate, delete the Personal Data from our systems.
 
 **IX. Your Rights to Your Personal Data**
 
