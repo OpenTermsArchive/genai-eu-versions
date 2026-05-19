@@ -793,7 +793,7 @@ _close_
 
 - - -
 
-### **Last updated:** May 5, 2026
+### **Last updated:** May 19, 2026
 
 Table of contents
 -----------------
@@ -838,8 +838,9 @@ Table of contents
         *   [What happens with my data that Gemini, Connected Apps, and other services exchange?](#data_exchange)
         *   [How can I allow Gemini to personalize my experience with my data from Connected Apps?](#app_data_personalization)
         *   [How is my data used to make calls & send messages with Connected Apps in Gemini?](#comms_ext)
-    *   **[Gemini Agent](#gemini_agent)**
-        *   [How does Gemini Agent use my data with the remote browser?](#agent_browser_data)
+    *   **[Gemini Spark](#gemini_agent)**
+        *   [How does Gemini Spark use my data with the remote browser and remote computer?](#agent_browser_data)
+        *   [What happens when you turn off Gemini Spark?](#turn_off_spark)
     *   **[Gemini Live](#gemini_live)**
         *   [How does Google work with Gemini Live data?](#live_data)
     *   **[Gemini in Chrome](#chrome)**
@@ -847,6 +848,7 @@ Table of contents
     *   **[Screen automation in Android apps](#screen_automation)**
         *   [What happens with my data when Gemini uses screen automation to help me get tasks done in Android apps?](#mydata_screen_automation)
     *   **[Shopping](#shopping)**
+        *   [What happens to my data when I add items to the Google shopping cart from Gemini?](#shopping_cart)
         *   [What happens to my data when I use Google Pay in Gemini?](#shopping_data)
     *   **[Gems from Google Labs](#gems_from_labs)**
         *   [What happens to my data when I interact with Gems from Google Labs?](#gems_from_labs_data)
@@ -854,6 +856,8 @@ Table of contents
         *   [What happens to my data when I import memory or chats from other AI platforms?](#import_chats)
     *   **[Notebooks](#notebooks)**
         *   [What happens to my data when when I use Notebooks in Gemini?](#notebook_data)
+    *   **[Avatars](#avatar)**
+        *   [What happens to my data when I create an avatar in Gemini Apps?](#avatar_data)
     *   **[Canvas](#canvas)**
         *   [What happens to my data when I interact with Canvas web apps?](#canvas_data)
     *   **[Terms of service](#tos_section)**
@@ -862,7 +866,7 @@ Table of contents
 Gemini Apps Privacy Notice
 --------------------------
 
-**Last updated:** March 27, 2026
+**Last updated:** May 19, 2026
 
 This notice supplements the Google [Privacy Policy](https://policies.google.com/privacy), and they explain how Google processes your data when you interact with Gemini, your personal AI assistant from Google, through the services listed [here](https://support.google.com/gemini?p=pn_gemini_apps) (“**Gemini Apps**” or “**Gemini**” for short) while signed in. The Google Privacy Policy explains how Google processes your data when you use Gemini while you’re signed out.
 
@@ -874,17 +878,17 @@ What data is collected
 
 #### Information you provide Gemini Apps
 
-*   What you say to Gemini Apps (like the prompts you submit or speak)
+*   What you say to Gemini Apps (like the prompts you submit or speak, and tasks you ask Gemini to do for you)
 *   What you share with Gemini Apps (like files, videos, [screens you ask about](https://support.google.com/gemini/answer/15850607), photos, imported chats, and page content you share from your browser)
 *   Transcripts and recordings of your interactions with Gemini Live (including audio, [video and screens](https://support.google.com/gemini?p=pn_vss) you share with Live)
 *   Your [feedback](https://support.google.com/gemini?p=pn_feedback_use)
-*   Names and custom instructions of your [Gems](https://support.google.com/gemini?p=pn_gems)
-*   [Instructions for Gemini (or “Saved Info”in some locales)](https://support.google.com/gemini?p=pn_saved_info)
+*   Instructions you provide, for example, in [Gems](https://support.google.com/gemini?p=pn_gems) and [Skills](https://support.google.com/gemini?p=pn_skills) as well as [Instructions for Gemini (“Saved Info”in some locales)](https://support.google.com/gemini?p=pn_saved_info)
 
 #### Information we collect as you use Gemini Apps
 
-*   **Content that Gemini Apps generates** (like text, code, audio, images, video, music, [public links](https://support.google.com/gemini?p=pn_pub_links), citations, chat summaries and personalized insights)
-*   **Information from your apps, browsers, and devices**
+*   **Content that Gemini Apps generates** (like text, code, audio, images, video, music, [public links](https://support.google.com/gemini?p=pn_pub_links), citations, chat summaries, and personalized insights)
+*   **Information about steps our technologies take** to do tasks for you or respond to your prompts, like model thinking steps
+*   **Information from your apps, browsers, and devices**
     *   Information from your [Connected Apps](https://support.google.com/gemini?p=pn_apps) and other Google services you use with Gemini Apps (such as your Search or YouTube history, or your page context and URL from Chrome)
     *   Information about the apps on your device (for example, to help you get things done using your apps)
     *   Information about the apps, browsers, and devices you use to access Gemini Apps (such as identifiers, browser type and settings, device type and settings, operating system)
@@ -893,9 +897,9 @@ What data is collected
     *   Remote browser data like cookies that contain your website authentication info and screen captures or other page content
     *   Context info from devices and services you use with Gemini (such as smart home device names and playlists)
     *   Data about your interactions with public Gemini Apps content
-*   **Supplemental information:** information collected through supplemental Gemini Apps features you opt into.
+*   **Supplemental information:** information collected through supplemental Gemini Apps features you choose to use.
 *   **Location information:** the general area from your device, IP address, or Home or Work addresses in your Google Account. Learn more at [g.co/privacypolicy/location](https://g.co/privacypolicy/location).
-*   **Subscription information:** if you have a paid subscription to Gemini, subscription related information.
+*   **Subscription information:** if you have a paid subscription to a Google AI plan, subscription related information.
 
 How your data is used
 
@@ -916,13 +920,14 @@ Human reviewers (including trained reviewers from our service providers) review 
 
 How Gemini Apps get help from Google services
 
-*   We rely on other Google services and infrastructure to provide Gemini Apps. For example, some Gemini responses are grounded on Search results.
-*   Gemini also gets help from other Google services such as Google Assistant. When Gemini gets help from Google Assistant for certain actions, relevant Google Assistant settings apply.
+*   We rely on other Google services and infrastructure to provide Gemini Apps. For example, some Gemini responses are grounded on Search results. And when Gemini gets help from Google Assistant for certain quick voice actions, relevant Assistant settings apply.
 *   If you are 18 or older and upgrade to Gemini Apps, your calling or texting history may be imported from your Web & App Activity to Gemini Apps Activity in some regions. This helps improve your Gemini Apps experience, like contact suggestions. [Learn more](https://support.google.com/gemini?p=awb_opt_in).
 
 How Gemini Apps work with Connected Apps
 
 Gemini Apps work with Connected Apps, including Google apps and third-party services. Gemini saves and uses info from Connected Apps according to this notice, including to provide and improve Gemini Apps. Connected Google apps save and use your data, per their policies and the [Google Privacy Policy](https://policies.google.com/privacy), including to provide and improve their services. If you use Gemini Apps to interact with third-party services, they process your data according to their own privacy policies.
+
+Eligible users with [Personal Intelligence](https://support.google.com/gemini?p=pn_pi_consent) can connect some Google apps to Gemini Apps to get new, more personalized experiences. [Learn more about eligibility](https://support.google.com/gemini?p=pn_pi_apps_eligibility).
 
 Audio Features
 
@@ -936,14 +941,14 @@ Configuring your settings
 
 You can visit [your Google Account](https://account.google.com/) to manage your data and privacy. Gemini Apps also provide settings to help you manage your data and experience, like:
 
-*   Visit [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) to review and delete your activity (which includes imported chats), change your auto-delete period, and control whether your data is used to improve Google AI. These services include, for example, the generative AI models powering Gemini Apps. The settings in Gemini Apps Activity don’t control processing of your chats to create anonymized data to improve Google services. When your Keep Activity setting is off, Google still uses your chats to respond to you and help protect Google, our users, and the public, including with help from human reviewers.
-*   Manage Gems in [Gem Manager](https://gemini.google.com/gems/view).
+*   Visit [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) to review and delete your activity (including imported chats), change your auto-delete period, and control whether your data is used to improve Google AI. These services include, for example, the generative AI models powering Gemini Apps. Your Gemini settings don’t control processing of your chats to create anonymized data to improve Google services. Even if your Keep Activity setting is off, Google still uses your chats to respond to you and help protect Google, our users, and the public, including with help from human reviewers.
+*   Manage Gems and Skills in the [Gems Manager](https://gemini.google.com/gems/view) and [Skills Manager](https://gemini.google.com/agent/skills).
 *   Manage public links in [Your Public Links](https://gemini.google.com/sharing).
 *   Manage Gemini Apps’ access to other apps and data in [Apps](https://support.google.com/gemini?p=pn_manage_ext) settings.
 *   Manage [info you have asked Gemini to save](https://gemini.google.com/saved-info).
 *   Manage your remote browser profile data in the [Remote Browser Data](https://gemini.google.com/remote-browser-data) setting.
-*   Learn more about how to manage personalization features, including personalization with [past chats](https://support.google.com/gemini?p=pn_past_chats) and [Personal Intelligence](https://support.google.com/gemini?p=pn_pi_consent).
-*   You can use Gemini, hosted by the Google app, as your device assistant on Android. [Learn more](https://support.google.com/gemini?p=manage_app_permissions) about how to manage your Google app permissions (such as device location, microphone, and camera permissions).
+*   Learn more about how to manage personalization features, including personalization with [Memory](https://support.google.com/gemini?p=pn_past_chats) and [Personal Intelligence](https://support.google.com/gemini?p=pn_pi_consent).
+*   You can use Gemini, hosted by the Google app, as your device assistant on Android. [Learn more](https://support.google.com/gemini?p=manage_app_permissions) about how to manage your Google app permissions (such as device location, microphone, notification permissions, and camera permissions).
 *   [Learn more](https://support.google.com/gemini?p=pn_mobile_app_settings) about how to manage your Gemini mobile app settings.
 *   [Learn more](https://support.google.com/gemini?p=pn_default_assistant) about how to set the Google app as the default digital assistant app.
 
@@ -957,6 +962,7 @@ We retain your data for different periods of time, depending on what it is and h
 *   Chats reviewed by human reviewers (and related data like your language, device type, location info, or feedback) are not deleted when you delete your activity. Instead, they are retained for up to three years.
 *   We keep some data until you delete your Google Account, such as information about how often you use Gemini Apps.
 *   We retain some data for longer when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping.
+*   When you use Gemini with other Google services (like Wallet or YouTube), they may save and use activity according to their own policies and the [Google Privacy Policy](https://policies.google.com/privacy). Deleting your Gemini Apps activity does not delete data saved in those other services.
 
 Learn more about Google’s [data retention periods](https://policies.google.com/technologies/retention), including how long it takes us to delete your information.
 
@@ -967,19 +973,20 @@ You can [request](https://support.google.com/gemini?p=gemini_pntos_removal_reque
 Other things to know
 
 *   Gemini Apps are continuously evolving and may produce inaccurate or offensive information (including about people) that doesn’t represent Google’s views.
-*   Don’t rely on responses from Gemini Apps for diagnosis, treatment, or medical, legal, financial, or other professional advice. Its output is for informational purposes only.
-*   Monitor Gemini’s browsing closely and interrupt if needed.
+*   Some Gemini Apps features are designed to help you complete tasks, like managing your Workspace content, interacting with websites, and helping you communicate with others. Take care when using these features since Gemini can make mistakes, like making purchases or sharing your data with third parties unexpectedly.
+*   Supervise Gemini’s web browsing and tasks closely and interrupt if needed.
+*   Don’t rely on Gemini Apps for diagnosis, treatment, medical advice, or legal, financial, or other professional help. Its output is for informational purposes only.
 
 Learn more in the [Gemini Apps Privacy Hub](https://support.google.com/gemini?p=privacy_help) and [Google Privacy Policy](https://policies.google.com/privacy).
 
 Respect others’ rights
 
-Please [respect others' rights](https://policies.google.com/terms/generative-ai/use-policy) when using Gemini Apps and ask permission before recording them in a Live chat. Only upload, generate, and edit content you have rights to.
+Please [respect others' rights](https://policies.google.com/terms/generative-ai/use-policy) when using Gemini. Get permission before recording people in a Live chat, or using their faces or voices in Gemini. Only upload, generate, and edit content you have rights and permissions to.
 
 Privacy questions
 -----------------
 
-**Last updated:** May 5, 2026
+**Last updated:** May 19, 2026
 
 ### General
 
@@ -1135,6 +1142,7 @@ Your future chats won’t appear in your Activity, and won’t be used to train 
 *   Other settings like [Web & App Activity](https://support.google.com/websearch/answer/54068) or [Location History](https://support.google.com/accounts/answer/14200149) may continue to save location and other data as part of your use of other Google services.
 *   Turning off Keep Activity or deleting Gemini Apps activity doesn’t delete data in other Google services. Learn more about [how Google services retain data](https://policies.google.com/technologies/retention).
 *   Source files you add to your Notebooks are saved in Notebooks. [View the Privacy and Terms of Use in NotebookLM](https://support.google.com/notebooklm/answer/17004255).
+*   Turning off Keep Activity or deleting Gemini Apps activity doesn’t impact [your remote browser and remote computer data and settings](https://support.google.com/gemini/answer/gemini.google.com/gemini-spark). 
 
 You can [manage this setting](https://support.google.com/gemini/answer/13278892) anytime.
 
@@ -1144,7 +1152,7 @@ You can choose to let Google use your audio and Gemini Live videos and screensha
 
 ### **If you turn this setting on:**
 
-Google uses your audio and [Gemini Live videos and screenshares](https://support.google.com/gemini/answer/15274899#ss_vid) in Gemini Apps Activity to improve and develop our services (including training generative AI models). This includes audio and Gemini Live videos and screenshares already stored in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) and added in the future.
+Google uses your audio and [Gemini Live videos and screenshares](https://support.google.com/gemini/answer/15274899#ss_vid) in [Gemini Apps Activity](https://support.google.com/gemini/answer/myactivity.google.com/product/gemini?utm_source=help) to improve and develop our services (including training generative AI models). This includes audio and Gemini Live videos and screenshares already stored in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) and added in the future.
 
 Some audio and Gemini Live videos and screenshares are reviewed by human reviewers. To protect your privacy, activity sent to service providers isn't connected with your Google Account.
 
@@ -1153,6 +1161,7 @@ Some audio and Gemini Live videos and screenshares are reviewed by human reviewe
 *   Gemini Apps are designed to wait in standby mode until they’re activated, for example when they detect “Hey Google.” Audio recordings may begin a few seconds before activation.
 *   Gemini can activate accidentally, like if it detects a noise like “Hey Google.” These recordings are also used to help reduce unintended activations for everyone.
 *   If you use Gemini with [Voice Match](https://support.google.com/gemini/answer/14579631?co=GENIE.Platform%3DAndroid#vm), a model of your voice is temporarily used to improve Voice Match.
+*   This setting is separate from your settings in other services, like the [Gemini for Home](https://home.google.com/get-inspired/bring-home-the-magic-of-gemini/) setting to improve Google services with voice, audio, and Gemini Live recordings. You can manage that setting in your [Google Home History](https://myactivity.google.com/product/home?utm_source=help).
 
 #### You’re in control
 
@@ -1160,16 +1169,17 @@ You can turn this setting off or [manage and delete](https://support.google.com/
 
 ### **If you turn this setting off:**
 
-Your future audio and [Gemini Live videos and screenshares](https://support.google.com/gemini/answer/15274899#ss_vid) won’t be used to improve our services (including AI models), unless you choose to send Google feedback.
+Your future audio and [Gemini Live videos and screenshares](https://support.google.com/gemini/answer/15274899#ss_vid) in [Gemini Apps Activity](https://myactivity.google.com/product/gemini) won’t be used to improve our services (including AI models), unless you choose to send Google feedback.
 
 #### **Keep in mind**
 
 *   Future audio and Gemini Live videos and screenshares will still be used to respond to you and help make Gemini safe.
-*   Transcripts of your Live chats and any other content you share with Gemini are covered by the [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) setting, which you can turn off anytime.
+*   Transcripts of your Live chats in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) and any other content you share with Gemini Apps are covered by the [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) setting, which you can turn off anytime.
+*   This setting is separate from your settings in other services. For example, turning this off doesn't turn off the [Gemini for Home](https://home.google.com/get-inspired/bring-home-the-magic-of-gemini/) setting to improve Google services with voice, audio, and Gemini Live recordings. You can turn that setting off in your [Google Home History](https://myactivity.google.com/product/home?utm_source=help).
 
 How does Gemini Apps use my saved info and instructions?
 
-Gemini Apps use your info and instructions to provide more customized responses. This data remains saved until you choose to delete it. You can stop saving info and instructions anytime. [Learn more](https://support.google.com/gemini/answer/16598625).
+Gemini Apps use your info and instructions to customize your experience and help you get things done, like completing scheduled actions and tasks. This data remains saved until you choose to delete it. You can stop saving info and instructions anytime. [Learn more](https://support.google.com/gemini/answer/16598625).
 
 How can I control whether Gemini Apps use my past chats to personalize my experience?
 
@@ -1217,7 +1227,7 @@ At any time, you can:
 
 #### Things to Know
 
-Location data is stored in your chats if it is part of your prompts or responses, for example, if you ask Gemini Apps about restaurants “near me” and the response references your city. You can [manage and delete your Gemini Apps activity](https://support.google.com/gemini/answer/13278892) anytime.
+References to location may be stored in your chats if it is part of your prompts or responses, for example, if you ask Gemini Apps about restaurants “near me” and the response references your city. You can [manage and delete your Gemini Apps activity](https://support.google.com/gemini/answer/13278892) anytime.
 
 How do I know if Gemini Apps have access to and are using my precise location?
 
@@ -1230,6 +1240,7 @@ How to check in:
 *   [The Gemini mobile app on an iPhone or iPad](https://support.google.com/gemini/answer/14554984?co=GENIE.Platform%3DiOS&oco=0#location) 
 *   [Gemini on Watch on a WearOS device](https://support.google.com/gemini/answer/16401122#location)
 *   [Gemini in Chrome](https://support.google.com/gemini/answer/16283624#config_settings)
+*   Google Built-In
 
 Gemini may receive your precise location data from another Google service, like Android Auto, to fulfill your request even if the precise location settings above are off.  [Learn how to turn off precise location in Android Auto](https://support.google.com/accounts/answer/3467281).
 
@@ -1241,7 +1252,10 @@ Learn more [about your location and how to manage it](https://support.google.com
 
 Where is my data saved when Gemini and Google Assistant work together?
 
-When Gemini and Google Assistant work together within your Gemini mobile app, your activity is saved in your [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) (if Keep Activity is on) and used as described in the [Gemini Apps Privacy Notice](#privacy_notice). When Google Assistant powers features or devices outside of your Gemini mobile app, your activity is saved in your [Web & App Activity](https://myactivity.google.com/myactivity?utm_source=help) (if on). [Learn more about how Google Assistant works with your data](https://support.google.com/assistant/answer/11091015).
+When Gemini and Google Assistant work together within your Gemini mobile app, your activity is saved in your [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) (if Keep Activity is on) and used as described in the [Gemini Apps Privacy Notice](#privacy_notice). When Google Assistant powers features or devices outside of your Gemini mobile app, your activity is saved in your [Web & App Activity](https://myactivity.google.com/myactivity?utm_source=help) (if on).
+
+*   [Learn about how to use Voice Match and how your recordings are saved and used](https://support.google.com/accounts/answer/16467537?)
+*   [Learn more about how Google Assistant works with your data](https://support.google.com/assistant/answer/11091015).
 
 How do I manage my mobile permissions when Gemini is my device assistant?
 
@@ -1284,7 +1298,7 @@ Data shared between Gemini and Connected Apps plus other Google services include
 
 Gemini uses data from Connected Apps per the [Gemini Apps Privacy Notice](#privacy_notice), including to give you tailored help, find info for you, and help you get more done. 
 
-Data that Gemini shares with other Google services is used per the [Google Privacy Policy](https://policies.google.com/privacy), including for product improvement. Third-party apps use data from Gemini consistent with their own privacy policies and terms.
+Data that Gemini shares with other Google services is used per the [Google Privacy Policy](https://policies.google.com/privacy), including for product improvement. When you use agentic features, Gemini shares this data with others to help complete your tasks. Third-party apps use data from Gemini consistent with their own privacy policies and terms.
 
 #### How to manage your Connected Apps
 
@@ -1339,25 +1353,44 @@ Messages that you create and send with the Gemini app are not end-to-end-encrypt
 
 **Important:** Google Assistant settings, like Assistant on lock screen settings, do not apply to apps connected to Gemini.
 
-### Gemini Agent
+### Gemini Spark
 
-How does Gemini Agent use my data with the remote browser?
+How does Gemini Spark use my data with the remote browser and remote computer?
 
-When you use the experimental Gemini Agent feature, Gemini may use a remote browser to help complete your tasks. This feature is only available when [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) is on. [Learn more about eligibility](https://support.google.com/gemini/answer/16596215).
+When you use the beta Gemini Spark feature, Gemini may use a remote browser or remote computer to help complete your tasks and execute code. This feature is only available when [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) is on. [Learn more about Gemini Spark](https://support.google.com/gemini/answer/1709450).
 
-#### What data is collected & processed
+#### What data is processed
 
-When using the remote browser, Gemini Agent collects and processes information from your browser session, like cookies that contain your website authentication info and screen captures or other page content. Gemini Agent uses this data to make it easier for you to use the remote browser in future chats and consistent with the [Gemini Apps Privacy Notice](#privacy_notice). You can delete this data at any time in your [Remote Browser Data](https://gemini.google.com/remote-browser-data) setting.
+When you use Spark, Gemini uses info from your tasks, schedules, skills, remote browser, remote computer, and any other available sources, like Connect Apps, Personal Intelligence, and info from websites it interacts with, including those you are logged into.
 
-#### What data is shared when using the remote browser
+*   **Remote browser:** Gemini processes information from your browser session, like cookies that contain your website authentication info, and page content.
+*   **Remote computer:** Gemini saves and executes .md files, code and other information related to your tasks. This saved information can include data you find sensitive from sources like Personal Intelligence and Connected Apps that Spark has used to understand and process your tasks.
 
-To fulfill your requests, Gemini Agent may share info from your chat with the remote browser and websites you interact with. If you used a Connected App in the chat, shared chat info may include data and content from that Connected App.
+This data is used consistently with the [Gemini Apps Privacy Notice](https://support.google.com/gemini/answer/13594961?visit_id=639141982241045711-2517164401&p=privacy_help&rd=1#privacy_notice), including to make it easier for you to use the remote browser and remote computer in future chats. You can delete this data at any time in [your Gemini Spark settings](https://gemini.google.com/gemini-spark). 
+
+#### What data is shared
+
+To complete your tasks, including through your Connected Apps and the remote browser, Gemini will share with other services and third parties necessary info, which can include data like your name and address or info you find sensitive. This info may include data from your Connected Apps and remote computer files.
 
 #### How to control & manage your data
 
-Supervise Gemini Agent closely and interrupt it by selecting Stop ![](//storage.googleapis.com/support-kms-prod/iX0I6w433l2bh3tyW8zFo6fGlGva92hj2t8D) in the prompt text box or **Take Control** ![](//storage.googleapis.com/support-kms-prod/hwKEPhwrIHfZN6UMXgHwnDc7uI6xICKxxTyC) in the remote browser. [Learn how to take control of Gemini’s browser](https://support.google.com/gemini/answer/16596215#take_control).
+**Remote browser:** You can interrupt Gemini Spark's actions on the remote browser by selecting  Stop ![](//storage.googleapis.com/support-kms-prod/MCPnFLjramIvDWxdZ2z5qpPv0SY0YX5XDkFe) in the prompt text box or **Take Control** ![](//storage.googleapis.com/support-kms-prod/hwKEPhwrIHfZN6UMXgHwnDc7uI6xICKxxTyC) in the remote browser.
 
-You can delete remote browser data in your [Remote Browser Data](https://gemini.google.com/remote-browser-data) setting. This will sign you out of all sites you visited with the remote browser.
+You can also delete remote browser data in your [Gemini Spark setting](https://gemini.google.com/gemini-spark). This will sign you out of all sites in the remote browser.
+
+**Remote computer:** You can manage or clear your code execution history and files directly within your [Gemini Spark settings](https://gemini.google.com/gemini-spark).
+
+What happens when you turn off Gemini Spark?
+
+**If you turn Gemini Spark off:**
+
+*   Your [remote browser data and remote computer data](https://gemini.google.com/gemini-spark) is deleted
+*   Your schedules and tasks are paused and not deleted
+*   Your chats are not deleted but you can manage them anytime in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help)
+
+**If you turn Gemini Spark back on:**
+
+*   Gemini will automatically resume paused tasks and schedules 
 
 ### Gemini Live
 
@@ -1413,13 +1446,23 @@ Learn more about [how you can use Gemini to get tasks done with screen automatio
 
 ### Shopping
 
+What happens to my data when I add items to the Google shopping cart from Gemini?
+
+When you add products to your Google shopping cart from Gemini, cart and order data is saved to your [Google Wallet](http://wallet.google.com/). This data is used in accordance with the Google Terms and Privacy Policy, and your Wallet settings, including for personalization and ads (depending on your settings).
+
+#### How to control & manage your data 
+
+You can access your Google shopping cart in Gemini at any time through the Cart and My Orders setting.
+
+[Learn more about how to manage your data & privacy in Google Wallet](https://support.google.com/wallet?p=privacy_wallet).
+
 What happens to my data when I use Google Pay in Gemini?
 
-When you use Google Pay to make a purchase in Gemini, the transaction history is saved to your [Google Pay activity](https://myactivity.google.com/product/gpay/other) and is used in accordance with the [Google Payments Privacy Notice](https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice) and your Google Pay activity settings. 
+When you use Google Pay to make a purchase in Gemini, the transaction history is saved to your [Google Pay activity](https://myactivity.google.com/product/gpay/other) and is used in accordance with the [Google Payments Privacy Notice](https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice) and your Google Pay activity settings, including for personalization and ads (depending on your settings). 
 
 **How to control & manage your data** 
 
-You can review your order history in Gemini anytime in the Purchases section under My Stuff.
+You can review your order history in Gemini anytime in the Purchases section under Library.
 
 You can review your transaction history and manage your orders anytime in the [Google Pay app or website](https://pay.google.com/).
 
@@ -1458,6 +1501,22 @@ You can also choose at any time to delete individual imported chats, or bulk del
 What happens to my data when when I use Notebooks in Gemini?
 
 Chats with your Notebooks in Gemini are saved according to your [Keep Activity setting](https://myactivity.google.com/product/gemini?utm_source=gemini) and used as described in the [Gemini Apps Privacy Notice](https://support.google.com/gemini/answer/13594961?hl=en#privacy_notice), including to improve Gemini with the help of human reviewers. Files you add to your Notebook as a source in Gemini are not used directly for training our generative AI models.
+
+### Avatars
+
+What happens to my data when I create an avatar in Gemini Apps?
+
+Creating an avatar involves recording your voice and face. Google uses that data to generate AI content using your avatar across certain Google services, including Gemini Apps, and to protect Google, our users, and the public.
+
+#### How data is stored
+
+Your recordings are securely stored in your Google Account. If you don’t access or use your recordings for 3 years, Google will automatically delete them.
+
+#### How to control & manage your data
+
+You are in control of your recordings; you can delete them at any time in the [Data & Privacy tab](https://myaccount.google.com/data-and-privacy) of your Google Account. You can also find the deletion option from your Gemini settings.
+
+**Important:** This setting is separate and distinct from the setting YouTube offers over avatar data stored with your YouTube channel (if you have one). Deleting one does not affect the other.
 
 ### Canvas
 
