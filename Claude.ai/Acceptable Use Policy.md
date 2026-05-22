@@ -1,7 +1,7 @@
 Usage Policy
 ============
 
-Effective September 15, 2025[Previous Version](https://www.anthropic.com/legal/archive/7197103a-5e27-4ee4-93b1-f2d4c39ba1e7)
+Effective 15 September 2025[Previous Version](https://www.anthropic.com/legal/archive/7197103a-5e27-4ee4-93b1-f2d4c39ba1e7)
 
 English
 
