@@ -1142,7 +1142,7 @@ Your future chats won’t appear in your Activity, and won’t be used to train 
 *   Other settings like [Web & App Activity](https://support.google.com/websearch/answer/54068) or [Location History](https://support.google.com/accounts/answer/14200149) may continue to save location and other data as part of your use of other Google services.
 *   Turning off Keep Activity or deleting Gemini Apps activity doesn’t delete data in other Google services. Learn more about [how Google services retain data](https://policies.google.com/technologies/retention).
 *   Source files you add to your Notebooks are saved in Notebooks. [View the Privacy and Terms of Use in NotebookLM](https://support.google.com/notebooklm/answer/17004255).
-*   Turning off Keep Activity or deleting Gemini Apps activity doesn’t impact [your remote browser and remote computer data and settings](https://support.google.com/gemini/answer/gemini.google.com/gemini-spark). 
+*   Turning off Keep Activity or deleting Gemini Apps activity doesn’t impact [your remote browser and remote computer data and settings](https://gemini.google.com/gemini-spark). 
 
 You can [manage this setting](https://support.google.com/gemini/answer/13278892) anytime.
 
@@ -1201,7 +1201,7 @@ What location information do Gemini Apps collect, why, and how is it used?
 
 Location data is always collected if you use Gemini Apps so that they can provide you with a response that is relevant to your query. For example, to respond to prompts like "What's the weather?", Gemini Apps need to know your location.
 
-#### Where Gemini Apps get location data & how its used
+#### Where Gemini Apps get location data & how it's used
 
 The source of the location data Gemini Apps collect varies. By default, Gemini Apps use the general area from your IP address or the Home or Work addresses in your Google Account to give relevant responses to prompts like “What’s the weather?”
 
@@ -1357,7 +1357,7 @@ Messages that you create and send with the Gemini app are not end-to-end-encrypt
 
 How does Gemini Spark use my data with the remote browser and remote computer?
 
-When you use the beta Gemini Spark feature, Gemini may use a remote browser or remote computer to help complete your tasks and execute code. This feature is only available when [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) is on. [Learn more about Gemini Spark](https://support.google.com/gemini/answer/1709450).
+When you use the beta Gemini Spark feature, Gemini may use a remote browser or remote computer to help complete your tasks and execute code. This feature is only available when [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) is on. [Learn more about Gemini Spark](https://support.google.com/gemini/answer/17094507).
 
 #### What data is processed
 
@@ -1376,7 +1376,7 @@ To complete your tasks, including through your Connected Apps and the remote bro
 
 **Remote browser:** You can interrupt Gemini Spark's actions on the remote browser by selecting  Stop ![](//storage.googleapis.com/support-kms-prod/MCPnFLjramIvDWxdZ2z5qpPv0SY0YX5XDkFe) in the prompt text box or **Take Control** ![](//storage.googleapis.com/support-kms-prod/hwKEPhwrIHfZN6UMXgHwnDc7uI6xICKxxTyC) in the remote browser.
 
-You can also delete remote browser data in your [Gemini Spark setting](https://gemini.google.com/gemini-spark). This will sign you out of all sites in the remote browser.
+You can also delete remote browser data in your [Gemini Spark settings](https://gemini.google.com/gemini-spark). This will sign you out of all sites in the remote browser.
 
 **Remote computer:** You can manage or clear your code execution history and files directly within your [Gemini Spark settings](https://gemini.google.com/gemini-spark).
 
