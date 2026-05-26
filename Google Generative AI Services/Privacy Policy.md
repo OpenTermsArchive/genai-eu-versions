@@ -1018,7 +1018,7 @@ Under certain privacy laws, including the General Data Protection Regulation in 
 
 To exercise these rights, you can [create a request in our Help Center](https://support.google.com/legal/troubleshooter/1114905?#ts=1115658%2C13380504).
 
-You can also create a request directly in Gemini Apps. Below the Gemini app’s response, select More ![](//storage.googleapis.com/support-kms-prod/asWtkPX7yrGtrCkKT636sbta5IOgHtn8Cd3m) ![and then](//lh3.googleusercontent.com/3_l97rr0GvhSP2XV5OoCkV2ZDTIisAOczrSdzNCBxhIKWrjXjHucxNwocghoUa39gw=h36) **Report legal issue**.
+You can also create a request directly in Gemini Apps. Below the Gemini app’s response, select More ![](//storage.googleapis.com/support-kms-prod/OzXDkVHpwsoMASjeTZb0eJez8pPlaLyezJtr) ![and then](//lh3.googleusercontent.com/3_l97rr0GvhSP2XV5OoCkV2ZDTIisAOczrSdzNCBxhIKWrjXjHucxNwocghoUa39gw=h36) **Report legal issue**.
 
 [Create a request](https://support.google.com/legal/troubleshooter/1114905?#ts=1115658%2C13380504)
 
@@ -1374,7 +1374,7 @@ To complete your tasks, including through your Connected Apps and the remote bro
 
 #### How to control & manage your data
 
-**Remote browser:** You can interrupt Gemini Spark's actions on the remote browser by selecting  Stop ![](//storage.googleapis.com/support-kms-prod/MCPnFLjramIvDWxdZ2z5qpPv0SY0YX5XDkFe) in the prompt text box or **Take Control** ![](//storage.googleapis.com/support-kms-prod/hwKEPhwrIHfZN6UMXgHwnDc7uI6xICKxxTyC) in the remote browser.
+**Remote browser:** You can interrupt Gemini Spark's actions on the remote browser by selecting  Stop ![](//storage.googleapis.com/support-kms-prod/igrldaShZXBIJdqZT0E6o6qoy0TncMaORTPB) in the prompt text box or **Take Control** ![](//storage.googleapis.com/support-kms-prod/2gCLqcDnC7ydmxu416Oul33tSZFsE5omvgdM) in the remote browser.
 
 You can also delete remote browser data in your [Gemini Spark settings](https://gemini.google.com/gemini-spark). This will sign you out of all sites in the remote browser.
 
