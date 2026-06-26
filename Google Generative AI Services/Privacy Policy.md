@@ -1233,7 +1233,7 @@ References to location may be stored in your chats if it is part of your prompts
 
 How do I know if Gemini Apps have access to and are using my precise location?
 
-Check if Gemini Apps have access to and are using your precise location. 
+Check if Gemini Apps have access to and are using your precise location.
 
 How to check in:
 
@@ -1244,7 +1244,7 @@ How to check in:
 *   [Gemini in Chrome](https://support.google.com/gemini/answer/16283624#config_settings)
 *   Google Built-In
 
-Gemini may receive your precise location data from another Google service, like Android Auto, to fulfill your request even if the precise location settings above are off.  [Learn how to turn off precise location in Android Auto](https://support.google.com/accounts/answer/3467281).
+Gemini may receive your precise location data from another Google service, like Android Auto, to fulfill your request even if the precise location settings above are off. [Learn how to turn off precise location in Android Auto](https://support.google.com/accounts/answer/3467281).
 
 #### Gemini in Google Messages
 
