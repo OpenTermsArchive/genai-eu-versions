@@ -1,52 +1,52 @@
-[Rechtliches – Startseite](https://forwork.meta.com/de/legal/)
+[Legal Home](https://forwork.meta.com/de/en/legal/)
 
-[Rechtliches für Meta for Work](https://forwork.meta.com/de/legal/meta-for-work/)
+[Meta for Work Legal](https://forwork.meta.com/de/en/legal/meta-for-work/)
 
-Meta Horizon Managed Solutions – Liste der Unterauftragsverarbeiter und Unterauftragnehmer
+Meta Horizon managed solutions list of sub-processors and subcontractors
 
-Meta Horizon Managed Solutions – Liste der Unterauftragsverarbeiter und Unterauftragnehmer
-==========================================================================================
+Meta Horizon managed solutions list of sub-processors and subcontractors
+========================================================================
 
-Gültig ab 13. November 2023
+Effective from 13 November 2023
 
-Rechenzentrumsinfrastruktur
+Data centre infrastructure
 
-| Einheit | Verarbeitungsstandort |
+| Entity | Processing location |
 | --- | --- |
-| Andale, Inc. | USA |
-| Cassin Networks Aps | Dänemark |
-| Greater Kudu LLC | USA |
-| Goldframe LLC | USA |
-| Morning Hornet LLC | USA |
-| Offprints LLC | USA |
-| Omanyte LLC | USA |
-| Paile LLC | USA |
-| Pinnacle Sweden AB | Schweden |
-| Raven Northbrook LLC | USA |
-| Runways Information Services Limited | Irland |
-| Scout Development LLC | USA |
-| Siculus Inc. | USA |
-| Sidecat LLC | USA |
-| Stadion LLC | USA |
-| Starbelt LLC | USA |
-| Vitesse, LLC | USA |
-| Winner LLC d/b/a Ernst LLC | USA |
-| Woolhawk LLC | USA |
+| Andale, Inc. | United States |
+| Cassin Networks Aps | Denmark |
+| Greater Kudu LLC | United States |
+| Goldframe LLC | United States |
+| Morning Hornet LLC | United States |
+| Offprints LLC | United States |
+| Omanyte LLC | United States |
+| Paile LLC | United States |
+| Pinnacle Sweden AB | Sweden |
+| Raven Northbrook LLC | United States |
+| Runways Information Services Limited | Ireland |
+| Scout Development LLC | United States |
+| Siculus Inc. | United States |
+| Sidecat LLC | United States |
+| Stadion LLC | United States |
+| Starbelt LLC | United States |
+| Vitesse, LLC | United States |
+| Winner LLC d/b/a Ernst LLC | United States |
+| Woolhawk LLC | United States |
 
-Tochtergesellschaften von Meta
+Meta Affiliates
 
-| Einheit | Verarbeitungsstandort |
+| Entity | Processing location |
 | --- | --- |
-| Meta Canada Ltd | Kanada |
-| Meta France Sarl | Frankreich |
-| Meta Germany GmbH | Deutschland |
-| Meta Italy S.R.L. | Italien |
-| Meta Netherlands B.V. | Niederlande |
-| Meta Poland Sp. zoo | Polen |
-| Meta Singapore Pte. Ltd. | Singapur |
-| Meta Spain SL | Spanien |
-| Meta UK Limited | Vereinigtes Königreich |
-| Meta Operations, LLC | USA |
-| Meta Platforms, Inc. | USA |
-| Meta Platforms Ireland Limited | Irland |
-| Meta Platforms International Operations Philippines | Philippinen |
+| Meta Canada Ltd | Canada |
+| Meta France Sarl | France |
+| Meta Germany GmbH | Germany |
+| Meta Italy S.R.L. | Italy |
+| Meta Netherlands B.V. | Netherlands |
+| Meta Poland Sp. zoo | Poland |
+| Meta Singapore Pte. Ltd. | Singapore |
+| Meta Spain SL | Spain |
+| Meta UK Limited | United Kingdom |
+| Meta Operations, LLC | United States |
+| Meta Platforms, Inc. | United States |
+| Meta Platforms Ireland Limited | Ireland |
+| Meta Platforms International Operations Philippines | Philippines |
