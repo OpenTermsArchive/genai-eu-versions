@@ -1,4 +1,4 @@
-Updated: December 17, 2025
+Updated: 17 December 2025
 
 App Developer Terms
 ===================
