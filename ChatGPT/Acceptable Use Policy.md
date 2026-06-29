@@ -1,4 +1,4 @@
-Effective: October 29, 2025
+Effective: 29 October 2025
 
 Usage policies
 ==============
@@ -82,18 +82,36 @@ Changelog
 
 - - -
 
-Table of contents
-
-*   [1\. Misleading Activities](#misleading-activities)
-*   [2\. Illegal Activities](#illegal-activities)
-*   [3\. Harmful Activities](#harmful-activities)
-*   [4\. High Stakes Domains](#high-stakes-domains)
-*   [5\. Circumventing Restrictions and Safeguards](#circumventing-restrictions-and-safeguards)
-
 Updated: July 17, 2025
 
 Using ChatGPT agent in line with our policies
 =============================================
+
+1\. Misleading Activities
+
+*   [1\. Misleading Activities](#misleading-activities)
+    
+*   [2\. Illegal Activities](#illegal-activities)
+    
+*   [3\. Harmful Activities](#harmful-activities)
+    
+*   [4\. High Stakes Domains](#high-stakes-domains)
+    
+*   [5\. Circumventing Restrictions and Safeguards](#circumventing-restrictions-and-safeguards)
+    
+
+Table of contents
+
+*   [1\. Misleading Activities](#misleading-activities)
+    
+*   [2\. Illegal Activities](#illegal-activities)
+    
+*   [3\. Harmful Activities](#harmful-activities)
+    
+*   [4\. High Stakes Domains](#high-stakes-domains)
+    
+*   [5\. Circumventing Restrictions and Safeguards](#circumventing-restrictions-and-safeguards)
+    
 
 _Note: These guidelines also apply to any ongoing use of the standalone Operator product._
 
@@ -173,7 +191,7 @@ For refund questions, please see [How do I request a refund for my ChatGPT subsc
 
 - - -
 
-Updated: November 14, 2022
+Updated: 14 November 2022
 
 Sharing & publication policy
 ============================
