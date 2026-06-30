@@ -1001,6 +1001,7 @@ The Gemini Apps referred to in the [Gemini Apps Privacy Notice](https://support.
 *   The Gemini mobile apps, which include:
     *   The [Gemini app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard), including [as your default digital assistant](https://support.google.com/gemini/answer/14554984), on Android. Note that Gemini is hosted by the Google app, even if you download [the Gemini app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard) ![](//storage.googleapis.com/support-kms-prod/0wJsgTzeuNTwjq5id0MT8yAoLLDl4C3LOmNO).
     *   The [Gemini app](https://apps.apple.com/us/app/google-gemini/id6477489729) on iOS.
+*   Gemini app on MacOS
 *   Gemini in the Google Messages app in [specific locations](https://support.google.com/gemini/answer/14599070#countries).
 *   Gemini in Android Auto
 *   Gemini in [Google Built-in](https://support.google.com/built-in/answer/16518944)
@@ -1365,6 +1366,8 @@ How does Gemini Spark use my data with the remote browser and remote computer?
 
 When you use the beta Gemini Spark feature, Gemini may use a remote browser or remote computer to help complete your tasks and execute code. This feature is only available when [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) is on. [Learn more about Gemini Spark](https://support.google.com/gemini/answer/17094507).
 
+When you use the beta Gemini Spark feature on macOS, Gemini can also interact directly with local files you choose to add to your connected folders. For example, Gemini can edit and organize your local files for you. [Learn more about Gemini Spark on macOS](https://support.google.com/gemini/answer/17208717).
+
 #### What data is processed
 
 When you use Spark, Gemini uses info from your tasks, schedules, skills, remote browser, remote computer, and any other available sources, like Connect Apps, Personal Intelligence, and info from websites it interacts with, including those you are logged into.
@@ -1393,6 +1396,7 @@ What happens when you turn off Gemini Spark?
 *   Your [remote browser data and remote computer data](https://gemini.google.com/gemini-spark) is deleted
 *   Your schedules and tasks are paused and not deleted
 *   Your chats are not deleted but you can manage them anytime in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help)
+*   Gemini Spark on macOS will no longer have access to local files in your connected folders
 
 **If you turn Gemini Spark back on:**
 
