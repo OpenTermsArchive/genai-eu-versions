@@ -1,17 +1,3 @@
-[](https://x.ai/legal)
-
-About
-
-Content Attribution
-
-Press Releases
-
-Usage Terms
-
-Logos
-
-Contact Us
-
 [**xAI Brand Guidelines**](#xai-brand-guidelines)
 =================================================
 
@@ -60,9 +46,8 @@ We may grant others the right to use our Marks, but you are not permitted to. An
 
 By using our logos, you agree to the Usage Terms above and further agree to only use our logos exactly as provided at the download link below, without any alteration or adjustment.
 
-[Download our logos](https://data.x.ai/logos/xAI_Grok_Assets.zip)
+[Download Logos](https://data.x.ai/logos/SpaceXAI_Grok_Assets.zip)
 
-[**Contact Us**](#contact-us)
------------------------------
+### Contact us
 
-For questions, please contact us at [legal@x.ai](mailto:legal@x.ai).
+For questions about brand guidelines, please contact us at [](mailto:legal@x.ai)[legal@x.ai](mailto:legal@x.ai)
