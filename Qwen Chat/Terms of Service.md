@@ -1,14 +1,12 @@
 Terms of Service
-================
 
 Last updated: May 19, 2026
---------------------------
 
 Thank you for using our services! Before you access our services, please read these terms of service.
 
 These Terms of Service govern your access and use of Qwen Studio and other services accessible via qwen.ai (collectively “**Services**”), made available by Alibaba Cloud (Singapore) Private Limited (“**Qwen**”, “**we**”, “**our**”). These Terms explain what rights you have with respect to your inputs and generated content, your use of the Services, and other important topics.
 
-Please carefully read these Terms, along with our [Privacy Policy](https://chat.qwen.ai/legal-agreement/privacy-policy), and all other documents referenced in these Terms(collectively, the “**Terms**”). By using or accessing our Services, you agree to be bound by these Terms, as may be updated from time to time.
+Please carefully read these Terms, along with our [Privacy Policy](https://chat.qwen.ai/privacypolicy), and all other documents referenced in these Terms (collectively, the "**Terms**"). By using or accessing our Services, you agree to be bound by these Terms, as may be updated from time to time.
 
 We may at any time at our sole and absolute discretion, update these Terms, and/or any other terms we may have prescribed in connection with the Services. We may notify you of changes to our Terms by updating the Terms on our website at \[qwen.ai\], via email to you, and/or through any other means that we believe to be appropriate. If you do not accept any such changes, you must immediately instruct us in writing to terminate your account and you must immediately cease to access and/or use our Services. If you continue to maintain your account, or access and/or use Services, after such notification, you shall be deemed to have agreed to the updated Terms.
 
@@ -36,9 +34,9 @@ We may at any time at our sole and absolute discretion, update these Terms, and/
         
 2.  II. Use of Our Services
     
-    You agree that you shall access and use our Services only in compliance with all applicable laws as well as these Terms, third party rights (including without limitation contractual and Intellectual Property Rights), any documentation, guidelines, or policies we may post on or make available via the Services, and any additional terms and conditions as we may specify from time to time.
+    **1.** You agree that you shall access and use our Services only in compliance with all applicable laws as well as these Terms, third party rights (including without limitation contractual and Intellectual Property Rights), any documentation, guidelines, or policies we may post on or make available via the Services, and any additional terms and conditions as we may specify from time to time.
     
-    *   **1\. What You Cannot Do.** Without prejudice to the generality of the foregoing, you shall not do or attempt to do any of the following:
+    *   **2\. What You Cannot Do.** Without prejudice to the generality of the foregoing, you shall not do or attempt to do any of the following:
         
         *   (a) recompile, decompile, disassemble, reverse engineer, or determine or attempt to determine any source code, algorithms, methods, techniques, or any underlying components (including without limitation the training data, model, parameters, or weights);
         *   (b) interact with, extract, or download any information, data or content from the Services (including without limitation the Outputs (as defined below)) in an automated manner;
@@ -68,7 +66,7 @@ We may at any time at our sole and absolute discretion, update these Terms, and/
     *   **4\. Third Party Services.** Our Services may include or be provided via or through third party software, products, or services (“**Third Party Services**”). Any such Third Party Services are subject to their own terms, and we disclaim all liability in connection with the same.
 3.  III. User Content
     
-    *   **1\. User Content.** We may, from time to time and at our sole and absolute discretion, allow you to submit text, documents,images, videos, audio, or other materials to our Services for processing (“**Prompts**”). Information, data, documents, images, videos, audio and/or other material may be generated at your request, based on your Prompts (“**Outputs**”). Prompts and Outputs are collectively referred to in these Terms as “**User Content**”.
+    *   **1\. User Content.** We may, from time to time and at our sole and absolute discretion, allow you to submit text, documents, images, videos, audio, or other materials to our Services for processing (“**Prompts**”). Information, data, documents, images, videos, audio and/or other material may be generated at your request, based on your Prompts (“**Outputs**”). Prompts and Outputs are collectively referred to in these Terms as “**User Content**”.
         
         **2\.** You are responsible for all Prompts you submit to our Services and Outputs generated in response to your Prompts. By submitting Prompts to our Services, you represent and warrant that:
         
@@ -95,12 +93,12 @@ We may at any time at our sole and absolute discretion, update these Terms, and/
         *   (e) we may process any User Content to improve our services and/or develop new products and services (including without limitation for our internal business purposes and/or for other customers). You hereby expressly authorise and consent to us: (i) using and storing User Content that is not personal data to develop and improve our machine-learning and artificial-intelligence technologies; and (ii) processing and storing such User Content outside of the jurisdiction where you are using the Services;
         *   (f) we may collect performance and usage metrics and data regarding your access and/or use of the Services, including model versions, inferences, upload times, as well as processing, diagnostic and other data, and we may use such metrics and data to improve the quality and other aspects of the Services and its underlying technologies; and
         *   (g) if you activate functions of Services (as applicable, and we may in our sole and absolute discretion make available from time to time) which permit public sharing of any User Content, you agree and acknowledge that despite any provision under these Terms, anyone with whom you have shared such content may access, use, save, reproduce, distribute, display, and transmit such content freely, and we shall not be liable to you in connection with the foregoing.
-    *   **4\. Ownership of User Content.**As between you and Qwen, and to the extent permitted by applicable law, you retain any right, title, and interest that you have in the Prompts you submit. Subject to your compliance with our Terms, we assign to you all of our right, title, and interest—if any—in Outputs generated at your request and provided to you in response to Prompts submitted by you. You agree and acknowledge that the Outputs may not be unique and may be similar or identical across users, and your rights in certain Outputs (if any) may not extend to other Outputs generated at the request of other users.
+    *   **4\. Ownership of User Content.** As between you and Qwen, and to the extent permitted by applicable law, you retain any right, title, and interest that you have in the Prompts you submit. Subject to your compliance with our Terms, we assign to you all of our right, title, and interest—if any—in Outputs generated at your request and provided to you in response to Prompts submitted by you. You agree and acknowledge that the Outputs may not be unique and may be similar or identical across users, and your rights in certain Outputs (if any) may not extend to other Outputs generated at the request of other users.
     *   **5\. Our Use of User Content.** We generally use User Content to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies, and keep our Services safe. If you have concerns or questions about our use of User Content, please write to us via the contact details set out at the bottom of these Terms.
         
         You shall (or shall procure and ensure, if you are not the owner of the User Content) that we and our affiliates are granted an unconditional, irrevocable, non-exclusive, royalty-free, fully transferable, sub-licensable, perpetual, worldwide licence, to access, use, host, modify, communicate, reproduce, adapt, make derivative works of, publish, perform, and/or distribute any User Content, and/or authorise any of the foregoing, in any format and on any platform, either now known or hereinafter invented. You further grant us an unconditional, irrevocable, non-exclusive, royalty-free, fully transferable, sub-licensable, perpetual, worldwide licence to use your user name(s), image(s), and likeness(es) to identify you as the source of any User Content. We shall also have the right to disclose your identity to third parties, including without limitation our advisors, sub-contractors, any third party who is claiming that any User Content constitutes a violation of their IPR or other rights.
         
-        **6.** In each case, in connection with the User Content,or any portion thereof, you hereby waive (and/or shall procure and ensure the same):
+        **6\.** In each case,in connection with the User Content,or any portion thereof, you hereby waive (and/or shall procure and ensure the same):
         
         *   (a) any rights to prior inspection or approval of any marketing or promotional materials related to User Content;
         *   (b) any and all rights of privacy or publicity;
@@ -108,7 +106,7 @@ We may at any time at our sole and absolute discretion, update these Terms, and/
         
         To the extent any such rights cannot be waived, you hereby undertake (or shall procure and ensure the same) that any and all such rights shall not be asserted or enforced, and that you shall not support, maintain or permit any action based on any such rights in connection with any User Content.
         
-    *   **7\. Your Use of Outputs.** You acknowledge and agree that artificial intelligence and large language models are emerging technologies that are under rapid development and hence are still improving in accuracy, reliability and safety. You therefore agree and acknowledge that:
+    *   **7\. Your Use of Outputs.**You acknowledge and agree that artificial intelligence and large language models are emerging technologies that are under rapid development and hence are still improving in accuracy, reliability and safety. You therefore agree and acknowledge that:
         
         *   (a) Outputs may: (i) be inaccurate, misleading, incomplete, erroneous, or lack context; and (ii) contain inappropriate, unintended, and/or offensive elements;
         *   (b) you shall be solely responsible for preparing, selecting, and inputting appropriate Prompts to produce your desired Outputs, and reviewing the Outputs, and verifying their accuracy, appropriateness, reliability, and fitness for your specific use case;
@@ -156,7 +154,7 @@ We may at any time at our sole and absolute discretion, update these Terms, and/
     
     2\. You remain responsible for complying with all applicable data protection requirements in relation to any personal data (including without limitation in any User Content) you provide to us. Without limiting the generality of the foregoing, you represent, warrant, and undertake (at your sole cost and expense) that:
     
-    *   (a) you have obtained all necessary rights and consents in relation to the personal data, information or other material you upload, provide, store or share via the Services, (including without limitation any facial, voice and/or biometric data in any photos, videos or audio which you provide to us), and without prejudice to the generality of the foregoing, you have obtained express consent from any applicable individuals to disclose and transfer such personal data, information, or other material to us:
+    *   (a) you have obtained all necessary rights and consents in relation to the personal data, information or other material you upload, provide, store or share via the Services(including without limitation any facial, voice and/or biometric data in any photos, videos or audio which you provide to us), and without prejudice to the generality of the foregoing, you have obtained express consent from any applicable individuals to disclose and transfer such personal data, information, or other material to us:
         
         *   (i) for the purposes of using these services, including without limitation as may be described or contemplated herein; and
         *   (ii) for the purposes referred to in our Privacy Policy; and
@@ -183,7 +181,7 @@ We may at any time at our sole and absolute discretion, update these Terms, and/
             *   (ii) CONTAINING ANY FALSE STATEMENT OR DEPICTING ANY PERSON IN A FiALSE OR MISLEADING MANNER; AND/OR
             *   (iii) WHICH MAY CAUSE ANY OTHER PERSON HARASSMENT, ALARM, DISTRESS, HUMILIATION, OR WHICH MAY INCITE FEELINGS OF ENMITY, HATRED, HOSTILITY, OR VIOLENCE, OR WHICH MAY TEND TO INSTIGATE CONDUCT THAT COULD CAUSE HARM TO ANY PERSON;
         *   (d) ANY BREACH OF THESE TERMS BY YOU;
-        *   (e) ANY BREACH OF APPLICABLE LAW OR THIRD PARTY RIGHTS, INCLUDING WITHOUT LIMITATION ANY ACT OR OMISSION BY YOU WHICH CAUSES US OR OUR AFFILIATES, OR ANY OF OUR RESPECTIVE DIRECTORS, OFFICERS, OR EMPLOYEES TO BE IN BREACH OF THE SAME; OR
+        *   (e) ANY BREACH OF APPLICABLE LAW OR THIRD PARTY RIGHTS, INCLUDING WITHOUT LIMITATION ANY ACT OR OMISSION BY YOU WHICH CAUSES US OR OUR AFFILIATES, OR ANY OF OUR RESPECTIVE DIRECTORS, OFFICERS, OR EMPLOYEES TO BE IN BREACH OF THE SAME; AND/OR
         *   (f) ANY ACT OR OMISSION BY YOU, AND ANY NEGLIGENCE, DEFAULT, AND/OR MISCONDUCT ON YOUR PART.
         
         4\. QWEN RESERVES THE RIGHT TO ASSUME THE EXCLUSIVE DEFENSE AND CONTROL OF ANY MATTER OTHERWISE SUBJECT TO INDEMNIFICATION BY YOU, IN WHICH EVENT YOU SHALL COOPERATE WITH QWEN IN ASSERTING ANY AVAILABLE DEFENSES AND INDEMNIFY AND HOLD QWEN HARMLESS AGAINST THE REASONABLE LEGAL FEES INCURRED BY QWEN IN THAT REGARD.
