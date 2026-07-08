@@ -1,29 +1,3 @@
-[](https://x.ai/legal)
-
-1\. About xAI and Grok
-
-2\. Personal information we collect (Notice at collection)
-
-3\. How we may use personal information
-
-4\. How we may disclose personal information
-
-5\. Retention of personal information
-
-6\. Security of personal information
-
-7\. Links to other websites
-
-8\. Children under the age of 13
-
-9\. Privacy rights and choices
-
-10\. Changes to this Privacy Policy
-
-11\. Child safety issues
-
-12\. How to contact us about privacy requests
-
 [xAI Privacy Policy](#xai-privacy-policy)
 =========================================
 
@@ -207,6 +181,9 @@ To report child safety issues to us, please contact us [here](mailto:childsafety
 If you have any queries or complaints about our collection, use, or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact us at [https://x.ai/privacy-portal/](https://x.ai/privacy-portal/) or by the following contact details:
 
 *   For the fastest response for world-wide requests and in the USA: x.AI LLC, [https://x.ai/privacy-portal/](https://x.ai/privacy-portal/)
+    
+*   Information about our handling of California Consumer Privacy Act (CCPA) requests is available [here](https://x.ai/legal/ccpa)
+    
 
 **Other contacts for privacy requests:**
 
@@ -216,10 +193,6 @@ If you have any queries or complaints about our collection, use, or storage of y
 *   You can contact our Data Protection Officer at [privacy@x.ai](mailto:privacy@x.ai)
 
 - - -
-
-[](https://x.ai/legal)
-
-13\. Additional information for individuals in Europe
 
 [**xAI’s Europe Privacy Policy Addendum**](#xais-europe-privacy-policy-addendum)
 ================================================================================
