@@ -1,7 +1,7 @@
 Perplexity Privacy Notice
 =========================
 
-Last updated: July 2, 2026
+Last updated: July 8, 2026
 
   
 
@@ -286,36 +286,76 @@ Our websites and online services are not meant for children under 13 years old, 
 
   
 
+To submit a data privacy request directly to Perplexity, please use [this form](https://perplexity.typeform.com/datarequest).
+
+  
+
 If you have questions, comments, or complaints on our privacy practices, or if you need to access this Notice in a different form due to a disability, please contact us. We will try to address your requests and provide you with additional privacy-related information. Email us at: [support@perplexity.ai](mailto:support@perplexity.ai) 
+
+  
+
+VeraSafe has been appointed as our representative in the European Union and the United Kingdom for data protection matters, pursuant to Article 27 of the General Data Protection Regulation. If you are in [the European Economic Area](https://verasafe.com/public-resources/eea-members/) or the United Kingdom, VeraSafe can be contacted in addition to or instead of us on matters related to the processing of personal data.
+
+  
+
+To contact VeraSafe regarding such matters, please use [this form](https://verasafe.com/public-resources/contact-data-protection-representative) or the following contact details:
 
   
 
 For EU inquiries:
 
-Perplexity AI
+VeraSafe Ireland Ltd.
 
-Leipziger Platz 16
+Unit 3D North Point House
 
-10117 Berlin
+North Point Business Park
 
-Germany
+New Mallow Road, Cork
+
+T23AT2P
+
+Ireland
+
++420 228 881 031
 
   
 
 For UK inquiries:
 
-Perplexity AI
+VeraSafe United Kingdom Ltd.
 
-10 Devonshire Square
+37 Albert Embankment
 
-London EC2M 4YP
+London SE1 7TL
 
 United Kingdom
 
-  
-
-TrustKeith Ltd, a company registered at 20-22 Wenlock Road, London, is our DPO. To contact our representative or DPO, please submit a [data request here](https://perplexity.typeform.com/datarequest). 
++44 (20) 4532 2003
 
   
 
-If you are not satisfied with our response and are in the European Union or United Kingdom, you may have a right to lodge a complaint with your local supervisory authority.
+VeraSafe is also our data protection officer (DPO), in which capacity it may be contacted using the following details:
+
+  
+
+VeraSafe, LLC 
+
+c/o VeraSafe Ireland Ltd.
+
+Unit 3D North Point House
+
+North Point Business Park
+
+New Mallow Road, Cork
+
+T23AT2P
+
+Ireland
+
++420 228 881 031
+
+experts@verasafe.com
+
+  
+
+If you are not satisfied with our response and are in [the European Economic Area](https://verasafe.com/public-resources/eea-members/) or the United Kingdom, you may have a right to lodge a complaint with your local supervisory authority.
