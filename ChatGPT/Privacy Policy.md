@@ -34,8 +34,6 @@ Europe privacy policy
 *   [14\. Useful resources](#useful-resources)
     
 
-Table of contents
-
 *   [1\. Personal Data we collect](#personal-data-we-collect)
     
 *   [2\. How we use Personal Data](#how-we-use-personal-data)
@@ -285,8 +283,6 @@ Services for individuals, such as ChatGPT, Sora, and Operator
     
 *   [What the process looks like](#what-the-process-looks-like)
     
-
-Table of contents
 
 *   [Services for individuals, such as ChatGPT, Sora, and Operator](#services-for-individuals-such-as-chatgpt-sora-and-operator)
     
