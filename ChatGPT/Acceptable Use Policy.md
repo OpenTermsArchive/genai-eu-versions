@@ -100,8 +100,6 @@ Using ChatGPT agent in line with our policies
 *   [5\. Circumventing Restrictions and Safeguards](#circumventing-restrictions-and-safeguards)
     
 
-Table of contents
-
 *   [1\. Misleading Activities](#misleading-activities)
     
 *   [2\. Illegal Activities](#illegal-activities)
@@ -160,7 +158,7 @@ ChatGPT agent users are not allowed to bypass rate limits, restrictions, or safe
 What to know about the Sora discontinuation
 ===========================================
 
-Updated: 14 days ago
+Updated: 15 days ago
 
 When will Sora be discontinued?
 -------------------------------
