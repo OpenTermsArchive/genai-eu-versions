@@ -1468,13 +1468,11 @@ You can access your Google shopping cart in Gemini at any time through the Cart 
 
 What happens to my data when I use Google Pay in Gemini?
 
-When you use Google Pay to make a purchase in Gemini, the transaction history is saved to your [Google Pay activity](https://myactivity.google.com/product/gpay/other) and is used in accordance with the [Google Payments Privacy Notice](https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice) and your Google Pay activity settings, including for personalization and ads (depending on your settings). 
+When you use Google Pay to make a purchase from Gemini, the transaction history is saved to your [Google Pay My Activity](https://myactivity.google.com/product/gpay/other). This data is used in accordance with the [Google Payments Privacy Notice](https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice) and your Google Pay and Google Wallet settings, including for personalization and ads (depending on your settings). 
 
 **How to control & manage your data** 
 
-You can review your order history in Gemini anytime in the Purchases section under Library.
-
-You can review your transaction history and manage your orders anytime in the [Google Pay app or website](https://pay.google.com/).
+You can review your transaction history at any time on the [Google Wallet website](https://wallet.google.com/).
 
 [Learn more about how Gemini can help you shop](https://support.google.com/gemini/answer/16730149?). 
 
@@ -1525,6 +1523,10 @@ Your recordings are securely stored in your Google Account. If you don’t acces
 #### How to control & manage your data
 
 You are in control of your recordings; you can delete them at any time in the [Data & Privacy tab](https://myaccount.google.com/data-and-privacy) of your Google Account. You can also find the deletion option from your Gemini settings.
+
+#### How your data is used
+
+We don’t use your recordings to train the generative AI models powering [our services](https://policies.google.com/terms/service-specific?hl=en-US), except to address abuse or harm.
 
 **Important:** This setting is separate and distinct from the setting YouTube offers over avatar data stored with your YouTube channel (if you have one). Deleting one does not affect the other.
 
