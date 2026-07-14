@@ -60,7 +60,7 @@ Below is a list of cookies used on our Service:
 | Google Ads | \_gcl\_aw | Advertising | 90 Days | .grok.com | Non-Essential |
 | Google Ads | IDE | Advertising | 13 Months | .doubleclick.net | Non-Essential |
 | Google Ads | NID | Security | 6 Months | .google.com | Non-Essential |
-| Google Ads | OTZ | Analytics | 30 Days | [www.google.com](http://www.google.com/) | Non-Essential |
+| Google Ads | OTZ | Analytics | 30 Days | [www.google.com](https://www.google.com/) | Non-Essential |
 | Google (GA4) | \_ga | Analytics | 2 Years | .grok.com | Non-Essential |
 | Google (GA4) | _ga_<ID> | Analytics | 2 Years | .grok.com | Non-Essential |
 | Twitter (X) | twpid | Advertising | 13 Months | .grok.com | Non-Essential |
