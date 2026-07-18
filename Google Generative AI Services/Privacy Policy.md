@@ -999,7 +999,7 @@ The Gemini Apps referred to in the [Gemini Apps Privacy Notice](https://support.
 
 *   The Gemini web app available through [gemini.google.com](https://gemini.google.com/) and browser sidebars.
 *   The Gemini mobile apps, which include:
-    *   The [Gemini app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard), including [as your default digital assistant](https://support.google.com/gemini/answer/14554984), on Android. Note that Gemini is hosted by the Google app, even if you download [the Gemini app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard) ![](//lh3.googleusercontent.com/fqTyQSL82VVyKSP-iEDozGBeOLhGbqzKchkmp14SzSXMIoZnpoMTpO8vrGPx7AnbdxY2=h36).
+    *   The [Gemini app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard), including [as your default digital assistant](https://support.google.com/gemini/answer/14554984), on Android. Note that Gemini is hosted by the Google app, even if you download [the Gemini app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard) ![](//storage.googleapis.com/support-kms-prod/0wJsgTzeuNTwjq5id0MT8yAoLLDl4C3LOmNO).
     *   The [Gemini app](https://apps.apple.com/us/app/google-gemini/id6477489729) on iOS.
 *   Gemini app on MacOS
 *   Gemini in the Google Messages app in [specific locations](https://support.google.com/gemini/answer/14599070#countries).
@@ -1022,7 +1022,7 @@ Under certain privacy laws, including the General Data Protection Regulation in 
 
 To exercise these rights, you can [create a request in our Help Center](https://support.google.com/legal/troubleshooter/1114905?#ts=1115658%2C13380504).
 
-You can also create a request directly in Gemini Apps. Below the Gemini app’s response, select More ![](//lh3.googleusercontent.com/b71eih8vpqNx3eMyEn_d3TtszjcOGDLDRz6QuqbX8o86d5-7fD7EEiW_XqlkrtZJuuva=h36) ![and then](//lh3.googleusercontent.com/3_l97rr0GvhSP2XV5OoCkV2ZDTIisAOczrSdzNCBxhIKWrjXjHucxNwocghoUa39gw=h36) **Report legal issue**.
+You can also create a request directly in Gemini Apps. Below the Gemini app’s response, select More ![](//storage.googleapis.com/support-kms-prod/OzXDkVHpwsoMASjeTZb0eJez8pPlaLyezJtr) ![and then](//lh3.googleusercontent.com/3_l97rr0GvhSP2XV5OoCkV2ZDTIisAOczrSdzNCBxhIKWrjXjHucxNwocghoUa39gw=h36) **Report legal issue**.
 
 [Create a request](https://support.google.com/legal/troubleshooter/1114905?#ts=1115658%2C13380504)
 
@@ -1267,9 +1267,9 @@ How do I manage my mobile permissions when Gemini is my device assistant?
 
 #### Gemini mobile app (on Android)
 
-Gemini is hosted by the Google app, even if you download the [Gemini app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard) ![](//lh3.googleusercontent.com/fqTyQSL82VVyKSP-iEDozGBeOLhGbqzKchkmp14SzSXMIoZnpoMTpO8vrGPx7AnbdxY2=h36). Gemini and the Google app can use various features and capabilities on your device (such as your camera, microphone, contacts, or location) based on your [Google app permissions](https://support.google.com/websearch/answer/10000369). To review and manage these permissions:
+Gemini is hosted by the Google app, even if you download the [Gemini app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard) ![](//storage.googleapis.com/support-kms-prod/0wJsgTzeuNTwjq5id0MT8yAoLLDl4C3LOmNO). Gemini and the Google app can use various features and capabilities on your device (such as your camera, microphone, contacts, or location) based on your [Google app permissions](https://support.google.com/websearch/answer/10000369). To review and manage these permissions:
 
-1.  Touch and hold the Google app ![Google Search](//lh3.googleusercontent.com/s_7kUUQAXJiDehL4a8-hrwl52CJpTplSfofTdWjNwLpcw32vltmHihUvo7cj0WVkQyw6=w36-h36).
+1.  Touch and hold the Google app ![Google Search](//storage.googleapis.com/support-kms-prod/rq9de3WTgmMqpSVTsN8jS8TwvSsGkweRXBMK).
 2.  Tap **App Info** ![and then](//lh3.googleusercontent.com/3_l97rr0GvhSP2XV5OoCkV2ZDTIisAOczrSdzNCBxhIKWrjXjHucxNwocghoUa39gw=h36) **Permissions**.
 3.  To change a permission setting, tap it, then choose **Allow** or **Don’t allow**.
 
@@ -1383,7 +1383,7 @@ To complete your tasks, including through your Connected Apps and the remote bro
 
 #### How to control & manage your data
 
-**Remote browser:** You can interrupt Gemini Spark's actions on the remote browser by selecting  Stop ![](//lh3.googleusercontent.com/oUuvfQv_WUbsvIhwd3LX03hooJJL-ES3IeYPU7vATeCq0K9v0fbhcwuFD4UsjNbIaDQ=h36) in the prompt text box or **Take Control** ![](//lh3.googleusercontent.com/l-2D5NJu8xBUbiDRvPA5bR7KBU9wRHG4PkUR-1k3NfCeai3PjncG4_1WFhgMpFwXIXE=h36) in the remote browser.
+**Remote browser:** You can interrupt Gemini Spark's actions on the remote browser by selecting  Stop ![](//storage.googleapis.com/support-kms-prod/igrldaShZXBIJdqZT0E6o6qoy0TncMaORTPB) in the prompt text box or **Take Control** ![](//storage.googleapis.com/support-kms-prod/2gCLqcDnC7ydmxu416Oul33tSZFsE5omvgdM) in the remote browser.
 
 You can also delete remote browser data in your [Gemini Spark settings](https://gemini.google.com/gemini-spark). This will sign you out of all sites in the remote browser.
 
@@ -1480,15 +1480,15 @@ You can review your transaction history at any time on the [Google Wallet websit
 
 What happens to my data when I interact with Gems from Google Labs?
 
-You can now access and find Gems from Google Labs ![](//lh3.googleusercontent.com/mu4nJfTJZJV3qfZMmD0z5JktIeSjIgqmGo5pjVSJ57-JrUNY7cCZakR-CD3OfomI23k=h36) in Gemini Apps or on [opal.google](https://opal.google/landing).
+You can now access and find Gems from Google Labs ![](//storage.googleapis.com/support-kms-prod/SmwXxWT4yIASg8UpCLpa2gTrXpaUoZfnNSeD) in Gemini Apps or on [opal.google](https://opal.google/landing).
 
-Gems from Google Labs ![](//lh3.googleusercontent.com/mu4nJfTJZJV3qfZMmD0z5JktIeSjIgqmGo5pjVSJ57-JrUNY7cCZakR-CD3OfomI23k=h36) are custom workflows bundled into AI mini-apps that you can create, edit, and share. When you interact with Gems from Google Labs, you are using Opal, a Google Labs experiment.
+Gems from Google Labs ![](//storage.googleapis.com/support-kms-prod/SmwXxWT4yIASg8UpCLpa2gTrXpaUoZfnNSeD) are custom workflows bundled into AI mini-apps that you can create, edit, and share. When you interact with Gems from Google Labs, you are using Opal, a Google Labs experiment.
 
 **Important:** Opal, a Google Labs experiment, is not a part of Gemini Apps. This means data from this experience does not appear in your Gemini Apps Activity and is not controlled by Gemini's Workspace connected app setting. The Gemini Apps Privacy Notice does not apply, and your Opal data, including feedback you provide, is processed per the [Google Privacy Policy](https://policies.google.com/privacy).
 
 #### How data is stored
 
-Gems from Google Labs ![](//lh3.googleusercontent.com/mu4nJfTJZJV3qfZMmD0z5JktIeSjIgqmGo5pjVSJ57-JrUNY7cCZakR-CD3OfomI23k=h36) you create, your interactions with them, and media (audio, images, docs) you upload are stored in the “Opal” folder in your [Google Drive](https://drive.google.com/).
+Gems from Google Labs ![](//storage.googleapis.com/support-kms-prod/SmwXxWT4yIASg8UpCLpa2gTrXpaUoZfnNSeD) you create, your interactions with them, and media (audio, images, docs) you upload are stored in the “Opal” folder in your [Google Drive](https://drive.google.com/).
 
 #### How you can control & manage your data, including delete your Gems from Google Labs
 
