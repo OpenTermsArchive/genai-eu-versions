@@ -90,26 +90,16 @@ Using ChatGPT agent in line with our policies
 1\. Misleading Activities
 
 *   [1\. Misleading Activities](#misleading-activities)
-    
 *   [2\. Illegal Activities](#illegal-activities)
-    
 *   [3\. Harmful Activities](#harmful-activities)
-    
 *   [4\. High Stakes Domains](#high-stakes-domains)
-    
 *   [5\. Circumventing Restrictions and Safeguards](#circumventing-restrictions-and-safeguards)
-    
 
 *   [1\. Misleading Activities](#misleading-activities)
-    
 *   [2\. Illegal Activities](#illegal-activities)
-    
 *   [3\. Harmful Activities](#harmful-activities)
-    
 *   [4\. High Stakes Domains](#high-stakes-domains)
-    
 *   [5\. Circumventing Restrictions and Safeguards](#circumventing-restrictions-and-safeguards)
-    
 
 _Note: These guidelines also apply to any ongoing use of the standalone Operator product._
 
