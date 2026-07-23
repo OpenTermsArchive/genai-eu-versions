@@ -5,6 +5,12 @@ Last updated: July 8, 2026
 
   
 
+> **Privacy Notice Updated**
+> 
+> We added more detail about cookies, first-party advertising measurement, and your privacy choices. We also clarified that we do not sell your personal data or send your queries, prompts, or conversation content to advertisers.
+
+  
+
 This Privacy Notice (“Notice”) applies to personal data Perplexity AI, Inc. and its affiliates (collectively, “Perplexity,” “we,” “us,” or “our”) collects through our websites, the Comet browser, mobile applications (the “app”), and other services (the “services”). This notice does not apply to data collected through Perplexity’s [Enterprise](https://www.perplexity.ai/enterprise/home) and [API](https://docs.perplexity.ai/docs/resources/privacy-security) offerings where we act as a service provider or processor with regard to the data collected through those systems. 
 
   
