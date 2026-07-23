@@ -1147,7 +1147,7 @@ Your future chats won’t appear in your Activity, and won’t be used to train 
 *   [Some Connected Apps](https://support.google.com/gemini/answer/13695044) are unavailable when this setting is off.
 *   Other settings like [Web & App Activity](https://support.google.com/websearch/answer/54068) or [Location History](https://support.google.com/accounts/answer/14200149) may continue to save location and other data as part of your use of other Google services.
 *   Turning off Keep Activity or deleting Gemini Apps activity doesn’t delete data in other Google services. Learn more about [how Google services retain data](https://policies.google.com/technologies/retention).
-*   Source files you add to your Notebooks are saved in Notebooks. [View the Privacy and Terms of Use in NotebookLM](https://support.google.com/notebooklm/answer/17004255).
+*   Source files you add to your notebooks are saved in Gemini Notebook. [View the Privacy and Terms of Use for Gemini Notebook](https://support.google.com/gemininotebook/answer/17004255).
 *   Turning off Keep Activity or deleting Gemini Apps activity doesn’t impact [your remote browser and remote computer data and settings](https://gemini.google.com/gemini-spark). 
 
 You can [manage this setting](https://support.google.com/gemini/answer/13278892) anytime.
@@ -1468,13 +1468,13 @@ You can access your Google shopping cart in Gemini at any time through the Cart 
 
 What happens to my data when I use Google Pay in Gemini?
 
-When you use Google Pay to make a purchase from Gemini, the transaction history is saved to your [Google Pay My Activity](https://myactivity.google.com/product/gpay/other). This data is used in accordance with the [Google Payments Privacy Notice](https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice) and your Google Pay and Google Wallet settings, including for personalization and ads (depending on your settings). 
+When you use Google Pay to make a purchase from Gemini, the transaction history is saved to your [Google Pay My Activity](https://myactivity.google.com/product/gpay/other). This data is used in accordance with the [Google Payments Privacy Notice](https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice) and your Google Pay and Google Wallet settings, including for personalization and ads (depending on your settings).
 
-**How to control & manage your data** 
+**How to control & manage your data**
 
 You can review your transaction history at any time on the [Google Wallet website](https://wallet.google.com/).
 
-[Learn more about how Gemini can help you shop](https://support.google.com/gemini/answer/16730149?). 
+[Learn more about how Gemini can help you shop](https://support.google.com/gemini/answer/16730149).
 
 ### Gems from Google Labs
 
