@@ -1,17 +1,17 @@
 Cookie Policy
 =============
 
-Effective:November 28, 2025
+Effective:July 22, 2026
 
 Cookie Policy
 =============
 
-Effective:November 28, 2025
+Effective:July 22, 2026
 
 1\. What is a cookie ? 
 -----------------------
 
-A cookie is a small text file that is temporarily stored on your device, such as a computer, tablet, smartphone, or other device, when you access our website or our services such as Le Chat or Mistral AI Studio. 
+A cookie is a small text file that is temporarily stored on your device, such as a computer, tablet, smartphone, or other device, when you access our website or our services such as Vibe or Mistral AI Studio. 
 
 These cookies enable us to distinguish you from other users, remember your preferences, and analyze how you interact with our services to improve them. Cookies also allow us to display personalized advertisements on our website or on other websites. They do not directly identify you, but can offer a more personalized web experience.
 
@@ -104,7 +104,7 @@ In any case, you will find more information on behavioural advertising and priva
 1\. What is a cookie ? 
 -----------------------
 
-A cookie is a small text file that is temporarily stored on your device, such as a computer, tablet, smartphone, or other device, when you access our website or our services such as Le Chat or Mistral AI Studio. 
+A cookie is a small text file that is temporarily stored on your device, such as a computer, tablet, smartphone, or other device, when you access our website or our services such as Vibe or Mistral AI Studio. 
 
 These cookies enable us to distinguish you from other users, remember your preferences, and analyze how you interact with our services to improve them. Cookies also allow us to display personalized advertisements on our website or on other websites. They do not directly identify you, but can offer a more personalized web experience.
 
