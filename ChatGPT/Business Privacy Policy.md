@@ -100,7 +100,7 @@ Your workspace admins control how long your data is retained. Any deleted conver
 
 ### What is ChatGPT Business?
 
-Built for small and growing businesses, ChatGPT Business offers collaborative tools and self-serve access to the power of ChatGPT in a dedicated workspace for your team. [Learn more about ChatGPT Business⁠](https://chatgpt.com/business/business-plan?openaicom-did=2dc90c6d-31f1-4c3a-a622-5da82d69711e&openaicom_referred=true).
+Built for small and growing businesses, ChatGPT Business offers collaborative tools and self-serve access to the power of ChatGPT in a dedicated workspace for your team. [Learn more about ChatGPT Business⁠](https://chatgpt.com/business/business-plan?openaicom-did=b877357c-615a-4d6c-ab86-2d6855736dfc&openaicom_referred=true).
 
 ### Who can view conversations and chat history in ChatGPT Business?
 
@@ -168,4 +168,4 @@ OpenAI trains its models in two stages. First, we learn from a large amount of d
 
 ### What sources of data are used for training OpenAI models?
 
-OpenAI uses data from different places including public sources, licensed third-party data, and information created by human reviewers. We also use data from versions of ChatGPT and other services for individuals. By default, data from ChatGPT Business, ChatGPT Enterprise, ChatGPT for Healthcare, ChatGPT Edu, ChatGPT for Teachers, and the API Platform (after March 1, 2023) isn't used for training our models, unless you have explicitly opted in to share your data with us to improve the services.
+OpenAI uses data from different places including public sources, licensed third-party data, and information created by human reviewers. We also use data from versions of ChatGPT and other services for individuals. By default, data from ChatGPT Business, ChatGPT Enterprise, ChatGPT for Healthcare, ChatGPT Edu, ChatGPT for Teachers, and the API Platform (after March 1, 2023) isn’t used for training our models, unless you have explicitly opted in to share your data with us to improve the services.
