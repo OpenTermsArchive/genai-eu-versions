@@ -1246,7 +1246,7 @@ How to check in:
 *   [The Gemini mobile app on an iPhone or iPad](https://support.google.com/gemini/answer/14554984?co=GENIE.Platform%3DiOS&oco=0#location) 
 *   [Gemini on Watch on a WearOS device](https://support.google.com/gemini/answer/16401122#location)
 *   [Gemini in Chrome](https://support.google.com/gemini/answer/16283624#config_settings)
-*   Google Built-In
+*   [Google Built-In](https://support.google.com/built-in/answer/16516528#zippy=%2Cgemini%2Cturn-precise-location-on-or-off)
 
 Gemini may receive your precise location data from another Google service, like Android Auto, to fulfill your request even if the precise location settings above are off. [Learn how to turn off precise location in Android Auto](https://support.google.com/accounts/answer/3467281).
 
