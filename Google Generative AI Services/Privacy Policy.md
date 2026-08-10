@@ -795,7 +795,7 @@ _close_
 
 - - -
 
-### **Last updated:** July 15, 2026
+### **Last updated:** August 10, 2026
 
 Table of contents
 -----------------
@@ -862,6 +862,8 @@ Table of contents
         *   [What happens to my data when I create an avatar in Gemini Apps?](#avatar_data)
     *   **[Canvas](#canvas)**
         *   [What happens to my data when I interact with Canvas web apps?](#canvas_data)
+    *   [**Gemini on macOS**](https://support.google.com/gemini/answer/13594961#janus_stw)
+        *   [What happens when I interact with Speak to Window on Gemini for macOS?](https://support.google.com/gemini/answer/13594961#janus_stw)
     *   **[Terms of service](#tos_section)**
         *   [What terms apply to use of Gemini Apps?](#tos)
 
@@ -989,7 +991,7 @@ Please [respect others' rights](https://policies.google.com/terms/generative-ai/
 Privacy questions
 -----------------
 
-**Last updated:** July 15, 2026
+**Last updated:** August 10, 2026
 
 ### General
 
@@ -1543,6 +1545,12 @@ Google provides the option for Canvas apps to store user data persistently in Fi
 #### **How to control & manage your data**
 
 Be cautious and only interact with apps you trust. Once you share any data with a Canvas app, you do not have the option to delete it, but the app creator does.
+
+### Gemini on macOS
+
+What happens when I interact with Speak to Window on Gemini for macOS?
+
+When you use Speak-to-Window, Gemini captures audio from your microphone along with your active window to understand your instructions and generate the requested output or action. Transcripts of your instructions are saved according to your [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=gemini) setting and used as described in the [Gemini Apps Privacy Notice](https://support.google.com/gemini/answer/13594961?hl=en#privacy_notice), including to improve Gemini with the help of human reviewers. Audio data is not stored. 
 
 ### Terms of service
 
