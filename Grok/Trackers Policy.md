@@ -1,7 +1,7 @@
 [xAI Cookie Policy](#xai-cookie-policy)
 =======================================
 
-_Effective: July 2, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-04-04))_
+_Effective: August 10, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-07-02))_
 
 This Cookie Policy describes what kinds of cookies and similar technologies xAI uses in connection with our Services (as defined in our [Privacy Policy](https://x.ai/legal/privacy-policy)).Please refer to our Privacy Policy to learn more about how we process your personal information.
 
@@ -50,20 +50,20 @@ Below is a list of cookies used on our Service:
 | Stripe | \_\_stripe\_sid | Fraud Detection | 1 month | console.x.ai | Essential |
 | Cloudflare | \_\_cf\_bm | Security | 30 min | All | Essential |
 | Cloudflare | cf\_clearance | Security | 1 year | All | Essential |
-| Meta Ads | \_fbp | Advertising | 90 Days | .grok.com | Non-Essential |
-| Meta Ads | \_fbc | Advertising | 90 Days | .grok.com | Non-Essential |
+| Meta Ads | \_fbp | Advertising | 90 Days | .grok.com, x.ai, console.x.ai | Non-Essential |
+| Meta Ads | \_fbc | Advertising | 90 Days | .grok.com, x.ai, console.x.ai | Non-Essential |
 | Meta Ads | fr  | Advertising | 90 Days | .facebook.com | Non-Essential |
 | Meta Ads | sb  | Advertising | 2 Years | .facebook.com | Non-Essential |
 | Meta Ads | ps\_l / ps\_n | Advertising | 90 Days | .facebook.com | Non-Essential |
 | Meta Ads | wd  | Advertising | 7 Days | .facebook.com | Non-Essential |
-| Google Ads | \_gcl\_au | Advertising | 90 Days | .grok.com | Non-Essential |
-| Google Ads | \_gcl\_aw | Advertising | 90 Days | .grok.com | Non-Essential |
+| Google Ads | \_gcl\_au | Advertising | 90 Days | .grok.com, x.ai, console.x.ai | Non-Essential |
+| Google Ads | \_gcl\_aw | Advertising | 90 Days | .grok.com, x.ai, console.x.ai | Non-Essential |
 | Google Ads | IDE | Advertising | 13 Months | .doubleclick.net | Non-Essential |
 | Google Ads | NID | Security | 6 Months | .google.com | Non-Essential |
 | Google Ads | OTZ | Analytics | 30 Days | [www.google.com](http://www.google.com/) | Non-Essential |
 | Google (GA4) | \_ga | Analytics | 2 Years | .grok.com | Non-Essential |
 | Google (GA4) | _ga_<ID> | Analytics | 2 Years | .grok.com | Non-Essential |
-| Twitter (X) | twpid | Advertising | 13 Months | .grok.com | Non-Essential |
+| Twitter (X) | twpid | Advertising | 13 Months | .grok.com, x.ai, console.x.ai | Non-Essential |
 | Twitter (X) | personalization\_id | Advertising | 2 Years | .twitter.com | Non-Essential |
 | Twitter (X) | guest\_id | Advertising | 2 Years | .twitter.com | Non-Essential |
 | Twitter (X) | guest\_id\_marketing | Advertising | 2 Years | .twitter.com | Non-Essential |
