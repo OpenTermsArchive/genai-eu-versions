@@ -1,7 +1,7 @@
 [xAI Cookie Policy](#xai-cookie-policy)
 =======================================
 
-_Effective: August 11, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-08-10))_
+_Effective: August 12, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-08-11))_
 
 This Cookie Policy describes what kinds of cookies and similar technologies xAI uses in connection with our Services (as defined in our [Privacy Policy](https://x.ai/legal/privacy-policy)).Please refer to our Privacy Policy to learn more about how we process your personal information.
 
@@ -62,8 +62,8 @@ Below is a list of cookies used on our Service:
 | Google Ads | IDE | Advertising | 13 Months | .doubleclick.net | Non-Essential |
 | Google Ads | NID | Security | 6 Months | .google.com | Non-Essential |
 | Google Ads | OTZ | Analytics | 30 Days | [www.google.com](http://www.google.com/) | Non-Essential |
-| Google (GA4) | \_ga | Analytics | 2 Years | .grok.com | Non-Essential |
-| Google (GA4) | _ga_<ID> | Analytics | 2 Years | .grok.com | Non-Essential |
+| Google (GA4) | \_ga | Analytics | 2 Years | .grok.com, x.ai, accounts.x.ai | Non-Essential |
+| Google (GA4) | _ga_<ID> | Analytics | 2 Years | .grok.com, x.ai, accounts.x.ai | Non-Essential |
 | Twitter (X) | twpid | Advertising | 13 Months | .grok.com, x.ai, console.x.ai | Non-Essential |
 | Twitter (X) | personalization\_id | Advertising | 2 Years | .twitter.com | Non-Essential |
 | Twitter (X) | guest\_id | Advertising | 2 Years | .twitter.com | Non-Essential |
