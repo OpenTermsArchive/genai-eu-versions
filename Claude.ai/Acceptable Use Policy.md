@@ -207,6 +207,8 @@ The below use cases – regardless of whether they are High-Risk Use Cases – m
 
 - - -
 
+[All Collections](https://support.anthropic.com/en/)[Safeguards](https://support.claude.com/en/collections/4078535-safeguards)Responsible Use of Anthropic's Models: Guidelines for Organizations Serving Minors
+
 Responsible Use of Anthropic's Models: Guidelines for Organizations Serving Minors
 ==================================================================================
 
@@ -238,6 +240,8 @@ Organizations must disclose to their users that they are interacting with an AI 
 Anthropic will periodically audit organizations for compliance with these safeguards. If your organization has a high violation rate and has not implemented these safety recommendations, we may ask you to implement them. Failure to implement these recommendations when requested, or a continued high violation rate, may lead to the suspension or termination of your account.
 
 - - -
+
+[All Collections](https://support.anthropic.com/en/)[Safeguards](https://support.claude.com/en/collections/4078535-safeguards)Exceptions to our Usage Policy
 
 Exceptions to our Usage Policy
 ==============================
