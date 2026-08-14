@@ -11,6 +11,8 @@ Trust and transparency are paramount values. Accordingly:
 
 - - -
 
+[All Collections](https://support.anthropic.com/en/)[Safeguards](https://support.claude.com/en/collections/4078535-safeguards)Law Enforcement Requests
+
 Law Enforcement Requests
 ========================
 
