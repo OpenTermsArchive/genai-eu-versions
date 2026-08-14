@@ -1,3 +1,5 @@
+[All Collections](https://support.claude.com/en/)[Connectors](https://support.claude.com/en/collections/15399129-connectors)[General](https://support.claude.com/en/collections/17879426-general)Anthropic Software Directory Terms
+
 Anthropic Software Directory Terms
 ==================================
 
@@ -16,6 +18,8 @@ You understand that inclusion of your Software in one or more Directories does n
 See prior version of these terms here: [Anthropic MCP Directory Terms and Conditions](https://support.claude.com/en/articles/11697081-anthropic-mcp-directory-terms-and-conditions).
 
 - - -
+
+[All Collections](https://support.claude.com/en/)[Connectors](https://support.claude.com/en/collections/15399129-connectors)[General](https://support.claude.com/en/collections/17879426-general)Anthropic Software Directory Policy
 
 Anthropic Software Directory Policy
 ===================================
