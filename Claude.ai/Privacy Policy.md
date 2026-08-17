@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Effective 8 July 2026[Previous Version](https://www.anthropic.com/legal/archive/d254257b-3920-4d8c-842d-b193c7372ba9)
+Effective July 8, 2026[Previous Version](https://www.anthropic.com/legal/archive/d254257b-3920-4d8c-842d-b193c7372ba9)
 
 English
 
@@ -263,7 +263,7 @@ Data Processors:
 Non-User Privacy Policy
 =======================
 
-Effective 8 July 2026[Previous Version](https://www.anthropic.com/legal/archive/a2eb2e3e-fd03-4dbf-8db5-2cc0e9fb31f9)
+Effective July 8, 2026[Previous Version](https://www.anthropic.com/legal/archive/a2eb2e3e-fd03-4dbf-8db5-2cc0e9fb31f9)
 
 English
 
