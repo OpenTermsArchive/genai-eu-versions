@@ -233,7 +233,7 @@ This OpenAI Services Agreement (“Agreement”) is entered as of the Effective 
 
 “Personal Data” is as defined in the DPA.
 
-“Pricing Page” means the pages available at [https://openai.com/api/pricing](https://openai.com/api/pricing/) or [https://openai.com/chatgpt/pricing⁠](https://chatgpt.com/en-GB/pricing?openaicom-did=dace00de-057d-4cb4-931e-430054eeb239&openaicom_referred=true).
+“Pricing Page” means the pages available at [https://openai.com/api/pricing](https://openai.com/api/pricing/) or [https://openai.com/chatgpt/pricing⁠](https://chatgpt.com/en-GB/pricing?openaicom-did=e18c566c-3ead-4127-b6f4-f5186408dacd&openaicom_referred=true).
 
 “Protected Health Information” is as defined under the HIPAA Privacy Rule (45 C.F.R. Section 160.103).
 
