@@ -2,39 +2,37 @@ Animation
 
 On
 
-Microsoft Copilot Terms of Use
-==============================
+Microsoft Copilot Supplemental Terms of Use
+===========================================
 
-Effective: June 12, 2026 ([past versions](https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse/archives))
-
-\* Terms related to Copilot Health are effective as of May 13, 2026.
+Effective: August 18, 2026 ([past versions](https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse/archives))
 
 Summary of Changes
 ------------------
 
-*   We've added terms for Copilot Health (which take effect immediately).
-*   We’ve included a link to the [Payment Services Terms](https://webxtsvc.microsoft.com/Terms), which apply if you use payment and wallet-related features in Copilot.
-*   We’ve updated our disclosures and warnings to be clearer about how you should and shouldn’t use Copilot.
+*   We’ve updated these Terms to apply to the Microsoft Copilot app for web, desktop, and mobile, and to Copilot Chat in Microsoft 365 apps. We’ve clarified, however, that these Terms do not apply to users who sign in with a work, school, or organizational (Entra) account.
+*   We’ve clarified that you must be logged in with a Microsoft account to use Copilot.
+*   We’ve updated the Code of Conduct to clarify that you cannot hide, remove, or alter content credentials or other marks that show Copilot created your Content.
 *   We’ve made other minor formatting and wording changes to accurately reflect current product experiences.
 
 **IF YOU LIVE IN (OR YOUR PRINCIPAL PLACE OF BUSINESS IS IN) THE UNITED STATES, PLEASE READ THE BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER IN SECTION 15 OF THE [MICROSOFT SERVICES AGREEMENT](https://go.microsoft.com/fwlink/?LinkID=530144). IT AFFECTS HOW DISPUTES RELATING TO THESE TERMS ARE RESOLVED.**
 
 Welcome to Copilot, your personal AI companion!
 
-These Terms explain how you can use Copilot. By using Copilot, you agree to these Terms. Please read them carefully before you start using Copilot.
+These Terms, along with the [Microsoft Services Agreement](http://go.microsoft.com/fwlink/?LinkID=530144) explain how you should use Copilot. By using Copilot, you agree to these Terms. Please read them carefully before you start using Copilot.
 
 WHEN & WHERE THESE TERMS APPLY
 ------------------------------
 
 These Terms apply to your use of “**Copilot**,” which includes:
 
-*   The standalone Copilot apps on your computer or mobile device
-*   The Copilot service we offer at [copilot.microsoft.com](https://copilot.microsoft.com/), [copilot.com](https://copilot.com/), and [copilot.ai](https://copilot.ai/)
-*   Conversations you have with Copilot through other Microsoft apps and websites
+*   The Microsoft Copilot app on your computer or mobile device
+*   The Microsoft Copilot app we offer at [copilot.microsoft.com](https://copilot.microsoft.com/), [copilot.com](https://copilot.com/), and [copilot.ai](https://copilot.ai/)
+*   Conversations you have with Copilot through other Microsoft apps and websites, including Microsoft 365 apps.
 *   Conversations you have with Copilot through third-party apps and platforms
 *   Other Copilot-branded apps and services that link to these Terms
 
-These Terms don’t apply to Microsoft 365 Copilot apps or services unless that specific app or service says that these Terms apply.
+These Terms don't apply to Copilot users who sign in with a work, school, or organizational (Entra) account. Learn more about [Enterprise Data Protection](https://go.microsoft.com/fwlink/p/?linkid=2346448).
 
 DEFINITIONS
 -----------
@@ -45,16 +43,16 @@ Certain words and phrases we use in these Terms have a particular meaning:
 *   Words like “**we**”, “**us**”, and “**our**” means Microsoft, the company that offers Copilot, as well as the related companies we own or control and the companies and people that work on our behalf.
 *   A “**Prompt**” is the content – text, audio, images, files, voice, or video – that you send to or share with Copilot.
 *   A “**Response**” is the content that Copilot sends to or shares with you. Some Responses might include “**Creations**” – original content or works of art that Copilot creates in response to your Prompts.
-*   “**Your Content**” means the Prompts and Responses that are part of your conversations with Copilot, but it doesn’t include any content we separately own (like Xbox gaming clips, for example).
+*   “**Your Content**” means the Prompts and Responses that are part of your conversations with Copilot, but it doesn’t include any content we separately own.
 *   “**Tasks**” refers to the automated set of actions that Copilot takes on your behalf at your request.
 *   “**Services**” is defined in the [Microsoft Services Agreement](https://go.microsoft.com/fwlink/?LinkID=530144). Copilot is a Service under that Agreement.
 
 WHO CAN USE COPILOT
 -------------------
 
-You need to be old enough to use Copilot – usually at least 13, but sometimes 18 or older, depending on your country’s laws. Because laws vary by country, Copilot isn’t available everywhere.
+To use Copilot you must have a Microsoft Account, and you need to be old enough at least 13, but sometimes older, depending on your country’s laws. Because laws vary by country, Copilot isn’t available everywhere.
 
-If you’re under 18, or if you use Copilot without logging in, we might turn off or limit some features for legal or safety reasons. If we ask for your birthday and country when you sign up or log in, you must give us your real information.
+If you’re under 18, we might turn off or limit some features for legal or safety reasons. If we ask for your birthday and country when you sign up or log in, you must give us your real information.
 
 Don’t use tools or computer programs (like bots or scrapers) to access Copilot. You can only use Copilot for your own personal use.
 
@@ -67,7 +65,7 @@ Copilot tries to give you good answers, but it can make mistakes. Sometimes, the
 
 Always use your judgment and check the information you get from Copilot before you make decisions or act. Carefully review Responses and Creations before sharing them so you’re not exposing personal information you wouldn’t want others to see.
 
-If you see something wrong or inappropriate from Copilot, use the Report or Feedback features in Copilot to let us know. If you have a legal concern about something Copilot says, please use the [Report a Concern](https://www.bing.com/ck/a?!&&p=988c9325a60a9f714489d786813c5d41bb617820af4d7f5a5baee4a0253c931bJmltdHM9MTczMTg4ODAwMA&ptn=3&ver=2&hsh=4&fclid=2a77e8d8-a88e-69a4-022e-f9bfa93d68f6&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9jb25jZXJuL2Jpbmc_bXNvY2tpZD0yYTc3ZThkOGE4OGU2OWE0MDIyZWY5YmZhOTNkNjhmNg&ntb=1) page to tell us.
+If you see something wrong or inappropriate from Copilot, use the Report or Feedback features in Copilot to let us know. If you have a legal concern about something Copilot says, please use the [Report a Concern](https://go.microsoft.com/fwlink/?linkid=2259255) page to tell us.
 
 Because of the way Copilot works, the Responses you get from Copilot may not be unique to you. Copilot may give the same or similar Responses and Creations to Microsoft, or to other people. Other people may send similar Prompts as yours, and they could get the same, similar, or different Responses and Creations.
 
@@ -88,18 +86,19 @@ When you use Copilot, you must follow the general Code of Conduct set out in the
 *   **Don’t use Copilot to trick, lie to, or cheat others**. Don’t use Copilot to help mislead or deceive people. Don’t use Copilot to create or share disinformation or content that will be used to impersonate, defraud, or deceive others.
 *   **Don’t infringe the rights of others**. Don’t use Copilot to infringe on other people’s legal rights, including their intellectual property and publicity rights.
 *   **Don’t create or share inappropriate content or material**. Don’t use Copilot to create or share adult content, violence or gore, hateful content, terrorism and violent extremist content, glorification of violence or suicide, child sexual exploitation or abuse material, or content that is otherwise disturbing or offensive. Don’t use Copilot to create or edit images, voice, or video of other people (e.g. “deepfakes”) without their permission.
+*   **Don’t hide, remove, or alter content credentials or other marks or signals that show Copilot created your Content**. Don’t try to mislead others about whether you used Copilot to create your Content.
 *   **Don’t do anything illegal**. Don’t use Copilot to break the law, or to help or encourage others to break the law.
 
-If you see something wrong or inappropriate from Copilot, use the Report or Feedback features in Copilot to let us know. If you have a legal concern about something Copilot says, please use the [Report a Concern](https://www.bing.com/ck/a?!&&p=988c9325a60a9f714489d786813c5d41bb617820af4d7f5a5baee4a0253c931bJmltdHM9MTczMTg4ODAwMA&ptn=3&ver=2&hsh=4&fclid=2a77e8d8-a88e-69a4-022e-f9bfa93d68f6&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9jb25jZXJuL2Jpbmc_bXNvY2tpZD0yYTc3ZThkOGE4OGU2OWE0MDIyZWY5YmZhOTNkNjhmNg&ntb=1) page to tell us.
+If you have product feedback or see something wrong in Copilot, use the Feedback features in Copilot to let us know. If you have a legal concern or encounter harmful content in Copilot, please use the [Report a Concern](https://go.microsoft.com/fwlink/?linkid=2259255) page to tell us.
 
 We may block, restrict, or remove your Prompts or other content from you that violates these Terms, or that could lead Copilot to create a Response that violates these Terms.
 
 COPILOT HEALTH
 --------------
 
-Copilot Health is designed to provide personalized information about your health and wellness. It is not intended to diagnose, treat or prevent medical conditions, and it should not be used to replace professional medical advice.
+Copilot Health may be available to you depending on your age and location. Copilot Health is designed to provide personalized information about your health and wellness. It is not intended to diagnose, treat or prevent medical conditions, and it should not be used to replace professional medical advice.
 
-*   The personal information, including health information, that you provide to Copilot Health is collected, processed, and stored in accordance with the [Microsoft Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=521839) and the [Microsoft Consumer Health Data Privacy Policy](https://www.microsoft.com/privacy/microsoft-consumer-health-data-privacy-policy?msockid=38e69f68cec86516112f89d7cfcc6415), unless subject to an exception. For example, the information you provide to Copilot Health is not used for advertising purposes, and it is not used to develop or train generative AI models. To learn more, please see the [Copilot Health FAQ](https://aka.ms/copilothealth-faqs).
+*   The personal information, including health information, that you provide to Copilot Health is collected, processed, and stored in accordance with the [Microsoft Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=521839) and the [Microsoft Consumer Health Data Privacy Policy](https://www.microsoft.com/privacy/microsoft-consumer-health-data-privacy-policy?msockid=38e69f68cec86516112f89d7cfcc6415), unless subject to an exception. For example, the information you provide to Copilot Health is not used for advertising purposes, and it is not used to develop or train AI models. To learn more, please see the [Copilot Health FAQ](https://aka.ms/copilothealth-faqs).
 *   Before providing your consent for Copilot Health to collect, process and use your information, carefully review the disclaimers and disclosures for Copilot Health, as well as the [Copilot Health FAQ](https://aka.ms/copilothealth-faqs). Similarly, you should review the disclaimers, disclosures, terms, and policies (including privacy policies) of third parties that provide services through Copilot Health. For example, you should review HealthEx's [End User Privacy Policy](https://www.healthex.io/privacy-policy) before you decide to connect your electronic health records. If you do not understand or agree to the applicable terms and policies provided by either Microsoft or third parties, please do not use Copilot Health.
 *   If you decide to connect with a third party while using Copilot Health, you authorize us to share information about you with the third party. You also authorize the third party to share information about you with us (“**Third Party Content**”). We aren’t responsible for any errors or omissions in Third Party Content, including information about you that may be wrong or otherwise incorrect. If you have questions about or disagree with the information that a third party provided to Copilot Health, you must address it with the third party. We do not control Third Party Content, so we are not responsible for any loss or damage that may result from your use of Third Party Content in Copilot Health.
 
@@ -108,7 +107,7 @@ OUR DECISIONS ABOUT COPILOT
 
 We may choose to limit or stop offering or supporting Copilot or any feature within Copilot at any time and for any reason.
 
-**Unless prohibited by law, we may limit, suspend, or permanently revoke your access to or use of Copilot (and potentially all other Services) in our sole discretion, at any time and without notice**. Some of the reasons we might do this, for example, is if you breach these Terms or violate the Code of Conduct, if we suspect you’re engaged in fraudulent or illegal activity, or if your Microsoft Account or the account you use to log in to Copilot is suspended or closed. If you feel your access has been restricted by mistake, you may ask us to reevaluate our decision by submitting a request using the [Report a Concern](https://www.bing.com/ck/a?!&&p=988c9325a60a9f714489d786813c5d41bb617820af4d7f5a5baee4a0253c931bJmltdHM9MTczMTg4ODAwMA&ptn=3&ver=2&hsh=4&fclid=2a77e8d8-a88e-69a4-022e-f9bfa93d68f6&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9jb25jZXJuL2Jpbmc_bXNvY2tpZD0yYTc3ZThkOGE4OGU2OWE0MDIyZWY5YmZhOTNkNjhmNg&ntb=1) form outlining what you think we got wrong and why.
+**Unless prohibited by law, we may limit, suspend, or permanently revoke your access to or use of Copilot (and potentially all other Services) in our sole discretion, at any time and without notice**. Some of the reasons we might do this, for example, is if you breach these Terms or violate the Code of Conduct, if we suspect you’re engaged in fraudulent or illegal activity, or if your Microsoft Account or the account you use to log in to Copilot is suspended or closed. If you feel your access has been restricted by mistake, you may ask us to reevaluate our decision by submitting a request using the [Report a Concern](https://go.microsoft.com/fwlink/?linkid=2259255) form outlining what you think we got wrong and why.
 
 SHOPPING EXPERIENCES
 --------------------
@@ -122,10 +121,9 @@ Depending on your location and other factors, we may offer you the opportunity t
 IMPORTANT DISCLOSURES & WARNINGS
 --------------------------------
 
-*   Copilot may include advertising.
+*   If you use Copilot without a paid Microsoft 365 subscription, Copilot may include advertising.
 *   Copilot may include both automated and manual (human) processing of data. You shouldn’t share any information with Copilot that you don’t want us to review.
 *   We plan to continue to develop and improve Copilot, but we make no guarantees or promises about how Copilot will operate or that it will operate as intended.
-*   Sometimes, we may offer certain features or services as part of “Copilot Labs.” These features and services are highly experimental and may not always work as intended. We may add, modify, or remove features or services from Copilot Labs at any time for any reason.
 *   We may limit the speed or performance of Copilot as we think necessary.
 *   When you request that Copilot take Actions on your behalf, you are solely responsible for those Actions and any results or consequences.
 *   **Copilot can make mistakes, and it may not work as intended. Do not use Copilot as a substitute for professional advice. Always verify the accuracy of information presented by Copilot before you rely on it. We are not responsible for any consequences that arise from your use of or reliance on Copilot.**
@@ -147,11 +145,9 @@ Although our Terms grant you permission to use Copilot, we are not granting you 
 OTHER TERMS & AGREEMENTS
 ------------------------
 
-*   By agreeing to these Terms, you’re also agreeing to the [Microsoft Services Agreement](https://go.microsoft.com/fwlink/?LinkID=530144), a legal agreement between you and us that applies to your use of our Services (including Copilot). If you have a Microsoft account, you already agreed to the Microsoft Services Agreement when you first created a Microsoft account. If you log in to Copilot using a non-Microsoft account, we may automatically create a Microsoft account for you, or let you link that non-Microsoft account to your existing Microsoft Account.  
-    Even if you don’t have a Microsoft Account – for example, if you’re using Copilot without logging in, you’re still agreeing to the [Microsoft Services Agreement](https://go.microsoft.com/fwlink/?LinkID=530144) by using Copilot. Please make sure you review it carefully.
-*   If you use Copilot to create images, you’re also agreeing to the [Image Creator Terms](https://www.bing.com/new/termsofuseimagecreator).
+*   By agreeing to these Terms, you’re also agreeing to the [Microsoft Services Agreement](https://go.microsoft.com/fwlink/?LinkID=530144), a legal agreement between you and us that applies to your use of our Services (including Copilot). If you have a Microsoft account, you already agreed to the Microsoft Services Agreement when you first created a Microsoft account. If you log in to Copilot using a non-Microsoft account, we may automatically create a Microsoft account for you, or let you link that non-Microsoft account to your existing Microsoft Account.
 *   If you use Copilot to access, update, or use payment methods (like credit cards) you’ve saved in your Microsoft Wallet, you are subject to the [Payment Services Terms](https://webxtsvc.microsoft.com/Terms).
-*   If you use Gaming Copilot or other AI-powered experiences provided in connection with any Xbox Services, you are also subject to the [Xbox Community Standards](https://www.xbox.com/legal/community-standards).
+*   If you use Gaming Copilot or other AI-powered experiences provided in connection with any XBOX Services, you are also subject to the [XBOX Community Standards](https://www.xbox.com/legal/community-standards).
 *   Copilot may be integrated into other products and services we separately license to you. For example, Microsoft 365 Family or Microsoft 365 Personal subscriptions are separately licensed under the terms at [https://www.microsoft.com/useterms](https://www.microsoft.com/useterms).
 *   If any of the language in those other agreements conflicts with the language in these Terms, the language in these Terms controls.
 *   When you use Copilot, you are subject to the [Microsoft Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=521839), which describes how we collect, use, and share information relating to your use of Copilot.
