@@ -1312,7 +1312,7 @@ Data that Gemini shares with other Google services is used per the [Google Priva
 
 You can connect and disconnect apps in your Connected Apps settings. Learn [how to control which apps Gemini works with](https://support.google.com/gemini/answer/13695044#turn_on_off).
 
-Some Connected Apps such as Phone, Messages, WhatsApp, and Utilities are available on your Android mobile device, whether [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) is on or off. At this time, other Connected Apps like Google Workspace are unavailable if you turn off [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help). Turning Keep Activity back on restores Gemini's access to apps that were previously connected.
+Some Connected Apps such as Phone, Messages, WhatsApp, and Device assistance are available on your Android mobile device, whether [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) is on or off. At this time, other Connected Apps like Google Workspace are unavailable if you turn off [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help). Turning Keep Activity back on restores Gemini's access to apps that were previously connected.
 
 #### Disconnecting apps & deleting data
 
