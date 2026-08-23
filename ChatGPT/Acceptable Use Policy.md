@@ -148,7 +148,7 @@ ChatGPT agent users are not allowed to bypass rate limits, restrictions, or safe
 What to know about the Sora discontinuation
 ===========================================
 
-Updated: 23 days ago
+Updated: 24 days ago
 
 When will Sora be discontinued?
 -------------------------------
