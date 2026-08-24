@@ -1,7 +1,7 @@
 [xAI Cookie Policy](#xai-cookie-policy)
 =======================================
 
-_Effective: August 12, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-08-11))_
+_Effective: August 24, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-08-12))_
 
 This Cookie Policy describes what kinds of cookies and similar technologies xAI uses in connection with our Services (as defined in our [Privacy Policy](https://x.ai/legal/privacy-policy)).Please refer to our Privacy Policy to learn more about how we process your personal information.
 
@@ -59,12 +59,14 @@ Below is a list of cookies used on our Service:
 | Meta Ads | wd  | Advertising | 7 Days | .facebook.com | Non-Essential |
 | Google Ads | \_gcl\_au | Advertising | 90 Days | .grok.com, x.ai, console.x.ai | Non-Essential |
 | Google Ads | \_gcl\_aw | Advertising | 90 Days | .grok.com, x.ai, console.x.ai | Non-Essential |
+| Google Ads | _gac_<ID> | Advertising | 90 Days | .grok.com, x.ai, console.x.ai | Non-Essential |
 | Google Ads | IDE | Advertising | 13 Months | .doubleclick.net | Non-Essential |
 | Google Ads | NID | Security | 6 Months | .google.com | Non-Essential |
-| Google Ads | OTZ | Analytics | 30 Days | [www.google.com](http://www.google.com/) | Non-Essential |
-| Google (GA4) | \_ga | Analytics | 2 Years | .grok.com, x.ai, accounts.x.ai | Non-Essential |
-| Google (GA4) | _ga_<ID> | Analytics | 2 Years | .grok.com, x.ai, accounts.x.ai | Non-Essential |
+| Google Ads | OTZ | Analytics | 30 Days | www.google.com | Non-Essential |
+| Google (GA4) | \_ga | Analytics | 2 Years | .grok.com, x.ai, accounts.x.ai, console.x.ai | Non-Essential |
+| Google (GA4) | _ga_<ID> | Analytics | 2 Years | .grok.com, x.ai, accounts.x.ai, console.x.ai | Non-Essential |
 | Twitter (X) | twpid | Advertising | 13 Months | .grok.com, x.ai, console.x.ai | Non-Essential |
+| Twitter (X) | \_twclid | Advertising | 30 Days | .grok.com, x.ai, console.x.ai | Non-Essential |
 | Twitter (X) | personalization\_id | Advertising | 2 Years | .twitter.com | Non-Essential |
 | Twitter (X) | guest\_id | Advertising | 2 Years | .twitter.com | Non-Essential |
 | Twitter (X) | guest\_id\_marketing | Advertising | 2 Years | .twitter.com | Non-Essential |
@@ -73,14 +75,32 @@ Below is a list of cookies used on our Service:
 | AppsFlyer | afUserId | Analytics | 13 Months | .grok.com | Non-Essential |
 | AppsFlyer | AF\_SYNC | Analytics | Session | .grok.com | Non-Essential |
 | Server GTM | \_dcid | Functional | N/A | .sgtm-prod-985009374134.us-central1.run.app | Non-Essential |
-| TikTok Ads | \_ttp | Advertising | 13 Months | .grok.com | Non-Essential |
-| TikTok Ads | \_tt\_enable\_cookie | Advertising | 13 Months | .grok.com | Non-Essential |
+| TikTok Ads | \_ttp | Advertising | 13 Months | .grok.com, x.ai, console.x.ai | Non-Essential |
+| TikTok Ads | \_tt\_enable\_cookie | Advertising | 13 Months | .grok.com, x.ai, console.x.ai | Non-Essential |
 | TikTok Ads | ttwid | Advertising | 1 Year | .tiktok.com | Non-Essential |
-| TikTok Ads | ttcsid | Advertising | Session | .grok.com | Non-Essential |
+| TikTok Ads | ttcsid | Advertising | Session | .grok.com, x.ai, console.x.ai | Non-Essential |
 | TikTok Ads | ttcsid\_<ID> | Advertising | Session | .tiktok.com | Non-Essential |
 | TikTok Ads | msToken | Security | 24 Hours | .tiktok.com | Non-Essential |
 | TikTok Ads | tta\_attr\_id\_mirror | Advertising | 13 Months | .tiktok.com | Non-Essential |
 | TikTok Ads | passport\_csrf\_token | Security | Session | .tiktok.com | Non-Essential |
+| TikTok Ads | ttclid | Advertising | 13 Months | .grok.com, x.ai, console.x.ai | Non-Essential |
+| TikTok Ads | tt\_sessionId | Advertising | Session | .grok.com, x.ai, console.x.ai | Non-Essential |
+| LinkedIn Ads | li\_fat\_id | Advertising | 30 Days | .grok.com, x.ai, console.x.ai | Non-Essential |
+| LinkedIn Ads | li\_adsid | Advertising | 6 Months | .grok.com, x.ai, console.x.ai | Non-Essential |
+| LinkedIn Ads | UserMatchHistory | Advertising | 30 Days | .linkedin.com | Non-Essential |
+| LinkedIn Ads | lang | Service Functionality | Session | .linkedin.com | Non-Essential |
+| LinkedIn Ads | li\_at | Login | 1 Year | .linkedin.com | Non-Essential |
+| Microsoft Ads | \_uetsid | Advertising | 1 Day | .grok.com, x.ai, console.x.ai | Non-Essential |
+| Microsoft Ads | \_uetvid | Advertising | 13 Months | .grok.com, x.ai, console.x.ai | Non-Essential |
+| Microsoft Ads | \_uetmsclkid | Advertising | 90 Days | .grok.com, x.ai, console.x.ai | Non-Essential |
+| Microsoft Ads | MUID | Advertising | 13 Months | .bing.com | Non-Essential |
+| Reddit Ads | \_rdt\_uuid | Advertising | 90 Days | .grok.com, x.ai, console.x.ai | Non-Essential |
+| Reddit Ads | \_rdt | Advertising | 90 Days | .grok.com, x.ai, console.x.ai | Non-Essential |
+| Snap Ads | \_scid | Advertising | 1 Year | .grok.com, x.ai, console.x.ai | Non-Essential |
+| Snap Ads | sc\_at | Advertising | 1 Year | .snapchat.com | Non-Essential |
+| Snap Ads | \_schn | Advertising | 3 min | .grok.com, x.ai, console.x.ai | Non-Essential |
+| Snap Ads | \_schn1 | Advertising | 3 min | .grok.com, x.ai, console.x.ai | Non-Essential |
+| Snap Ads | \_sctr | Advertising | 1 Year | .grok.com, x.ai, console.x.ai | Non-Essential |
 
 ### Additional information
 
