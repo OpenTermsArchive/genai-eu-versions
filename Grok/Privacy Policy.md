@@ -1,18 +1,18 @@
-[xAI Privacy Policy](#xai-privacy-policy)
-=========================================
+[SpaceXAI Privacy Policy](#spacexai-privacy-policy)
+===================================================
 
-_Effective: April 4, 2026 ([previous version](https://x.ai/legal/privacy-policy/previous-2025-07-10))_
+_Effective: August 24, 2026 ([previous version](https://x.ai/legal/privacy-policy/previous-2026-04-04))_
 
-At X.AI LLC ("**xAI**", "**our**", "**us**" or "**we**"), we value your privacy and are committed to being fair, accountable, and transparent in how we handle your personal information. Our Privacy Policy outlines how we collect, use, and disclose your personal information when you use our websites and applications (the Grok mobile app ([iOS](https://apps.apple.com/app/grok/id6670324846) or [Android](https://play.google.com/store/apps/details?id=ai.x.grok)) or the [Grok.com](http://grok.com/) website), and other xAI services (our "**Service**"). It also describes your privacy rights.
+At SpaceXAI LLC ("**SpaceXAI**", "**our**", "**us**" or "**we**"), we value your privacy and are committed to being fair, accountable, and transparent in how we handle your personal information. Our Privacy Policy outlines how we collect, use, and disclose your personal information when you use our websites and applications (the Grok mobile app ([iOS](https://apps.apple.com/app/grok/id6670324846) or [Android](https://play.google.com/store/apps/details?id=ai.x.grok)) or the [Grok.com](http://grok.com/) website), and other SpaceXAI services (our "**Service**"). It also describes your privacy rights.
 
-This Privacy Policy does not apply to data that we process on behalf of customers of our business offerings, such as the xAI API, or to any employment-related personal information processed in consideration of employment with xAI. This Privacy Policy also does not apply if you access our Service through a third-party’s service. In that case, the third-party’s privacy policy would apply. For example, your use of X (previously Twitter), including use of Grok on the X platform, is governed by the [X Privacy Policy](https://x.com/en/privacy) and [X Terms](https://x.com/en/tos), not this xAI Privacy Policy.
+This Privacy Policy does not apply to data that we process on behalf of customers of our business offerings, such as the SpaceXAI API, or to any employment-related personal information processed in consideration of employment with SpaceXAI. This Privacy Policy also does not apply if you access our Service through a third-party’s service. In that case, the third-party’s privacy policy would apply. For example, your use of X (previously Twitter), including use of Grok on the X platform, is governed by the [X Privacy Policy](https://x.com/en/privacy) and [X Terms](https://x.com/en/tos), not this SpaceXAI Privacy Policy.
 
-For individuals in the European Economic Area, United Kingdom, and Switzerland (collectively, “Europe”), for Europe-specific additional information not already discussed on this page, please see [xAI’s Europe Privacy Policy Addendum](https://x.ai/legal/europe-privacy-policy-addendum).
+For individuals in the European Economic Area, United Kingdom, and Switzerland (collectively, “Europe”), for Europe-specific additional information not already discussed on this page, please see [SpaceXAI’s Europe Privacy Policy Addendum](https://x.ai/legal/europe-privacy-policy-addendum).
 
-[**1\. About xAI and Grok**](#1-about-xai-and-grok)
----------------------------------------------------
+[**1\. About SpaceXAI and Grok**](#1-about-spacexai-and-grok)
+-------------------------------------------------------------
 
-xAI is a US-based company working on building artificial intelligence tools to accelerate human scientific discovery. We are guided by our mission to advance our collective understanding of the universe. As part of our mission, we have developed “Grok,” a conversational generative AI powered by xAI’s large language models. More information about xAI’s development and training of Grok and data controls is available in our [Consumer FAQs](https://x.ai/legal/faq), [Enterprise FAQs](https://x.ai/legal/faq-enterprise), and [xAI website](https://x.ai/about). Please note that xAI is a separate company from X Corp. ("X", previously Twitter).
+SpaceXAI is a US-based company working on building artificial intelligence tools to accelerate human scientific discovery. We are guided by our mission to advance our collective understanding of the universe. As part of our mission, we have developed “Grok,” a conversational generative AI powered by SpaceXAI’s large language models. More information about SpaceXAI’s development and training of Grok and data controls is available in our [Consumer FAQs](https://x.ai/legal/faq), [Enterprise FAQs](https://x.ai/legal/faq-enterprise), and [SpaceXAI website](https://x.ai/about). Please note that SpaceXAI is a separate company from X Corp. ("X", previously Twitter).
 
 [**2\. Personal information we collect (Notice at collection)**](#2-personal-information-we-collect-notice-at-collection)
 -------------------------------------------------------------------------------------------------------------------------
@@ -21,7 +21,7 @@ xAI is a US-based company working on building artificial intelligence tools to a
 
 We may collect personal information from you and about you. Some examples of the information we may collect, how we may collect it, how we may use it, and how we may disclose it are described below.
 
-*   **Account Data:** If you create an account with us, we collect your name, contact information, account credentials, and date of birth. Also, to access certain features of the Service, we will collect your date of birth before you may proceed. If you log into our Service using a third-party service, such as X, Google, or Apple, that third-party will send your information to us at your direction. For example, if you use your existing X credentials to log into an xAI mobile app or website, you may choose to direct X to share the following information with us: your X public profile (including profile image), X username, numeric X ID, your date of birth, whether you are subscribed to X Premium, and your Grok on X conversation history.
+*   **Account Data:** If you create an account with us, we collect your name, contact information, account credentials, and date of birth. Also, to access certain features of the Service, we will collect your date of birth before you may proceed. If you log into our Service using a third-party service, such as X, Google, or Apple, that third-party will send your information to us at your direction. For example, if you use your existing X credentials to log into a SpaceXAI mobile app or website, you may choose to direct X to share the following information with us: your X public profile (including profile image), X username, numeric X ID, your date of birth, whether you are subscribed to X Premium, and your Grok on X conversation history.
     
     *   How we may collect it: Directly from you or from a third-party (ex., X, Google, or Apple).
     *   How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.
@@ -84,9 +84,9 @@ We may collect personal information from you and about you. Some examples of the
 
 For details about our use of cookies, please read our [Cookie Policy](https://x.ai/legal/cookie-policy).
 
-*   **Google Apps Using Google OAuth**: For users who opt to connect to Google Apps via Google OAuth, xAI shall not use any Google Apps content for any of its internal AI or other training purposes (such as training its machine learning models), including developing new products or services based on such content.
+*   **Google Apps Using Google OAuth**: For users who opt to connect to Google Apps via Google OAuth, SpaceXAI shall not use any Google Apps content for any of its internal AI or other training purposes (such as training its machine learning models), including developing new products or services based on such content.
 
-We do not aim to collect sensitive personal information (ex., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometric scans, criminal background, or trade union membership) and ask that you do not provide us with any such information. In addition, in relation to Grok's training, xAI does not process training data for the purposes of inferring or deriving any sensitive or special category data about individuals, and we do not actively seek out data sources that include sensitive or special category data, nor is any uploaded image used for identification purposes.
+We do not aim to collect sensitive personal information (ex., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometric scans, criminal background, or trade union membership) and ask that you do not provide us with any such information. In addition, in relation to Grok's training, SpaceXAI does not process training data for the purposes of inferring or deriving any sensitive or special category data about individuals, and we do not actively seek out data sources that include sensitive or special category data, nor is any uploaded image used for identification purposes.
 
 [**3\. How we may use personal information**](#3-how-we-may-use-personal-information)
 -------------------------------------------------------------------------------------
@@ -98,7 +98,7 @@ We may use your personal information for a variety of purposes. Below, you will 
 *   To develop and improve our Service and to conduct research: For example to develop new product features, to train our models, to identify usage trends, to operate and expand our business activities, to identify new customers, and for data analysis.
 *   To communicate with you: For example, to send you information about our Service, events, or changes to the Service. This may include sending you non-promotional emails, such as emails about your Grok access, legally required notices, or our ongoing business relations.
 *   To ensure the security and integrity of our Service: For example, to protect the security of our Services and to detect and prevent fraud, unauthorized use, unlawful activity, and other misuses of our Service.
-*   For legal purposes: For example, to comply with our legal obligations and to protect the rights, privacy, safety, or property of our users, xAI, or third-parties. This may include detecting what country you are located in so we can comply with relevant legal obligations.
+*   For legal purposes: For example, to comply with our legal obligations and to protect the rights, privacy, safety, or property of our users, SpaceXAI, or third-parties. This may include detecting what country you are located in so we can comply with relevant legal obligations.
 
 We may aggregate, pseudoanonymize, or de-identify your information so that it no longer identifies you and use this information for the purposes described above, such as to analyze the way our Service is being used, to improve and add features to them, and to conduct research. We will maintain and use pseudoanonymized or de-identified information in pseudoanonymized or de-identified form and will not attempt to reidentify the information, unless required by law.
 
@@ -109,7 +109,7 @@ We may disclose your personal information to others. Below, you will find exampl
 
 *   To our contracted service providers: To assist in providing the Service to you or performing business operations, we provide your personal information to service providers including providers of hosting, cloud, analytics, content delivery, support and safety monitoring, payment and transaction, and other technology services, for the purposes described above.
 *   In connection with business transfers: In connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction, or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets to another company. If required by applicable laws, we will use reasonable efforts to notify you of any transfer of personal information to an unaffiliated third-party.
-*   For legal purposes: To (i) comply with laws or to respond to lawful requests and legal process, (ii) protect the rights and property of xAI and our agents, customers, and others, including to enforce our agreements, policies, and terms of service, (iii) to protect against legal liability, or (iv) to protect the personal safety of xAI, its customers, or any person.
+*   For legal purposes: To (i) comply with laws or to respond to lawful requests and legal process, (ii) protect the rights and property of SpaceXAI and our agents, customers, and others, including to enforce our agreements, policies, and terms of service, (iii) to protect against legal liability, or (iv) to protect the personal safety of SpaceXAI, its customers, or any person.
 *   To our related companies: To our related companies to the extent such sharing is necessary to fulfill a request you have submitted via our Service or for customer management, customer support, technical operations, or the purposes described above.
 *   To third-parties with which you interact or share information: Certain features may allow you to share information with third-parties, such as through the X platform. Information you share with third-parties is governed by that third-party’s terms and policies.
 
@@ -123,12 +123,12 @@ We retain your personal information where we have an ongoing legitimate business
 *   To protect the safety, security, and integrity of our business and the Service, as well as to protect our rights and property and those of others (e.g., if we detect misuse of our Service or otherwise detect unusual activity on your account or in your interactions with us); and
 *   For litigation, regulatory or other legal matters (e.g., we would retain your information if there was an ongoing legal claim and the information was relevant to the claim).
 
-The length of time we retain data may depend on the features or settings you use. For example, when Private Chat is turned on, conversations will not appear in your conversation history and your conversations will be deleted from xAI systems within 30 days unless it is necessary that they be kept longer for legal, compliance, or safety purposes. Further, if you choose to delete any or all of your conversations or if you choose to delete your account, we will delete the data within 30 days unless it is necessary to retain the data for legal, compliance, or safety purposes.
+The length of time we retain data may depend on the features or settings you use. For example, when Private Chat is turned on, conversations will not appear in your conversation history and your conversations will be deleted from SpaceXAI systems within 30 days unless it is necessary that they be kept longer for legal, compliance, or safety purposes. Further, if you choose to delete any or all of your conversations or if you choose to delete your account, we will delete the data within 30 days unless it is necessary to retain the data for legal, compliance, or safety purposes.
 
 [**6\. Security of personal information**](#6-security-of-personal-information)
 -------------------------------------------------------------------------------
 
-xAI implements commercially reasonable technical, administrative, and organizational measures designed to protect personal information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no security measure or method of data transmission over the internet is 100% secure. In addition, you are solely responsible for protecting your log-in and password, limiting access to your devices, and signing out of websites and accounts after your sessions.
+SpaceXAI implements commercially reasonable technical, administrative, and organizational measures designed to protect personal information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no security measure or method of data transmission over the internet is 100% secure. In addition, you are solely responsible for protecting your log-in and password, limiting access to your devices, and signing out of websites and accounts after your sessions.
 
 [**7\. Links to other websites**](#7-links-to-other-websites)
 -------------------------------------------------------------
@@ -143,7 +143,7 @@ As noted in the [Terms of Service](https://x.ai/terms-of-service), our Service i
 [**9\. Privacy rights and choices**](#9-privacy-rights-and-choices)
 -------------------------------------------------------------------
 
-Depending on where you are located and subject to applicable legal exceptions, you may have certain rights in relation to your personal information. For information on the privacy rights that may be available to you under European privacy laws, please review [xAI’s Europe Privacy Policy Addendum](https://x.ai/legal/europe-privacy-policy-addendum).
+Depending on where you are located and subject to applicable legal exceptions, you may have certain rights in relation to your personal information. For information on the privacy rights that may be available to you under European privacy laws, please review [SpaceXAI’s Europe Privacy Policy Addendum](https://x.ai/legal/europe-privacy-policy-addendum).
 
 *   You may have the right to request to access, correct, update or delete your personal information, subject to certain applicable legal exceptions. Please note that we cannot guarantee the factual accuracy of Output from our models. If Output contains factually inaccurate personal information relating to you, you can submit a correction request and we will make reasonable efforts to correct this information — but due to the technical complexity of our models, it may not be feasible for us to do so.
 *   If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
@@ -151,7 +151,7 @@ Depending on where you are located and subject to applicable legal exceptions, y
 *   The right to be free from discrimination for exercising the rights afforded to you under applicable privacy laws.
 *   The right to appeal a decision we make about your rights request.
 
-Exercising your rights: Some of these rights may be exercised in the xAI Service but for others you will need to submit a request at [https://x.ai/privacy-portal/](https://x.ai/privacy-portal/) and include your full legal name, email address, and city, state/province, and country of residence. Once you have submitted your request, we will respond within the time frame permitted by applicable privacy laws.
+Exercising your rights: Some of these rights may be exercised in the SpaceXAI Service but for others you will need to submit a request at [https://x.ai/privacy-portal/](https://x.ai/privacy-portal/) and include your full legal name, email address, and city, state/province, and country of residence. Once you have submitted your request, we will respond within the time frame permitted by applicable privacy laws.
 
 Please note, however, that your personal information may be exempt from such requests in certain circumstances, for example if we need to keep using your information to comply with our own legal obligations or to establish, exercise or defend legal claims. If an exception applies, we will inform you when responding to your request.
 
@@ -194,12 +194,12 @@ If you have any queries or complaints about our collection, use, or storage of y
 
 - - -
 
-[**xAI’s Europe Privacy Policy Addendum**](#xais-europe-privacy-policy-addendum)
-================================================================================
+[**SpaceXAI’s Europe Privacy Policy Addendum**](#spacexais-europe-privacy-policy-addendum)
+==========================================================================================
 
-_Effective: April 24, 2025_
+_Effective: August 24, 2026 ([previous version](https://x.ai/legal/europe-privacy-policy-addendum/previous-2025-04-24))_
 
-xAI’s main [Privacy Policy](https://x.ai/legal/privacy-policy) outlines how xAI collects and uses your personal information. If you are outside the European Economic Area, United Kingdom, and Switzerland (“Europe”), you only need to read the main [Privacy Policy](https://x.ai/legal/privacy-policy). If you are in Europe, this Europe Privacy Policy Addendum is a continuation of the main [Privacy Policy](https://x.ai/legal/privacy-policy) and adds information that is specific to Europe.
+SpaceXAI’s main [Privacy Policy](https://x.ai/legal/privacy-policy) outlines how SpaceXAI collects and uses your personal information. If you are outside the European Economic Area, United Kingdom, and Switzerland (“Europe”), you only need to read the main [Privacy Policy](https://x.ai/legal/privacy-policy). If you are in Europe, this Europe Privacy Policy Addendum is a continuation of the main [Privacy Policy](https://x.ai/legal/privacy-policy) and adds information that is specific to Europe.
 
 [**13\. Additional information for individuals in Europe**](#13-additional-information-for-individuals-in-europe)
 -----------------------------------------------------------------------------------------------------------------
@@ -208,7 +208,7 @@ If you are located in the European Economic Area ("**EEA**"), United Kingdom ("*
 
 ### [**13.1 Data controller**](#131-data-controller)
 
-X.AI LLC, which is based in the USA, is the controller of your personal information as described in this Privacy Policy, unless otherwise specified. See section 12 of the main [Privacy Policy](https://x.ai/legal/privacy-policy) for how to contact xAI.
+SpaceXAI LLC, which is based in the USA, is the controller of your personal information as described in this Privacy Policy, unless otherwise specified. See section 12 of the main [Privacy Policy](https://x.ai/legal/privacy-policy) for how to contact SpaceXAI.
 
 ### [**13.2 Legal basis**](#132-legal-basis)
 
@@ -264,7 +264,7 @@ We have [Google Payments](https://payments.google.com/payments/apis-secure/u/0/g
 *   You have the right to complain to a supervisory authority about our collection and use of your personal information. For more information, please contact your local supervisory authority. Contact details for supervisory authorities in the EEA and the UK are available [here](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). Certain supervisory authorities may require that you exhaust our own internal complaints process before looking into your complaint.
 *   In France, you can choose to ask us to keep or destroy your personal information, after your death, to a nominated third party. You may also be able to ask us to disclose your personal information, after your death, to a specified recipient.
 
-If you have an xAI account to access the Service, some of these rights may be exercised through your account. See [Consumer FAQs](https://x.ai/legal/faq). Rights not exercisable through your account to the extent they may be applicable, can be exercised by contacting us at [https://x.ai/privacy-portal/](https://x.ai/privacy-portal/).
+If you have a SpaceXAI account to access the Service, some of these rights may be exercised through your account. See [Consumer FAQs](https://x.ai/legal/faq). Rights not exercisable through your account to the extent they may be applicable, can be exercised by contacting us at [https://x.ai/privacy-portal/](https://x.ai/privacy-portal/).
 
 If you are not a user of the Service but wish to exercise any of the above rights to the extent that they may be applicable, you can do so by contacting us at [https://x.ai/privacy-portal/](https://x.ai/privacy-portal/).
 
