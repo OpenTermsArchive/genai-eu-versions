@@ -1,7 +1,7 @@
 [SpaceXAI Cookie Policy](#spacexai-cookie-policy)
 =================================================
 
-_Effective: August 24, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-08-24))_
+_Effective: August 26, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-08-25))_
 
 This Cookie Policy describes what kinds of cookies and similar technologies SpaceXAI uses in connection with our Services (as defined in our [Privacy Policy](https://x.ai/legal/privacy-policy)).Please refer to our Privacy Policy to learn more about how we process your personal information.
 
@@ -44,13 +44,34 @@ Below is a list of cookies used on our Service:
 | xAI | docs-team-id | Service Functionality | Session | docs.x.ai | Essential |
 | xAI | docs\_session | Security | 1 day | docs.x.ai | Essential |
 | xAI | last-logged-in-with | Service Functionality | 90 days | accounts.x.ai | Essential |
-| xAI | oauth | Security | 1 hour | accounts.x.ai | Essential |
+| xAI | oauth | Security | 10 min | .x.ai | Essential |
 | xAI | redirect | Login | 1 day | accounts.x.ai | Essential |
 | xAI | referrer | Service Functionality | 7 days | accounts.x.ai | Essential |
+| xAI | referrer\_action | Service Functionality | 7 days | accounts.x.ai | Essential |
+| xAI | gb\_anon\_id | Service Functionality | 1 year | x.ai, accounts.x.ai | Essential |
+| xAI | oauth-complete | Security | 10 min | accounts.x.ai, console.x.ai | Essential |
+| xAI | \_\_Host-sso-return | Security | 10 min | accounts.x.ai, console.x.ai | Essential |
+| xAI | \_\_Host-sso-complete | Security | 10 min | console.x.ai | Essential |
+| xAI | sso-select | Login | 10 min | .x.ai | Essential |
+| xAI | sso-select-user-options | Login | 1 hour | accounts.x.ai | Essential |
+| xAI | x-callback-jwt | Login | 30 min | accounts.x.ai | Essential |
+| xAI | x-callback-redirect | Login | 30 min | accounts.x.ai | Essential |
+| xAI | last-team-id | Service Functionality | 90 days | console.x.ai | Essential |
+| xAI | xai\_anon\_id | Consent Management | 2 years | .x.ai | Essential |
+| xAI | gtm\_test | Service Functionality | 7 days | accounts.x.ai | Essential |
+| OneTrust | OptanonConsent | Consent Management | 1 year | x.ai, accounts.x.ai, console.x.ai | Essential |
+| OneTrust | OptanonAlertBoxClosed | Consent Management | 1 year | x.ai, accounts.x.ai, console.x.ai | Essential |
+| Castle | \_\_cuid | Fraud Detection | 13 Months | accounts.x.ai, console.x.ai | Essential |
 | Stripe | \_\_stripe\_mid | Fraud Detection | 1 month | console.x.ai | Essential |
 | Stripe | \_\_stripe\_sid | Fraud Detection | 1 month | console.x.ai | Essential |
 | Cloudflare | \_\_cf\_bm | Security | 30 min | All | Essential |
 | Cloudflare | cf\_clearance | Security | 1 year | All | Essential |
+| Mixpanel | mp\_<token>\_mixpanel | Analytics | 1 year | .x.ai | Non-Essential |
+| Mixpanel | mp\_<consumer-token>\_mixpanel | Analytics | 1 year | .x.ai | Non-Essential |
+| xAI | xai\_utm | Analytics | 1 day | accounts.x.ai | Non-Essential |
+| Braze | ab.storage.userId.<app-key> | Marketing | 13 Months | .x.ai | Non-Essential |
+| Braze | ab.storage.deviceId.<app-key> | Marketing | 13 Months | .x.ai | Non-Essential |
+| Braze | ab.storage.sessionId.<app-key> | Marketing | 13 Months | .x.ai | Non-Essential |
 | Meta Ads | \_fbp | Advertising | 90 Days | .grok.com, x.ai, console.x.ai | Non-Essential |
 | Meta Ads | \_fbc | Advertising | 90 Days | .grok.com, x.ai, console.x.ai | Non-Essential |
 | Meta Ads | fr  | Advertising | 90 Days | .facebook.com | Non-Essential |
