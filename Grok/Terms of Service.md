@@ -18,7 +18,7 @@ Please note:
     
 *   Please read our [Privacy Policy](https://x.ai/legal/privacy-policy), which describes how we handle personal information. Although it does not form part of these Terms, it is an important document you should read.
     
-*   Other helpful resources include our [Consumer FAQs](https://x.ai/legal/faq), [Acceptable Use Policy](https://x.ai/legal/acceptable-use-policy), and the [Help Center](https://x.ai/legal/help-center).
+*   Other helpful resources include our [Consumer FAQs](https://x.ai/legal/faq), [Acceptable Use Policy](https://x.ai/legal/acceptable-use-policy), and the [Help Center](https://docs.x.ai/grok/user-guide).
     
 
 [**Who We Are**](#who-we-are)
