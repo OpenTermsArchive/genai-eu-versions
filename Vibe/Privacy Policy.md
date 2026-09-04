@@ -3,7 +3,7 @@
 Privacy Policy
 ==============
 
-Effective: July 27, 2026
+Effective: September 3, 2026
 
 Language DeutschEnglishEspañolFrançaisItalianoNederlandsPolskiSvenska
 
@@ -67,7 +67,7 @@ Mistral AI is a French company incorporated in Paris, under number 952 418 325, 
 | --- | --- | --- |
 | **Why we use your personal data** | **Categories of personal data** | **Lawful basis** |
 | **To provide and maintain the Mistral AI Products provided to you under the conditions set forth in our Terms of Service and any applicable Additional Terms** | Your Civil Identity Data<br><br>Your Account Data <br><br>Your Contract Data<br><br>Your Technical Data<br><br>Your Input, Output and Feedback<br><br>Your Usage Data. _Please note that we use part of your IP address to make your experience better, such as, for instance, to provide you with more accurate Outputs depending on where you use our Mistral AI Products. You can opt-out of this processing at any time through your user preferences on your Mistral AI Account._ | The performance of the contract between you and Mistral AI |
-| **To enhance your experience on Vibe via the Memory feature by providing you more relevant and personalized answers based on your past interactions with Vibe.**<br><br>**For more information about Memories, see our** [**Help Center**](https://help.mistral.ai/en/articles/396497-how-do-you-handle-my-data-when-using-the-memories-feature)**.** | Your Input (prompts). <br><br>If you include sensitive data in your Input, such as health details, this data may be stored as a Memory to provide you with more relevant and personalized answers. | Our legitimate interest to provide you with an enhanced and personalized service.<br><br>Your explicit consent for any sensitive data explicitly included in your input and saved as a Memory. <br><br>You can: <br><br>*   Access, add, delete or edit your Memories at all time through your settings. <br>*   Turn off Memories at all times through your settings. <br><br>For more details about the controls you have on Memories, please see our [Help Center](https://help.mistral.ai/en/articles/396497-how-do-you-handle-my-data-when-using-the-memories-feature). |
+| **To enhance your experience on Vibe via the Memory feature (now becoming Knowledge Base) by providing you more relevant and personalized answers based on your past interactions with Vibe.** | Your Input. <br><br>As the Memory feature is becoming Knowledge Base, your previous Memories will be retained in Knowledge Base | Our legitimate interest to provide you with an enhanced and personalized service.<br><br>Your explicit consent for any sensitive data contained in your Memories (Knowledge Base will not seek to store sensitive data included in your Input)<br><br>You can: <br><br>*   Turn off the feature at all times through your settings<br>*   Access, add, delete or edit your Memories or your Knowledge Base at all time through your settings. |
 | **Debugging** | Your Input, Output and Feedback | The performance of the contract between you and Mistral AI. |
 | **To create and administer your Mistral AI Account** | Your Civil Identity Data<br><br>Your Account Data<br><br>Your Contract Data | The performance of the contract between you and Mistral AI. |
 | **To provide customer support, including debugging and fixing errors reported by you** | Your Civil Identity Data<br><br>Your Contact Data<br><br>Your Feedback<br><br>Your Input and Output | The performance of the contract between you and Mistral AI. |
@@ -194,7 +194,7 @@ On this page
 Privacy Policy
 ==============
 
-Effective: July 27, 2026
+Effective: September 3, 2026
 
 Language DeutschEnglishEspañolFrançaisItalianoNederlandsPolskiSvenska
 
@@ -258,7 +258,7 @@ Mistral AI is a French company incorporated in Paris, under number 952 418 325, 
 | --- | --- | --- |
 | **Why we use your personal data** | **Categories of personal data** | **Lawful basis** |
 | **To provide and maintain the Mistral AI Products provided to you under the conditions set forth in our Terms of Service and any applicable Additional Terms** | Your Civil Identity Data<br><br>Your Account Data <br><br>Your Contract Data<br><br>Your Technical Data<br><br>Your Input, Output and Feedback<br><br>Your Usage Data. _Please note that we use part of your IP address to make your experience better, such as, for instance, to provide you with more accurate Outputs depending on where you use our Mistral AI Products. You can opt-out of this processing at any time through your user preferences on your Mistral AI Account._ | The performance of the contract between you and Mistral AI |
-| **To enhance your experience on Vibe via the Memory feature by providing you more relevant and personalized answers based on your past interactions with Vibe.**<br><br>**For more information about Memories, see our** [**Help Center**](https://help.mistral.ai/en/articles/396497-how-do-you-handle-my-data-when-using-the-memories-feature)**.** | Your Input (prompts). <br><br>If you include sensitive data in your Input, such as health details, this data may be stored as a Memory to provide you with more relevant and personalized answers. | Our legitimate interest to provide you with an enhanced and personalized service.<br><br>Your explicit consent for any sensitive data explicitly included in your input and saved as a Memory. <br><br>You can: <br><br>*   Access, add, delete or edit your Memories at all time through your settings. <br>*   Turn off Memories at all times through your settings. <br><br>For more details about the controls you have on Memories, please see our [Help Center](https://help.mistral.ai/en/articles/396497-how-do-you-handle-my-data-when-using-the-memories-feature). |
+| **To enhance your experience on Vibe via the Memory feature (now becoming Knowledge Base) by providing you more relevant and personalized answers based on your past interactions with Vibe.** | Your Input. <br><br>As the Memory feature is becoming Knowledge Base, your previous Memories will be retained in Knowledge Base | Our legitimate interest to provide you with an enhanced and personalized service.<br><br>Your explicit consent for any sensitive data contained in your Memories (Knowledge Base will not seek to store sensitive data included in your Input)<br><br>You can: <br><br>*   Turn off the feature at all times through your settings<br>*   Access, add, delete or edit your Memories or your Knowledge Base at all time through your settings. |
 | **Debugging** | Your Input, Output and Feedback | The performance of the contract between you and Mistral AI. |
 | **To create and administer your Mistral AI Account** | Your Civil Identity Data<br><br>Your Account Data<br><br>Your Contract Data | The performance of the contract between you and Mistral AI. |
 | **To provide customer support, including debugging and fixing errors reported by you** | Your Civil Identity Data<br><br>Your Contact Data<br><br>Your Feedback<br><br>Your Input and Output | The performance of the contract between you and Mistral AI. |
@@ -382,11 +382,11 @@ We may amend this Privacy Policy from time to time as our products continuously 
 Privacy Policy
 ==============
 
-Effective: July 27, 2026
+Effective: September 3, 2026
 
 Language DeutschEnglishEspañolFrançaisItalianoNederlandsPolskiSvenska
 
-Effective: July 27, 2026
+Effective: September 3, 2026
 
 Language DeutschEnglishEspañolFrançaisItalianoNederlandsPolskiSvenska
 
@@ -452,7 +452,7 @@ Mistral AI is a French company incorporated in Paris, under number 952 418 325, 
 | --- | --- | --- |
 | **Why we use your personal data** | **Categories of personal data** | **Lawful basis** |
 | **To provide and maintain the Mistral AI Products provided to you under the conditions set forth in our Terms of Service and any applicable Additional Terms** | Your Civil Identity Data<br><br>Your Account Data <br><br>Your Contract Data<br><br>Your Technical Data<br><br>Your Input, Output and Feedback<br><br>Your Usage Data. _Please note that we use part of your IP address to make your experience better, such as, for instance, to provide you with more accurate Outputs depending on where you use our Mistral AI Products. You can opt-out of this processing at any time through your user preferences on your Mistral AI Account._ | The performance of the contract between you and Mistral AI |
-| **To enhance your experience on Vibe via the Memory feature by providing you more relevant and personalized answers based on your past interactions with Vibe.**<br><br>**For more information about Memories, see our** [**Help Center**](https://help.mistral.ai/en/articles/396497-how-do-you-handle-my-data-when-using-the-memories-feature)**.** | Your Input (prompts). <br><br>If you include sensitive data in your Input, such as health details, this data may be stored as a Memory to provide you with more relevant and personalized answers. | Our legitimate interest to provide you with an enhanced and personalized service.<br><br>Your explicit consent for any sensitive data explicitly included in your input and saved as a Memory. <br><br>You can: <br><br>*   Access, add, delete or edit your Memories at all time through your settings. <br>*   Turn off Memories at all times through your settings. <br><br>For more details about the controls you have on Memories, please see our [Help Center](https://help.mistral.ai/en/articles/396497-how-do-you-handle-my-data-when-using-the-memories-feature). |
+| **To enhance your experience on Vibe via the Memory feature (now becoming Knowledge Base) by providing you more relevant and personalized answers based on your past interactions with Vibe.** | Your Input. <br><br>As the Memory feature is becoming Knowledge Base, your previous Memories will be retained in Knowledge Base | Our legitimate interest to provide you with an enhanced and personalized service.<br><br>Your explicit consent for any sensitive data contained in your Memories (Knowledge Base will not seek to store sensitive data included in your Input)<br><br>You can: <br><br>*   Turn off the feature at all times through your settings<br>*   Access, add, delete or edit your Memories or your Knowledge Base at all time through your settings. |
 | **Debugging** | Your Input, Output and Feedback | The performance of the contract between you and Mistral AI. |
 | **To create and administer your Mistral AI Account** | Your Civil Identity Data<br><br>Your Account Data<br><br>Your Contract Data | The performance of the contract between you and Mistral AI. |
 | **To provide customer support, including debugging and fixing errors reported by you** | Your Civil Identity Data<br><br>Your Contact Data<br><br>Your Feedback<br><br>Your Input and Output | The performance of the contract between you and Mistral AI. |
@@ -590,7 +590,7 @@ We may amend this Privacy Policy from time to time as our products continuously 
 | --- | --- | --- |
 | **Why we use your personal data** | **Categories of personal data** | **Lawful basis** |
 | **To provide and maintain the Mistral AI Products provided to you under the conditions set forth in our Terms of Service and any applicable Additional Terms** | Your Civil Identity Data<br><br>Your Account Data <br><br>Your Contract Data<br><br>Your Technical Data<br><br>Your Input, Output and Feedback<br><br>Your Usage Data. _Please note that we use part of your IP address to make your experience better, such as, for instance, to provide you with more accurate Outputs depending on where you use our Mistral AI Products. You can opt-out of this processing at any time through your user preferences on your Mistral AI Account._ | The performance of the contract between you and Mistral AI |
-| **To enhance your experience on Vibe via the Memory feature by providing you more relevant and personalized answers based on your past interactions with Vibe.**<br><br>**For more information about Memories, see our** [**Help Center**](https://help.mistral.ai/en/articles/396497-how-do-you-handle-my-data-when-using-the-memories-feature)**.** | Your Input (prompts). <br><br>If you include sensitive data in your Input, such as health details, this data may be stored as a Memory to provide you with more relevant and personalized answers. | Our legitimate interest to provide you with an enhanced and personalized service.<br><br>Your explicit consent for any sensitive data explicitly included in your input and saved as a Memory. <br><br>You can: <br><br>*   Access, add, delete or edit your Memories at all time through your settings. <br>*   Turn off Memories at all times through your settings. <br><br>For more details about the controls you have on Memories, please see our [Help Center](https://help.mistral.ai/en/articles/396497-how-do-you-handle-my-data-when-using-the-memories-feature). |
+| **To enhance your experience on Vibe via the Memory feature (now becoming Knowledge Base) by providing you more relevant and personalized answers based on your past interactions with Vibe.** | Your Input. <br><br>As the Memory feature is becoming Knowledge Base, your previous Memories will be retained in Knowledge Base | Our legitimate interest to provide you with an enhanced and personalized service.<br><br>Your explicit consent for any sensitive data contained in your Memories (Knowledge Base will not seek to store sensitive data included in your Input)<br><br>You can: <br><br>*   Turn off the feature at all times through your settings<br>*   Access, add, delete or edit your Memories or your Knowledge Base at all time through your settings. |
 | **Debugging** | Your Input, Output and Feedback | The performance of the contract between you and Mistral AI. |
 | **To create and administer your Mistral AI Account** | Your Civil Identity Data<br><br>Your Account Data<br><br>Your Contract Data | The performance of the contract between you and Mistral AI. |
 | **To provide customer support, including debugging and fixing errors reported by you** | Your Civil Identity Data<br><br>Your Contact Data<br><br>Your Feedback<br><br>Your Input and Output | The performance of the contract between you and Mistral AI. |
@@ -617,10 +617,6 @@ On this page
 On this page
 ------------
 
-![Texture Grain](/images/texture.webp?dpl=6a9971f457fdf7c1c2231510)
+![Cat Gif](/images/cat-moving.gif?dpl=6a9aea156d5994000756b61f)
 
-![Cat Gif](/images/cat-moving.gif?dpl=6a9971f457fdf7c1c2231510)
-
-![Texture Grain](/images/texture.webp?dpl=6a9971f457fdf7c1c2231510)
-
-![Cat Gif](/images/cat-moving.gif?dpl=6a9971f457fdf7c1c2231510)
+![Cat Gif](/images/cat-moving.gif?dpl=6a9aea156d5994000756b61f)
