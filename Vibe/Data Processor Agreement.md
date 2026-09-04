@@ -725,10 +725,6 @@ On this page
 On this page
 ------------
 
-![Texture Grain](/images/texture.webp?dpl=6a9971f457fdf7c1c2231510)
+![Cat Gif](/images/cat-moving.gif?dpl=6a9aea156d5994000756b61f)
 
-![Cat Gif](/images/cat-moving.gif?dpl=6a9971f457fdf7c1c2231510)
-
-![Texture Grain](/images/texture.webp?dpl=6a9971f457fdf7c1c2231510)
-
-![Cat Gif](/images/cat-moving.gif?dpl=6a9971f457fdf7c1c2231510)
+![Cat Gif](/images/cat-moving.gif?dpl=6a9aea156d5994000756b61f)
