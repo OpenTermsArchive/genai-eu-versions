@@ -330,6 +330,6 @@ On this page
 On this page
 ------------
 
-![Cat Gif](/images/cat-moving.gif?dpl=6a9aea156d5994000756b61f)
+![Cat Gif](/images/cat-moving.gif?dpl=6a9e763012ce27000824438b)
 
-![Cat Gif](/images/cat-moving.gif?dpl=6a9aea156d5994000756b61f)
+![Cat Gif](/images/cat-moving.gif?dpl=6a9e763012ce27000824438b)
