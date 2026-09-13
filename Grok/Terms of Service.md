@@ -1,7 +1,7 @@
 [Terms of Service - Consumer](#terms-of-service---consumer)
 ===========================================================
 
-_Effective: September 1, 2026 ([previous version](https://x.ai/legal/terms-of-service/previous-2026-08-24))_
+_Last Updated: September 11, 2026 ([previous version](https://x.ai/legal/terms-of-service/previous-2026-09-01))_
 
 [**Welcome to SpaceXAI**](#welcome-to-spacexai)
 -----------------------------------------------
@@ -63,7 +63,7 @@ We apply controls and safeguards designed to support age appropriate experiences
 *   We reserve the right to modify, suspend or discontinue, temporarily or permanently, the Service or your access to the Service, in whole or in part. We may do so for any reason, including business, financial, or legal reasons, or no reason where permitted by applicable law, and otherwise if we determine that you have violated these Terms, our Acceptable Use Policy, guidelines, or policies, or if doing so is necessary to prevent abuse, comply with the law, or address security issues. If you do not have a valid contract with us, you are prohibited from using our Service.
     
 
-**Third-Party Services and Software.** Our Service may include or be integrated with third-party software, products, or services that are subject to their own terms. Our software may include open source software that is governed by its own licenses.
+**Third-Party and Additional Services and Software.** Our Service may include, be integrated with, or allow access to third-party software, products, or services that are subject to their own terms. We may also provide additional products, services or features for enhanced capabilities that may include additional or supplemental terms. Such additional products, services or features are deemed part of the Service and governed by these Terms and any such additional or supplemental terms. Our software may include open source software that is governed by its own licenses.
 
 [**4\. User Content**](#4-user-content)
 ---------------------------------------
@@ -134,7 +134,7 @@ We continue to add new models and other features, some which may be in beta test
 [**9\. Termination, Suspension, Discontinuation**](#9-termination-suspension-discontinuation)
 ---------------------------------------------------------------------------------------------
 
-**Termination or Suspension.** You are free to stop using our Service at any time and close your account. We may terminate or suspend your access to our Service or delete your account at any time without notice to you if we determine, at our sole discretion, that:
+**Termination or Suspension.** You are free to stop using our Service at any time and close your account. We may terminate or suspend your access to our Service, cancel your subscription or account, or delete your account at any time without notice to you if we determine, at our sole discretion, that:
 
 *   You breached these Terms or our [Acceptable Use Policy](https://x.ai/legal/acceptable-use-policy), guidelines, or other policies;
     
@@ -142,7 +142,7 @@ We continue to add new models and other features, some which may be in beta test
     
 *   Your use of our Service could cause risk or harm to SpaceXAI, our users, or anyone else; or
     
-*   Your account has been inactive for over a year and you do not have a paid account.
+*   Your account has been inactive for more than 120 days.
     
 
 **No Refund.** Upon Service termination, you will not be entitled to any refund, except where required by law.
