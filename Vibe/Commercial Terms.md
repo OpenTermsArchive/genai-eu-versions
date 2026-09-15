@@ -662,6 +662,6 @@ On this page
 On this page
 ------------
 
-![Cat Gif](/images/cat-moving.gif?dpl=6aa4ea033dd4927d8255a76b)
+![Cat Gif](/images/cat-moving.gif?dpl=6aa94a072d76489fe283f1bc)
 
-![Cat Gif](/images/cat-moving.gif?dpl=6aa4ea033dd4927d8255a76b)
+![Cat Gif](/images/cat-moving.gif?dpl=6aa94a072d76489fe283f1bc)
