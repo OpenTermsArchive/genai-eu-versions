@@ -1,167 +1,300 @@
 Privacy Policy
 
-Last updated: May 19, 2026
+Effective Date: September 07, 2026
 
-Thank you for using our services! Before using our services, please read this Privacy Policy carefully to learn how we collect, use, disclose, and protect your personal data. This Privacy Policy will also provide you with more information about the bases upon which we may lawfully collect, use, and/or disclose your personal data, where permitted by applicable law.
+Qwen places great importance on protecting your personal data. This Privacy Policy (the “Policy”) explains how we collect, use, and disclose your personal data when you use Qwen and related services (the “Services”). This Policy does not apply to third-party services that you access while using the Qwen Services; those services are subject to their own privacy policies. **We assume no responsibility for any products or services independently provided by third parties, and we recommend that you review the relevant third party’s privacy policy to understand how it processes data.**
 
-This Privacy Policy (“**Privacy Policy**”) applies to your access and/or use of the Qwen Studio services and other services accessible via qwen.ai and/or such other location as we may designate from time to time (“**Services**”) provided by Alibaba Cloud (Singapore) Private Limited. By accessing and/or using any Services, or clicking "Agree"on the account registration screen, you agree and consent to Qwen and its related corporations (collectively, the "**Companies**") as well as their respective representatives and agents ("**Representatives**") (the Companies and Representatives collectively referred to as “**we**”, “**us**”,“**our**” or “**Qwen**” hereinafter) collecting, using, disclosing, and/or sharing your personal data, and disclosing your personal data to our authorised service providers and relevant third parties in the manner and for any of the purposes set forth in this Privacy Policy.
+**This Policy applies to all Qwen Services accessed and used through the Qwen mobile application (the “App”), the qwen.ai website (the “Website”), the Qwen desktop client (the “PC Client”), and other platforms we may designate from time to time (collectively, the “Services”).**
 
-If you do not agree with the terms of this Privacy Policy, you must not access or use any Services.
+**Data controller**: The Qwen service is operated and provided by NTH POWER GLOBAL TECH SINGAPORE PTE. LTD., a company registered in Singapore (referred to as “we”). If you have questions about personal data, please contact us at [privacy@qwen.com](mailto:privacy@qwen.com) or through the “Help Center” in the App or Website.
 
-This Privacy Policy supplements but does not supersede nor replace any other consents you may have previously provided to us in respect of your personal data, and any consents you may have provided in connection with this Privacy Policy are cumulative and additional to any rights which we may have under applicable law to handle or process your personal data.
+Please read this Policy when installing or registering for Qwen to understand how we process and protect your personal data. By downloading, registering for, or using our Services, you agree to these practices. If you do not agree, please do not use the Services. We may update this Policy periodically, and your continued use after an update indicates your acceptance of the updated terms. For purposes of this Policy, “personal data” means any information relating to an identified or identifiable natural person.
 
-Unless otherwise specified, the Privacy Policy does not apply to any products and/or services provided by any third party independently through our Services, such as the products or websites displayed as your search results or other websites linked via our Services. We are not responsible for the privacy practices of third parties. If you access or use any third party products or services, you should check the applicable third party privacy policy to determine how they will handle any personal data you provide to them or which they collect from you. We are not responsible for any third party’s improper use or disclosure of any personal data.
+**I. What personal data we collect**
 
-This Privacy Policy will help you understand the following:
+The types and scope of personal data we collect depend on how you interact with us and generally include the following categories:
 
-**I. How Do We Collect and Process Your Personal Data**
+**1\. Personal data you provide voluntarily**
 
-**II. How Do We Use Your Personal Data**
+When you use our Services, we collect the following personal data:
 
-**III. How Do We Use Cookies and Similar Technologies**
+*   **User Content**: We collect the personal data you provide and upload when you use our services, including prompts, text, files, images, audio, and video, depending on the features you use. When you choose to use voice, audio, or video features, we may collect voice or video recordings.
+*   **Important notice**: Please do not provide or upload sensitive personal data about yourself or others, such as health records, ID cards, financial account information, precise geolocation, racial or ethnic origin, or biometric data, unless you intend Qwen to perform the necessary processing.
+*   **Account data**: When you register for a Qwen account or otherwise need to provide us with personal data (for example, to receive service information), we may collect account data such as your name, email address, nickname, and profile picture. When you use Google, Apple, or GitHub to register for or log in to our Services, we will also collect your personal data from that third-party platform, including your nickname, email address, or account identifier. The personal data we can obtain may depend on your privacy settings on the third-party platform, and we recommend that you review the relevant platform’s privacy and data policies to understand how it processes data.
+*   **Feedback data**: When you provide feedback on Qwen’s features or services, such as submitting issue descriptions or suggestions for improvement through the Help Center, or rating AI outputs using the like/dislike icons, we collect your issue descriptions, uploaded images, and other feedback files. When you rate AI outputs by liking or disliking them, we will store the relevant conversations as part of the feedback.
+*   **Communication information**: When you communicate with us by email, social media, or other channels, we may collect your name, contact information, and the content of the messages you send.
 
-**IV. How Do We Disclose Your Personal Data**
+**If you provide us with any personal data relating to a third party (e.g., your spouse, child, parent, or friend), by submitting such personal data to us, you represent and warrant that you have obtained the third party’s consent to provide their personal data to us and to allow us to collect, use, and disclose their personal data for the purposes described in this Policy.**
 
-**V. How’s Your Personal Data Transferred Globally**
+You shall ensure that all personal data you submit to us is complete, accurate, truthful, and correct. Failure to do so may prevent us from providing you with the products or services you request.
 
-**VI. How Do We Retain Your Personal Data**
+**2\. Personal data we collect automatically**
 
-**VII. How Do We Protect Your Personal Data**
+To provide and improve our Services properly, we may automatically collect the following data while you use Qwen:
 
-**VIII. How Do We Process Children’s Personal Data**
+*   **Device and network data**: We may collect information related to the device you use and its interactions with the Services, including the device’s make, type, and model, operating system and version, app version, language and settings, network type, IP address, and approximate location information inferred from the IP address, browser type and settings, and user agent and version.
+*   **Usage data**: We may collect usage log information about your use of our services, including the specific Qwen features you browse and use, the types of content you view or engage with, the actions you take, your time zone, country, access dates and times, device type, and network connection information.
+*   **Log data**: We may collect data that is automatically sent by your device when you use our services, such as your IP address, browser type and settings, the date and time of requests, and the specific ways you interact with our features.
+*   **Cookies**: We may use cookies and similar technologies on our website to operate and improve our services. For more information about our use of Cookies, please read Section III “Cookies and Similar Technologies” of this Policy.
 
-**IX. Your Rights to Your Personal Data**
+**3\. Data we collect from third-party platforms**
 
-**X. How to Update the Privacy Policy**
+To support certain features, we may obtain relevant data from third-party platforms. For example, when you register for or log in to the Qwen Services through a third-party service, we may receive information such as your username, email address, or access token from that third party.
 
-**XI. How to Contact Us**
+In the course of promoting and operating the Services, we may also obtain data related to you from advertising and analytics partners, other users, or other third-party partners.
 
-**I. How We Collect Your Personal Data**
+**II. How we use your personal data**
 
-For the purposes of the Privacy Policy, “personal data” refers to any information relating to an identified or identifiable natural person. We collect personal data for more efficient operation and to provide you with best usage experience. The ways in which we collect personal data include: (a) where you provide personal data to us; (b) where you access or use the Services; and/or (c) where we obtain personal data from third parties.
+As necessary to operate, provide, maintain, and improve Qwen products and services, we may use the personal data we collect for the following purposes:
 
-Generally, we collect personal data in the following ways:
+*   **Providing and operating services**: Used to provide users with various AI functions and services under normal operations, including AI conversations, AI image generation, translation, voice calls, voice interaction, video analysis, and other functions, as well as creating and managing your account, verifying your login, and generating and providing responses based on your prompts.
+*   **Personalized services**: Used to provide personalized services, including retaining specific details from your conversations through the Memory feature to provide more personalized and consistent responses in future conversations.
+*   **User communication and support**: Used to contact you, send you service notifications, feature changes, and other operational or administrative information, and respond to your inquiries, feedback, or requests.
+*   **Security safeguards and abuse prevention**: Used to ensure the security, stability, and reliability of Qwen services, and to identify, investigate, and address conduct that may violate applicable laws, the Qwen Service Agreement, or Use Policies.
+*   **Product improvement and technological innovation**: to analyze how Qwen services are used, conduct research, develop and test new features, and continuously optimize Qwen’s various features and user experience.
+*   **Model training and improvement**: We may use de-identified user content and feedback data to train and improve the accuracy, performance, and quality of our AI models and services. In such cases, we use only de-identified data that cannot reasonably be linked to a particular individual.
+*   **Marketing and promotions**: Where legally permitted or with your consent, your personal data may be used to send you marketing or promotional information related to Qwen services. You may unsubscribe from marketing communications at any time by using the unsubscribe link in the message or by contacting us.
+*   **Compliance with legal requirements and protection of rights and interests**: To fulfill legal obligations and regulatory requirements under applicable laws and regulations, safeguard our legitimate rights and interests, or protect the rights, safety, and property of other Qwen users and relevant parties.
+*   **Dispute resolution**: Used to investigate and resolve disputes related to claims, litigation, or proceedings (including, but not limited to, drafting and reviewing documents, preparing transaction-related documentation, obtaining legal advice, and facilitating dispute resolution), and/or to protect, establish, exercise, or enforce our contractual and legal rights and obligations.
+*   **Aggregation and de-identification**: We may aggregate or de-identify personal data so that individuals cannot reasonably be identified, for legitimate business operations, analysis, or research purposes. We will not make decisions based on automated processing or profiling that produce legal or similarly significant effects on you or others.
 
-| Data Description | Source |
-| --- | --- |
-| **Account Information**: We may collect your personal data, such as your name, email address when you sign up for an account, or where you otherwise provide us with your personal data (such as to receive information on our Services). | Information directly provided by you to us. |
-| **User Content**: We may collect personal data that you provide or upload when accessing or using our Services, including your prompts and other content you upload, such as text, files, images, audio and videos, depending on the features you use.We may collect voice or video recordings when you choose to use the voice, speech, audio, and audiovisual functionalities within the Services. This process involves the processing of data that may be considered biometric identifiers or biometric information under applicable laws. |
-| **Feedback**: We appreciate feedback, including ideas and suggestions for improvement or rating an output in response to a prompt. If you rate an output in response to a prompt—for example, by using the thumbs up/thumbs down icon—we will store the related conversation as part of your feedback. |
-| **Communication Information**: If you communicate with us, such as via email or our pages on social media sites, we may collect personal data such as your name, contact information, and the contents of the messages you send. |
-| **Log Data**: We may collect information that your browser or device automatically sends when you use our Services. This may include the brand, model, and ID of your device, your Internet Protocol (IP)address, browser type and settings, the date and time of your request, and how you interact with our Services. | Information we automatically collect during your use of the Services. |
-| **Usage Data** : We may collect information about your use of the Services, such as the types of content that you view or engage with, the features you use and the actions you take, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection. |
-| **Cookies**: To improve your experience, we may use cookies and similar technologies to operate our Services. For details about our use of cookies, please refer to the Section III of this Privacy Policy. |
-| **Account Information**: We may offer you an option to log in using your existing account with certain third-party social networking sites ("SNSs") such as Google and Github. If you elect to do so, we may obtain your personal data from the SNS pursuant to your agreement with that SNS. The personal data we collect may depend on the privacy settings you have set with the SNS. We suggest that you check the privacy and data policies and practices of the SNS to learn how they handle personal data. | Information we collect from third parties. |
+**Legal bases for data processing**
 
-If you provide us with any personal data relating to a third party (e.g. your spouse, children, parents, and/or friends), by submitting such personal data to us, you represent to us that you have obtained the consent of such third party to you providing us with their personal data, and for the collection, use and disclosure of their personal data for all purposes set out herein and by or for the benefit of the persons referenced herein.
+**As required by applicable law, the following table summarizes the purposes for which we process your personal data, the types of data involved, and the corresponding legal bases:**
 
-You should ensure that all personal data submitted to us is complete, accurate, true and correct. Failure on your part to do so may result in our inability to provide you with any products and/or services you have requested.
-
-**II. How Do We Use Your Personal Data**
-
-We may collect, use, process and/or disclose your personal data for the purposes set out in the table below:
-
-| Purpose/Activity | Type of personal data | Lawful basis for processing |
+| Processing purposes | Types of personal data involved | Legal basis |
 | --- | --- | --- |
-| To provide, maintain and facilitate our Services, including by:<br><br>\- creating and administering your Account;<br><br>\- authenticating your login; and<br><br>\- generating and providing responses based on your prompts. | \- Account Information<br><br>\- User Content<br><br>\- Feedback<br><br>\- Communication Information<br><br>\- Log Data<br><br>\- Usage Data<br><br>\-  Cookies | \- Performance of a contract with you |
-| To provide voice-, audio-, or video-enabled features of the Services. | \- Account Information<br><br>\- User Content<br><br>\- Log Data<br><br>\- Usage Data<br><br>\- Cookies | \- Performance of a contract with you<br><br>\- Your explicit consent, where sensitive personal data is included in your User Content |
-| To provide personalised Services, including through the Memory feature, which may retain certain details from your conversations to enable more personalised and consistent responses in future chats, as well as through other information you provide via applicable personalisation settings, prompts, or banners within the Services to tailor your experience. | \- Account Information<br><br>\- User Content<br><br>\- Log Data<br><br>\- Usage Data<br><br>\- Cookies | \- Performance of a contract with you<br><br>\- Legitimate interests (to ensure the security and quality of our Services) |
-| To communicate with you, including to send you information about our Services and events, and to send you marketing communications where you have opted in to receive them. | \- Account Information<br><br>\- Communication Information | \- Performance of a contract with you (for non-marketing communication, such as technical notices relating to the Services)<br><br>\- Consent (for marketing communications, where required under applicable law) |
-| To prevent fraud, illegal activity, or misuses of our Services, to protect the security of our systems and Services, and to manage, document, and report incidents or accidents. | \- Account Information<br><br>\- User Content<br><br>\- Log Data<br><br>\- Usage Data<br><br>\- Cookies | \- Legitimate interests (to ensure the security, integrity, quality, and proper functioning of our Services,)<br><br>\- Compliance with a legal obligation |
-| To develop and improve our Services, and to conduct research and statistical analysis relating to the Services. | \- Account Information<br><br>\- User Content<br><br>\- Feedback<br><br>\- Communication Information<br><br>\- Log Data<br><br>\- Usage Data<br><br>\- Cookies | \- Legitimate interests (to ensure the security and quality of our Services and to develop, maintain, and improve our Services) |
-| To provide customer support and troubleshooting, and to respond to your inquiries, requests, feedback, and suggestions. | \- Account Information<br><br>\- User Content<br><br>\- Feedback<br><br>\- Communication Information<br><br>\- Log Data<br><br>\- Usage Data<br><br>\- Cookies | \- Performance of a contract with you<br><br>\- Legitimate interests (to respond to inquiries and provide customer support, where applicable)<br><br>\- Compliance with a legal obligation (to respond to requests to exercise data protection rights) |
-| To train and improve the accuracy, performance, and quality of our services (including our AI models) | \- De-identified User Content<br><br>\- Feedback | \- Legitimate interests (to provide more accurate, reliable and helpful Services and to develop and provide advanced AI models as part of the Services) |
-| To comply with legal obligations and to protect the rights, privacy, safety, or property of our users, our company, or third parties. | \- Account Information<br><br>\- User Content<br><br>\- Feedback<br><br>\- Communication Information<br><br>\- Log Data<br><br>\- Usage Data<br><br>\- Cookies | \- Legitimate interests (to ensure the security, quality, and stability of our Services and to protect the rights, property, and safety of our users, our company, and third parties)<br><br>\- Compliance with a legal obligation |
-| To investigate and resolve disputes in connection with claims, actions, or proceedings (including, without limitation, drafting and reviewing documents, preparing transaction-related documentation, obtaining legal advice, and facilitating dispute resolution), and/or to protect, establish, exercise, or enforce our contractual and legal rights and obligations. | \- Account Information<br><br>\- User Content<br><br>\- Feedback<br><br>\- Communication Information<br><br>\- Log Data<br><br>\- Usage Data<br><br>\- Cookies<br><br>\- Any other data necessary for the investigation or resolution of the dispute | \- Performance of a contract with you<br><br>\- Legitimate interests (to protect, establish, exercise, or defend our legal rights) |
+| Providing, maintaining, and operating the Services (including account management, login verification, and response generation) | \- Account data<br><br>\- User content<br><br>\- Feedback data<br><br>\- Communication information<br><br>\- Log data<br><br>\- Usage data<br><br>\- Cookies | \- Performance of a contract |
+| Providing voice, audio, or video features | \- Account data<br><br>\- User content<br><br>\- Log data<br><br>\- Usage data<br><br>\- Cookies | \- Performance of a contract<br><br>\- If sensitive personal data is involved, based on your explicit consent |
+| Providing personalized services (including memory functionality) | \- Account data<br><br>\- User content<br><br>\- Log data<br><br>\- Usage data<br><br>\- Cookies | \- Performance of a contract<br><br>\- Legitimate interests (ensuring the security and quality of the Services) |
+| User communications (non-marketing) | \- Account data<br><br>\- Communication information | \- Performance of a contract |
+| Marketing communications | \- Account data<br><br>\- Communication information | \- Consent (where required by applicable law) |
+| Security and abuse prevention | \- Account data<br><br>\- User content<br><br>\- Log data<br><br>\- Usage data<br><br>\- Cookies | \- Legitimate interests (ensuring the security, integrity, quality, and normal operation of the Services)<br><br>\- Compliance with legal obligations |
+| Product improvement and technological innovation | \- Account data<br><br>\- User content<br><br>\- Feedback data<br><br>\- Communication information<br><br>\- Log data<br><br>\- Usage data<br><br>\- Cookies | \- Legitimate interests (ensuring the security and quality of the Services, and developing, maintaining, and improving the Services) |
+| Model training and improvement | \- De-identified user content<br><br>\- Feedback data | \- Legitimate interests (providing more accurate, reliable, and useful services, and developing and providing advanced AI models) |
+| Customer support and troubleshooting | \- Account data<br><br>\- User content<br><br>\- Feedback data<br><br>\- Communication information<br><br>\- Log data<br><br>\- Usage data<br><br>\- Cookies | \- Performance of a contract<br><br>\- Legitimate interests (responding to user inquiries and providing customer support)<br><br>\- Compliance with legal obligations (responding to data protection rights requests) |
+| Compliance with legal requirements and protection of rights | \- Account data<br><br>\- User content<br><br>\- Feedback data<br><br>\- Communication information<br><br>\- Log data<br><br>\- Usage data<br><br>\- Cookies | \- Legitimate interests (ensuring the security, quality, and stability of the Services, and protecting the rights, property, and safety of users, the company, and third parties)<br><br>\- Compliance with legal obligations |
+| Dispute resolution | \- Account data<br><br>\- User content<br><br>\- Feedback data<br><br>\- Communication information<br><br>\- Log data<br><br>\- Usage data<br><br>\- Cookies<br><br>\- Other data necessary for dispute resolution | \- Performance of a contract<br><br>\- Legitimate interests (protecting, establishing, exercising, or defending our legal rights) |
 
-In addition, where permitted under applicable law, we may also collect, use and disclose your Personal Data for the following purposes, on the basis of protecting our legitimate interests:
+In addition, to the extent permitted by law, we may also collect, use, and disclose your personal data for the purpose of protecting legitimate interests in the following circumstances:
 
-(a) managing the administrative and business operations of the Companies and complying with internal policies and procedures;
+(a) managing the company’s administrative and business operations and complying with internal policies and procedures;
 
-(b) facilitating business asset transactions (which may extend to any mergers, acquisitions or asset sales) involving any of the Companies; and/or
+(b) facilitating transactions involving the company’s business assets, which may include mergers, acquisitions, or asset sales; and/or
 
-(c) any other purpose relating to or reasonably necessary for any of the above.
+(c) any other purposes related or reasonably necessary to any of the foregoing purposes.
 
-In addition to the matters set forth above, subject to and in accordance with applicable law, you shall be deemed to have consented to us collecting, using, disclosing and sharing amongst ourselves your personal data, and disclosing such personal data to our authorised service providers and relevant third parties:
+In addition, where permitted and applicable by law, when you voluntarily provide us with personal data for identified purposes and reasonably expect to provide such data voluntarily, or when the collection, use, and/or disclosure of your personal data is reasonably necessary to enter into and/or perform a contract between you and us or another organization with which you have requested to contract, you will be deemed to have consented to our collection, use, and disclosure of your personal data.
 
-(a) where in response to a request for your personal data in connection with identified purposes, you voluntarily provide such personal data to us for such purpose(s) and it is reasonable that you would voluntarily provide such personal data; and
+With respect to specific products or services or your interactions with us, we may also specifically notify you of other purposes for which we collect, use, and/or disclose your personal data. In such cases, we will likewise collect, use, and/or disclose your personal data for those purposes.
 
-(b) where the collection, use and/or disclosure of your personal data is reasonably necessary for the conclusion and/or performance of a contract, between you and us or any other organisation entered into at your request, which may include recipients of your personal data not indicated in this Privacy Policy.
+**III. Cookies and Similar Technologies**
 
-Further, in relation to particular products or services or in your interactions with us, we may also have specifically notified you of other purposes for which we collect, use and/or disclose your Personal Data. If so, we will collect, use and/or disclose your Personal Data for these purposes as well.
+We may use Cookies and similar technologies on the Website to collect information generated by your visits to and use of our Services, to operate and improve our Services. For more information about our use of cookies, please read [Cookie information](https://chat.qwen.ai/cookies-notice).
 
-**III. How Do We Use Cookies and Similar Technologies**
+**IV. How we process your input data**
 
-We may use cookies and similar technologies to gather information resulting from access and/or use of our Services. For details about our use of cookies, please read our [Cookies Notice](https://chat.qwen.ai/cookies-notice).
+**Large Model Service Provider.**
 
-**IV. How Do We Disclose Your Personal Data**
+When you use AI features, such as AI chat, document summarization, image analysis, and translation, your input content is sent to our AI technology service provider, Alibaba Cloud (Singapore) Private Limited, for processing. In this case, Alibaba Cloud (Singapore) Private Limited will process your input content as a data processor acting on our behalf and in accordance with our instructions, and your input content will be processed in Singapore.
 
-We may disclose your personal data to the following categories of recipients:
+**Data Minimization.**
 
-1.  (a) our group companies and affiliates and/or their designated service providers, who provide data processing services necessary to provide you with our Services;
-2.  (b) third party service providers and partners who provide data processing services to us as necessary to provide you with our Services, or who otherwise process personal data for purposes described in this Privacy Policy;
-3.  (c) analytics, search engine providers or other third party service providers that assist us in delivering our products, services, websites and platforms as well as improving and optimising the same;
-4.  (d) any business partner, investor, assignee or transferee (actual or prospective) to facilitate business asset transactions (which may extend to any merger, acquisition or any debt or asset sale) involving any of the Companies;
-5.  (e) any competent law enforcement body, regulatory, government agency, court or other third party (such as our professional advisers) where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights or so a third party can defend theirs, or (iii) to protect your vital interests or those of any other person;
-6.  (f) To an actual or potential buyer (and its agents and advisers) in connection with any actual\\ or proposed purchase, merger or acquisition of any part of our business, provided that we inform the buyer it must use your personal data only for the purposes disclosed in this Privacy Policy; and
-7.  (g) any other person, with your consent to the disclosure.
+We minimize the data that needs to be sent to AI technology service providers for processing and protect it with encryption during transmission; for example, we send only the portions necessary to fulfill your request. We also implement various application controls, such as access controls, logging, and encryption, and strictly limit access privileges to personnel who need access.
 
-**V. How Your Personal Data May Be Transferred Globally**
+**Sensitive Personal Data Reminder.**
 
-1.  Depending on where you are located and the features of our Services which you access or use, your personal data described in section **II. How Do We Use Your Personal Data** may be transferred out of and processed outside of the jurisdiction in which you are located, such as to our group companies and affiliates or third parties (as explained in section **IV. How Do We Disclose Your Personal Data**) located overseas. These countries may have data protection laws that are different from the laws of your jurisdiction (and, in some cases, may not be as protective).
-2.  We store or process personal data described in section**I. How We Collect Your Personal Data** in Singapore and Mainland China.
-3.  Certain entities in our corporate group located in Singapore and Mainland China are given limited remote access to this data so they can provide certain important functions, as described in section **II. How Do We Use Your Personal Data**. Any such access is limited, secure and only granted where necessary under strict security controls and authorization approval protocols.
-4.  We share certain of your personal data with our business partners, service providers and other third-party entities, as described in section **IV. How Do We Disclose Your Personal Data**. These third parties can be located outside your country of residence.
-5.  We take appropriate safeguards to ensure that your personal data will remain protected in accordance with this Privacy Policy and applicable laws. We require those entities to commit with taking the necessary steps to comply with the applicable privacy laws and to implement appropriate security measures to protect your personal data.
-6.  When we transfer your personal data outside of the European Union, European Economic Area, Switzerland or the United Kingdom, we ensure that it benefits from an adequate level of data protection by relying on:
-    
-    (a) Adequacy decisions. These are decisions from the European Commission under Article 45 GDPR (or equivalent decisions under other laws) where they recognize that a country offers an adequate level of data protection. We transfer your personal data as described in section**I. How We Collect Your Personal Data** to some countries with adequacy decisions, such as the countries listed [here](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en); or
-    
-    (b) Standard contractual clauses. The European Commission has approved contractual clauses under Article 46 of the GDPR that allows companies subject to the GDPR to transfer data outside the European Union and European Economic Area. These (and their approved equivalents for the United Kingdom and Switzerland) are called standard contractual clauses. We rely on standard contractual clauses to transfer information as described in section**I. How We Collect Your Personal Data** to certain of our group companies and affiliates and third parties in countries without an adequacy decision.
-    
-    (c) For a copy of these adequacy decisions or standard contractual clauses, please contact us via the details provided in the section**XI. How to Contact Us** below. Please note that some sensitive commercial information will be redacted from the standard contractual clauses.
+We do not provide services or features that process sensitive personal data; please note that, unless necessary, you should avoid entering sensitive personal data while using the Services; if you submit sensitive personal data, it will be processed as input content, including as part of a prompt.
 
-**VI. How Do We Retain Your Personal Data**
+**Miscellaneous**
 
-1.  We retain the personal data we collect from you where we have an ongoing legitimate need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements). In certain circumstances, we may need to retain your personal data after your account has been deleted. The specific retention periods depend on the nature of the personal data and why it is collected and processed and the nature of the legal requirement. For example, we will retain your personal data when we have a legal obligation to do so (for example pursuant to a court order); or to deal with requests and complaints and for litigation or regulatory matters (for example, where there is an ongoing legal claim).
-2.  When we have no further legitimate need or legal reason to retain your personal data, we will either delete it in a secure manner or anonymise it such that can no longer be associated with you.
+We may use de-identified user content and feedback data for model training and improvement (see Section II for details), but we will not use your raw input data to directly train AI models. Unless necessary for security, fraud/abuse prevention, debugging, or compliance with applicable laws and regulations, we will not manually review the input content you submit.
 
-**VII. How We Protect Your Personal Data**
+**V. How we share or disclose your personal data**
 
-1.  We use appropriate technical and organizational measures to protect the personal data that we collect, use, disclose, and process. These measures are designed to provide a level of security appropriate to the risk of processing. Specific measures we use include encrypting your personal data in transit and at rest; developing and implementing an Information Security Programme in accordance with a standard industry framework; employing advance malware protections; implementation of other reasonable security defences (including vulnerability management, access management and recovery/resilience measures).
-2.  Nevertheless, no data transmission over the internet or any wireless network can be guaranteed to be perfectly secure. As a result, while we take reasonable measures protect your personal data, we cannot completely guarantee the security of any personal data you transmit to us and you do so at your own risk. We cannot and do not guarantee security of your account, devices, or personal data in connection with your use of the App. Where you have created an account with us and set a password to access our App, it is your responsibility to keep this password secure and confidential.
+We share or disclose your personal data in the following circumstances:
 
-**VIII. How Do We Process Children’s Personal Data**
+**Sharing with our technology service providers (the “Service Providers”)**
 
-Our Services are not directed to, or intended for, the individual under 18 (“Minors”). We do not knowingly collect Personal Data from Minors. If you have reason to believe that a Minor has provided Personal Data to us through the Services, please contact our DPO via the contact details set out below. We will investigate any notification and, if appropriate, delete the Personal Data from our systems.
+We engage various technology service providers to support the provision, maintenance, and ongoing improvement of the Qwen Services, including, without limitation, cloud infrastructure and hosting, identity verification, artificial intelligence technology, security monitoring, communications services, data analytics, marketing, and performance measurement. To the extent necessary to provide the relevant services, we share the corresponding data with these Service Providers and, through measures such as entering into data protection agreements, clarify and restrict their data processing purposes, methods, and security obligations. The following are the categories of Service Providers we work with and the types of data we may entrust them to process in the corresponding scenarios:
 
-**IX. Your Rights to Your Personal Data**
+*   **Cloud infrastructure provider**: We use the cloud infrastructure and hosting services of Alibaba Cloud (Singapore) Private Limited to store and process user input data, account data, and other data to support the normal operation of Qwen services.
+*   **Large model provider**: We have integrated the large model service API provided by Alibaba Cloud (Singapore) Private Limited. When a user initiates an AI request, we transmit the input data submitted by the user to Alibaba Cloud (Singapore) Private Limited to perform inference processing and return the generated content. Alibaba Cloud (Singapore) Private Limited, as our technology provider, will promptly delete the relevant user input data after content generation is complete and will not store such data separately.
+*   **Log and Analytics Service Providers**: To ensure service stability and continuous improvement, we may engage log and analytics service providers to process logs, diagnostic information, usage events, and related identifiers associated with service operation, for analyzing service performance and troubleshooting.
+*   **Account Login Service Providers**: We integrate third-party login and identity authentication services provided by Google, Apple, and GitHub. Such third parties will process users’ login and registration requests in accordance with their own platform policies and users’ account settings, and provide us with the necessary authentication information.
+*   **Advertising and Analytics Partners**: Subject to legal requirements, we may share some automatically collected device information with advertising and analytics partners that assist in promoting Qwen services, so that relevant ads can be displayed on third-party platforms and the effectiveness and reach of marketing campaigns can be evaluated.
 
-1\. Depending on the jurisdiction in which you are residing, you may have the right to:
+**Sharing with our affiliates**
 
-*   (a)access your Personal Data and information relating to how it is processed;
-*   (b) erasure or delete your Personal Data;
-*   (c) update or correct your Personal Data;
-*   (d) data portability;
-*   (e) restrict or object to how we process your Personal Data;
-*   (f) withdraw your consent; and/or
-*   (g) make a complaint to the data protection agency in your country.
+To the extent necessary to perform service operations and support functions, we may share and process relevant data with our affiliates for purposes including security, research and development, data analytics, user support, and content moderation. Our affiliates may process users’ personal data in accordance with this Privacy Policy.
 
-You can exercise some of these rights through your Services account. If you are unable to exercise your rights through your account, please submit your request to [DPO\_qwenlm-intl@service.alibaba.com](mailto:qwenlm-intl@service.alibaba.com). We will respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+**To comply with the law and protect platform security and user rights**
 
-**X. How to Update the Privacy Policy**
+Where we deem it necessary, we may disclose your personal data for the following purposes:
 
-We may update this Privacy Policy from time to time in response to changing legal, regulatory, technical or business developments. Any changes to this Privacy Policy will be communicated by us updating the Privacy Policy accessible via the Services. The updated Privacy Policy will become immediately effective once updated or at such date as we may specify. We may also in our discretion provide notice to you changes to the Privacy Policy via such means as we deem appropriate, such as by email (sent to the e-mail address specified in your account) or by means of a notice via the Services prior to the change becoming effective. To the maximum extent permissible under applicable law, you agree to be bound by the prevailing terms of the Privacy Policy as modified from time to time. Please check back regularly for updated information on the handling of your personal data.
+*   Complying with applicable laws, regulations, or legally binding processes, such as subpoenas, court orders, or search warrants;
+*   Protecting the safety, rights, or property of the company, users, or the public;
+*   Investigating, preventing, or taking measures to address suspected fraud, abuse, security issues, or violations of our Terms of Service.
 
-You can see when this Privacy Policy was last updated by checking the “last updated” date displayed at the top of this Privacy Policy.
+**With your consent**
 
-**XI. How to Contact Us**
+With your consent, we may disclose your personal data to other persons you designate.
 
-If you have any questions about this Privacy Policy, or have any questions, complaints or requests regarding your personal data, you can contact our Data Protection Officer (DPO) via the contact details set out below:
+**Corporate transactions or similar circumstances**
 
-*   Attention: Data Protection Officer/Alibaba Cloud (Singapore) Private Limited, c/o 26/F, Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong.
-*   E-mail address: [DPO\_qwenlm-intl@service.alibaba.com](mailto:qwenlm-intl@service.alibaba.com)
+If we are involved in a transaction in the future, such as a change in operating entity, merger, acquisition, financing, restructuring, bankruptcy, or sale of assets, your personal data may be transferred as part of that transaction. We will notify you at that time and require the recipient to use your personal data only for the purposes described in this policy and to protect its security in accordance with requirements no less protective than those set forth in this policy.
 
-Please note that if your personal data has been provided to us by a third party, you should contact such party directly to make any queries, feedback, and access and correction requests to us on your behalf.
+**VI. Where we store personal data**
 
-You may withdraw your consent as provided for under the applicable law. However, if you withdraw your consent to any or all collection, use, and/or disclosure of your personal data for one or more purposes, depending on the nature of your request, we may not be in a position to continue to provide our products or services to you, administer any contractual relationship already in place, or perform or conclude an existing or prospective agreement. This may also result in the termination of any agreements you have with us and/or you being in breach of your contractual obligations or undertakings. Our legal rights and remedies in such event are expressly reserved.
+Depending on your location and the features you use, your personal data may be transferred to and processed outside your jurisdiction. We collect, process, and store your personal data in Singapore, whose data protection laws may differ from those in your jurisdiction.
+
+Where necessary, we will implement appropriate safeguards to transfer personal data to specific countries, including for one or more of the purposes set forth in this policy, and will comply with applicable data protection law requirements.
+
+**Cross-border transfer safeguards**
+
+When we transfer your personal data outside the European Union (EU), the European Economic Area (EEA), Switzerland, or the United Kingdom, we ensure that the data receives an adequate level of protection through the following means:
+
+(a) **Adequacy decisions**: We rely on adequacy decisions made by the European Commission under Article 45 of the GDPR (or equivalent decisions under equivalent laws), which determine that a country provides an adequate level of data protection. We transfer personal data to certain countries that have received an adequacy decision; the complete list can be found on the [European Commission adequacy decisions page](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en).
+
+(b) **Standard Contractual Clauses (SCC)**: The European Commission has approved contractual clauses under Article 46 of the GDPR, allowing companies subject to the GDPR to transfer data outside the EU and European Economic Area. These clauses, along with their approved UK and Swiss equivalents, are known as Standard Contractual Clauses. We rely on Standard Contractual Clauses to transfer information to certain affiliates and third parties located in countries that have not received an adequacy decision.
+
+(c) To obtain a copy of the adequacy decision or standard contractual clauses, please contact us using the contact information provided in Section XII, “How to Contact Us,” of this Policy. Please note that some sensitive business information in the Standard Contractual Clauses may be redacted.
+
+**VII. Data Retention Period**
+
+We retain your personal data only for as long as necessary to provide services to you and fulfill the purposes described in this policy. When determining the retention period, we consider the amount, nature, and sensitivity of the personal data; the potential risks of unauthorized use or disclosure; the purposes for processing the data; whether those purposes can be achieved by other means; and applicable legal and regulatory requirements.
+
+In certain circumstances, we may need to continue retaining your personal data after your account has been deleted. The specific retention period depends on the nature of the personal data, the reasons for its collection and processing, and the nature of the legal requirements. For example, we will retain your personal data when there is a legal obligation, such as a court order, or to handle complaints and litigation or regulatory matters, such as when a legal dispute is pending.
+
+To the extent permitted by law, we may also retain and use your personal data as necessary to fulfill legal obligations, resolve disputes, or enforce our agreements.
+
+We establish and maintain a data retention management program that sets retention periods or criteria for determining those periods based on different categories of data. We delete or de-identify personal data when it is no longer needed for the purposes described in this policy, unless applicable law requires or permits continued retention. When we no longer have a legitimate need or legal reason to retain your personal data, we will securely delete or anonymize it so that it can no longer be associated with you.
+
+**VIII. Security of your personal data**
+
+We use commercially reasonable organizational, technical, and physical security measures to protect personal data from unauthorized access, use, or disclosure. Specific measures include encrypting your personal data in transit and at rest; developing and implementing an information security program in accordance with standard industry frameworks; deploying advanced malware protection measures; and implementing other reasonable security safeguards, including vulnerability management, access management, and recovery and resilience measures.
+
+However, given the inherent nature of technological and operational risks, no security measure can guarantee absolute security. Data transmitted over the internet or any wireless network cannot be guaranteed to be completely secure. Therefore, although we take reasonable measures to protect your personal data, we cannot fully guarantee the security of any personal data you transmit to us, and you do so at your own risk. We cannot, and do not, guarantee the security of your account, device, or personal data while you use the App. If you have created an account and set a password, you are responsible for keeping that password secure and confidential.
+
+**IX. Children’s personal data**
+
+Our services are intended for users aged 18 and older and are not suitable for minors under 18. Our products currently include an age selector, and we do not knowingly collect or retain personal data from minors under 18. We encourage parents and guardians to monitor their children’s online activities and instruct them not to submit personal data through Qwen without permission.
+
+If we discover that we have collected personal data from a child under 13 without parental consent, we will promptly delete it. If you believe that we have collected personal data from your child under 13, please contact us at [privacy@qwen.com](mailto:privacy@qwen.com). We will investigate any relevant notice and, where appropriate, delete the personal data from our systems.
+
+**X. Your rights**
+
+Depending on your country or region, you may have certain rights regarding your personal data, including:
+
+*   **Right to be informed/access**: You have the right to request a copy of your personal data that we have collected, as well as information about how it is processed.
+*   **Right to erasure**: You may request the deletion of your personal data, subject to certain legal exceptions. Currently, you may choose to delete your account yourself from the Qwen Settings page.
+*   **Right to rectification**: You may request correction of inaccurate personal data we maintain.
+*   **Data portability**: If required by applicable law and technically feasible, you may have the right to request that we provide your personal data in a structured, commonly used, and machine-readable format.
+*   **Right to restrict processing**: You may request that we restrict how we process your personal data.
+*   **Right to object**: You may object to our processing of your personal data in a particular manner.
+*   **Right to withdraw consent**: If processing is based on your consent, you may withdraw that consent at any time. Please note that withdrawing consent does not affect the lawfulness of processing based on consent before it was withdrawn.
+*   **Right to restrict the use of sensitive personal data**: If required by applicable law, you may request that we restrict the use and disclosure of your sensitive personal data. Please note that we currently do not offer features involving the processing of sensitive personal data.
+*   **Right to Appeal**: If we refuse to process your request, you may appeal our decision in accordance with applicable law. You also have the right to lodge a complaint with the competent data protection authority in your country or region.
+
+You may exercise your data subject rights using the contact information provided in Section XII, and we will respond within the period required by law. The exercising of personal data rights is generally free of charge. However, we may refuse to process requests that are clearly unfounded or excessive, or charge a reasonable fee where permitted by law. In addition, to protect the security of your personal data, we may need to verify your identity before processing your request. This may require you to provide additional information, such as an email address or a government-issued identification document. You may authorize a representative to exercise your rights, but you must provide us with proof of authorization, and we will still verify your identity.
+
+**If you withdraw your consent to the collection, use, and/or disclosure of personal data for one or more purposes, depending on the nature of the request, we may be unable to continue providing our products or services to you, manage an existing contractual relationship, or perform or complete existing or anticipated agreements. This may also result in the termination of any agreement between you and us and/or your breach of contractual obligations or commitments. We expressly reserve all our legal rights and remedies in these circumstances.**
+
+**XI. Policy updates**
+
+We may update this policy as the features of our products change. When there is an update, we will notify you based on the significance of the change, its impact on your rights, and applicable legal requirements. You may receive notice of changes through Qwen in-app messages, email sent to the email address designated in your account, or notifications within the service. We recommend that you review updates to this policy regularly.
+
+For non-material changes, we may notify you by posting the updated policy on the service. The updated policy will take effect upon publication or on a date we specify. You can confirm when this policy was most recently updated by reviewing the “Last Updated” date displayed at the top of the policy. To the maximum extent permitted by applicable law, you agree to be bound by the version of this policy as amended from time to time.
+
+**XII. How to contact us**
+
+If you have questions about this policy or wish to exercise your rights under applicable law, please contact our privacy team using the following information:
+
+*   Email: [privacy@qwen.com](mailto:privacy@qwen.com)
+*   Contact address: 51 BRAS BASAH ROAD No. 03-06 LAZADA ONE SINGAPORE 189554
+
+**Please note that if your personal data was provided to us by a third party, you should contact that third party directly regarding any inquiries, feedback, or access and correction requests submitted to us on your behalf.**
+
+**XIII. Supplementary Terms for Specific Regions**
+
+**Brazil**
+
+If you are a user located in Brazil, the following provisions apply to you under the Brazilian General Data Protection Law (LGPD) and other applicable laws and regulations:
+
+**1\. Your data rights**
+
+Under Brazil’s LGPD, you have the right to exercise the following personal data rights:
+
+*   **Right to confirmation of processing**: Request confirmation of whether we are processing your personal data.
+*   **Access**: Request a copy of the personal data we hold about you.
+*   **Right to rectification**: Request the correction of any incomplete, inaccurate, or outdated data.
+*   **Right to anonymize or delete**: Request the anonymization, blocking, or deletion of data that is unnecessary or excessive, or that is processed in violation of the LGPD.
+*   **Right to data portability**: Transfer your personal data to another service provider, where technically feasible, subject to regulatory requirements.
+*   **Right to object**: If the processing activities do not comply with legal requirements and are not based on your consent, you have the right to object to the processing activities.
+*   **Right to be informed about data sharing**: Learn about the public and private entities with which we share data.
+*   **Right to withdraw consent**: Detailed information about the effects of refusing consent and the right to withdraw consent at any time.
+*   **Right to be informed about the cross-border transfer of personal data**: More information about the safeguards used for cross-border data transfers, such as standard contractual clauses.
+*   **Right to review automated decisions**: For the various AI features we provide, you may request a review of decisions, if any, that are made solely through automated processing and affect your interests. We currently do not provide any automated decision-making features or services.
+
+To exercise these rights, please contact us through the “Contact Us” section. You also have the right to lodge a formal complaint with the National Data Protection Authority (ANPD).
+
+**2\. Identity verification**
+
+To protect the security of your personal data and prevent unauthorized access, we may require you to provide specific information or documents to verify your identity before responding to your request. Any data provided during the verification process will be used solely for identity verification and processed in accordance with our security protocols.
+
+**3\. Request limitations**
+
+In certain circumstances, we may be unable to fulfill your request, for example, if fulfilling it would disclose our trade secrets, infringe intellectual property rights, or interfere with our legal and regulatory obligations. We may also retain data as necessary to protect our rights in legal disputes. If we deny a request, we will explain the legal or factual basis for our decision.
+
+**4\. Cross-border transfers**
+
+Our services are offered in multiple countries, and to operate our infrastructure, we transfer your personal data to internal and external recipients located outside Brazil.
+
+*   **Storage and affiliated companies**: Your personal data may be stored on servers, including those in Singapore.
+*   **Third parties**: We may share the data described in this policy with service providers or judicial or government authorities when required to comply with applicable legal requirements.
+
+To ensure that your personal data is protected regardless of where you are located, we have implemented:
+
+*   **Technical safeguards**: Data encryption, both at rest and in transit; logging of personal data processing activities; and implementation of strict role-based access controls.
+*   **Organizational measures**: We have established internal personal data protection policies, require employees to complete personal data protection training, and conduct data security audits on a regular or ad hoc basis.
+
+**Indonesia**
+
+If you are a user located in Indonesia, the following provisions apply to you under the Personal Data Protection Law No. 27 of 2022 and other applicable laws and regulations:
+
+**Age requirements and guardian consent**
+
+Before using the Qwen services, you must confirm that you are at least 18 years old. If you are under 18 and are not legally emancipated, you must obtain the prior consent of a parent or legal guardian. In this case, your parent or guardian has the following responsibilities toward you: (i) supervising your use of the services; (ii) ensuring that you comply with this policy; and (iii) ensuring that your activities do not violate child protection laws. If parental consent has not been obtained or your guardian is unwilling to manage the account, you must immediately stop using the services.
+
+**Your personal data rights and choices**
+
+You have the right to request: (i) access to your historical personal data; and (ii) deletion of your data from our systems. Please note that deleting your data or withdrawing consent may limit your access to certain Qwen features. To exercise these rights, please contact us through the “Contact Us” section.
+
+**Breach notification**
+
+If a security incident, such as a data breach, affects your personal data, we will promptly notify you and provide relevant details about the incident.
+
+**Data retention and anonymization**
+
+We retain your personal data only for as long as necessary to provide the services. We may store certain data for five years, or longer if required by law, to comply with regulatory obligations.
+
+**the Philippines**
+
+If you are a user located in the Philippines, the following provisions apply to you under the Philippine Data Privacy Act and other relevant laws and regulations.
+
+Under the Philippine Data Privacy Act, you have the right to:
+
+*   **Right to information**: You have the right to know how we process your personal data.
+*   **Right to object**: You have the right to request that we not process your data in certain ways.
+*   **Access and portability**: You have the right to contact us to request a copy of your personal data or migrate it to another service, where technically feasible.
+*   **Correction and deletion**: You have the right to request that we update inaccurate personal data or request the deletion or blocking of your information.
+*   **Seeking remedies**: If you believe that our processing of your personal data infringes your rights, you have the right to file a complaint with the National Privacy Commission (NPC) or bring a claim for damages arising from violations of personal data processing requirements.
+
+To protect the security of your account, we will require you to verify your identity or provide account information before processing your request to exercise your personal data rights.
+
+**Singapore**
+
+If you are a user located in Singapore, the following supplemental terms apply to you pursuant to the Personal Data Protection Act (PDPA) and other applicable laws and regulations:
+
+*   **Consent and withdrawal**: You may withdraw your consent in accordance with applicable law. However, if you withdraw your consent to the collection, use and/or disclosure of personal data for one or more purposes, depending on the nature of your request, we may be unable to continue providing our products or services to you, which may also result in the termination of any agreement between you and us.
+*   **Processing on behalf**: If you entrust us to process a third party’s personal data, you should ensure that you have the right to provide such personal data to us and that the third party has consented to our processing of their personal data for the purposes described in this Policy.
