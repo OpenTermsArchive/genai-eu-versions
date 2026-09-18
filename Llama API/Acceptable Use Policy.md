@@ -15,7 +15,7 @@ Meta is committed to promoting safe and fair use of its tools and features, incl
     *   •Engage in, promote, incite, or facilitate the harassment, abuse, threatening or bullying of individuals or groups of individuals
     *   •Engage in, promote, incite, or facilitate discrimination or other unlawful or harmful conduct in the provision of employment, employment benefits, credit, housing, leases, loans, other economic benefits, or other essential goods and services
     *   •Engage in the unauthorized or unlicensed practice of any profession including, but not limited to, financial, insurance, legal, medical/health, tax, or other professional practices
-    *   •Collect, process, disclose, generate, or infer private or sensitive information about individuals, including information about individuals’ identity, health, or demographic information, unless you have obtained the right to do so in accordance with applicable law
+    *   •Collect, process, disclose, generate, or infer private or sensitive information about individuals, including information about individuals’ identity, health, biometric, or demographic information, unless you have obtained the right to do so in accordance with applicable law
     *   •Create, generate, or share adult sexual or intimate imagery or clone or generate the voice or likeness of a real, identifiable person without their consent, including AI-generated or digitally altered (e.g., "deepfake") depictions
     *   •Create, generate, distribute, or facilitate the creation of malicious code, malware, computer viruses or do anything else that could disable, overburden, interfere with or impair the proper working, integrity, operation or appearance of a website or computer system, including conducting or facilitating cyberattacks or other malicious or abusive cyber activity
     *   •Compromise, damage, destroy, breach, exfiltrate, or gain or attempt to gain unauthorized access to another’s systems, networks, applications, devices, accounts, repositories, credentials, or other property, including through technical attacks, social engineering, or bypassing, disabling, or defeating any security control, authentication, endpoint protection, or monitoring measure
@@ -23,7 +23,7 @@ Meta is committed to promoting safe and fair use of its tools and features, incl
     *   •Identify, scan for, or exploit vulnerabilities in any system, network, or application without proper authorization from the system, network, or application owner
     *   •Develop, enhance, or operationalize tools, frameworks, or capabilities designed primarily for offensive cyber operations or as cyberweapons
     *   •Compromise or introduce vulnerabilities, backdoors, or malicious code into software supply chains, code repositories, package managers, update mechanisms, or shared development infrastructure
-    *   •Remove, alter, obscure, or otherwise tamper with any watermark, label, metadata, or other provenance signal applied to or associated with any Meta technologies, including the Services (whether as part of Integrated Products or otherwise), or any Outputs
+    *   •Remove, alter, obscure, or otherwise tamper with any watermark, label, metadata, or other provenance signal applied to or associated with any content or Meta technologies, including the Services (whether as part of Integrated Products or otherwise), or any Outputs
     *   •Distribute or make available Outputs (including through any Integrated Products) without preserving watermarks, labels, metadata, or other provenance signals that Meta has applied to such Outputs
     *   •Engage in any action, or facilitate any action, to intentionally circumvent, bypass, disable, or remove usage restrictions or other safety or security measures or controls, or to enable functionality disabled or restricted by Meta
     *   •Create or use accounts, identities, access, or use methods to evade enforcement actions, suspensions, controls, or other restrictions previously imposed by Meta
@@ -33,6 +33,7 @@ Meta is committed to promoting safe and fair use of its tools and features, incl
     
     *   •Identify or track a specific individual based on biometric data, including facial recognition, without a lawful basis and consent where required by applicable law
     *   •Engage in the untargeted scraping of facial images from the internet or CCTV footage to build facial recognition databases
+    *   •Track or re-identify a specific individual across images, video frames, sessions, locations, or devices on the basis of appearance, clothing, gait, or other visual characteristics, without a lawful basis and consent where required by applicable law
     *   •Engage in emotion recognition in the workplace or education, save as permitted by applicable law
     *   •Categorize people based on their biometric data to deduce or infer their race, political opinions, trade union membership, religious or philosophical beliefs, sex life or sexual orientation
     *   •Engage in real-time biometric identification in publicly accessible spaces for the purposes of law enforcement, save as permitted by applicable law
@@ -69,5 +70,6 @@ Meta is committed to promoting safe and fair use of its tools and features, incl
     
 *   •Fail to appropriately disclose to End Users any known material risks or limitations of your Integrated Products or other AI systems, where such disclosure is required by applicable law or necessary to prevent reasonably foreseeable harm
 *   •Interact with third party tools, models, or software designed to generate unlawful content or engage in unlawful or harmful conduct and/or represent that the outputs of such tools, models, or software are associated with Meta or its Services
+*   •Rely on Outputs to make decisions affecting an individual’s fundamental rights, health, or safety without a qualified person reviewing the Outputs
 
 Exceptions.Meta may, in its sole discretion, grant exceptions to this Acceptable Use Policy for legitimate cybersecurity research, educational purposes, governmental use cases, or other circumstances where Meta determines that adequate safeguards are in place to mitigate the potential harms addressed by this policy. To inquire about obtaining an exception, contact [aup\_exceptions@meta.com](mailto:aup_exceptions@meta.com).
