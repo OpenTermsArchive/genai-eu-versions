@@ -1,6 +1,6 @@
 Cookies Notice
 
-Last updated: April 9, 2026
+Last updated: September 17, 2026
 
 This Cookies Notice explains how we use cookies and/or similar technologies, such as web beacons and pixels, to store specific information about you and track your visits to our website, applications, and services ("Services").
 
@@ -39,8 +39,19 @@ These cookies are necessary to enable the basic features of this site to functio
 | cna | Qwen | Service functionality | 765 days | .qwen.ai |
 | atpsida | Qwen | Service functionality | Session | .qwen.ai |
 | sca | Qwen | Service functionality | Session | .qwen.ai |
+| qwen\_age\_verification | Qwen | Service functionality | 365 days | .qwen.ai |
+| qwen-sidebar\_visible | Qwen | Service functionality | 365 days | .qwen.ai |
 
-**1.2 Advertising Cookies**
+**1.2. Analytics Cookies**
+
+These cookies are used to collect information about how visitors use our website, helping us understand and improve the performance of our services. The data collected includes the number of visitors, the pages visited, the sources of visits, and other aggregated usage statistics.
+
+| Cookie name | Source | Purpose | Cookie type and duration | Domain |
+| --- | --- | --- | --- | --- |
+| \_ga\_64K8VGJ460 | Google | Analytics | 765 days | .qwen.ai |
+| \_ga | Google | Analytics | 765 days | .qwen.ai |
+
+**1.3. Marketing Performance Cookies**
 
 These cookies are used to deliver personalized advertisements relevant to your interests and measure the effectiveness of our advertisements. We will keep track of your browsing activities and share data with advertisers so as to provide targeted advertisements to you.
 
@@ -81,6 +92,6 @@ Cookie settings are device- and browser-specific, so you will need to set cookie
 
 **III. More Information**
 
-For more information about cookies and instructions on how to set up your browser to accept, delete or disable cookies, see [www.allaboutcookies.org](https://www.allaboutcookies.org/).
+For more information about cookies and instructions on how to set up your browser to accept, delete or disable cookies, see  [www.allaboutcookies.org](https://www.allaboutcookies.org/).
 
-For information about our processing of personal data, including personal data derived from cookies and your rights relating to that personal data, please visit the [Privacy Policy](https://qwen.ai/privacypolicy). You may contact us by sending emails to [DPO\_qwenlm-intl@service.alibaba.com](mailto:qwenlm-intl@service.alibaba.com).
+For information about our processing of personal data, including personal data derived from cookies and your rights relating to that personal data, please visit the  [Privacy Policy](https://qwen.ai/privacypolicy). You may contact us by sending emails to  [privacy@qwen.com](mailto:privacy@qwen.com).
