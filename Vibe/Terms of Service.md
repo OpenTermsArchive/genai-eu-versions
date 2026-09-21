@@ -927,9 +927,9 @@ On this page
 On this page
 ------------
 
-![Cat Gif](/images/cat-moving.gif?dpl=6ab13d9ea7b5cf8321c8ea44)
+![Cat Gif](/images/cat-moving.gif?dpl=6ab4f1b170b0c60008f80f60)
 
-![Cat Gif](/images/cat-moving.gif?dpl=6ab13d9ea7b5cf8321c8ea44)
+![Cat Gif](/images/cat-moving.gif?dpl=6ab4f1b170b0c60008f80f60)
 
 - - -
 
