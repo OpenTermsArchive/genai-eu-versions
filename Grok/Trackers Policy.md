@@ -1,7 +1,7 @@
 [SpaceXAI Cookie Policy](#spacexai-cookie-policy)
 =================================================
 
-_Effective: September 16, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-09-03))_
+_Effective: September 22, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-09-16))_
 
 This Cookie Policy describes what kinds of cookies and similar technologies SpaceXAI uses in connection with our Services (as defined in our [Privacy Policy](https://x.ai/legal/privacy-policy)).Please refer to our Privacy Policy to learn more about how we process your personal information.
 
@@ -52,7 +52,7 @@ Below is a list of cookies used on our Service:
 | xAI | gb\_anon\_id | Service Functionality | 1 year | x.ai, accounts.x.ai, console.x.ai | Essential |
 | xAI | oauth-complete | Security | 10 min | accounts.x.ai, console.x.ai | Essential |
 | xAI | \_\_Host-sso-return | Security | 10 min | accounts.x.ai, console.x.ai | Essential |
-| xAI | \_\_Host-sso-complete | Security | 10 min | console.x.ai | Essential |
+| xAI | \_\_Host-sso-complete | Security | 10 min | accounts.x.ai, console.x.ai | Essential |
 | xAI | sso-select | Login | 10 min | .x.ai | Essential |
 | xAI | sso-select-user-options | Login | 1 hour | accounts.x.ai | Essential |
 | xAI | x-callback-jwt | Login | 30 min | accounts.x.ai | Essential |
