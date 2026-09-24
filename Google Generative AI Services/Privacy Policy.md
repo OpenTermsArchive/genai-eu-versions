@@ -795,7 +795,7 @@ _close_
 
 - - -
 
-### **Last updated:** August 10, 2026
+### **Last updated:** September 24, 2026
 
 Table of contents
 -----------------
@@ -849,6 +849,8 @@ Table of contents
         *   [What happens to my data when I use Gemini in Chrome?](#chrome_data)
     *   **[Screen automation in Android apps](#screen_automation)**
         *   [What happens with my data when Gemini uses screen automation to help me get tasks done in Android apps?](#mydata_screen_automation)
+    *   **[Agentic calling](#agentic_calling)**
+        *   [What happens to my data when I use Gemini's agentic calling capability?](#mydata_agentic_calling)
     *   **[Shopping](#shopping)**
         *   [What happens to my data when I add items to the Google shopping cart from Gemini?](#shopping_cart)
         *   [What happens to my data when I use Google Pay in Gemini?](#shopping_data)
@@ -991,7 +993,9 @@ Please [respect others' rights](https://policies.google.com/terms/generative-ai/
 Privacy questions
 -----------------
 
-**Last updated:** August 10, 2026
+**Last updated:** September 24, 2026
+
+[Expand all](#privacy_questions&gemini_apps&right_to_object&legal_basis&ads&human_review&retention&feedback&keep_activity_setting&audio_live&saved_info&past_chats&signed_out&location_info&precise_location&assistant_data&mobile_permissions&uploaded_images&google_photos_content&data_exchange&app_data_personalization&comms_ext&agent_browser_data&turn_off_spark&live_data&chrome_data&mydata_screen_automation&mydata_agentic_calling&shopping_cart&shopping_data&gems_from_labs_data&import_chats&notebook_data&avatar_data&canvas_data&janus_stw&tos) [Collapse all](https://support.google.com/gemini/answer/13594961#privacy_questions)
 
 ### General
 
@@ -1372,20 +1376,20 @@ When you use the beta Gemini Spark feature on macOS, Gemini can also interact di
 
 #### What data is processed
 
-When you use Spark, Gemini uses info from your tasks, schedules, skills, remote browser, remote computer, and any other available sources, like Connect Apps, Personal Intelligence, and info from websites it interacts with, including those you are logged into.
+When you use Spark, Gemini uses info from your tasks, schedules, skills, remote browser, remote computer, and any other available sources, like Connected Apps, connected folders, Personal Intelligence, and info from websites it interacts with, including those you are logged into.
 
 *   **Remote browser:** Gemini processes information from your browser session, like cookies that contain your website authentication info, and page content.
-*   **Remote computer:** Gemini saves and executes .md files, code and other information related to your tasks. This saved information can include data you find sensitive from sources like Personal Intelligence and Connected Apps that Spark has used to understand and process your tasks.
+*   **Remote computer:** Gemini saves and executes .md files, code and other information related to your tasks. This saved information can include data you find sensitive from sources like Personal Intelligence and Connected Apps that Spark used to understand and process your tasks.
 
 This data is used consistently with the [Gemini Apps Privacy Notice](https://support.google.com/gemini/answer/13594961?visit_id=639141982241045711-2517164401&p=privacy_help&rd=1#privacy_notice), including to make it easier for you to use the remote browser and remote computer in future chats. You can delete this data at any time in [your Gemini Spark settings](https://gemini.google.com/gemini-spark). 
 
 #### What data is shared
 
-To complete your tasks, including through your Connected Apps and the remote browser, Gemini will share with other services and third parties necessary info, which can include data like your name and address or info you find sensitive. This info may include data from your Connected Apps and remote computer files.
+To complete your tasks, including through your Connected Apps and the remote browser, Gemini will share with other services and third parties necessary info, which can include data like your name and address or info you find sensitive. This info may include data from your Connected Apps, connected folders, and remote computer files.
 
 #### How to control & manage your data
 
-**Remote browser:** You can interrupt Gemini Spark's actions on the remote browser by selecting  Stop ![](//lh3.googleusercontent.com/oUuvfQv_WUbsvIhwd3LX03hooJJL-ES3IeYPU7vATeCq0K9v0fbhcwuFD4UsjNbIaDQ=h36) in the prompt text box or **Take Control** ![](//lh3.googleusercontent.com/l-2D5NJu8xBUbiDRvPA5bR7KBU9wRHG4PkUR-1k3NfCeai3PjncG4_1WFhgMpFwXIXE=h36) in the remote browser.
+**Remote browser:** You can interrupt Gemini Spark's actions on the remote browser by selecting  Stop ![](//lh3.googleusercontent.com/oUuvfQv_WUbsvIhwd3LX03hooJJL-ES3IeYPU7vATeCq0K9v0fbhcwuFD4UsjNbIaDQ=h36) in the prompt text box or **Take Control** ![](//lh3.googleusercontent.com/l-2D5NJu8xBUbiDRvPA5bR7KBU9wRHG4PkUR-1k3NfCeai3PjncG4_1WFhgMpFwXIXE=h36) in the remote browser. [Learn how to take control of Gemini's browser](https://support.google.com/gemini/answer/16596215#monitor).
 
 You can also delete remote browser data in your [Gemini Spark settings](https://gemini.google.com/gemini-spark). This will sign you out of all sites in the remote browser.
 
@@ -1455,6 +1459,32 @@ During automation, Gemini takes screenshots, which can include any info visible 
 Avoid using screen automation for emergencies or tasks involving sensitive information. If screen automation is off, you can still use Gemini with Connected Apps. [Learn more about Connected Apps](https://support.google.com/gemini/answer/13695044).
 
 Learn more about [how you can use Gemini to get tasks done with screen automation](https://support.google.com/gemini/answer/16940971).
+
+### Agentic calling
+
+What happens to my data when I use Gemini's agentic calling capability?
+
+On eligible Pixel devices, the Gemini mobile app can make calls on your behalf to help with tasks, like booking reservations at a restaurant or checking product availability at a store. [Learn how to use Gemini to make calls](https://support.google.com/gemini/answer/18336420).
+
+#### You control the information Gemini will share on the call
+
+Before making a call, Gemini will confirm the information it plans to share with the other party. Depending on the task, this may include your name, email address, phone number, or other relevant details needed to complete your request. You must review this info and agree before Gemini will initiate the call.
+
+During a call, Gemini will not share sensitive personal information like credit card numbers, passwords, or health information.
+
+#### How data is used
+
+Google uses the transcripts from these calls to generate call summaries and to display your past calling activity within the Gemini app. We don’t use these audio recordings or transcripts to train Google's AI models.
+
+#### How data is stored
+
+*   **On Google servers:** Transcripts are sent to and securely stored on Google servers. Google does not store your audio recordings on its servers.
+*   **On your device:** A copy of the call transcript and audio recording is saved locally in your Phone by Google app's call history.
+
+#### You’re in control
+
+*   Your calling activity is available in your Gemini Apps Activity and used per the [Gemini Apps Privacy Notice](#privacy_notice). You can find and delete it at any time. [Learn how to delete your Gemini Apps activity](https://support.google.com/gemini/answer/13278892).
+*   You can also delete your call history, transcripts, and recordings directly in the Phone by Google app.
 
 ### Shopping
 
