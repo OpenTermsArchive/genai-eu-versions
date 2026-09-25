@@ -724,7 +724,3 @@ On this page
 
 On this page
 ------------
-
-![Cat Gif](/images/cat-moving.gif?dpl=6ab6e1b153fa9879ea352315)
-
-![Cat Gif](/images/cat-moving.gif?dpl=6ab6e1b153fa9879ea352315)
