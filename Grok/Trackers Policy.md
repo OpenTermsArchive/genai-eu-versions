@@ -53,6 +53,7 @@ Below is a list of cookies used on our Service:
 | xAI | oauth-complete | Security | 10 min | accounts.x.ai, console.x.ai | Essential |
 | xAI | \_\_Host-sso-return | Security | 10 min | accounts.x.ai, console.x.ai | Essential |
 | xAI | \_\_Host-sso-complete | Security | 10 min | accounts.x.ai, console.x.ai | Essential |
+| xAI | cursor-apple-relay | Security | 10 min | accounts.x.ai | Essential |
 | xAI | sso-select | Login | 10 min | .x.ai | Essential |
 | xAI | sso-select-user-options | Login | 1 hour | accounts.x.ai | Essential |
 | xAI | x-callback-jwt | Login | 30 min | accounts.x.ai | Essential |
