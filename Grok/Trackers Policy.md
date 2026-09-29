@@ -1,7 +1,7 @@
 [SpaceXAI Cookie Policy](#spacexai-cookie-policy)
 =================================================
 
-_Effective: September 22, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-09-16))_
+_Effective: September 29, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-09-22))_
 
 This Cookie Policy describes what kinds of cookies and similar technologies SpaceXAI uses in connection with our Services (as defined in our [Privacy Policy](https://x.ai/legal/privacy-policy)).Please refer to our Privacy Policy to learn more about how we process your personal information.
 
@@ -71,6 +71,11 @@ Below is a list of cookies used on our Service:
 | Mixpanel | mp\_<token>\_mixpanel | Analytics | 1 year | .x.ai | Non-Essential |
 | Mixpanel | mp\_<consumer-token>\_mixpanel | Analytics | 1 year | .x.ai | Non-Essential |
 | xAI | xai\_utm | Analytics | 1 day | accounts.x.ai | Non-Essential |
+| Hightouch | htjs\_anonymous\_id | Analytics | 1 year | .grok.com, x.ai | Non-Essential |
+| Hightouch | htjs\_user\_id | Analytics | 1 year | .grok.com, x.ai | Non-Essential |
+| Hightouch | htjs\_sesh | Analytics | 1 year | .grok.com, x.ai | Non-Essential |
+| xAI | \_ca\_<key> | Advertising | 90 Days | .grok.com, x.ai | Non-Essential |
+| xAI | xai\_attr\_redirect | Analytics | 1 day | accounts.x.ai | Non-Essential |
 | Braze | ab.storage.userId.<app-key> | Marketing | 13 Months | .x.ai | Non-Essential |
 | Braze | ab.storage.deviceId.<app-key> | Marketing | 13 Months | .x.ai | Non-Essential |
 | Braze | ab.storage.sessionId.<app-key> | Marketing | 13 Months | .x.ai | Non-Essential |
