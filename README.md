@@ -4,7 +4,7 @@ The dataset GenGA (Generative AI Governance Archive) is part of the [Platform Go
 
 - Platforms: ChatGPT, Claude.AI, DeepSeek, Google Generative AI Services, Grok, Llama API, Meta AI, Microsoft Copilot, Perplexity, Qwen Chat, Vibe (formerly Le Chat). 
 - Time frame: started November 2025
-- Project website: https://www.platformgovernancearchive.org/wp-admin/
+- Project website: https://www.platformgovernancearchive.org
 - Weakly releases: [Weekly releases of collected data](https://github.com/OpenTermsArchive/genai-eu-versions/releases) – a weekly export of all changes to tracked terms. 
 
 ## Usage
