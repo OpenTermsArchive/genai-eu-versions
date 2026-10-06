@@ -825,7 +825,7 @@ Table of contents
         *   [How does Google use my feedback?](#feedback)
         *   [What does the Keep Activity setting control?](#keep_activity_setting)
         *   [How can I control whether Google uses my audio and Gemini Live videos & screenshares to improve its services?](#audio_live)
-        *   [How does Gemini Apps use my saved info and instructions?](#saved_info)
+        *    [How do I manage what Gemini remembers about me and customize my responses?](#saved_info)
         *   [How can I control whether Gemini Apps use my past chats to personalize my experience?](#past_chats)
         *   [How does Google handle my data when I use Gemini Apps while signed out?](#signed_out)
     *   **[Location & other permissions information](#location)**
@@ -1189,7 +1189,9 @@ Your future audio and [Gemini Live videos and screenshares](https://support.goog
 *   Transcripts of your Live chats in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) and any other content you share with Gemini Apps are covered by the [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) setting, which you can turn off anytime.
 *   This setting is separate from your settings in other services. For example, turning this off doesn't turn off the [Gemini for Home](https://home.google.com/get-inspired/bring-home-the-magic-of-gemini/) setting to improve Google services with voice, audio, and Gemini Live recordings. You can turn that setting off in your [Google Home History](https://myactivity.google.com/product/home?utm_source=help).
 
-How does Gemini Apps use my saved info and instructions?
+ How do I manage what Gemini remembers about me and customize my responses?
+
+Depending on eligibility and your settings, Gemini can remember specific facts, interests, and preferences across conversations so you don’t have to repeat info in new chats. You can ask Gemini to remember details simply by talking to it. 
 
 Gemini Apps use your instructions ("Saved info" in some regions) to customize your experience and help you get things done, like completing scheduled actions and tasks. This data remains saved until you choose to delete it. You can stop saving instructions anytime. [Learn more](https://support.google.com/gemini/answer/16598625).
 
