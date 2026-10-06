@@ -71,9 +71,9 @@ To find out the address of the RSS feed you want to subscribe to:
 
 | Updated for                    | URL                                                          |
 | ------------------------------ | ------------------------------------------------------------ |
-| all services and documents     | `https://github.com/OpenTermsArchive/genai-eu-versions/commits.atom` |
-| all the documents of a service | Replace `$serviceId` with the service ID: `https://github.com/OpenTermsArchive/genai-eu-versions/commits/main/$serviceId.atom.` |
-| One specific document          | Replace `$serviceId` with the service ID and `$documentType` with the document type: `https://github.com/OpenTermsArchive/genai-eu-versions/commits/main/$serviceId/$documentType.md.atom` |
+| all services and documents     | `http://134.102.58.170/collection-api/v1/feed` |
+| all the documents of a service | Replace `$serviceId` with the service ID: `http://134.102.58.170/collection-api/v1/feed/$serviceId` |
+| One specific document          | Replace `$serviceId` with the service ID and `$termsType` with the terms type: `http://134.102.58.170/collection-api/v1/feed/$serviceId/$termsType` |
 
 For example:
 
