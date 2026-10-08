@@ -1,7 +1,7 @@
 [SpaceXAI Cookie Policy](#spacexai-cookie-policy)
 =================================================
 
-_Effective: September 29, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-09-22))_
+_Effective: October 7, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-09-29))_
 
 This Cookie Policy describes what kinds of cookies and similar technologies SpaceXAI uses in connection with our Services (as defined in our [Privacy Policy](https://x.ai/legal/privacy-policy)).Please refer to our Privacy Policy to learn more about how we process your personal information.
 
@@ -129,6 +129,10 @@ Below is a list of cookies used on our Service:
 | Snap Ads | \_schn | Advertising | 3 min | .grok.com, x.ai, console.x.ai | Non-Essential |
 | Snap Ads | \_schn1 | Advertising | 3 min | .grok.com, x.ai, console.x.ai | Non-Essential |
 | Snap Ads | \_sctr | Advertising | 1 Year | .grok.com, x.ai, console.x.ai | Non-Essential |
+| StackAdapt Ads | user-id | Advertising | 1 Year | srv.stackadapt.com | Non-Essential |
+| StackAdapt Ads | user-id-v2 | Advertising | 1 Year | srv.stackadapt.com | Non-Essential |
+| StackAdapt Ads | sa-camp-<ID> | Advertising | 90 Days | srv.stackadapt.com | Non-Essential |
+| StackAdapt Ads | sa\_aid\_pv | Advertising | 1 Hour | srv.stackadapt.com | Non-Essential |
 
 ### Additional information
 
