@@ -51,6 +51,7 @@ Below is a list of cookies used on our Service:
 | xAI | referrer\_action | Service Functionality | 7 days | accounts.x.ai | Essential |
 | xAI | gb\_anon\_id | Service Functionality | 1 year | x.ai, accounts.x.ai, console.x.ai | Essential |
 | xAI | oauth-complete | Security | 10 min | accounts.x.ai, console.x.ai | Essential |
+| xAI | \__Secure-castle\_oauth\_token_\* | Security | 100 sec | accounts.x.ai | Essential |
 | xAI | \_\_Host-sso-return | Security | 10 min | accounts.x.ai, console.x.ai | Essential |
 | xAI | \_\_Host-sso-complete | Security | 10 min | accounts.x.ai, console.x.ai | Essential |
 | xAI | cursor-apple-relay | Security | 10 min | accounts.x.ai | Essential |
