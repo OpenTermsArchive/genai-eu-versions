@@ -1,9 +1,9 @@
-[**SpaceXAI Acceptable Use Policy**](#spacexai-acceptable-use-policy)
+[**SpaceXSI Acceptable Use Policy**](#spacexsi-acceptable-use-policy)
 =====================================================================
 
 _Effective: August 14, 2026 ([previous version](https://x.ai/legal/acceptable-use-policy/previous-2026-06-26))_
 
-SpaceXAI’s Acceptable Use Policy (“AUP”) applies to anyone using our Service, including consumers, developers and businesses. We aim to maximize your control over how you use our Service while also ensuring that you do so in a way that is compliant with the law, responsible and safe for humanity. Our policies will evolve over time as our Service and user base change, as well as based on what we learn over time.
+SpaceXSI’s Acceptable Use Policy (“AUP”) applies to anyone using our Service, including consumers, developers and businesses. We aim to maximize your control over how you use our Service while also ensuring that you do so in a way that is compliant with the law, responsible and safe for humanity. Our policies will evolve over time as our Service and user base change, as well as based on what we learn over time.
 
 By using our Service, you agree to comply with our policies. Violating our policies could result in action against your account, up to suspension or termination. Capitalized terms used and not defined herein are defined in the [Terms of Service – Consumer](https://x.ai/legal/terms-of-service) or [Terms of Service – Enterprise](https://x.ai/legal/terms-of-service-enterprise).
 
@@ -21,7 +21,7 @@ You are free to use our Service so long as you use it to be a good human, act sa
             
         *   Stripping, altering or circumventing embedded provenance metadata or watermarks
             
-        *   Using the Service or any Output to develop (or assist anyone in developing) machine learning models or any products or services that compete with SpaceXAI, whether directly or indirectly
+        *   Using the Service or any Output to develop (or assist anyone in developing) machine learning models or any products or services that compete with SpaceXSI, whether directly or indirectly
             
         *   Scraping, harvesting or reselling any Input or Output, or distilling model data or Outputs
             
@@ -59,7 +59,7 @@ You are free to use our Service so long as you use it to be a good human, act sa
         
         *   Taking unauthorized actions on behalf of others
             
-        *   Operating in a regulated industry without complying with those regulations, for example, by using the Services to unlawfully buy or sell securities or to provide or receive advice about securities, commodities, derivatives, or other financial products or services, as SpaceXAI is not a broker-dealer or a registered investment adviser under the securities laws of the United States or any other jurisdiction
+        *   Operating in a regulated industry without complying with those regulations, for example, by using the Services to unlawfully buy or sell securities or to provide or receive advice about securities, commodities, derivatives, or other financial products or services, as SpaceXSI is not a broker-dealer or a registered investment adviser under the securities laws of the United States or any other jurisdiction
             
         *   Offering the Service in a region where we do not offer the Service
             
@@ -69,7 +69,7 @@ You are free to use our Service so long as you use it to be a good human, act sa
             
         *   Making high-stakes automated decisions that affect a person's safety, legal or material rights, or well-being (such as making financial credit, educational, employment, housing, insurance, legal, medical, or other important decisions about or for them)
             
-        *   Misleading others or not being transparent regarding your use of AI, including by phishing, creating fake accounts, providing services that appear to be from you, when they are in fact from SpaceXAI, or providing services that appear to originate from SpaceXAI, when they do not
+        *   Misleading others or not being transparent regarding your use of AI, including by phishing, creating fake accounts, providing services that appear to be from you, when they are in fact from SpaceXSI, or providing services that appear to originate from SpaceXSI, when they do not
             
         *   Accessing the Services through unauthorized automated or non-human means, whether through a bot, script, or otherwise
             
@@ -90,4 +90,4 @@ We report suspected child sexual abuse material to the National Center for Missi
 
 ### Report a violation
 
-You can report violative content directly from Grok by clicking/tapping the three dots and choosing "Report Issue". Alternatively, you can email SpaceXAI directly at [](mailto:support@x.ai)[support@x.ai](mailto:support@x.ai)
+You can report violative content directly from Grok by clicking/tapping the three dots and choosing "Report Issue". Alternatively, you can email SpaceXSI directly at [](mailto:support@x.ai)[support@x.ai](mailto:support@x.ai)
