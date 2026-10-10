@@ -1,4 +1,4 @@
-[**SpaceXAI Brand Guidelines**](#spacexai-brand-guidelines)
+[**SpaceXSI Brand Guidelines**](#spacexsi-brand-guidelines)
 ===========================================================
 
 _February 14, 2025_
@@ -6,12 +6,12 @@ _February 14, 2025_
 [**About**](#about)
 -------------------
 
-SpaceXAI, the developer of Grok, owns trademark rights, intellectual property rights, and branding rights in “SpaceXAI” and “Grok”, combinations of those terms, and logos. These guidelines explain how you may use our marks and logos as a user (and hopefully fan) of Grok. Note: SpaceXAI is a separate company from X (formerly Twitter).
+SpaceXSI, the developer of Grok, owns trademark rights, intellectual property rights, and branding rights in “SpaceXSI” and “Grok”, combinations of those terms, and logos. These guidelines explain how you may use our marks and logos as a user (and hopefully fan) of Grok. Note: SpaceXSI is a separate company from X (formerly Twitter).
 
 [**Content Attribution**](#content-attribution)
 -----------------------------------------------
 
-If you used Grok to generate text or images, please attribute them to SpaceXAI and Grok by displaying one of the following phrases in a legible and noticeable manner wherever the Grok-generated material is published or distributed:
+If you used Grok to generate text or images, please attribute them to SpaceXSI and Grok by displaying one of the following phrases in a legible and noticeable manner wherever the Grok-generated material is published or distributed:
 
 *   Written with Grok
 *   Created with Grok
@@ -19,22 +19,22 @@ If you used Grok to generate text or images, please attribute them to SpaceXAI a
 [**Press Releases**](#press-releases)
 -------------------------------------
 
-Please contact us at [legal@x.ai](mailto:legal@x.ai) before mentioning us in your press materials. We also ask that you identify SpaceXAI as a company working on building artificial intelligence to accelerate human scientific discovery, whose mission is to advance our collective understanding of the universe.
+Please contact us at [legal@x.ai](mailto:legal@x.ai) before mentioning us in your press materials. We also ask that you identify SpaceXSI as a company working on building artificial intelligence to accelerate human scientific discovery, whose mission is to advance our collective understanding of the universe.
 
 [**Usage Terms**](#usage-terms)
 -------------------------------
 
-“Marks” are anything that SpaceXAI uses to identify our goods or services, including our names, logos, icons, and brand design elements. If you use SpaceXAI’s Marks, you agree that SpaceXAI owns them and that any associated goodwill is ours. You may use SpaceXAI’s Marks only if you agree to the following terms:
+“Marks” are anything that SpaceXSI uses to identify our goods or services, including our names, logos, icons, and brand design elements. If you use SpaceXSI’s Marks, you agree that SpaceXSI owns them and that any associated goodwill is ours. You may use SpaceXSI’s Marks only if you agree to the following terms:
 
 ### [**Do:**](#do)
 
 *   Use our Marks only to accurately refer to us or our services.
-*   Follow and observe these SpaceXAI Brand Guidelines, other guidelines we issue, and any updates.
+*   Follow and observe these SpaceXSI Brand Guidelines, other guidelines we issue, and any updates.
 *   Make any changes to your use of our Marks that we may require after review.
 
 ### [**Don’t:**](#dont)
 
-*   Use our Marks in any way that is unrelated to us or that could misrepresent your relationship with SpaceXAI, mislead, or imply our endorsement, approval, or sponsorship of you or your goods or services.
+*   Use our Marks in any way that is unrelated to us or that could misrepresent your relationship with SpaceXSI, mislead, or imply our endorsement, approval, or sponsorship of you or your goods or services.
 *   Use our Marks in any app title, domain name, or the name of any product or service not made or provided by us.
 *   Add anything in close proximity to our Marks in a way that creates an impression of a new mark.
 *   Use our Marks in or as part of your marks.
