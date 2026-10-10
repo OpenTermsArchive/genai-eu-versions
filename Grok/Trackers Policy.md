@@ -1,24 +1,24 @@
-[SpaceXAI Cookie Policy](#spacexai-cookie-policy)
+[SpaceXSI Cookie Policy](#spacexsi-cookie-policy)
 =================================================
 
 _Effective: October 7, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-09-29))_
 
-This Cookie Policy describes what kinds of cookies and similar technologies SpaceXAI uses in connection with our Services (as defined in our [Privacy Policy](https://x.ai/legal/privacy-policy)).Please refer to our Privacy Policy to learn more about how we process your personal information.
+This Cookie Policy describes what kinds of cookies and similar technologies SpaceXSI uses in connection with our Services (as defined in our [Privacy Policy](https://x.ai/legal/privacy-policy)).Please refer to our Privacy Policy to learn more about how we process your personal information.
 
 [What are cookies?](#what-are-cookies)
 --------------------------------------
 
 Cookies are small text files that may be placed on your device when you interact with online services, including when you browse the web or use a web-enabled app. We also use local storage to save data on your device. Cookies help us to recognize you, customize or personalize your experience, and analyze the use of our Services to make it more useful to you.
 
-[Why does SpaceXAI use cookies?](#why-does-spacexai-use-cookies)
+[Why does SpaceXSI use cookies?](#why-does-spacexsi-use-cookies)
 ----------------------------------------------------------------
 
-SpaceXAI uses first-party and third-party cookies to provide you services and resources you may have requested. We currently classify these cookies in the following categories:
+SpaceXSI uses first-party and third-party cookies to provide you services and resources you may have requested. We currently classify these cookies in the following categories:
 
 *   **Essential Cookies** – used for providing our Services, applications, and other essential functionalities. You cannot disable essential cookies and tools, since they are required for our Services to function.
 *   **Non-Essential Cookies** – These cookies are not essential for our Services to function, but they enhance your experience and the performance of our Services. You can enable or disable them at any time. They include:
     *   **Performance Cookies** – used to count visitor traffic so that we can measure and improve the performance of our Services.
-    *   **Targeting Cookies** – used by us and our partners to track the effectiveness of specific ads on third-party properties through to SpaceXAI account sign ups and subscriptions. Our third-party advertising partners may use these cookies to show you relevant ads on other third-party websites and platforms. If you do not allow these cookies, you will experience less targeted advertising.
+    *   **Targeting Cookies** – used by us and our partners to track the effectiveness of specific ads on third-party properties through to SpaceXSI account sign ups and subscriptions. Our third-party advertising partners may use these cookies to show you relevant ads on other third-party websites and platforms. If you do not allow these cookies, you will experience less targeted advertising.
 
 You have control over the personal information you wish for us to collect through cookies and other tracking technologies and have the ability to choose your preferences with regard to our use of cookies and technologies in your interactions with our Services. Depending on your location, you may have the ability to adjust your preferences in a variety of ways.
 
@@ -45,6 +45,7 @@ Below is a list of cookies used on our Service:
 | xAI | docs\_session | Security | 1 day | docs.x.ai | Essential |
 | xAI | last-logged-in-with | Service Functionality | 90 days | accounts.x.ai | Essential |
 | xAI | oauth | Security | 10 min | .x.ai | Essential |
+| xAI | oauth\_link | Security | 1 hour | accounts.x.ai | Essential |
 | xAI | redirect | Login | 1 day | accounts.x.ai | Essential |
 | xAI | oauth\_fresh\_login | Login | 2 min | accounts.x.ai | Essential |
 | xAI | referrer | Service Functionality | 7 days | accounts.x.ai | Essential |
@@ -137,4 +138,4 @@ Below is a list of cookies used on our Service:
 
 ### Additional information
 
-You can send any questions about SpaceXAI's Cookies Policy to [](mailto:privacy@x.ai)[privacy@x.ai](mailto:privacy@x.ai)
+You can send any questions about SpaceXSI's Cookies Policy to [](mailto:privacy@x.ai)[privacy@x.ai](mailto:privacy@x.ai)
