@@ -1,7 +1,7 @@
 [SpaceXSI Privacy Policy](#spacexsi-privacy-policy)
 ===================================================
 
-_Effective: August 24, 2026 ([previous version](https://x.ai/legal/privacy-policy/previous-2026-04-04))_
+_Last Updated: October 11, 2026 ([previous version](https://x.ai/legal/privacy-policy/previous-2026-08-24))_
 
 At SpaceXAI LLC ("**SpaceXSI**", "**our**", "**us**" or "**we**"), we value your privacy and are committed to being fair, accountable, and transparent in how we handle your personal information. Our Privacy Policy outlines how we collect, use, and disclose your personal information when you use our websites and applications (the Grok mobile app ([iOS](https://apps.apple.com/app/grok/id6670324846) or [Android](https://play.google.com/store/apps/details?id=ai.x.grok)) or the [Grok.com](http://grok.com/) website), and other SpaceXSI services (our "**Service**"). It also describes your privacy rights.
 
@@ -17,8 +17,6 @@ SpaceXSI is a US-based company working on building artificial intelligence tools
 [**2\. Personal information we collect (Notice at collection)**](#2-personal-information-we-collect-notice-at-collection)
 -------------------------------------------------------------------------------------------------------------------------
 
-**We ask that you do NOT include personal information in your prompts and inputs into our Service; however, we cannot control what you provide to us.**
-
 We may collect personal information from you and about you. Some examples of the information we may collect, how we may collect it, how we may use it, and how we may disclose it are described below.
 
 *   **Account Data:** If you create an account with us, we collect your name, contact information, account credentials, and date of birth. Also, to access certain features of the Service, we will collect your date of birth before you may proceed. If you log into our Service using a third-party service, such as X, Google, or Apple, that third-party will send your information to us at your direction. For example, if you use your existing X credentials to log into a SpaceXSI mobile app or website, you may choose to direct X to share the following information with us: your X public profile (including profile image), X username, numeric X ID, your date of birth, whether you are subscribed to X Premium, and your Grok on X conversation history.
@@ -26,11 +24,12 @@ We may collect personal information from you and about you. Some examples of the
     *   How we may collect it: Directly from you or from a third-party (ex., X, Google, or Apple).
     *   How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.
     *   How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; to our related companies; and to third-parties with which you interact or share information.
-*   **Payment Data:** Where payment is required to access the Service (ex., if you are paying for a subscription), we may have a third-party process payment information, such as payment card information, and details regarding your transactions for us.
+*   **Payment Data:** Where payment is required to access the Service (ex., if you are paying for a subscription), or is otherwise used to make a purchase, we may, or a third-party may, have a third-party process payment information, such as payment card information, and details regarding your transactions for us.
     
     *   How we may collect it: Through a third-party processor (ex., Apple App Store, Google Play Store, or Stripe).
     *   How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to ensure the security and integrity of our Service; for legal purposes.
     *   How we may disclose it: To our contracted service providers; in connection with business transfers, and for legal purposes.
+    *   We cannot control what you provide us. You are responsible for all actions, including providing payment information and other actions, as if you had taken them yourself.
 *   **Communication Data:** If you communicate with us, such as by email, by our webpages, or on social media sites, we may collect personal information that you submit to us including your name, user name, email address, any other information you voluntarily choose to provide us, and the contents of messages you send.
     
     *   How we may collect it: Directly from you.
