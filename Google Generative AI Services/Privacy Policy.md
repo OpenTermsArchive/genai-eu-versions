@@ -795,7 +795,7 @@ _close_
 
 - - -
 
-### **Last updated:** September 24, 2026
+### **Last updated:** October 13, 2026
 
 Table of contents
 -----------------
@@ -840,9 +840,9 @@ Table of contents
         *   [What happens with my data that Gemini, Connected Apps, and other services exchange?](#data_exchange)
         *   [How can I allow Gemini to personalize my experience with my data from Connected Apps?](#app_data_personalization)
         *   [How is my data used to make calls & send messages with Connected Apps in Gemini?](#comms_ext)
-    *   **[Gemini Spark](#gemini_agent)**
-        *   [How does Gemini Spark use my data with the remote browser and remote computer?](#agent_browser_data)
-        *   [What happens when you turn off Gemini Spark?](#turn_off_spark)
+    *   **[Tasks in Gemini](#gemini_agent)**
+        *   [How does Gemini use my data with the remote browser and remote computer?](#agent_browser_data)
+        *   [What happens when you turn off task mode?](#turn_off_spark)
     *   **[Gemini Live](#gemini_live)**
         *   [How does Google work with Gemini Live data?](#live_data)
     *   **[Gemini in Chrome](#chrome)**
@@ -872,7 +872,7 @@ Table of contents
 Gemini Apps Privacy Notice
 --------------------------
 
-**Last updated:** June 29, 2026
+**Last updated:** October 13, 2026
 
 This notice supplements the Google [Privacy Policy](https://policies.google.com/privacy), and they explain how Google processes your data when you interact with Gemini, your personal AI assistant from Google, through the services listed [here](https://support.google.com/gemini?p=pn_gemini_apps) (“**Gemini Apps**” or “**Gemini**” for short) while signed in. The Google Privacy Policy explains how Google processes your data when you use Gemini while you’re signed out.
 
@@ -926,8 +926,8 @@ Human reviewers (including trained reviewers from our service providers) review 
 
 How Gemini Apps get help from Google services
 
-*   We rely on other Google services and infrastructure to provide Gemini Apps. For example, some Gemini responses are grounded on Search results. And when Gemini gets help from Google Assistant for certain quick voice actions, relevant Assistant settings apply.
-*   If you are 18 or older and upgrade to Gemini Apps, your calling or texting history may be imported from your Web & App Activity to Gemini Apps Activity in some regions. This helps improve your Gemini Apps experience, like contact suggestions. [Learn more](https://support.google.com/gemini?p=awb_opt_in).
+*   We rely on other Google services and infrastructure to provide Gemini Apps. For example, some Gemini responses are grounded on Search results. Gemini also relies on some Google settings, for example, Gemini can help you hands-free based on your “Hey Google” & Voice Match settings.
+*   If you are 18 or older and upgrade to Gemini Apps, your calling or texting history may be imported from your Web & App Activity or Search Services History to Gemini Apps Activity in some regions. This helps improve your Gemini Apps experience, like contact suggestions. [Learn more](https://support.google.com/gemini?p=awb_opt_in).
 
 How Gemini Apps work with Connected Apps
 
@@ -952,13 +952,13 @@ You can visit [your Google Account](https://account.google.com/) to manage your 
 *   Manage public links in [Your Public Links](https://gemini.google.com/sharing).
 *   Manage Gemini Apps’ access to other apps and data (including third-party services such as Model Context Protocol server tools) in [Connected Apps](https://support.google.com/gemini?p=pn_manage_ext) settings.
 *   Manage [info you have asked Gemini to save](https://gemini.google.com/saved-info).
-*   Manage your [Gemini Spark settings](https://gemini.google.com/gemini-spark).
+*   Manage your [Task settings](https://gemini.google.com/gemini-spark).
 *   Learn more about how to manage personalization features, including personalization with [Memory](https://support.google.com/gemini?p=pn_past_chats) and [Personal Intelligence](https://support.google.com/gemini?p=pn_pi_consent).
 *   You can use Gemini, hosted by the Google app, as your device assistant on Android. [Learn more](https://support.google.com/gemini?p=manage_app_permissions) about how to manage your Google app permissions (such as device location, microphone, notification permissions, and camera permissions).
 *   [Learn more](https://support.google.com/gemini?p=pn_mobile_app_settings) about how to manage your Gemini mobile app settings.
 *   [Learn more](https://support.google.com/gemini?p=pn_default_assistant) about how to set the Google app as the default digital assistant app.
 
-If you change your Gemini Apps settings, other Google settings won’t change. Those settings, like [Web & App Activity](https://support.google.com/gemini?p=gemini_pntos_waa) or [Location History](https://support.google.com/gemini?p=gemini_pntos_loc_hist), may keep saving location and other data as you use other Google services.
+If you change your Gemini Apps settings, other Google settings won’t change. Those settings, like [Search Services History](https://support.google.com/gemini?p=gemini_pntos_waa), [Web & App Activity](https://support.google.com/gemini?p=gemini_pntos_waa), or [Timeline](https://support.google.com/gemini?p=gemini_pntos_loc_hist), may keep saving location and other data as you use other Google services.
 
 How long we retain your data
 
@@ -979,7 +979,7 @@ You can [request](https://support.google.com/gemini?p=gemini_pntos_removal_reque
 Other things to know
 
 *   Gemini Apps are continuously evolving and may produce inaccurate or offensive information (including about people) that doesn’t represent Google’s views.
-*   Some Gemini Apps features are designed to help you complete tasks, like managing your Workspace content, interacting with websites, and helping you communicate with others. Take care when using these features since Gemini can make mistakes, like making purchases or sharing your data with third parties unexpectedly.
+*   Gemini Apps are designed to help you complete tasks, like managing your Workspace content, interacting with websites, and helping you communicate with others. Take care since Gemini can make mistakes, like making purchases or sharing your data with third parties unexpectedly.
 *   Supervise Gemini’s web browsing and tasks closely and interrupt if needed.
 *   Google does not monitor or secure data from custom third-party Connected Apps. Choosing to connect them may expose your data, passwords, devices, and accounts to unauthorized access.
 *   Don’t rely on Gemini Apps for diagnosis, treatment, medical advice, or legal, financial, or other professional help. Its output is for informational purposes only.
@@ -993,7 +993,7 @@ Please [respect others' rights](https://policies.google.com/terms/generative-ai/
 Privacy questions
 -----------------
 
-**Last updated:** September 24, 2026
+**Last updated:** October 13, 2026
 
 [Expand all](#privacy_questions&gemini_apps&right_to_object&legal_basis&ads&human_review&retention&feedback&keep_activity_setting&audio_live&saved_info&past_chats&signed_out&location_info&precise_location&assistant_data&mobile_permissions&uploaded_images&google_photos_content&data_exchange&app_data_personalization&comms_ext&agent_browser_data&turn_off_spark&live_data&chrome_data&mydata_screen_automation&mydata_agentic_calling&shopping_cart&shopping_data&gems_from_labs_data&import_chats&notebook_data&avatar_data&canvas_data&janus_stw&tos) [Collapse all](https://support.google.com/gemini/answer/13594961#privacy_questions)
 
@@ -1368,22 +1368,22 @@ Messages that you create and send with the Gemini app are not end-to-end-encrypt
 
 **Important:** Google Assistant settings, like Assistant on lock screen settings, do not apply to apps connected to Gemini.
 
-### Gemini Spark
+### Tasks in Gemini
 
-How does Gemini Spark use my data with the remote browser and remote computer?
+How does Gemini use my data with the remote browser and remote computer?
 
-When you use the beta Gemini Spark feature, Gemini may use a remote browser or remote computer to help complete your tasks and execute code. This feature is only available when [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) is on. [Learn more about Gemini Spark](https://support.google.com/gemini/answer/17094507).
+When you assign a task to Gemini, Gemini may use a remote browser or remote computer to help complete your tasks and execute code. This feature is only available when [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) is on, and your task activity is manageable in Gemini Apps Activity. [Learn more about Tasks in Gemini](https://support.google.com/gemini/answer/17094507) (formerly known as Spark).
 
-When you use the beta Gemini Spark feature on macOS, Gemini can also interact directly with local files you choose to add to your connected folders. For example, Gemini can edit and organize your local files for you. [Learn more about Gemini Spark on macOS](https://support.google.com/gemini/answer/17208717).
+When you assign Gemini a task using the Gemini app on macOS, Gemini can also interact directly with local files you choose to add to your connected folders. For example, Gemini can edit and organize your local files for you. [Learn more about Tasks in Gemini on macOS](https://support.google.com/gemini/answer/17208717).
 
 #### What data is processed
 
-When you use Spark, Gemini uses info from your tasks, schedules, skills, remote browser, remote computer, and any other available sources, like Connected Apps, connected folders, Personal Intelligence, and info from websites it interacts with, including those you are logged into.
+When you assign Gemini a task, Gemini uses info from your tasks, schedules, skills, remote browser, remote computer, and any other available sources, like Connected Apps, connected folders, Personal Intelligence, and info from websites it interacts with, including those you are logged into.
 
 *   **Remote browser:** Gemini processes information from your browser session, like cookies that contain your website authentication info, and page content.
-*   **Remote computer:** Gemini saves and executes .md files, code and other information related to your tasks. This saved information can include data you find sensitive from sources like Personal Intelligence and Connected Apps that Spark used to understand and process your tasks.
+*   **Remote computer:** Gemini saves and executes .md files, code, and other information related to your tasks. This saved information can include data you find sensitive from sources like Personal Intelligence and Connected Apps that Gemini used to understand and process your tasks.
 
-This data is used consistently with the [Gemini Apps Privacy Notice](https://support.google.com/gemini/answer/13594961?visit_id=639141982241045711-2517164401&p=privacy_help&rd=1#privacy_notice), including to make it easier for you to use the remote browser and remote computer in future chats. You can delete this data at any time in [your Gemini Spark settings](https://gemini.google.com/gemini-spark). 
+This data is used consistently with the [Gemini Apps Privacy Notice](#privacy_notice), including to make it easier for you to use the remote browser and remote computer in future chats. You can delete this data at any time in [your Task settings in Gemini](https://gemini.google.com/gemini-spark).
 
 #### What data is shared
 
@@ -1391,24 +1391,24 @@ To complete your tasks, including through your Connected Apps and the remote bro
 
 #### How to control & manage your data
 
-**Remote browser:** You can interrupt Gemini Spark's actions on the remote browser by selecting  Stop ![](//lh3.googleusercontent.com/oUuvfQv_WUbsvIhwd3LX03hooJJL-ES3IeYPU7vATeCq0K9v0fbhcwuFD4UsjNbIaDQ=h36) in the prompt text box or **Take Control** ![](//lh3.googleusercontent.com/l-2D5NJu8xBUbiDRvPA5bR7KBU9wRHG4PkUR-1k3NfCeai3PjncG4_1WFhgMpFwXIXE=h36) in the remote browser. [Learn how to take control of Gemini's browser](https://support.google.com/gemini/answer/16596215#monitor).
+**Remote browser:** You can interrupt Gemini’s actions on the remote browser by selecting Stop ![](//lh3.googleusercontent.com/oUuvfQv_WUbsvIhwd3LX03hooJJL-ES3IeYPU7vATeCq0K9v0fbhcwuFD4UsjNbIaDQ=h36) in the prompt text box or **Take Control** ![](//lh3.googleusercontent.com/l-2D5NJu8xBUbiDRvPA5bR7KBU9wRHG4PkUR-1k3NfCeai3PjncG4_1WFhgMpFwXIXE=h36) in the remote browser. [Learn how to take control of Gemini's browser](https://support.google.com/gemini/answer/16596215#monitor).
 
-You can also delete remote browser data in your [Gemini Spark settings](https://gemini.google.com/gemini-spark). This will sign you out of all sites in the remote browser.
+You can also delete remote browser data in [your Task settings](https://gemini.google.com/gemini-spark). This will sign you out of all sites in the remote browser.
 
-**Remote computer:** You can manage or clear your code execution history and files directly within your [Gemini Spark settings](https://gemini.google.com/gemini-spark).
+**Remote computer:** You can manage or clear your code execution history and files directly within [your Task settings](https://gemini.google.com/gemini-spark).
 
-What happens when you turn off Gemini Spark?
+What happens when you turn off task mode?
 
-**If you turn Gemini Spark off:**
+**If you turn off task mode:**
 
-*   Your [remote browser data and remote computer data](https://gemini.google.com/gemini-spark) is deleted
-*   Your schedules and tasks are paused and not deleted
-*   Your chats are not deleted but you can manage them anytime in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help)
-*   Gemini Spark on macOS will no longer have access to local files in your connected folders
+*   Your [remote browser data and remote computer data](https://gemini.google.com/gemini-spark) is deleted.
+*   Your schedules and tasks are paused and not deleted.
+*   Your chats are not deleted but you can manage them anytime in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help).
+*   Tasks in Gemini on macOS will no longer have access to local files in your connected folders.
 
-**If you turn Gemini Spark back on:**
+**If you turn task mode back on:**
 
-*   Gemini will automatically resume paused tasks and schedules 
+*   Gemini will automatically resume paused tasks and schedules.
 
 ### Gemini Live
 
