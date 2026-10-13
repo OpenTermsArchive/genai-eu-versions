@@ -1,7 +1,7 @@
 [SpaceXSI Cookie Policy](#spacexsi-cookie-policy)
 =================================================
 
-_Effective: October 7, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-09-29))_
+_Effective: October 12, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-10-07))_
 
 This Cookie Policy describes what kinds of cookies and similar technologies SpaceXSI uses in connection with our Services (as defined in our [Privacy Policy](https://x.ai/legal/privacy-policy)).Please refer to our Privacy Policy to learn more about how we process your personal information.
 
@@ -63,6 +63,8 @@ Below is a list of cookies used on our Service:
 | xAI | last-team-id | Service Functionality | 90 days | console.x.ai | Essential |
 | xAI | xai\_anon\_id | Consent Management | 2 years | .x.ai | Essential |
 | xAI | gtm\_test | Service Functionality | 7 days | accounts.x.ai | Essential |
+| xAI | \_\_Host-id-token-nonce | Security | 12 hours | grok.com | Essential |
+| Google (Sign-In) | g\_state | Service Functionality | 6 Months | grok.com | Essential |
 | OneTrust | OptanonConsent | Consent Management | 1 year | x.ai, accounts.x.ai, console.x.ai | Essential |
 | OneTrust | OptanonAlertBoxClosed | Consent Management | 1 year | x.ai, accounts.x.ai, console.x.ai | Essential |
 | Castle | \_\_cuid | Fraud Detection | 13 Months | accounts.x.ai, console.x.ai | Essential |
