@@ -3,7 +3,7 @@
 Terms of Service for consumers in the European Economic Area
 ============================================================
 
-Effective: August 7, 2026
+Effective: October 8, 2026
 
 Language DeutschEnglishEspañolFrançaisItalianoNederlandsPolskiSvenska
 
@@ -11,7 +11,7 @@ Language DeutschEnglishEspañolFrançaisItalianoNederlandsPolskiSvenska
 
 If you are a consumer residing outside the European Economic Area, the [Consumer Terms for the rest of the world](http://legal.mistral.ai/terms/row-consumer-terms) apply to you. If you are accessing the Mistral AI Products for business purposes, such as to integrate the Mistral AI Products with your own products or services that are distributed to third-party end users, please review our [Commercial Terms of Service](http://legal.mistral.ai/terms/commercial-terms-of-service).
 
-**Who we are and how to reach out to us.** The Mistral AI Products are provided by Mistral AI, a French simplified joint-stock company, incorporated in Paris under number 952 418 325, with VAT number FR95952418325, having its registered office at 15 rue des Halles, 75001 Paris, France (“**Mistral AI**” or “**us**”). You can contact us at any time by using the chatbot available [on our Help Center](https://help.mistral.ai/en/) or by writing to support@mistral.ai.
+**Who we are and how to reach out to us.** The Mistral AI Products are provided by Mistral AI, a French simplified joint-stock company, incorporated in Paris under number 952 418 325, with VAT number FR95952418325, having its registered office at 15 rue des Halles, 75001 Paris, France (“**Mistral AI**” or “**us**”). You can contact us at any time by using the chatbot available [on our Help Center](https://help.mistral.ai/en/) or by writing to [support@mistral.ai](mailto:support@mistral.ai).
 
 **Key points.** Before you read our terms, here are three (3) key points to have in mind:
 
@@ -29,7 +29,7 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 **Age requirements.** You must be at least thirteen (13) years old to use the Mistral AI Products. In addition, you must have parental or legal guardian permission, where required, if you are a minor creating a Mistral AI account or using the Mistral AI Products. We will delete any Mistral AI account found to violate these requirements.
 
-**Mistral AI accounts.** Some Mistral AI Products require a Mistral AI account. You must provide complete and accurate account information and promptly update your account if any of your information changes. Your account is intended for your individual use only, and you may not share your account with any other person. The creation or use of multiple Mistral AI accounts by a single individual is strictly prohibited, including to bypass rate limits or any other restrictions. You may not make your account credentials available to third parties, share individual login credentials between multiple users on an account, or resell or lease access to your account. You must promptly notify us at support@mistral.ai or through the [Help Center](https://help.mistral.ai/) in the event you detect any unauthorized or fraudulent access to or use of your account.
+**Mistral AI accounts.** Some Mistral AI Products require a Mistral AI account. You must provide complete and accurate account information and promptly update your account if any of your information changes. Your account is intended for your individual use only, and you may not share your account with any other person. The creation or use of multiple Mistral AI accounts by a single individual is strictly prohibited, including to bypass rate limits or any other restrictions. You may not make your account credentials available to third parties, share individual login credentials between multiple users on an account, or resell or lease access to your account. You must promptly notify us at [support@mistral.ai](mailto:support@mistral.ai) or through the [Help Center](https://help.mistral.ai/) in the event you detect any unauthorized or fraudulent access to or use of your account.
 
 2\. Subscribing to paid Mistral AI Products
 -------------------------------------------
@@ -77,9 +77,9 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 **Moderation.** We reserve the right to monitor your use of Mistral AI Products through automated means. This monitoring is conducted to ensure compliance with our terms and policies, including our Usage Policy, and to maintain the security and integrity of Mistral AI Products. We may also use automated means to review content, in accordance with Section 4 (Your Data).
 
-**Third-Party Connectors.** You may connect services not provided by Mistral AI (each, a “**Third-Party Connector**”), including Model Context Protocol Servers (“**MCP Servers**”), to Mistral AI Products. By enabling these connections, you grant us the permission to (a) access the Third-Party Connector, (b) send your Input to the Third-Party Connector, and (c) where applicable, execute actions upon your request, including to retrieve, process, store, execute, transmit, modify, delete, invoke, or otherwise act upon the necessary data to use content, systems, or resources in connection with generating Outputs or carrying out requested actions. You may only connect a Third-Party Connector to a Mistral AI Product if you have all necessary rights, licenses, and permissions to connect such Third-Party Connector to Mistral AI Products in accordance with these Terms. You are responsible for maintaining access to the Third-Party Connector for the duration of your subscription or your use of such features. Any use of a Third-Party Connector is subject to the respective terms and conditions for the Third-Party Connector, and you are solely responsible for complying with such terms and conditions, and for the actions you request from Mistral AI Products through your Input. You acknowledge that Third-Party Connectors are not Mistral AI Products and that Mistral AI is not responsible for any Third-Party Connector or your use of any Third-Party Connector, including any disruptions, data loss, or issues with Mistral AI Products arising from your use of the Third-Party Connector. Furthermore, if you use an MCP Server to connect a Mistral AI Product to a Third-Party Connector, you acknowledge that Mistral AI has no control over such third-party MCP Server and bears no responsibility for your use of such MCP Server, including any actions, executions, routing, modifications, accesses, storage, transfers, disclosures, corruption, or deletions of data, content, systems, resources, or environments performed by or through such MCP Server upon your request, or for how the MCP Server processes or interprets your Input. Third-Party Connectors may be incompatible with Mistral AI Products. You will find more details on the compatibility and interoperability of Mistral AI Products with Third-Party Connectors on our Help Center.
+**Third-Party Connectors.** You may connect services not provided by Mistral AI (each, a “**Third-Party Connector**”), including Model Context Protocol Servers (“**MCP Servers**”), to Mistral AI Products. By enabling these connections, you grant us the permission to (a) access the Third-Party Connector, (b) send your Input to the Third-Party Connector, and (c) where applicable, execute actions upon your request, including to retrieve, process, store, execute, transmit, modify, delete, invoke, or otherwise act upon the necessary data to use content, systems, or resources in connection with generating Outputs or carrying out requested actions. You may only connect a Third-Party Connector to a Mistral AI Product if you have all necessary rights, licenses, and permissions to connect such Third-Party Connector to Mistral AI Products in accordance with these Terms. You are responsible for maintaining access to the Third-Party Connector for the duration of your subscription or your use of such features. Any use of a Third-Party Connector is subject to the respective terms and conditions for the Third-Party Connector, and you are solely responsible for complying with such terms and conditions, and for the actions you request from Mistral AI Products through your Input. You acknowledge that Third-Party Connectors are not Mistral AI Products and that Mistral AI is not responsible for any Third-Party Connector or your use of any Third-Party Connector, including any disruptions, data loss, or issues with Mistral AI Products arising from your use of the Third-Party Connector. Furthermore, if you use an MCP Server to connect a Mistral AI Product to a Third-Party Connector, you acknowledge that Mistral AI has no control over such third-party MCP Server and bears no responsibility for your use of such MCP Server, including any actions, executions, routing, modifications, accesses, storage, transfers, disclosures, corruption, or deletions of data, content, systems, resources, or environments performed by or through such MCP Server upon your request, or for how the MCP Server processes or interprets your Input. Third-Party Connectors may be incompatible with Mistral AI Products. You will find more details on the compatibility and interoperability of Mistral AI Products with Third-Party Connectors in our documentation. Where a Mistral AI Product allows you to store usernames, passwords, API keys, access tokens, or other authentication information ("**Credentials**") for use by Mistral AI Products, including agents, the foregoing applies equally to such Credentials. In particular, you grant us permission to use your Credentials to connect to third-party services on your behalf, and you are solely responsible for the Credentials you add and for all actions taken using them at your request.
 
-**Third-Party Products.** Mistral AI Products may grant you access to products developed by third parties, such as third-party models ("**Third-Party Products**"). Third-Party Products do not constitute Mistral AI Products and are neither owned, developed, nor expressly warranted by Mistral AI. All right, title, and interest in and to each Third-Party Product remains with its respective licensors. To the extent allowed under applicable law, Third-Party Products are provided "as is" and "as available" under their respective licenses without any warranties beyond any legal guarantees that cannot be excluded under applicable consumer protection law. With respect to Output generated using a Third-Party Product, Mistral AI assigns to you all right, title, and interest, if any, that Mistral AI may have in and to such Output.
+**Third-Party Technologies.** Mistral AI Products may grant you access to technologies developed by third parties, such as third-party models ("**Third-Party Technologies**"). Third-Party Technologies do not constitute Mistral AI Products and are neither owned, developed, nor expressly warranted by Mistral AI. All right, title, and interest in and to each Third-Party Technologies remains with its respective licensors. To the extent allowed under applicable law, Third-Party Technologies are provided "as is" and "as available" under their respective licenses without any warranties beyond any legal guarantees that cannot be excluded under applicable consumer protection law. With respect to Output generated using Third-Party Technologies, Mistral AI assigns to you all right, title, and interest, if any, that Mistral AI may have in and to such Output.
 
 **Mandatory updates.** During the term of these Terms, we will notify you of any updates that you will need to install in order to continue using the Mistral AI Products, including to maintain compliance of the Mistral AI Products with these Terms (“**Mandatory Updates**”), and provide clear installation instructions when necessary. We will inform you of the availability of Mandatory Updates and any consequences of not installing them. We will not be liable for any issues with your use of the Mistral AI Products arising solely from your failure to install Mandatory Updates, unless such failure results from our breach of our obligations under these Terms and/or the applicable law.
 
@@ -140,7 +140,7 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 **Exportable data and digital assets.** You may export your data and digital assets via the export features provided on your Mistral AI Account, which include at least your Vibe conversations (prompts and outputs). Access to these export features enables you to complete the switching process in respect of such data and digital assets. In any case, data and digital assets that do not belong to you, such as our proprietary products, technologies, and data, do not constitute exportable data and digital assets.
 
-**Switching Request.** For any data and digital asset that is not included in the export features provided on your Mistral AI Account, you may exercise this right by writing to Mistral AI at support@mistral.ai with all information necessary to fulfil the request (the “Switching Request”). Please ensure to submit your Switching Request two (2) months before your planned switching date (the "Notice Period"), and you must inform us of your new service provider or on-premise infrastructure at least thirty (30) days before the end of the Notice Period.
+**Switching Request.** For any data and digital asset that is not included in the export features provided on your Mistral AI Account, you may exercise this right by writing to Mistral AI at [support@mistral.ai](mailto:support@mistral.ai) with all information necessary to fulfil the request (the “Switching Request”). Please ensure to submit your Switching Request two (2) months before your planned switching date (the "Notice Period"), and you must inform us of your new service provider or on-premise infrastructure at least thirty (30) days before the end of the Notice Period.
 
 **Transitional Period.** Assuming your Switching Request is complete, the switch will be completed within thirty (30) days following the end of the Notice Period (the “Transitional Period”), subject to any extension you or we may require.
 
@@ -159,7 +159,7 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 **Term.** These Terms govern your use of the Mistral AI Products and apply until terminated.
 
-**Termination or suspension.** We reserve the right to suspend or terminate your Mistral AI account and/or your access to all or part of the Mistral AI Products if: (a) you breach these Terms or the [Usage Policy](https://legal.mistral.ai/terms/usage-policy), (b) you fail to pay any fees when due, (c) we are required to comply with applicable law, or (d) your continued use of the Mistral AI Products could cause actual risk or harm to Mistral AI, our users, or anyone else. To the extent possible, we will notify you in advance and give you the opportunity to remedy the relevant breach. However, such notification is not provided if the breach requires the immediate termination of your access to the Mistral AI Products, or if the breach cannot be remedied. If you believe we have suspended or terminated your account in error, you can contact us via support@mistral.ai.
+**Termination or suspension.** We reserve the right to suspend or terminate your Mistral AI account and/or your access to all or part of the Mistral AI Products if: (a) you breach these Terms or the [Usage Policy](https://legal.mistral.ai/terms/usage-policy), (b) you fail to pay any fees when due, (c) we are required to comply with applicable law, or (d) your continued use of the Mistral AI Products could cause actual risk or harm to Mistral AI, our users, or anyone else. To the extent possible, we will notify you in advance and give you the opportunity to remedy the relevant breach. However, such notification is not provided if the breach requires the immediate termination of your access to the Mistral AI Products, or if the breach cannot be remedied. If you believe we have suspended or terminated your account in error, you can contact us via [support@mistral.ai](mailto:support@mistral.ai).
 
 **Requests to terminate.** You can delete your account or terminate these Terms at any time by using the feature available on your account or, if unavailable, via our Help Center accessible in your account.
 
@@ -175,7 +175,7 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 **Updates to these Terms.** We may update these Terms and our [Usage Policy](https://legal.mistral.ai/terms/usage-policy) from time to time. Some reasons for such changes may include changes to take into account new features or functionality, or changes to applicable law or regulatory requirements governing the Mistral AI Products or your use thereof.
 
-**Notice.** We will give you at least thirty (30) days’ advance notice of changes to these Terms that are expected to materially impact you, either via e-mail or an in-product notification. The applicable Terms are available at www.legal.mistral.ai/terms. If you do not agree to any changes, you can terminate these Terms at any time and must stop using our Mistral AI Products.
+**Notice.** We will give you at least thirty (30) days’ advance notice of changes to these Terms that are expected to materially impact you, either via e-mail or an in-product notification. The applicable Terms are available at [www.legal.mistral.ai/terms](https://www.legal.mistral.ai/terms). If you do not agree to any changes, you can terminate these Terms at any time and must stop using our Mistral AI Products.
 
 12\. Governing law and dispute resolution
 -----------------------------------------
@@ -186,7 +186,7 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 *   **By mail:** 39 avenue Franklin D. Roosevelt, 75008 Paris, France  
     
-*   **By e-mail:** cmap@cmap.fr  
+*   **By e-mail:** [cmap@cmap.fr](mailto:cmap@cmap.fr)  
     
 
 Participation in mediation is voluntary. Either party may withdraw from the process at any time, without prejudice to their legal rights.
@@ -226,7 +226,7 @@ Should you have any questions, comments, or feedback regarding these Terms or th
 
 **Address:** Mistral AI, 15 rue des Halles, 75001 Paris, France. 
 
-**E-mail:** support@mistral.ai
+**E-mail:** [support@mistral.ai](mailto:support@mistral.ai)
 
 **Help Center:** [Click here](https://help.mistral.ai/)
 
@@ -310,7 +310,7 @@ On this page
 Terms of Service for consumers in the European Economic Area
 ============================================================
 
-Effective: August 7, 2026
+Effective: October 8, 2026
 
 Language DeutschEnglishEspañolFrançaisItalianoNederlandsPolskiSvenska
 
@@ -318,7 +318,7 @@ Language DeutschEnglishEspañolFrançaisItalianoNederlandsPolskiSvenska
 
 If you are a consumer residing outside the European Economic Area, the [Consumer Terms for the rest of the world](http://legal.mistral.ai/terms/row-consumer-terms) apply to you. If you are accessing the Mistral AI Products for business purposes, such as to integrate the Mistral AI Products with your own products or services that are distributed to third-party end users, please review our [Commercial Terms of Service](http://legal.mistral.ai/terms/commercial-terms-of-service).
 
-**Who we are and how to reach out to us.** The Mistral AI Products are provided by Mistral AI, a French simplified joint-stock company, incorporated in Paris under number 952 418 325, with VAT number FR95952418325, having its registered office at 15 rue des Halles, 75001 Paris, France (“**Mistral AI**” or “**us**”). You can contact us at any time by using the chatbot available [on our Help Center](https://help.mistral.ai/en/) or by writing to support@mistral.ai.
+**Who we are and how to reach out to us.** The Mistral AI Products are provided by Mistral AI, a French simplified joint-stock company, incorporated in Paris under number 952 418 325, with VAT number FR95952418325, having its registered office at 15 rue des Halles, 75001 Paris, France (“**Mistral AI**” or “**us**”). You can contact us at any time by using the chatbot available [on our Help Center](https://help.mistral.ai/en/) or by writing to [support@mistral.ai](mailto:support@mistral.ai).
 
 **Key points.** Before you read our terms, here are three (3) key points to have in mind:
 
@@ -336,7 +336,7 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 **Age requirements.** You must be at least thirteen (13) years old to use the Mistral AI Products. In addition, you must have parental or legal guardian permission, where required, if you are a minor creating a Mistral AI account or using the Mistral AI Products. We will delete any Mistral AI account found to violate these requirements.
 
-**Mistral AI accounts.** Some Mistral AI Products require a Mistral AI account. You must provide complete and accurate account information and promptly update your account if any of your information changes. Your account is intended for your individual use only, and you may not share your account with any other person. The creation or use of multiple Mistral AI accounts by a single individual is strictly prohibited, including to bypass rate limits or any other restrictions. You may not make your account credentials available to third parties, share individual login credentials between multiple users on an account, or resell or lease access to your account. You must promptly notify us at support@mistral.ai or through the [Help Center](https://help.mistral.ai/) in the event you detect any unauthorized or fraudulent access to or use of your account.
+**Mistral AI accounts.** Some Mistral AI Products require a Mistral AI account. You must provide complete and accurate account information and promptly update your account if any of your information changes. Your account is intended for your individual use only, and you may not share your account with any other person. The creation or use of multiple Mistral AI accounts by a single individual is strictly prohibited, including to bypass rate limits or any other restrictions. You may not make your account credentials available to third parties, share individual login credentials between multiple users on an account, or resell or lease access to your account. You must promptly notify us at [support@mistral.ai](mailto:support@mistral.ai) or through the [Help Center](https://help.mistral.ai/) in the event you detect any unauthorized or fraudulent access to or use of your account.
 
 2\. Subscribing to paid Mistral AI Products
 -------------------------------------------
@@ -384,9 +384,9 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 **Moderation.** We reserve the right to monitor your use of Mistral AI Products through automated means. This monitoring is conducted to ensure compliance with our terms and policies, including our Usage Policy, and to maintain the security and integrity of Mistral AI Products. We may also use automated means to review content, in accordance with Section 4 (Your Data).
 
-**Third-Party Connectors.** You may connect services not provided by Mistral AI (each, a “**Third-Party Connector**”), including Model Context Protocol Servers (“**MCP Servers**”), to Mistral AI Products. By enabling these connections, you grant us the permission to (a) access the Third-Party Connector, (b) send your Input to the Third-Party Connector, and (c) where applicable, execute actions upon your request, including to retrieve, process, store, execute, transmit, modify, delete, invoke, or otherwise act upon the necessary data to use content, systems, or resources in connection with generating Outputs or carrying out requested actions. You may only connect a Third-Party Connector to a Mistral AI Product if you have all necessary rights, licenses, and permissions to connect such Third-Party Connector to Mistral AI Products in accordance with these Terms. You are responsible for maintaining access to the Third-Party Connector for the duration of your subscription or your use of such features. Any use of a Third-Party Connector is subject to the respective terms and conditions for the Third-Party Connector, and you are solely responsible for complying with such terms and conditions, and for the actions you request from Mistral AI Products through your Input. You acknowledge that Third-Party Connectors are not Mistral AI Products and that Mistral AI is not responsible for any Third-Party Connector or your use of any Third-Party Connector, including any disruptions, data loss, or issues with Mistral AI Products arising from your use of the Third-Party Connector. Furthermore, if you use an MCP Server to connect a Mistral AI Product to a Third-Party Connector, you acknowledge that Mistral AI has no control over such third-party MCP Server and bears no responsibility for your use of such MCP Server, including any actions, executions, routing, modifications, accesses, storage, transfers, disclosures, corruption, or deletions of data, content, systems, resources, or environments performed by or through such MCP Server upon your request, or for how the MCP Server processes or interprets your Input. Third-Party Connectors may be incompatible with Mistral AI Products. You will find more details on the compatibility and interoperability of Mistral AI Products with Third-Party Connectors on our Help Center.
+**Third-Party Connectors.** You may connect services not provided by Mistral AI (each, a “**Third-Party Connector**”), including Model Context Protocol Servers (“**MCP Servers**”), to Mistral AI Products. By enabling these connections, you grant us the permission to (a) access the Third-Party Connector, (b) send your Input to the Third-Party Connector, and (c) where applicable, execute actions upon your request, including to retrieve, process, store, execute, transmit, modify, delete, invoke, or otherwise act upon the necessary data to use content, systems, or resources in connection with generating Outputs or carrying out requested actions. You may only connect a Third-Party Connector to a Mistral AI Product if you have all necessary rights, licenses, and permissions to connect such Third-Party Connector to Mistral AI Products in accordance with these Terms. You are responsible for maintaining access to the Third-Party Connector for the duration of your subscription or your use of such features. Any use of a Third-Party Connector is subject to the respective terms and conditions for the Third-Party Connector, and you are solely responsible for complying with such terms and conditions, and for the actions you request from Mistral AI Products through your Input. You acknowledge that Third-Party Connectors are not Mistral AI Products and that Mistral AI is not responsible for any Third-Party Connector or your use of any Third-Party Connector, including any disruptions, data loss, or issues with Mistral AI Products arising from your use of the Third-Party Connector. Furthermore, if you use an MCP Server to connect a Mistral AI Product to a Third-Party Connector, you acknowledge that Mistral AI has no control over such third-party MCP Server and bears no responsibility for your use of such MCP Server, including any actions, executions, routing, modifications, accesses, storage, transfers, disclosures, corruption, or deletions of data, content, systems, resources, or environments performed by or through such MCP Server upon your request, or for how the MCP Server processes or interprets your Input. Third-Party Connectors may be incompatible with Mistral AI Products. You will find more details on the compatibility and interoperability of Mistral AI Products with Third-Party Connectors in our documentation. Where a Mistral AI Product allows you to store usernames, passwords, API keys, access tokens, or other authentication information ("**Credentials**") for use by Mistral AI Products, including agents, the foregoing applies equally to such Credentials. In particular, you grant us permission to use your Credentials to connect to third-party services on your behalf, and you are solely responsible for the Credentials you add and for all actions taken using them at your request.
 
-**Third-Party Products.** Mistral AI Products may grant you access to products developed by third parties, such as third-party models ("**Third-Party Products**"). Third-Party Products do not constitute Mistral AI Products and are neither owned, developed, nor expressly warranted by Mistral AI. All right, title, and interest in and to each Third-Party Product remains with its respective licensors. To the extent allowed under applicable law, Third-Party Products are provided "as is" and "as available" under their respective licenses without any warranties beyond any legal guarantees that cannot be excluded under applicable consumer protection law. With respect to Output generated using a Third-Party Product, Mistral AI assigns to you all right, title, and interest, if any, that Mistral AI may have in and to such Output.
+**Third-Party Technologies.** Mistral AI Products may grant you access to technologies developed by third parties, such as third-party models ("**Third-Party Technologies**"). Third-Party Technologies do not constitute Mistral AI Products and are neither owned, developed, nor expressly warranted by Mistral AI. All right, title, and interest in and to each Third-Party Technologies remains with its respective licensors. To the extent allowed under applicable law, Third-Party Technologies are provided "as is" and "as available" under their respective licenses without any warranties beyond any legal guarantees that cannot be excluded under applicable consumer protection law. With respect to Output generated using Third-Party Technologies, Mistral AI assigns to you all right, title, and interest, if any, that Mistral AI may have in and to such Output.
 
 **Mandatory updates.** During the term of these Terms, we will notify you of any updates that you will need to install in order to continue using the Mistral AI Products, including to maintain compliance of the Mistral AI Products with these Terms (“**Mandatory Updates**”), and provide clear installation instructions when necessary. We will inform you of the availability of Mandatory Updates and any consequences of not installing them. We will not be liable for any issues with your use of the Mistral AI Products arising solely from your failure to install Mandatory Updates, unless such failure results from our breach of our obligations under these Terms and/or the applicable law.
 
@@ -447,7 +447,7 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 **Exportable data and digital assets.** You may export your data and digital assets via the export features provided on your Mistral AI Account, which include at least your Vibe conversations (prompts and outputs). Access to these export features enables you to complete the switching process in respect of such data and digital assets. In any case, data and digital assets that do not belong to you, such as our proprietary products, technologies, and data, do not constitute exportable data and digital assets.
 
-**Switching Request.** For any data and digital asset that is not included in the export features provided on your Mistral AI Account, you may exercise this right by writing to Mistral AI at support@mistral.ai with all information necessary to fulfil the request (the “Switching Request”). Please ensure to submit your Switching Request two (2) months before your planned switching date (the "Notice Period"), and you must inform us of your new service provider or on-premise infrastructure at least thirty (30) days before the end of the Notice Period.
+**Switching Request.** For any data and digital asset that is not included in the export features provided on your Mistral AI Account, you may exercise this right by writing to Mistral AI at [support@mistral.ai](mailto:support@mistral.ai) with all information necessary to fulfil the request (the “Switching Request”). Please ensure to submit your Switching Request two (2) months before your planned switching date (the "Notice Period"), and you must inform us of your new service provider or on-premise infrastructure at least thirty (30) days before the end of the Notice Period.
 
 **Transitional Period.** Assuming your Switching Request is complete, the switch will be completed within thirty (30) days following the end of the Notice Period (the “Transitional Period”), subject to any extension you or we may require.
 
@@ -466,7 +466,7 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 **Term.** These Terms govern your use of the Mistral AI Products and apply until terminated.
 
-**Termination or suspension.** We reserve the right to suspend or terminate your Mistral AI account and/or your access to all or part of the Mistral AI Products if: (a) you breach these Terms or the [Usage Policy](https://legal.mistral.ai/terms/usage-policy), (b) you fail to pay any fees when due, (c) we are required to comply with applicable law, or (d) your continued use of the Mistral AI Products could cause actual risk or harm to Mistral AI, our users, or anyone else. To the extent possible, we will notify you in advance and give you the opportunity to remedy the relevant breach. However, such notification is not provided if the breach requires the immediate termination of your access to the Mistral AI Products, or if the breach cannot be remedied. If you believe we have suspended or terminated your account in error, you can contact us via support@mistral.ai.
+**Termination or suspension.** We reserve the right to suspend or terminate your Mistral AI account and/or your access to all or part of the Mistral AI Products if: (a) you breach these Terms or the [Usage Policy](https://legal.mistral.ai/terms/usage-policy), (b) you fail to pay any fees when due, (c) we are required to comply with applicable law, or (d) your continued use of the Mistral AI Products could cause actual risk or harm to Mistral AI, our users, or anyone else. To the extent possible, we will notify you in advance and give you the opportunity to remedy the relevant breach. However, such notification is not provided if the breach requires the immediate termination of your access to the Mistral AI Products, or if the breach cannot be remedied. If you believe we have suspended or terminated your account in error, you can contact us via [support@mistral.ai](mailto:support@mistral.ai).
 
 **Requests to terminate.** You can delete your account or terminate these Terms at any time by using the feature available on your account or, if unavailable, via our Help Center accessible in your account.
 
@@ -482,7 +482,7 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 **Updates to these Terms.** We may update these Terms and our [Usage Policy](https://legal.mistral.ai/terms/usage-policy) from time to time. Some reasons for such changes may include changes to take into account new features or functionality, or changes to applicable law or regulatory requirements governing the Mistral AI Products or your use thereof.
 
-**Notice.** We will give you at least thirty (30) days’ advance notice of changes to these Terms that are expected to materially impact you, either via e-mail or an in-product notification. The applicable Terms are available at www.legal.mistral.ai/terms. If you do not agree to any changes, you can terminate these Terms at any time and must stop using our Mistral AI Products.
+**Notice.** We will give you at least thirty (30) days’ advance notice of changes to these Terms that are expected to materially impact you, either via e-mail or an in-product notification. The applicable Terms are available at [www.legal.mistral.ai/terms](https://www.legal.mistral.ai/terms). If you do not agree to any changes, you can terminate these Terms at any time and must stop using our Mistral AI Products.
 
 12\. Governing law and dispute resolution
 -----------------------------------------
@@ -493,7 +493,7 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 *   **By mail:** 39 avenue Franklin D. Roosevelt, 75008 Paris, France  
     
-*   **By e-mail:** cmap@cmap.fr  
+*   **By e-mail:** [cmap@cmap.fr](mailto:cmap@cmap.fr)  
     
 
 Participation in mediation is voluntary. Either party may withdraw from the process at any time, without prejudice to their legal rights.
@@ -533,7 +533,7 @@ Should you have any questions, comments, or feedback regarding these Terms or th
 
 **Address:** Mistral AI, 15 rue des Halles, 75001 Paris, France. 
 
-**E-mail:** support@mistral.ai
+**E-mail:** [support@mistral.ai](mailto:support@mistral.ai)
 
 **Help Center:** [Click here](https://help.mistral.ai/)
 
@@ -614,11 +614,11 @@ Consumers residing in Belgium also benefit from the following legal guarantee fo
 Terms of Service for consumers in the European Economic Area
 ============================================================
 
-Effective: August 7, 2026
+Effective: October 8, 2026
 
 Language DeutschEnglishEspañolFrançaisItalianoNederlandsPolskiSvenska
 
-Effective: August 7, 2026
+Effective: October 8, 2026
 
 Language DeutschEnglishEspañolFrançaisItalianoNederlandsPolskiSvenska
 
@@ -628,7 +628,7 @@ Language DeutschEnglishEspañolFrançaisItalianoNederlandsPolskiSvenska
 
 If you are a consumer residing outside the European Economic Area, the [Consumer Terms for the rest of the world](http://legal.mistral.ai/terms/row-consumer-terms) apply to you. If you are accessing the Mistral AI Products for business purposes, such as to integrate the Mistral AI Products with your own products or services that are distributed to third-party end users, please review our [Commercial Terms of Service](http://legal.mistral.ai/terms/commercial-terms-of-service).
 
-**Who we are and how to reach out to us.** The Mistral AI Products are provided by Mistral AI, a French simplified joint-stock company, incorporated in Paris under number 952 418 325, with VAT number FR95952418325, having its registered office at 15 rue des Halles, 75001 Paris, France (“**Mistral AI**” or “**us**”). You can contact us at any time by using the chatbot available [on our Help Center](https://help.mistral.ai/en/) or by writing to support@mistral.ai.
+**Who we are and how to reach out to us.** The Mistral AI Products are provided by Mistral AI, a French simplified joint-stock company, incorporated in Paris under number 952 418 325, with VAT number FR95952418325, having its registered office at 15 rue des Halles, 75001 Paris, France (“**Mistral AI**” or “**us**”). You can contact us at any time by using the chatbot available [on our Help Center](https://help.mistral.ai/en/) or by writing to [support@mistral.ai](mailto:support@mistral.ai).
 
 **Key points.** Before you read our terms, here are three (3) key points to have in mind:
 
@@ -646,7 +646,7 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 **Age requirements.** You must be at least thirteen (13) years old to use the Mistral AI Products. In addition, you must have parental or legal guardian permission, where required, if you are a minor creating a Mistral AI account or using the Mistral AI Products. We will delete any Mistral AI account found to violate these requirements.
 
-**Mistral AI accounts.** Some Mistral AI Products require a Mistral AI account. You must provide complete and accurate account information and promptly update your account if any of your information changes. Your account is intended for your individual use only, and you may not share your account with any other person. The creation or use of multiple Mistral AI accounts by a single individual is strictly prohibited, including to bypass rate limits or any other restrictions. You may not make your account credentials available to third parties, share individual login credentials between multiple users on an account, or resell or lease access to your account. You must promptly notify us at support@mistral.ai or through the [Help Center](https://help.mistral.ai/) in the event you detect any unauthorized or fraudulent access to or use of your account.
+**Mistral AI accounts.** Some Mistral AI Products require a Mistral AI account. You must provide complete and accurate account information and promptly update your account if any of your information changes. Your account is intended for your individual use only, and you may not share your account with any other person. The creation or use of multiple Mistral AI accounts by a single individual is strictly prohibited, including to bypass rate limits or any other restrictions. You may not make your account credentials available to third parties, share individual login credentials between multiple users on an account, or resell or lease access to your account. You must promptly notify us at [support@mistral.ai](mailto:support@mistral.ai) or through the [Help Center](https://help.mistral.ai/) in the event you detect any unauthorized or fraudulent access to or use of your account.
 
 2\. Subscribing to paid Mistral AI Products
 -------------------------------------------
@@ -694,9 +694,9 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 **Moderation.** We reserve the right to monitor your use of Mistral AI Products through automated means. This monitoring is conducted to ensure compliance with our terms and policies, including our Usage Policy, and to maintain the security and integrity of Mistral AI Products. We may also use automated means to review content, in accordance with Section 4 (Your Data).
 
-**Third-Party Connectors.** You may connect services not provided by Mistral AI (each, a “**Third-Party Connector**”), including Model Context Protocol Servers (“**MCP Servers**”), to Mistral AI Products. By enabling these connections, you grant us the permission to (a) access the Third-Party Connector, (b) send your Input to the Third-Party Connector, and (c) where applicable, execute actions upon your request, including to retrieve, process, store, execute, transmit, modify, delete, invoke, or otherwise act upon the necessary data to use content, systems, or resources in connection with generating Outputs or carrying out requested actions. You may only connect a Third-Party Connector to a Mistral AI Product if you have all necessary rights, licenses, and permissions to connect such Third-Party Connector to Mistral AI Products in accordance with these Terms. You are responsible for maintaining access to the Third-Party Connector for the duration of your subscription or your use of such features. Any use of a Third-Party Connector is subject to the respective terms and conditions for the Third-Party Connector, and you are solely responsible for complying with such terms and conditions, and for the actions you request from Mistral AI Products through your Input. You acknowledge that Third-Party Connectors are not Mistral AI Products and that Mistral AI is not responsible for any Third-Party Connector or your use of any Third-Party Connector, including any disruptions, data loss, or issues with Mistral AI Products arising from your use of the Third-Party Connector. Furthermore, if you use an MCP Server to connect a Mistral AI Product to a Third-Party Connector, you acknowledge that Mistral AI has no control over such third-party MCP Server and bears no responsibility for your use of such MCP Server, including any actions, executions, routing, modifications, accesses, storage, transfers, disclosures, corruption, or deletions of data, content, systems, resources, or environments performed by or through such MCP Server upon your request, or for how the MCP Server processes or interprets your Input. Third-Party Connectors may be incompatible with Mistral AI Products. You will find more details on the compatibility and interoperability of Mistral AI Products with Third-Party Connectors on our Help Center.
+**Third-Party Connectors.** You may connect services not provided by Mistral AI (each, a “**Third-Party Connector**”), including Model Context Protocol Servers (“**MCP Servers**”), to Mistral AI Products. By enabling these connections, you grant us the permission to (a) access the Third-Party Connector, (b) send your Input to the Third-Party Connector, and (c) where applicable, execute actions upon your request, including to retrieve, process, store, execute, transmit, modify, delete, invoke, or otherwise act upon the necessary data to use content, systems, or resources in connection with generating Outputs or carrying out requested actions. You may only connect a Third-Party Connector to a Mistral AI Product if you have all necessary rights, licenses, and permissions to connect such Third-Party Connector to Mistral AI Products in accordance with these Terms. You are responsible for maintaining access to the Third-Party Connector for the duration of your subscription or your use of such features. Any use of a Third-Party Connector is subject to the respective terms and conditions for the Third-Party Connector, and you are solely responsible for complying with such terms and conditions, and for the actions you request from Mistral AI Products through your Input. You acknowledge that Third-Party Connectors are not Mistral AI Products and that Mistral AI is not responsible for any Third-Party Connector or your use of any Third-Party Connector, including any disruptions, data loss, or issues with Mistral AI Products arising from your use of the Third-Party Connector. Furthermore, if you use an MCP Server to connect a Mistral AI Product to a Third-Party Connector, you acknowledge that Mistral AI has no control over such third-party MCP Server and bears no responsibility for your use of such MCP Server, including any actions, executions, routing, modifications, accesses, storage, transfers, disclosures, corruption, or deletions of data, content, systems, resources, or environments performed by or through such MCP Server upon your request, or for how the MCP Server processes or interprets your Input. Third-Party Connectors may be incompatible with Mistral AI Products. You will find more details on the compatibility and interoperability of Mistral AI Products with Third-Party Connectors in our documentation. Where a Mistral AI Product allows you to store usernames, passwords, API keys, access tokens, or other authentication information ("**Credentials**") for use by Mistral AI Products, including agents, the foregoing applies equally to such Credentials. In particular, you grant us permission to use your Credentials to connect to third-party services on your behalf, and you are solely responsible for the Credentials you add and for all actions taken using them at your request.
 
-**Third-Party Products.** Mistral AI Products may grant you access to products developed by third parties, such as third-party models ("**Third-Party Products**"). Third-Party Products do not constitute Mistral AI Products and are neither owned, developed, nor expressly warranted by Mistral AI. All right, title, and interest in and to each Third-Party Product remains with its respective licensors. To the extent allowed under applicable law, Third-Party Products are provided "as is" and "as available" under their respective licenses without any warranties beyond any legal guarantees that cannot be excluded under applicable consumer protection law. With respect to Output generated using a Third-Party Product, Mistral AI assigns to you all right, title, and interest, if any, that Mistral AI may have in and to such Output.
+**Third-Party Technologies.** Mistral AI Products may grant you access to technologies developed by third parties, such as third-party models ("**Third-Party Technologies**"). Third-Party Technologies do not constitute Mistral AI Products and are neither owned, developed, nor expressly warranted by Mistral AI. All right, title, and interest in and to each Third-Party Technologies remains with its respective licensors. To the extent allowed under applicable law, Third-Party Technologies are provided "as is" and "as available" under their respective licenses without any warranties beyond any legal guarantees that cannot be excluded under applicable consumer protection law. With respect to Output generated using Third-Party Technologies, Mistral AI assigns to you all right, title, and interest, if any, that Mistral AI may have in and to such Output.
 
 **Mandatory updates.** During the term of these Terms, we will notify you of any updates that you will need to install in order to continue using the Mistral AI Products, including to maintain compliance of the Mistral AI Products with these Terms (“**Mandatory Updates**”), and provide clear installation instructions when necessary. We will inform you of the availability of Mandatory Updates and any consequences of not installing them. We will not be liable for any issues with your use of the Mistral AI Products arising solely from your failure to install Mandatory Updates, unless such failure results from our breach of our obligations under these Terms and/or the applicable law.
 
@@ -757,7 +757,7 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 **Exportable data and digital assets.** You may export your data and digital assets via the export features provided on your Mistral AI Account, which include at least your Vibe conversations (prompts and outputs). Access to these export features enables you to complete the switching process in respect of such data and digital assets. In any case, data and digital assets that do not belong to you, such as our proprietary products, technologies, and data, do not constitute exportable data and digital assets.
 
-**Switching Request.** For any data and digital asset that is not included in the export features provided on your Mistral AI Account, you may exercise this right by writing to Mistral AI at support@mistral.ai with all information necessary to fulfil the request (the “Switching Request”). Please ensure to submit your Switching Request two (2) months before your planned switching date (the "Notice Period"), and you must inform us of your new service provider or on-premise infrastructure at least thirty (30) days before the end of the Notice Period.
+**Switching Request.** For any data and digital asset that is not included in the export features provided on your Mistral AI Account, you may exercise this right by writing to Mistral AI at [support@mistral.ai](mailto:support@mistral.ai) with all information necessary to fulfil the request (the “Switching Request”). Please ensure to submit your Switching Request two (2) months before your planned switching date (the "Notice Period"), and you must inform us of your new service provider or on-premise infrastructure at least thirty (30) days before the end of the Notice Period.
 
 **Transitional Period.** Assuming your Switching Request is complete, the switch will be completed within thirty (30) days following the end of the Notice Period (the “Transitional Period”), subject to any extension you or we may require.
 
@@ -776,7 +776,7 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 **Term.** These Terms govern your use of the Mistral AI Products and apply until terminated.
 
-**Termination or suspension.** We reserve the right to suspend or terminate your Mistral AI account and/or your access to all or part of the Mistral AI Products if: (a) you breach these Terms or the [Usage Policy](https://legal.mistral.ai/terms/usage-policy), (b) you fail to pay any fees when due, (c) we are required to comply with applicable law, or (d) your continued use of the Mistral AI Products could cause actual risk or harm to Mistral AI, our users, or anyone else. To the extent possible, we will notify you in advance and give you the opportunity to remedy the relevant breach. However, such notification is not provided if the breach requires the immediate termination of your access to the Mistral AI Products, or if the breach cannot be remedied. If you believe we have suspended or terminated your account in error, you can contact us via support@mistral.ai.
+**Termination or suspension.** We reserve the right to suspend or terminate your Mistral AI account and/or your access to all or part of the Mistral AI Products if: (a) you breach these Terms or the [Usage Policy](https://legal.mistral.ai/terms/usage-policy), (b) you fail to pay any fees when due, (c) we are required to comply with applicable law, or (d) your continued use of the Mistral AI Products could cause actual risk or harm to Mistral AI, our users, or anyone else. To the extent possible, we will notify you in advance and give you the opportunity to remedy the relevant breach. However, such notification is not provided if the breach requires the immediate termination of your access to the Mistral AI Products, or if the breach cannot be remedied. If you believe we have suspended or terminated your account in error, you can contact us via [support@mistral.ai](mailto:support@mistral.ai).
 
 **Requests to terminate.** You can delete your account or terminate these Terms at any time by using the feature available on your account or, if unavailable, via our Help Center accessible in your account.
 
@@ -792,7 +792,7 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 **Updates to these Terms.** We may update these Terms and our [Usage Policy](https://legal.mistral.ai/terms/usage-policy) from time to time. Some reasons for such changes may include changes to take into account new features or functionality, or changes to applicable law or regulatory requirements governing the Mistral AI Products or your use thereof.
 
-**Notice.** We will give you at least thirty (30) days’ advance notice of changes to these Terms that are expected to materially impact you, either via e-mail or an in-product notification. The applicable Terms are available at www.legal.mistral.ai/terms. If you do not agree to any changes, you can terminate these Terms at any time and must stop using our Mistral AI Products.
+**Notice.** We will give you at least thirty (30) days’ advance notice of changes to these Terms that are expected to materially impact you, either via e-mail or an in-product notification. The applicable Terms are available at [www.legal.mistral.ai/terms](https://www.legal.mistral.ai/terms). If you do not agree to any changes, you can terminate these Terms at any time and must stop using our Mistral AI Products.
 
 12\. Governing law and dispute resolution
 -----------------------------------------
@@ -803,7 +803,7 @@ If you are a consumer residing outside the European Economic Area, the [Consumer
 
 *   **By mail:** 39 avenue Franklin D. Roosevelt, 75008 Paris, France  
     
-*   **By e-mail:** cmap@cmap.fr  
+*   **By e-mail:** [cmap@cmap.fr](mailto:cmap@cmap.fr)  
     
 
 Participation in mediation is voluntary. Either party may withdraw from the process at any time, without prejudice to their legal rights.
@@ -843,7 +843,7 @@ Should you have any questions, comments, or feedback regarding these Terms or th
 
 **Address:** Mistral AI, 15 rue des Halles, 75001 Paris, France. 
 
-**E-mail:** support@mistral.ai
+**E-mail:** [support@mistral.ai](mailto:support@mistral.ai)
 
 **Help Center:** [Click here](https://help.mistral.ai/)
 
@@ -926,68 +926,3 @@ On this page
 
 On this page
 ------------
-
-- - -
-
-*   Legal
-    
-
-Legal notice.
-=============
-
-Legal notice.
-
-Editor
-------
-
-In accordance with the provisions of article 6(I) (1) of law no. 2004-575 of 21 June 2004 on confidence in the digital economy, the publisher of the website [https://mistral.ai](https://mistral.ai/) is:
-
-Mistral, a simplified joint stock company with capital of EUR 15,000, listed on the Paris Trade and Companies Register (R.C.S.) under number 952 418 325, with registered offices at 15 RUE DES HALLES, 75001 PARIS, FRANCE.
-
-Contact email address: [contact@mistral.ai](mailto:contact@mistral.ai).
-
-Publication owner
------------------
-
-The publication director of the website at [https://mistral.ai/](https://mistral.ai/) is Arthur Mensch, Chief Executive Officer of Mistral.
-
-Hosting
--------
-
-The company tasked with hosting the [https://mistral.ai/](https://mistral.ai/) website is Netlify, Inc., located at 101 2nd Street, San Francisco, CA 94105. 
-
-`...::-=-.`  
-`..:::-----------*%%*-:`  
-`::---------------------*%%%%#`  
-`...:::-: -----------------------*%%%%#`  
-`...:::----------*%%=:. .-----------------------*%%%%#`  
-`::---------------------=%%%%%=------------------------*%%%%#`  
-`------------------------#%%%%*------------------------*%%%%#`  
-`========================+%%%%+========================*%%%%#`  
-`=========================%%%%=========================*%%%%#`  
-`=========================*%%#=========================*%%%%#`  
-`==========================%%+=========================*%%%%#`  
-`==========================#%==========================*%%%%#`  
-`==========================+#==========*===============*%%%%#`  
-`===========================+=========**===============*%%%%#`  
-`+++++++++++++++*=++++++++++=+++++++++#*+++++++++++++++#%%%%#`  
-`+++++++++++++++**++++++++++++++++++++%*+++++++++++++++#%%%%#`  
-`+++++++++++++++*#+++++++++++++++++++*%*+++++++++++++++#%%%%#`  
-`+++++++++++++++*%+++++++++++++++++++#%*+++++++++++++++#%%%%#`  
-`+++++++++++++++*%#++++++++++++++++++%%*+++++++++++++++#%%%%%`  
-`+++++++++++++++*%%+++++++++++++++++*%%*+++++++++++++++#%%%%%`  
-`+++++++++++++++#%%*++++++++++++++++#%%*+++++++++++++++#%%%%%`  
-`+**************#%%%+***************%%%****************#%%%%%`  
-`***************#%%%***************#%%%#***************#%%%%%`  
-`***************#%%%#**************%%%%#***************#%%%%%`  
-`***************#%%%%**************%%%%#***************#%%%%%`  
-`***************#%%%%#************#%%%%#********####%%%%%%%%%`  
-`***************#%%%%%***********+%%%%%%##%%%%%%%%%%%%%%%%%%%`  
-`***************#%%%%%*****#####%%%%%%%%%%%%%%%%%%%%%%%%%%%%%`  
-`***************#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%`  
-`******####%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%=+%%%%%%%`  
-`-*%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%* ..=#%#*`  
-`-*+%%%%%%%%%%%%%%%%%%%%%%%%%. -##%%%%%%%%%##*-`  
-`:==%%%%%%%%%%%%%%%%%%%%%% :++=-:..`  
-`.::#%%%%%%%%%%%%#*++=-`  
-`:**+==-:.`
