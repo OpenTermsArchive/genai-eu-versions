@@ -48,6 +48,7 @@ Below is a list of cookies used on our Service:
 | xAI | oauth\_link | Security | 1 hour | accounts.x.ai | Essential |
 | xAI | redirect | Login | 1 day | accounts.x.ai | Essential |
 | xAI | oauth\_fresh\_login | Login | 2 min | accounts.x.ai | Essential |
+| xAI | \_\_Host-ot\_bridge | Security | 1 day | accounts.x.ai | Essential |
 | xAI | referrer | Service Functionality | 7 days | accounts.x.ai | Essential |
 | xAI | referrer\_action | Service Functionality | 7 days | accounts.x.ai | Essential |
 | xAI | gb\_anon\_id | Service Functionality | 1 year | x.ai, accounts.x.ai, console.x.ai | Essential |
@@ -80,6 +81,7 @@ Below is a list of cookies used on our Service:
 | Hightouch | htjs\_sesh | Analytics | 1 year | .grok.com, x.ai | Non-Essential |
 | xAI | \_ca\_<key> | Advertising | 90 Days | .grok.com, x.ai | Non-Essential |
 | xAI | xai\_attr\_redirect | Analytics | 1 day | accounts.x.ai | Non-Essential |
+| xAI | xai\_analytics\_early\_start | Analytics | 10 min | x.ai | Non-Essential |
 | Braze | ab.storage.userId.<app-key> | Marketing | 13 Months | .x.ai | Non-Essential |
 | Braze | ab.storage.deviceId.<app-key> | Marketing | 13 Months | .x.ai | Non-Essential |
 | Braze | ab.storage.sessionId.<app-key> | Marketing | 13 Months | .x.ai | Non-Essential |
