@@ -799,7 +799,7 @@ _close_
 
 - - -
 
-### **Last updated:** October 13, 2026
+### **Last updated:** October 19, 2026
 
 Table of contents
 -----------------
@@ -997,7 +997,7 @@ Please [respect others' rights](https://policies.google.com/terms/generative-ai/
 Privacy questions
 -----------------
 
-**Last updated:** October 13, 2026
+**Last updated:** October 19, 2026
 
 [Expand all](#privacy_questions&gemini_apps&right_to_object&legal_basis&ads&human_review&retention&feedback&keep_activity_setting&audio_live&saved_info&past_chats&signed_out&location_info&precise_location&assistant_data&mobile_permissions&uploaded_images&google_photos_content&data_exchange&app_data_personalization&comms_ext&agent_browser_data&turn_off_spark&live_data&chrome_data&mydata_screen_automation&mydata_agentic_calling&shopping_cart&shopping_data&gems_from_labs_data&import_chats&notebook_data&avatar_data&canvas_data&janus_stw&tos) [Collapse all](https://support.google.com/gemini/answer/13594961#privacy_questions)
 
@@ -1129,7 +1129,7 @@ What does the Keep Activity setting control?
 
 ### If the [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) setting is on:
 
-Your chats and what you share with Gemini (like files, videos, screens, and photos) will be saved in your Activity.
+Your chats and what you share with Gemini (like [uploads](https://support.google.com/gemini/answer/14903178) and [screens](https://support.google.com/gemini/answer/15850607)) will be saved in your Activity.
 
 Your saved activity also includes audio, [Gemini Live videos and screenshares](https://support.google.com/gemini/answer/15274899#ss_vid), feedback, info from websites you visit with Gemini, product usage, and location info (including your device’s general location, IP address, or Home or Work addresses in your Google Account).
 
@@ -1155,7 +1155,7 @@ Your future chats won’t appear in your Activity, and won’t be used to train 
 
 *   If you delete your activity, past chats already reviewed by service providers aren’t deleted because they aren’t connected to your Google Account. Instead, they’re retained for up to 3 years.
 *   [Some Connected Apps](https://support.google.com/gemini/answer/13695044) are unavailable when this setting is off.
-*   Other settings like [Web & App Activity](https://support.google.com/websearch/answer/54068) or [Location History](https://support.google.com/accounts/answer/14200149) may continue to save location and other data as part of your use of other Google services.
+*   Other settings like [Search Services History](https://support.google.com/websearch/answer/54068) or [Timeline](https://support.google.com/accounts/answer/14200149) may continue to save location and other data as part of your use of other Google services.
 *   Turning off Keep Activity or deleting Gemini Apps activity doesn’t delete data in other Google services. Learn more about [how Google services retain data](https://policies.google.com/technologies/retention).
 *   Source files you add to your notebooks are saved in Gemini Notebook. [View the Privacy and Terms of Use for Gemini Notebook](https://support.google.com/gemininotebook/answer/17004255).
 *   Turning off Keep Activity or deleting Gemini Apps activity doesn’t impact [your remote browser and remote computer data and settings](https://gemini.google.com/gemini-spark). 
@@ -1190,7 +1190,7 @@ Your future audio and [Gemini Live videos and screenshares](https://support.goog
 #### **Keep in mind**
 
 *   Future audio and Gemini Live videos and screenshares will still be used to respond to you and help make Gemini safe.
-*   Transcripts of your Live chats in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) and any other content you share with Gemini Apps are covered by the [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) setting, which you can turn off anytime.
+*   Other activity, like transcripts of your Live chats and uploads you share with Gemini Live, are covered by the Keep Activity setting, which you can turn off anytime.
 *   This setting is separate from your settings in other services. For example, turning this off doesn't turn off the [Gemini for Home](https://home.google.com/get-inspired/bring-home-the-magic-of-gemini/) setting to improve Google services with voice, audio, and Gemini Live recordings. You can turn that setting off in your [Google Home History](https://myactivity.google.com/product/home?utm_source=help).
 
  How do I manage what Gemini remembers about me and customize my responses?
@@ -1422,13 +1422,13 @@ Recordings and transcripts of your interactions with Gemini Live, as well as oth
 
 If Keep Activity is off, your Gemini Live chats are stored in your Google Account for up to 72 hours so Google can provide the service and process any feedback. [Learn more](#retention).
 
-#### Gemini Live transcripts
+#### Gemini Live transcripts and uploads
 
-If [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) is on, transcripts of your Live chats are used to improve Google services, including AI models. [Learn more about your Keep Activity setting](#keep_activity_setting).
+If [Keep Activity](https://myactivity.google.com/product/gemini?utm_source=help) is on, transcripts of your Live chats and uploads you share with Gemini Live are used to improve Google services, including AI models. [Learn more about your Keep Activity setting](#keep_activity_setting).
 
 #### Gemini Live audio, videos & screenshares
 
-Your Gemini Live audio, [video and screenshares](https://support.google.com/gemini/answer/15274899#ss_vid) are not used to improve Google services by default. [Learn more about how to change this anytime](https://support.google.com/gemini/answer/13594961#audio_live).
+Your Gemini Live audio, [video and screenshares](https://support.google.com/gemini/answer/15274899#ss_vid) are not used to improve Google services by default. [Learn more about how to change this anytime](#audio_live).
 
 Please [respect others’ privacy](https://policies.google.com/terms/generative-ai/use-policy) and ask permission before you record or include them in a Live chat.
 
