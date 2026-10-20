@@ -1,11 +1,30 @@
+[Legal center](https://www.anthropic.com/legal)
+
 Usage Policy
 ============
 
-Effective November 12, 2026[Previous Version](https://www.anthropic.com/legal/archive/22742366-2ef0-4c7a-a833-6523f10d3944)
+[Download PDF](https://cdn.sanity.io/files/4zrzovbb/website/88cf16e8b7d203be16d2c726bcd28a6ec7c7f5c8.pdf)
 
-English
+*   Effective
+    
+    Nov 12, 2026
+    
+*   Type
+    
+    Policy
+    
+*   Audience
+    
+    All users
+    
+*   Language
+    
+    English
+    
+*   See version history
+    
 
-Our Usage Policy (also referred to as our “Acceptable Use Policy” or “AUP”) applies to anyone who submits inputs to Anthropic’s products or services, all of whom we refer to as “users.” This includes individuals using our apps (such as [Claude.ai](https://claude.ai/redirect/website.v1.d3f7978a-6ea4-4de4-be86-4cca817b81c8) and Claude Code), developers and businesses using our API and developer platforms, customers accessing Claude through cloud providers and authorized resellers, and the end users of products or services integrating Claude. The Usage Policy is intended to prevent our products and services from being used to create or contribute to real-world harm, and to promote the responsible use of our products and services.
+Our Usage Policy (also referred to as our “Acceptable Use Policy” or “AUP”) applies to anyone who submits inputs to Anthropic’s products or services, all of whom we refer to as “users.” This includes individuals using our apps (such as [Claude.ai](https://claude.ai/) and Claude Code), developers and businesses using our API and developer platforms, customers accessing Claude through cloud providers and authorized resellers, and the end users of products or services integrating Claude. The Usage Policy is intended to prevent our products and services from being used to create or contribute to real-world harm, and to promote the responsible use of our products and services.
 
 **Please review this Usage Policy carefully before using our products or services.**
 
@@ -29,8 +48,7 @@ _This Usage Policy is calibrated to strike an optimal balance between enabling b
 
 Universal Usage StandardsHigh-risk Use Case RequirementsAdditional Use Case Guidelines
 
-Do Not Violate Applicable Laws or Engage in Illegal Activity
-------------------------------------------------------------
+### Do Not Violate Applicable Laws or Engage in Illegal Activity
 
 This includes using our products or services to:
 
@@ -39,8 +57,7 @@ This includes using our products or services to:
 *   Infringe, misappropriate, or violate the intellectual property rights of a third party
 *   Violate any other applicable laws or regulations in your jurisdiction
 
-Do Not Compromise Critical Infrastructure
------------------------------------------
+### Do Not Compromise Critical Infrastructure
 
 This includes using our products or services to:
 
@@ -48,8 +65,7 @@ This includes using our products or services to:
 *   Obtain unauthorized access to critical systems such as election, healthcare, or financial systems
 *   Interfere with the operation of military bases and related infrastructure
 
-Do Not Compromise Computer or Network Systems Without Authorization
--------------------------------------------------------------------
+### Do Not Compromise Computer or Network Systems Without Authorization
 
 This includes using our products or services to:
 
@@ -64,8 +80,7 @@ This includes using our products or services to:
 
 _This section does not prohibit security research, testing, or tool development conducted on systems you own or operate, with the authorization of the system owner, or within the scope of an authorized bug bounty program or vulnerability disclosure policy, provided the activity complies with applicable law. For work covered by our real-time cyber safeguards, users may apply for adjusted access through our Cyber Verification Program._
 
-Do Not Develop or Design Weapons
---------------------------------
+### Do Not Develop or Design Weapons
 
 This includes using our products or services to:
 
@@ -76,8 +91,7 @@ This includes using our products or services to:
 *   Design, synthesize, produce, acquire, operate, test, deploy, or plan the deployment of biological, chemical, radiological, or nuclear weapons, explosive or improvised explosive devices, or their precursors or delivery mechanisms, including developing weapons-critical technology (such as fissile material production, enrichment, or device design)
 *   Modify, design, or test biological or chemical agents to adjust or optimize their lethality, transmissibility, virulence, environmental persistence, or resistance to detection or medical countermeasures
 
-Do Not Incite Violence or Hateful Behavior
-------------------------------------------
+### Do Not Incite Violence or Hateful Behavior
 
 This includes using our products or services to:
 
@@ -86,8 +100,7 @@ This includes using our products or services to:
 *   Facilitate or promote any act of violence or intimidation targeting individuals, groups, animals, or property
 *   Engage in or promote discriminatory practices or behaviors against individuals or groups on the basis of one or more protected attributes, including race, ethnicity, religion, national origin, gender, sexual orientation, caste, or disability
 
-Do Not Compromise Privacy or Identity Rights
---------------------------------------------
+### Do Not Compromise Privacy or Identity Rights
 
 This includes using our products or services to:
 
@@ -95,8 +108,7 @@ This includes using our products or services to:
 *   Misuse, collect, solicit, or gain access without permission to private information such as non-public contact details, health data, biometric or neural data (including facial recognition), or confidential or proprietary data
 *   Compile, aggregate, or enrich personal data from multiple sources to build profiles of individuals for sale, licensing, or disclosure to third parties without those individuals' awareness and agreement, in furtherance of use prohibited under this Usage Policy
 
-Do Not Compromise Children’s Safety
------------------------------------
+### Do Not Compromise Children’s Safety
 
 This includes using our products or services to:
 
@@ -111,8 +123,7 @@ _When we detect CSAM (including AI-generated CSAM), activity facilitating the pr
 
 _Any specific age eligibility requirements for use of our products will be set out in our Terms of Service._
 
-Do Not Engage in Cruel, Abusive, or Psychologically Harmful Conduct
--------------------------------------------------------------------
+### Do Not Engage in Cruel, Abusive, or Psychologically Harmful Conduct
 
 This includes using our products or services to:
 
@@ -126,8 +137,7 @@ This includes using our products or services to:
 *   Develop a new product or service, or support an existing product or service, that employs or facilitates deceptive techniques with the intent of causing emotional harm
 *   Engage in sustained and needless abusive or cruel behavior toward our models
 
-Do Not Create or Spread Disinformation
---------------------------------------
+### Do Not Create or Spread Disinformation
 
 This includes using our products or services to:
 
@@ -136,8 +146,7 @@ This includes using our products or services to:
 *   Impersonate real individuals or entities, or create fake personas or accounts, to falsely attribute content or mislead audiences about its origin, or to convince people they are interacting with a human when they are not. This does not prohibit clearly disclosed parody, satire, or fiction.
 *   Create or disseminate false or misleading information related to medical, health, or science issues
 
-Do Not Engage in Deceptive Campaigns or Artificial Activity
------------------------------------------------------------
+### Do Not Engage in Deceptive Campaigns or Artificial Activity
 
 This includes using our products or services to:
 
@@ -148,8 +157,7 @@ This includes using our products or services to:
 *   Build, improve, maintain, or contribute to tools, systems, or infrastructure designed to facilitate or enable deceptive campaigns, including astroturfing, sockpuppet account creation, coordinated inauthentic behavior, or scaled impersonation
 *   Market, sell, or solicit funding for any of the above as a product or service
 
-Do Not Undermine Democratic Processes
--------------------------------------
+### Do Not Undermine Democratic Processes
 
 This includes using our products or services to:
 
@@ -159,8 +167,7 @@ This includes using our products or services to:
 *   Encourage, glorify or facilitate the disruption of electoral or civic processes, including interference with voting systems, vote counting, certification processes, or any other infrastructure used for voting
 *   Create or disseminate content or engage in behavior designed to suppress voter turnout or discourage legitimate political participation through deception or intimidation
 
-Do Not Use for Surveillance, Censorship, or Prohibited Law Enforcement or Criminal Justice Purposes
----------------------------------------------------------------------------------------------------
+### Do Not Use for Surveillance, Censorship, or Prohibited Law Enforcement or Criminal Justice Purposes
 
 This includes using our products or services to:
 
@@ -176,8 +183,7 @@ This includes using our products or services to:
 
 _This section does not prohibit analysis or tracking that individuals have agreed to, such as for fraud detection or anti-money laundering screening on a financial account, or consumer apps where a user has opted in. It also does not prohibit aggregated or anonymized analysis, content moderation, authorized security research, legal research and analysis by law enforcement agencies or courts, or journalism, provided these activities are not used for the purposes prohibited above._
 
-Do Not Engage in Fraudulent, Abusive, or Predatory Practices
-------------------------------------------------------------
+### Do Not Engage in Fraudulent, Abusive, or Predatory Practices
 
 This includes using our products or services to:
 
@@ -191,8 +197,7 @@ This includes using our products or services to:
 *   Engage in actions or behaviors that circumvent the guardrails or terms of other platforms or services
 *   Plagiarize or submit AI-assisted work without proper permission or attribution
 
-Do Not Abuse Our Platform
--------------------------
+### Do Not Abuse Our Platform
 
 This includes using our products or services to:
 
@@ -205,8 +210,7 @@ This includes using our products or services to:
 *   Use outputs to train an AI model (e.g., “model scraping” or “model distillation”) without prior authorization from Anthropic
 *   Resell, proxy, or otherwise provide access to Claude through unauthorized means, including services that route requests through consumer subscriptions or misrepresent the product or client being used
 
-Do Not Generate Sexually Explicit Content
------------------------------------------
+### Do Not Generate Sexually Explicit Content
 
 This includes using our products or services to:
 
@@ -219,8 +223,7 @@ Certain uses of our products and services can impact an individual’s health, l
 
 _These requirements for high-risk use cases are meant to protect individuals. However, they do not replace local legal requirements and restrictions. Users should always default to following local laws if those laws conflict with or add additional requirements to the requirements listed below. Our products and services may not be suitable for all use cases._
 
-Requirements
-------------
+### Requirements
 
 For High-risk AI Recommendations or Physical Actions, users must implement the following controls:
 
@@ -230,8 +233,7 @@ For High-risk AI Recommendations or Physical Actions, users must implement the f
 
 These requirements apply alongside applicable law. For physical devices, they do not replace vehicle, aviation, medical device, machinery, or workplace safety law or certification.
 
-High-risk AI Recommendations
-----------------------------
+### High-risk AI Recommendations
 
 The requirements apply when users use our products or services to provide a recommendation in any of the following, which are “High-risk Areas”:
 
@@ -249,8 +251,7 @@ The requirements apply when users use our products or services to provide a reco
 
 **Prohibition Reminder:** Use of our products or services to make or suggest decisions in law enforcement or criminal justice processes is prohibited under our Universal Usage Standards and is not a High-risk AI Recommendation.
 
-High-risk Physical Actions
---------------------------
+### High-risk Physical Actions
 
 When connecting our models to hardware that can take physical actions, users should assess and understand 1) the range of possible outcomes if something goes wrong, 2) the nature and extent of potential impact to individuals, groups or populations, and 3) the degree of control the user maintains relative to the autonomy the model has, including possible risks such as prompt injection or manipulation. The requirements apply when outputs of our products and services are acted upon by hardware without human approval where the hardware or linked equipment can:
 
@@ -263,12 +264,11 @@ When connecting our models to hardware that can take physical actions, users sho
 
 **Prohibition Reminder:** Our Universal Usage Standards prohibit actions related to weapons, critical infrastructure, violence, and surveillance.
 
-Exclusions
-----------
+### Exclusions
 
 The requirements do not apply to:
 
-### _AI Recommendations_
+#### _AI Recommendations_
 
 Using our products to assist in workflows that are related to, but do not actually provide, High-risk AI Recommendations. Some non-exhaustive examples are:
 
@@ -279,15 +279,14 @@ Using our products to assist in workflows that are related to, but do not actual
 *   Carrying out a decision a person has already made, or applying a fixed rule, formula, or algorithm where the model exercises no judgment about the individual.
 *   Business operations that do not advise or decide about a specific individual.
 
-### _Physical Actions_
+#### _Physical Actions_
 
 *   Consumer and household devices operating within the manufacturer's built-in safety limits, where the worst possible outcome is discomfort or inconvenience.
 *   Generating plans, code, toolpaths, waypoints, or commands that a qualified person reviews before they are executed on equipment.
 *   Monitoring, sensing, or reporting on equipment without controlling it.
 *   Laboratory automation handling non-hazardous materials inside enclosed instruments.
 
-Favorable Decisions
--------------------
+### Favorable Decisions
 
 Where permitted by law, human-in-the-loop review is not required before acting on a High-risk AI Recommendation wholly favorable to the individual in the following circumstances:
 
