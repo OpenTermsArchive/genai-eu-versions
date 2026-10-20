@@ -5,9 +5,7 @@ Effective November 12, 2026[Previous Version](https://www.anthropic.com/legal/ar
 
 English
 
-[Download PDF version](https://www-cdn.anthropic.com/files/4zrzovbb/website/6ae2f5bb8675bcd9fac006125817ba1393b396e4.pdf)
-
-Our Usage Policy (also referred to as our “Acceptable Use Policy” or “AUP”) applies to anyone who submits inputs to Anthropic’s products or services, all of whom we refer to as “users.” This includes individuals using our apps (such as [Claude.ai](https://claude.ai/redirect/website.v1.27b290e2-5927-4117-9ed1-310483c18b29) and Claude Code), developers and businesses using our API and developer platforms, customers accessing Claude through cloud providers and authorized resellers, and the end users of products or services integrating Claude. The Usage Policy is intended to prevent our products and services from being used to create or contribute to real-world harm, and to promote the responsible use of our products and services.
+Our Usage Policy (also referred to as our “Acceptable Use Policy” or “AUP”) applies to anyone who submits inputs to Anthropic’s products or services, all of whom we refer to as “users.” This includes individuals using our apps (such as [Claude.ai](https://claude.ai/redirect/website.v1.d3f7978a-6ea4-4de4-be86-4cca817b81c8) and Claude Code), developers and businesses using our API and developer platforms, customers accessing Claude through cloud providers and authorized resellers, and the end users of products or services integrating Claude. The Usage Policy is intended to prevent our products and services from being used to create or contribute to real-world harm, and to promote the responsible use of our products and services.
 
 **Please review this Usage Policy carefully before using our products or services.**
 
