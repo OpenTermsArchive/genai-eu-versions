@@ -863,7 +863,7 @@ Table of contents
     *   **[Imported data from other AI platforms](#import)**
         *   [What happens to my data when I import memory or chats from other AI platforms?](#import_chats)
     *   **[Notebooks](#notebooks)**
-        *   [What happens to my data when when I use Notebooks in Gemini?](#notebook_data)
+        *   [What happens to my data when I use Notebooks in Gemini?](#notebook_data)
     *   **[Avatars](#avatar)**
         *   [What happens to my data when I create an avatar in Gemini Apps?](#avatar_data)
     *   **[Canvas](#canvas)**
@@ -1544,7 +1544,7 @@ You can also choose at any time to delete individual imported chats, or bulk del
 
 ### Notebooks
 
-What happens to my data when when I use Notebooks in Gemini?
+What happens to my data when I use Notebooks in Gemini?
 
 Chats with your Notebooks in Gemini are saved according to your [Keep Activity setting](https://myactivity.google.com/product/gemini?utm_source=gemini) and used as described in the [Gemini Apps Privacy Notice](https://support.google.com/gemini/answer/13594961?hl=en#privacy_notice), including to improve Gemini with the help of human reviewers. Files you add to your Notebook as a source in Gemini are not used directly for training our generative AI models.
 
