@@ -1,9 +1,15 @@
+### Section 01: Universal Usage Standards
+
 [Legal center](https://www.anthropic.com/legal)
 
 Usage Policy
 ============
 
 [Download PDF](https://cdn.sanity.io/files/4zrzovbb/website/88cf16e8b7d203be16d2c726bcd28a6ec7c7f5c8.pdf)
+
+*   [01Universal Usage Standards](#universal-usage-standards)
+*   [02High-risk Use Case Requirements](#high-risk-use-case-requirements)
+*   [03Additional Use Case Guidelines](#additional-use-case-guidelines)
 
 *   Effective
     
@@ -46,7 +52,8 @@ If you believe that our model outputs are potentially inaccurate, biased, or har
 
 _This Usage Policy is calibrated to strike an optimal balance between enabling beneficial uses and mitigating potential harms. Anthropic may enter into contracts with certain governmental customers that tailor use restrictions to that customer’s public mission and legal authorities if, in Anthropic’s judgment, the contractual use restrictions and applicable safeguards are adequate to mitigate the potential harms addressed by this Usage Policy._
 
-Universal Usage StandardsHigh-risk Use Case RequirementsAdditional Use Case Guidelines
+Universal Usage Standards
+-------------------------
 
 ### Do Not Violate Applicable Laws or Engage in Illegal Activity
 
@@ -219,6 +226,9 @@ This includes using our products or services to:
 *   Facilitate, promote, or depict incest or bestiality
 *   Engage in erotic chats
 
+High-risk Use Case Requirements
+-------------------------------
+
 Certain uses of our products and services can impact an individual’s health, legal rights, finances, livelihoods, or access to housing, education, or essential services. When our products are used for these high-risk use cases, we require that a qualified person remain accountable for what is delivered or decided, and that the impacted individual knows AI was involved in the advice or decision. These requirements apply to anyone who uses our products to make a High-risk AI Recommendation or control equipment capable of High-risk Physical Actions.
 
 _These requirements for high-risk use cases are meant to protect individuals. However, they do not replace local legal requirements and restrictions. Users should always default to following local laws if those laws conflict with or add additional requirements to the requirements listed below. Our products and services may not be suitable for all use cases._
@@ -296,6 +306,9 @@ Where permitted by law, human-in-the-loop review is not required before acting o
 *   Granting or continuing a public benefit or service.
 
 Additional legal obligations such as disclosure may still apply. A partial approval, reduced amount, or approval with conditions is not considered “wholly favorable.”
+
+Additional Use Case Guidelines
+------------------------------
 
 The below use cases — regardless of whether they involve High-risk AI Recommendations or Physical Actions — must comply with the additional guidelines provided.
 
