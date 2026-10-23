@@ -799,7 +799,7 @@ _close_
 
 - - -
 
-### **Last updated:** October 19, 2026
+### **Last updated:** October 23, 2026
 
 Table of contents
 -----------------
@@ -828,6 +828,7 @@ Table of contents
         *   [How long does Google retain my temporary chats and chats I have when Keep Activity is off, and what does Google do with this data?](#retention)
         *   [How does Google use my feedback?](#feedback)
         *   [What does the Keep Activity setting control?](#keep_activity_setting)
+        *   [What does the Memory summary setting control?](#memory_summary_setting)
         *   [How can I control whether Google uses my audio and Gemini Live videos & screenshares to improve its services?](#audio_live)
         *    [How do I manage what Gemini remembers about me and customize my responses?](#saved_info)
         *   [How can I control whether Gemini Apps use my past chats to personalize my experience?](#past_chats)
@@ -837,6 +838,7 @@ Table of contents
         *   [How do I know if Gemini Apps have access to and are using my precise location?](#precise_location)
         *   [Where is my data saved when Gemini and Google Assistant work together?](#assistant_data)
         *   [How do I manage my mobile permissions when Gemini is my device assistant?](#mobile_permissions)
+        *   [What do the browser & app permission choices mean?](#browser_app_permissions)
     *   **[Uploads](#files)**
         *   [How does Google work with my uploaded images?](#uploaded_images)
         *   [What happens when I share a photo or video from a media gallery connected app with Gemini Apps?](#google_photos_content)
@@ -997,7 +999,7 @@ Please [respect others' rights](https://policies.google.com/terms/generative-ai/
 Privacy questions
 -----------------
 
-**Last updated:** October 19, 2026
+**Last updated:** October 23, 2026
 
 [Expand all](#privacy_questions&gemini_apps&right_to_object&legal_basis&ads&human_review&retention&feedback&keep_activity_setting&audio_live&saved_info&past_chats&signed_out&location_info&precise_location&assistant_data&mobile_permissions&uploaded_images&google_photos_content&data_exchange&app_data_personalization&comms_ext&agent_browser_data&turn_off_spark&live_data&chrome_data&mydata_screen_automation&mydata_agentic_calling&shopping_cart&shopping_data&gems_from_labs_data&import_chats&notebook_data&avatar_data&canvas_data&janus_stw&tos) [Collapse all](https://support.google.com/gemini/answer/13594961#privacy_questions)
 
@@ -1162,6 +1164,15 @@ Your future chats won’t appear in your Activity, and won’t be used to train 
 
 You can [manage this setting](https://support.google.com/gemini/answer/13278892) anytime.
 
+What does the Memory summary setting control?
+
+Depending on eligibility and your settings, you can use memory summary to view, edit, and delete what Gemini Apps understands about you. Memory Summary helps make sure that Gemini Apps responses are accurate and relevant for you.
+
+**You’re in control**
+
+You control the contents of your memory summary. You can add new details, fix inaccuracies, or delete information you no longer want saved. You can also turn memory Summary on or off at any time.  
+You can access your memory summary at any time in [your settings](https://gemini.google.com/personalization-settings). You can also view your memory summary with the prompt, "What do you know about me?".
+
 How can I control whether Google uses my audio and Gemini Live videos & screenshares to improve its services?
 
 You can choose to let Google use your audio and Gemini Live videos and screenshares to improve its services for everyone in [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help).
@@ -1284,6 +1295,12 @@ Gemini is hosted by the Google app, even if you download the [Gemini app](https:
 1.  Touch and hold the Google app ![Google Search](//lh3.googleusercontent.com/s_7kUUQAXJiDehL4a8-hrwl52CJpTplSfofTdWjNwLpcw32vltmHihUvo7cj0WVkQyw6=w36-h36).
 2.  Tap **App Info** ![and then](//lh3.googleusercontent.com/3_l97rr0GvhSP2XV5OoCkV2ZDTIisAOczrSdzNCBxhIKWrjXjHucxNwocghoUa39gw=h36) **Permissions**.
 3.  To change a permission setting, tap it, then choose **Allow** or **Don’t allow**.
+
+What do the browser & app permission choices mean?
+
+#### Your choices
+
+You can control how often Gemini asks for your permission before taking actions. Choose the setting that fits your comfort level: “Don’t allow,” “Allow once,” “Allow for this chat,” and “Always allow.” You can change them any time. [Learn how to manage and control your permission settings](https://support.google.com/gemini/answer/18766567#connected_apps_permissions).
 
 ### Uploads
 
