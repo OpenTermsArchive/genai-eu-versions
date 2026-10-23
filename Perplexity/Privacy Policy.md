@@ -1,7 +1,7 @@
 Perplexity Privacy Notice
 =========================
 
-Last updated: October 19, 2026
+Last updated: October 23, 2026
 
 This Privacy Notice (“Notice”) applies to personal data Perplexity AI, Inc. and its affiliates (collectively, “Perplexity,” “we,” “us,” or “our”) collects through our websites, the Comet browser, mobile applications (the “app”), and other services (the “services”). This notice does not apply to data collected through Perplexity’s [Enterprise](https://www.perplexity.ai/enterprise/home) and [API](https://docs.perplexity.ai/docs/resources/privacy-security) offerings where we act as a service provider or processor with regard to the data collected through those systems.
 
@@ -156,15 +156,45 @@ We may change our Notice and privacy practices. New notices will be published on
 
 Our websites and online services are not meant for children under 13 years old, and we do not knowingly collect personal data from children under age 16 without parental consent. Children under 13 should not give us their personal data.
 
-**Contact Information**
+**Data Subject Rights Contact Information**
 
-To submit a data privacy request directly to Perplexity, please use [this form](https://perplexity.typeform.com/datarequest).
+To submit a data privacy request directly to Perplexity, you can make your request in one of these ways:
 
-If you have questions, comments, or complaints on our privacy practices, or if you need to access this Notice in a different form due to a disability, please contact us. We will try to address your requests and provide you with additional privacy-related information. Email us at: [support@perplexity.ai](mailto:support@perplexity.ai)
+**Option 1: Use self-service for data export or deletion (recommended)**
 
-VeraSafe has been appointed as our representative in the European Union and the United Kingdom for data protection matters, pursuant to Article 27 of the General Data Protection Regulation. If you are in [the European Economic Area](https://verasafe.com/public-resources/eea-members/) or the United Kingdom, VeraSafe can be contacted in addition to or instead of us on matters related to the processing of personal data.
+You can export or delete your data yourself from your account settings.
 
-To contact VeraSafe regarding such matters, please use [this form](https://verasafe.com/public-resources/contact-data-protection-representative) or the following contact details:
+**To export your data**:
+
+1.  Sign in to your Perplexity account on the website.
+2.  Go to [https://www.perplexity.ai/account/details](https://www.perplexity.ai/account/details).
+3.  Click **Export my data**.
+4.  You will receive an email with a link to download your data.
+
+**To delete your account and data**:
+
+Important: Please cancel any active subscription before you delete your account, so you are not charged after deletion.
+
+1.  Sign in to your Perplexity account.
+2.  Go to [https://www.perplexity.ai/account/details](https://www.perplexity.ai/account/details), or click the bottom-left corner and select **My Account**.
+3.  Scroll to the bottom of the page and select **Delete account** / **Learn more**.
+4.  Read the information in the pop-up window and confirm the deletion.
+
+**Option 2: Submit the Data Request Form**
+
+You may also submit a privacy request to our team using our Data Request Form: [https://perplexity.typeform.com/datarequest](https://perplexity.typeform.com/datarequest)
+
+**Other Inquiries**
+
+If you have questions, comments, or complaints on our privacy practices, or if you need to access this Notice in a different form due to a disability, please contact us through the [Perplexity Help Center](https://www.perplexity.ai/help-center) or Perplexity Support. We will try to address your requests and provide you with additional privacy-related information.
+
+**Article 27 Representative and DPO**
+
+VeraSafe has been appointed as our representative in the European Union and the United Kingdom for data protection matters, pursuant to Article 27 of the General Data Protection Regulation (“GDPR”). If you are in [the European Economic Area](https://verasafe.com/public-resources/eea-members/) or the United Kingdom, VeraSafe can be contacted on matters related to the processing of personal data.
+
+Perplexity AI, Inc. is the controller of the data processed by Perplexity when you use Perplexity’s services globally. Perplexity is the right contact for data privacy requests, using the Contact Information for Perplexity listed above.
+
+For matters under Article 27 of the GDPR, VeraSafe’s contact information is as follows:
 
 For EU inquiries:
 
@@ -215,3 +245,5 @@ Ireland
 experts@verasafe.com
 
 If you are not satisfied with our response and are in [the European Economic Area](https://verasafe.com/public-resources/eea-members/) or the United Kingdom, you may have a right to lodge a complaint with your local supervisory authority.
+
+If you represent a regulatory agency or law enforcement and you need to contact Perplexity directly, please use [this form](https://perplexity.typeform.com/gov-inquiries) to contact us.
