@@ -1,7 +1,3 @@
-[**We recently updated our consumer Privacy Notice.**](https://www.perplexity.ai/hub/legal/privacy-notice)
-
-We added more detail about cookies, first-party advertising measurement, and your privacy choices. We also clarified that we do not sell your personal data or send your queries, prompts, or conversation content to advertisers.
-
 Perplexity Terms of Service
 ===========================
 
