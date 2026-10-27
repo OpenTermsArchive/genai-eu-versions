@@ -836,7 +836,6 @@ Table of contents
     *   **[Location & other permissions information](#location)**
         *   [What location information do Gemini Apps collect, why, and how is it used?](#location_info)
         *   [How do I know if Gemini Apps have access to and are using my precise location?](#precise_location)
-        *   [Where is my data saved when Gemini and Google Assistant work together?](#assistant_data)
         *   [How do I manage my mobile permissions when Gemini is my device assistant?](#mobile_permissions)
         *   [What do the browser & app permission choices mean?](#browser_app_permissions)
     *   **[Uploads](#files)**
@@ -867,7 +866,10 @@ Table of contents
     *   **[Notebooks](#notebooks)**
         *   [What happens to my data when I use Notebooks in Gemini?](#notebook_data)
     *   **[Avatars](#avatar)**
+        
         *   [What happens to my data when I create an avatar in Gemini Apps?](#avatar_data)
+        
+        *   [What happens to my data when I share my avatar with other users?](#share_avatar)
     *   **[Canvas](#canvas)**
         *   [What happens to my data when I interact with Canvas web apps?](#canvas_data)
     *   [**Gemini on macOS**](https://support.google.com/gemini/answer/13594961#janus_stw)
@@ -1011,13 +1013,14 @@ The Gemini Apps referred to in the [Gemini Apps Privacy Notice](https://support.
 
 *   The Gemini web app available through [gemini.google.com](https://gemini.google.com/) and browser sidebars.
 *   The Gemini mobile apps, which include:
-    *   The [Gemini app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard), including [as your default digital assistant](https://support.google.com/gemini/answer/14554984), on Android. Note that Gemini is hosted by the Google app, even if you download [the Gemini app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard) ![](//lh3.googleusercontent.com/fqTyQSL82VVyKSP-iEDozGBeOLhGbqzKchkmp14SzSXMIoZnpoMTpO8vrGPx7AnbdxY2=h36).
+    *   The [Gemini app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard), including [as your default digital assistant](https://support.google.com/gemini/answer/14554984), on Android phones and paired devices. Note that Gemini is hosted by the Google app, even if you download [the Gemini app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard) ![](//lh3.googleusercontent.com/fqTyQSL82VVyKSP-iEDozGBeOLhGbqzKchkmp14SzSXMIoZnpoMTpO8vrGPx7AnbdxY2=h36).
     *   The [Gemini app](https://apps.apple.com/us/app/google-gemini/id6477489729) on iOS.
-*   Gemini app on MacOS
+*   Gemini app on MacOS.
 *   Gemini in the Google Messages app in [specific locations](https://support.google.com/gemini/answer/14599070#countries).
-*   Gemini in Android Auto
-*   Gemini in [Google Built-in](https://support.google.com/built-in/answer/16518944)
-*   Gemini in Maps
+*   Gemini in Android Auto.
+*   Gemini in [Google Built-in](https://support.google.com/built-in/answer/16518944).
+*   Gemini on Google TV on [devices updated to the new Gemini experience](https://support.google.com/googletv/answer/16522213).
+*   Gemini in Navigation.
 *   The [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome) feature. [Learn more about availability](https://support.google.com/gemini/answer/16283624).
 *   Gemini on Android XR.
 
@@ -1278,13 +1281,6 @@ Gemini may receive your precise location data from another Google service, like 
 Gemini in Google Messages does not have access to your precise location. [Learn where Gemini in Google Messages is available](https://support.google.com/gemini/answer/14599070#countries).
 
 Learn more [about your location and how to manage it](https://support.google.com/websearch/answer/179386).
-
-Where is my data saved when Gemini and Google Assistant work together?
-
-When Gemini and Google Assistant work together within your Gemini mobile app, your activity is saved in your [Gemini Apps Activity](https://myactivity.google.com/product/gemini?utm_source=help) (if Keep Activity is on) and used as described in the [Gemini Apps Privacy Notice](#privacy_notice). When Google Assistant powers features or devices outside of your Gemini mobile app, your activity is saved in your [Web & App Activity](https://myactivity.google.com/myactivity?utm_source=help) (if on).
-
-*   [Learn about how to use Voice Match and how your recordings are saved and used](https://support.google.com/accounts/answer/16467537?)
-*   [Learn more about how Google Assistant works with your data](https://support.google.com/assistant/answer/11091015).
 
 How do I manage my mobile permissions when Gemini is my device assistant?
 
