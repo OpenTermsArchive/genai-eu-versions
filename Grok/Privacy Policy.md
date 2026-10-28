@@ -1,9 +1,9 @@
 [SpaceXSI Privacy Policy](#spacexsi-privacy-policy)
 ===================================================
 
-_Last Updated: October 11, 2026 ([previous version](https://x.ai/legal/privacy-policy/previous-2026-08-24))_
+_Last Updated: October 27, 2026 ([previous version](https://x.ai/legal/privacy-policy/previous-2026-10-11))_
 
-At SpaceXAI LLC ("**SpaceXSI**", "**our**", "**us**" or "**we**"), we value your privacy and are committed to being fair, accountable, and transparent in how we handle your personal information. Our Privacy Policy outlines how we collect, use, and disclose your personal information when you use our websites and applications (the Grok mobile app ([iOS](https://apps.apple.com/app/grok/id6670324846) or [Android](https://play.google.com/store/apps/details?id=ai.x.grok)) or the [Grok.com](http://grok.com/) website), and other SpaceXSI services (our "**Service**"). It also describes your privacy rights.
+At SpaceX Super Intelligence LLC ("**SpaceXSI**", "**our**", "**us**" or "**we**"), we value your privacy and are committed to being fair, accountable, and transparent in how we handle your personal information. Our Privacy Policy outlines how we collect, use, and disclose your personal information when you use our websites and applications (the Grok mobile app ([iOS](https://apps.apple.com/app/grok/id6670324846) or [Android](https://play.google.com/store/apps/details?id=ai.x.grok)) or the [Grok.com](http://grok.com/) website), and other SpaceXSI services (our "**Service**"). It also describes your privacy rights.
 
 This Privacy Policy does not apply to data that we process on behalf of customers of our business offerings, such as the SpaceXSI API, or to any employment-related personal information processed in consideration of employment with SpaceXSI. This Privacy Policy also does not apply if you access our Service through a third-party’s service. In that case, the third-party’s privacy policy would apply. For example, your use of X (previously Twitter), including use of Grok on the X platform, is governed by the [X Privacy Policy](https://x.com/en/privacy) and [X Terms](https://x.com/en/tos), not this SpaceXSI Privacy Policy.
 
@@ -179,7 +179,7 @@ To report child safety issues to us, please contact us [here](mailto:childsafety
 
 If you have any queries or complaints about our collection, use, or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact us at [https://x.ai/privacy-portal/](https://x.ai/privacy-portal/) or by the following contact details:
 
-*   For the fastest response for world-wide requests and in the USA: x.AI LLC, [https://x.ai/privacy-portal/](https://x.ai/privacy-portal/)
+*   For the fastest response for world-wide requests and in the USA: SpaceX Super Intelligence LLC, [https://x.ai/privacy-portal/](https://x.ai/privacy-portal/)
     
 *   Information about our handling of California Consumer Privacy Act (CCPA) requests is available [here](https://x.ai/legal/ccpa)
     
@@ -207,7 +207,7 @@ If you are located in the European Economic Area ("**EEA**"), United Kingdom ("*
 
 ### [**13.1 Data controller**](#131-data-controller)
 
-SpaceXAI LLC, which is based in the USA, is the controller of your personal information as described in this Privacy Policy, unless otherwise specified. See section 12 of the main [Privacy Policy](https://x.ai/legal/privacy-policy) for how to contact SpaceXSI.
+SpaceX Super Intelligence LLC, which is based in the USA, is the controller of your personal information as described in this Privacy Policy, unless otherwise specified. See section 12 of the main [Privacy Policy](https://x.ai/legal/privacy-policy) for how to contact SpaceXSI.
 
 ### [**13.2 Legal basis**](#132-legal-basis)
 
