@@ -5,7 +5,7 @@
 Usage Policy
 ============
 
-[Download PDF](https://cdn.sanity.io/files/4zrzovbb/website/88cf16e8b7d203be16d2c726bcd28a6ec7c7f5c8.pdf)
+[Download PDF](https://assets.claude.com/88cf16e8b7d203be16d2c726bcd28a6ec7c7f5c8.pdf)
 
 *   [01Universal Usage Standards](#universal-usage-standards)
 *   [02High-risk Use Case Requirements](#high-risk-use-case-requirements)
