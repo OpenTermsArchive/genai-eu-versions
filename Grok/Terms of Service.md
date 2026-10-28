@@ -1,12 +1,12 @@
 [Terms of Service - Consumer](#terms-of-service---consumer)
 ===========================================================
 
-_Last Updated: October 12, 2026 ([previous version](https://x.ai/legal/terms-of-service/previous-2026-09-11))_
+_Last Updated: October 27, 2026 ([previous version](https://x.ai/legal/terms-of-service/previous-2026-10-12))_
 
 [**Welcome to SpaceXSI**](#welcome-to-spacexsi)
 -----------------------------------------------
 
-These Terms of Service (“**Terms**”) apply to your or others’ access, interactions and/or use of Grok, Grokipedia, and SpaceXSI’s other services for individuals, including associated applications, features, tools, software and websites (collectively, the “**Service**”). These Terms form an agreement between you and SpaceXAI LLC (“**SpaceXSI**,” “**we**,” “**our**,” or “**us**”) when you accept these Terms or when you otherwise access, interact with, and/or use the platform. SpaceXAI LLC is a Nevada company, with its principal place of business at 800 W Cesar Chavez St., Austin, TX 78701, USA. By accessing and using our Service, you acknowledge and agree to these Terms and any other applicable terms and policies, including our [Acceptable Use Policy](https://x.ai/legal/acceptable-use-policy).
+These Terms of Service (“**Terms**”) apply to your or others’ access, interactions and/or use of Grok, Grokipedia, and SpaceXSI’s other services for individuals, including associated applications, features, tools, software and websites (collectively, the “**Service**”). These Terms form an agreement between you and SpaceX Super Intelligence LLC (“**SpaceXSI**,” “**we**,” “**our**,” or “**us**”) when you accept these Terms or when you otherwise access, interact with, and/or use the platform. SpaceX Super Intelligence LLC is a Nevada company, with its principal place of business at 800 W Cesar Chavez St., Austin, TX 78701, USA. By accessing and using our Service, you acknowledge and agree to these Terms and any other applicable terms and policies, including our [Acceptable Use Policy](https://x.ai/legal/acceptable-use-policy).
 
 Please note:
 
@@ -292,4 +292,4 @@ The provider of the Service is set forth herein. If you are a California residen
     
 *   **EST Changes to the Terms.** With respect to European Consumers, SpaceXSI may unilaterally make changes to these Terms (including the Europe Specific Terms) when it is necessary to do so, particularly as a result of changes of law or to ensure a better functionality of the Service. SpaceXSI shall take proportionate measures, if required, to notify Users in advance of such changes to the Terms, such notification may take the form of an in-Service notification or an email for a material change. If you do not agree to the amended Terms, you may object and must discontinue your use of the Service. If you do not object and continue to use the Service, you will be deemed to have acknowledged the amendment and agreed to be bound by it.
     
-*   **EST Points of Contact for DSA Purposes.** For the purposes of the EU Digital Services Act, SpaceXSI’s point of contact for recipients is [xaidsa@x.ai](mailto:xaidsa@x.ai). The point of contact for Member States’ authorities, the Commission and the Board is [xaidsa@x.ai](mailto:xaidsa@x.ai). Pursuant to Article 13 of the DSA, SpaceXAI LLC has appointed EDSR, through its representative office in Estonia, as the legal representative. Contact: EDSR at Valukoja 8/2, 2nd floor, Tallinn, Estonia, EE-11415. Email: [dsa@edsr.eu](mailto:dsa@edsr.eu). Phone +3726991640.
+*   **EST Points of Contact for DSA Purposes.** For the purposes of the EU Digital Services Act, SpaceXSI’s point of contact for recipients is [xaidsa@x.ai](mailto:xaidsa@x.ai). The point of contact for Member States’ authorities, the Commission and the Board is [xaidsa@x.ai](mailto:xaidsa@x.ai). Pursuant to Article 13 of the DSA, SpaceX Super Intelligence LLC has appointed EDSR, through its representative office in Estonia, as the legal representative. Contact: EDSR at Valukoja 8/2, 2nd floor, Tallinn, Estonia, EE-11415. Email: [dsa@edsr.eu](mailto:dsa@edsr.eu). Phone +3726991640.
