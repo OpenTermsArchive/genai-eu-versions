@@ -799,7 +799,7 @@ _close_
 
 - - -
 
-### **Last updated:** October 23, 2026
+### **Last updated:** October 26, 2026
 
 Table of contents
 -----------------
@@ -1001,7 +1001,7 @@ Please [respect others' rights](https://policies.google.com/terms/generative-ai/
 Privacy questions
 -----------------
 
-**Last updated:** October 23, 2026
+**Last updated:** October 26, 2026
 
 [Expand all](#privacy_questions&gemini_apps&right_to_object&legal_basis&ads&human_review&retention&feedback&keep_activity_setting&audio_live&saved_info&past_chats&signed_out&location_info&precise_location&assistant_data&mobile_permissions&uploaded_images&google_photos_content&data_exchange&app_data_personalization&comms_ext&agent_browser_data&turn_off_spark&live_data&chrome_data&mydata_screen_automation&mydata_agentic_calling&shopping_cart&shopping_data&gems_from_labs_data&import_chats&notebook_data&avatar_data&canvas_data&janus_stw&tos) [Collapse all](https://support.google.com/gemini/answer/13594961#privacy_questions)
 
@@ -1221,6 +1221,7 @@ If Memory is on:
 
 *   Gemini may use sensitive info you provided in your chats to personalize your experience.
 *   You can [start a Temporary Chat](https://support.google.com/gemini/answer/13275745#temp_chats) to discuss info that you don’t want Gemini to remember or use to personalize your experience.
+*   You can view, edit and delete available [Memory summary](https://support.google.com/gemini/answer/18617127).
 *   To stop Gemini from personalizing your experience using info from a past chat, [delete that chat](https://support.google.com/gemini/answer/13278892).
 
 How does Google handle my data when I use Gemini Apps while signed out?
@@ -1580,6 +1581,14 @@ You are in control of your recordings; you can delete them at any time in the [D
 We don’t use your recordings to train the generative AI models powering [our services](https://policies.google.com/terms/service-specific?hl=en-US), except to address abuse or harm.
 
 **Important:** This setting is separate and distinct from the setting YouTube offers over avatar data stored with your YouTube channel (if you have one). Deleting one does not affect the other.
+
+What happens to my data when I share my avatar with other users?
+
+Be cautious and only share your avatar with people you trust. Once you share your avatar with another Google user, they will be able to create AI content featuring your likeness and/or voice, and you will not have control over what they generate using your avatar.
+
+You can revoke permission at any time. When you do, the user you stop sharing your avatar with will lose the ability to make more AI content using your avatar. But any content they have already created will not be deleted.
+
+When you share your avatar, the recipient will not have access to your original likeness recording and will not be able to edit or delete it.
 
 ### Canvas
 
