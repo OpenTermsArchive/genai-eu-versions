@@ -1,10 +1,11 @@
 [Terms of Service - Enterprise](#terms-of-service---enterprise)
 ===============================================================
 
-_Last Updated: August 14, 2026_
+_Last Updated: October 27, 2026_
 
 **Previous versions**
 
+*   [August 14, 2026](https://x.ai/legal/terms-of-service-enterprise/previous-2026-08-14)
 *   [May 12, 2026](https://x.ai/legal/terms-of-service-enterprise/previous-2026-05-12)
 *   [April 10, 2026](https://x.ai/legal/terms-of-service-enterprise/previous-2026-04-10)
 *   [June 27, 2025](https://x.ai/legal/terms-of-service-enterprise/previous-2025-06-27)
@@ -13,7 +14,7 @@ _Last Updated: August 14, 2026_
 *   [October 29, 2024](https://x.ai/legal/terms-of-service-enterprise/previous-2024-10-29)
 *   [September 5, 2024](https://x.ai/legal/terms-of-service-enterprise/previous-2024-09-05)
 
-These Terms of Service — Enterprise (this “**Agreement**”) are entered into between SpaceXAI LLC (“**SpaceXSI**”) and the business customer of SpaceXSI for SpaceXSI business services (“**Customer**”), which Customer may be identified in an order form, online purchase confirmation, or other ordering document entered into between the Parties that references this Agreement (each, an “**Order Form**”) (Customer and SpaceXSI each, a “**Party**” and collectively, the “**Parties**”). This Agreement sets forth the terms and conditions under which Customer subscribes to and uses such SpaceXSI business services. This Agreement is effective as of the earliest date Customer makes an applicable purchase memorialized by an SpaceXSI online purchase confirmation or executes an Order Form (the “**Effective Date**”). The individual who signs, clicks through, or otherwise agrees to purchase terms referencing or incorporating this Agreement binds Customer to the terms and conditions of this Agreement and has been duly authorized by Customer to do so.
+These Terms of Service — Enterprise (this “**Agreement**”) are entered into between SpaceX Super Intelligence LLC (“**SpaceXSI**”) and the business customer of SpaceXSI for SpaceXSI business services (“**Customer**”), which Customer may be identified in an order form, online purchase confirmation, or other ordering document entered into between the Parties that references this Agreement (each, an “**Order Form**”) (Customer and SpaceXSI each, a “**Party**” and collectively, the “**Parties**”). This Agreement sets forth the terms and conditions under which Customer subscribes to and uses such SpaceXSI business services. This Agreement is effective as of the earliest date Customer makes an applicable purchase memorialized by an SpaceXSI online purchase confirmation or executes an Order Form (the “**Effective Date**”). The individual who signs, clicks through, or otherwise agrees to purchase terms referencing or incorporating this Agreement binds Customer to the terms and conditions of this Agreement and has been duly authorized by Customer to do so.
 
 **\*Note: These terms are for enterprise (business) users of the SpaceXSI API and related SpaceXSI Services (including Grok) who are at least 18 years old. For consumer use of Grok, please see our [Terms of Service — Consumer](https://x.ai/legal/terms-of-service).**
 
