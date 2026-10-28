@@ -250,32 +250,32 @@ ChatGPT agent users are not allowed to bypass rate limits, restrictions, or safe
 What to know about the Sora discontinuation
 ===========================================
 
-Understand the Sora discontinuation, including content exports, data deletion, refunds, credits, and the upcoming API shutdown.
+Understand the Sora discontinuation, including content exports, data deletion, refunds, and credits.
 
-When will Sora be discontinued?
--------------------------------
+Sora discontinuation dates
+--------------------------
 
 The Sora web and app experiences were discontinued on April 26, 2026.  
   
-The Sora API will be discontinued on September 24, 2026.
+The Sora API was discontinued on September 24, 2026.
 
-Will I be able to export my data after the Sora app is discontinued?
---------------------------------------------------------------------
+Exporting your Sora data
+------------------------
 
-Yes, you can export your data following the steps [below](https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation#how-can-i-access-and-export-content-i-created-in-sora). If a final export window is offered, we’ll notify you by email before it begins. **We recommend you export your Sora content as soon as possible.**
+Yes, you can export your data following the steps [below](https://help.openai.com/articles/20001152#access-and-export-your-sora-content). If a final export window is offered, we’ll notify you by email before it begins. **We recommend you export your Sora content as soon as possible.**
 
-What happens to my data after the Sora app is discontinued?
------------------------------------------------------------
+Data deletion after discontinuation
+-----------------------------------
 
 After Sora is discontinued, and after the period of time of any final export window passes (if we are able to offer one), we will permanently delete any data associated with your use of Sora.
 
-How can I access and export content I created in Sora?
-------------------------------------------------------
+Access and export your Sora content
+-----------------------------------
 
 You can export content you created in Sora by going to [sora.chatgpt.com/sunset](https://sora.chatgpt.com/sunset) and clicking on **Export**. You'll get an email when it's ready.
 
-What if I need a refund?
-------------------------
+Refunds and credits
+-------------------
 
 For refund questions, please see [How do I request a refund for my ChatGPT subscription?](https://help.openai.com/en/articles/7232895-how-do-i-request-a-refund-for-my-chatgpt-subscription) Note that any purchased [ChatGPT/Sora credits](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-freegopluspro-sora) can still be used for Codex, if you so choose.
 
