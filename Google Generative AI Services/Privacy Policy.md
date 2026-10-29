@@ -1041,6 +1041,8 @@ You can also create a request directly in Gemini Apps. Below the Gemini app’s 
 
 [Create a request](https://support.google.com/legal/troubleshooter/1114905?#ts=1115658%2C13380504)
 
+You can also review and make changes in [Memory summary](https://support.google.com/gemini/answer/18617127) (depending on eligibility and your Gemini settings).
+
 #### Additional resources
 
 To learn more about how to exercise your rights related to data we’ve collected, read the [Google Privacy Policy](https://policies.google.com/privacy) and the [Gemini Apps Privacy Notice](https://support.google.com/gemini/answer/13594961#privacy_notice).
