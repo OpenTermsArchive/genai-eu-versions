@@ -621,13 +621,15 @@ Please read these documents carefully. Together, these documents are known as th
 
 We also encourage you to read our [Privacy Policy](https://policies.google.com/privacy) to better understand how we collect, use, and protect your information.
 
-#### 1\. Administrators, Organizations, and Teams
+1\. Administrators, Organizations, and Teams
+--------------------------------------------
 
 **Organizational Use.** If you are using the Service on behalf of an organization, an authorized representative of that organization must agree to these terms, as described in the “Using Google services” section of the [Google Terms of Service](https://policies.google.com/terms).
 
 **Roles.** You may create a collaborative workspace (**"Team"**) as an **"Administrator**.**"** As an Administrator, you control who can join your Team as an **"End User."** You are responsible and liable for all acts and omissions of your End Users within that Team and for their compliance with these Terms. As an End User, your access to a Team is managed by that Team’s Administrator.
 
-#### 2\. Payments
+2\. Payments
+------------
 
 **Payment Obligations.** The Administrator is responsible for all fees and applicable taxes associated with their Team. All fees are based on our then-current prices.
 
@@ -637,7 +639,8 @@ We also encourage you to read our [Privacy Policy](https://policies.google.com/p
 
 **Late Payments.** We may suspend or terminate access to the Service if fees are past due. All fees are non-refundable unless required by law.
 
-#### 3\. Data Use
+3\. Data Use
+------------
 
 **"Your Content"** means the content you submit to the Service and any generated responses. When you use the Service, we process Your Content in accordance with the [Google Data Processing Addendum](https://business.safety.google/processorterms/). 
 
@@ -651,7 +654,8 @@ We also collect data necessary to operate and maintain the Service, such as acco
 
 **Communications**. You may receive periodic communications from Google at the email address you used during the sign up flow and which is associated with your account, such as training and on-boarding materials, product tips and updates, event information and special offers related to Google products and services. You can stop receiving email communications by opting out via the unsubscribe link in the emails. Personal data we collect for communications is subject to [Google’s Privacy Policy](https://policies.google.com/privacy).
 
-#### 4\. Using the Service
+4\. Using the Service
+---------------------
 
 **Accounts.** You may sign in to the Service using a Google Account or a supported third-party identity provider. You are responsible for all activity that occurs under your account for the Service, including taking reasonable steps to keep it secure. For the purposes of enforcement, including suspension and termination, references to "Google Account" in the [Google Terms of Service](https://policies.google.com/terms) will be interpreted to mean your account for the Service.
 
@@ -661,11 +665,13 @@ We also collect data necessary to operate and maintain the Service, such as acco
 
 **Limitation on Use.** You agree that use of the Service is for trade, business, or professional purposes only.
 
-#### 5\. Age Requirements
+5\. Age Requirements
+--------------------
 
 You must be 18 years of age or older to use the Service.
 
-#### 6\. Your Relationship with Google
+6\. Your Relationship with Google
+---------------------------------
 
 You’re contracting for the Service with the entity identified below, and when the [Google Terms of Service](https://policies.google.com/terms), these Additional Terms, the [Google Privacy Policy](https://policies.google.com/privacy?hl=en-US), or the [Google Data Processing Addendum](https://business.safety.google/processorterms/) refer to "Google," "we," "us," "our" or the "data controller," they mean that contracting entity in relation to your use of the Service (even if the Google Terms of Service or Google’s Privacy Policy states otherwise):
 
