@@ -194,55 +194,7 @@ VeraSafe has been appointed as our representative in the European Union and the 
 
 Perplexity AI, Inc. is the controller of the data processed by Perplexity when you use Perplexity’s services globally. Perplexity is the right contact for data privacy requests, using the Contact Information for Perplexity listed above.
 
-For matters under Article 27 of the GDPR, VeraSafe’s contact information is as follows:
-
-For EU inquiries:
-
-VeraSafe Ireland Ltd.
-
-Unit 3D North Point House
-
-North Point Business Park
-
-New Mallow Road, Cork
-
-T23AT2P
-
-Ireland
-
-+420 228 881 031
-
-For UK inquiries:
-
-VeraSafe United Kingdom Ltd.
-
-37 Albert Embankment
-
-London SE1 7TL
-
-United Kingdom
-
-+44 (20) 4532 2003
-
-VeraSafe is also our data protection officer (DPO), in which capacity it may be contacted using the following details:
-
-VeraSafe, LLC
-
-c/o VeraSafe Ireland Ltd.
-
-Unit 3D North Point House
-
-North Point Business Park
-
-New Mallow Road, Cork
-
-T23AT2P
-
-Ireland
-
-+420 228 881 031
-
-experts@verasafe.com
+For matters under Article 27 of the GDPR, VeraSafe’s contact information is as follows: for EU inquiries, VeraSafe Ireland Ltd., Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork, T23AT2P, Ireland, +420 228 881 031; for UK inquiries, VeraSafe United Kingdom Ltd., 37 Albert Embankment, London SE1 7TL, United Kingdom, +44 (20) 4532 2003. VeraSafe is also our data protection officer (DPO), in which capacity it may be contacted using the following details: VeraSafe, LLC, c/o VeraSafe Ireland Ltd., Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork, T23AT2P, Ireland, +420 228 881 031, experts@verasafe.com.
 
 If you are not satisfied with our response and are in [the European Economic Area](https://verasafe.com/public-resources/eea-members/) or the United Kingdom, you may have a right to lodge a complaint with your local supervisory authority.
 
