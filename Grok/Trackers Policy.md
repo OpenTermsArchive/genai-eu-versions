@@ -46,6 +46,7 @@ Below is a list of cookies used on our Service:
 | xAI | last-logged-in-with | Service Functionality | 90 days | accounts.x.ai | Essential |
 | xAI | oauth | Security | 10 min | .x.ai | Essential |
 | xAI | oauth\_link | Security | 1 hour | accounts.x.ai | Essential |
+| xAI | \_\_Host-oauth\_cursor\_sso | Security | 10 min | accounts.x.ai | Essential |
 | xAI | redirect | Login | 1 day | accounts.x.ai | Essential |
 | xAI | oauth\_fresh\_login | Login | 2 min | accounts.x.ai | Essential |
 | xAI | \_\_Host-ot\_bridge | Security | 1 day | accounts.x.ai | Essential |
