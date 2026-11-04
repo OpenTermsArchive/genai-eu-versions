@@ -1,7 +1,7 @@
 [SpaceXSI Cookie Policy](#spacexsi-cookie-policy)
 =================================================
 
-_Effective: October 12, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-10-07))_
+_Effective: November 4, 2026 ([previous version](https://x.ai/legal/cookie-policy/previous-2026-10-12))_
 
 This Cookie Policy describes what kinds of cookies and similar technologies SpaceXSI uses in connection with our Services (as defined in our [Privacy Policy](https://x.ai/legal/privacy-policy)).Please refer to our Privacy Policy to learn more about how we process your personal information.
 
@@ -46,7 +46,6 @@ Below is a list of cookies used on our Service:
 | xAI | last-logged-in-with | Service Functionality | 90 days | accounts.x.ai | Essential |
 | xAI | oauth | Security | 10 min | .x.ai | Essential |
 | xAI | oauth\_link | Security | 1 hour | accounts.x.ai | Essential |
-| xAI | \_\_Host-oauth\_cursor\_sso | Security | 10 min | accounts.x.ai | Essential |
 | xAI | redirect | Login | 1 day | accounts.x.ai | Essential |
 | xAI | oauth\_fresh\_login | Login | 2 min | accounts.x.ai | Essential |
 | xAI | \_\_Host-ot\_bridge | Security | 1 day | accounts.x.ai | Essential |
