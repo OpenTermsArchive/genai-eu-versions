@@ -252,8 +252,6 @@ What to know about the Sora discontinuation
 
 Understand the Sora discontinuation, including content exports, data deletion, refunds, and credits.
 
-Updated: yesterday
-
 Sora discontinuation dates
 --------------------------
 
