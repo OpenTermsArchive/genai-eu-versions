@@ -1,4 +1,4 @@
-### Section 01: Universal Usage Standards
+### 01Universal Usage Standards
 
 [Legal center](https://www.anthropic.com/legal)
 
