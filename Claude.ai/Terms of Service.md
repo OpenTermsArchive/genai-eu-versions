@@ -1,4 +1,4 @@
-### Section 01: Who we are.
+### 01Who we are.
 
 [Legal center](https://www.anthropic.com/legal)
 
