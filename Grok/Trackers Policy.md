@@ -73,6 +73,9 @@ Below is a list of cookies used on our Service:
 | Stripe | \_\_stripe\_sid | Fraud Detection | 1 month | console.x.ai | Essential |
 | Cloudflare | \_\_cf\_bm | Security | 30 min | All | Essential |
 | Cloudflare | cf\_clearance | Security | 1 year | All | Essential |
+| Thought Industries | authToken, authToken.sig, authTokenExpires, authTokenExpires.sig | Maintains authenticated learner sessions and verifies cookie integrity | Session | learn.grok.com | Essential |
+| Thought Industries | csrf-token, csrf-token.sig, koa.sess, koa.sess.sig | Maintains sessions and protects authentication against cross-site request forgery | Session | learn.grok.com | Essential |
+| Thought Industries | preview, preview.sig | Enforces learning-platform access controls and verifies cookie integrity | Session | learn.grok.com | Essential |
 | Mixpanel | mp\_<token>\_mixpanel | Analytics | 1 year | .x.ai | Non-Essential |
 | Mixpanel | mp\_<consumer-token>\_mixpanel | Analytics | 1 year | .x.ai | Non-Essential |
 | xAI | xai\_utm | Analytics | 1 day | accounts.x.ai | Non-Essential |
