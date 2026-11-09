@@ -3,7 +3,7 @@ Microsoft Privacy Statement
 
  
 
-Last Updated: September 2026
+Last Updated: November 2026
 
 [What's New?](https://go.microsoft.com/fwlink/p/?LinkId=780766)
 
@@ -23,7 +23,7 @@ Microsoft complies with the EU-U.S., UK Extension to the EU-U.S., and Swiss-U.S.
 
 ###### Contact us
 
-If you have a privacy concern, complaint, or question for the Microsoft privacy team or Data Protection Officer, please visit our [privacy support and requests](https://go.microsoft.com/fwlink/?linkid=2126612) page and click on “Contact the Microsoft privacy team or the Microsoft Data Protection Officer” menu. For more information about contacting Microsoft, including Microsoft Ireland Operations Limited, see the [How to contact us](https://privacy.microsoft.com/privacystatement#mainhowtocontactusmodule) section of this privacy statement.
+If you have a privacy concern, complaint, or question for the Microsoft privacy team or Data Protection Officer, please visit our [Privacy support and requests](https://go.microsoft.com/fwlink/?linkid=2126612) page and click on “Contact the Microsoft privacy team or the Microsoft Data Protection Officer” menu. For more information about contacting Microsoft, including Microsoft Ireland Operations Limited, see the [How to contact us](https://privacy.microsoft.com/privacystatement#mainhowtocontactusmodule) section of this privacy statement.
 
 Your privacy is important to Microsoft. This privacy statement explains the personal data we process, how we process it, and for what purposes.
 
@@ -35,7 +35,7 @@ You can find details about personal data collected from children in the [Collect
 
 For individuals in the United States, please refer to our [U.S. State Data Privacy Notice](https://aka.ms/USStatePrivacyNotice) (including notice at collection details) and the [Consumer Health Data Privacy Policy](https://privacy.microsoft.com/microsoft-consumer-health-data-privacy-policy) for additional information about your rights and the processing of your personal data.
 
-Please see the Enterprise and developer products section of this privacy statement for more information about how we process data from organisations that use our products and services, like businesses and schools. If you use a Microsoft product or a Microsoft account provided by your organisation, please see the [Products provided by your organisation](https://www.microsoft.com/privacy/privacystatement) and the [Microsoft account](https://www.microsoft.com/privacy/privacystatement) sections for more information.
+Please see the [Enterprise and developer products](https://privacy.microsoft.com/privacystatement#mainenterprisedeveloperproductsmodule) section of this privacy statement for more information about how we process data from organisations that use our products and services, like businesses and schools. If you use a Microsoft product or a Microsoft account provided by your organisation, please see the [Products provided by your organisation](https://www.microsoft.com/privacy/privacystatement) and the [Microsoft account](https://www.microsoft.com/privacy/privacystatement) sections for more information.
 
 ### Personal data we collect
 
@@ -64,7 +64,7 @@ The data we collect can include the following:
 *   **Device and usage data**. Data about your device and product features you use, hardware and software details, product performance, your interactions with our websites and apps, and your settings. For example:
     *   **Payment and account history**.
     *   **Browsing history**.
-    *   **Device, connectivity, and configuration data**. For example, IP addresses, device identifiers, nearby networks, and other information about the operating systems and other software installed on your device.
+    *   **Device, connectivity, and configuration data**. For example, IP addresses, age of the device, device identifiers and type, device language and locale settings, nearby networks, and other information about the operating systems and other software installed on your device.
     *   **Error reports (“crash dumps”) and performance data**. This usually includes software, hardware, and file content details related to an error, and other software on your device.
     *   **Troubleshooting and help data**. Data you provide when you contact Microsoft for help. For example, contact or authentication data, the content of your communications with Microsoft, the condition of your device, the products at issue, and other details that help us provide support. Phone conversations or chat sessions with our representatives may be monitored and recorded.
     *   **Bot usage data**. Interactions with bots and skills available through Microsoft products, including bots and skills provided by third parties.
@@ -99,6 +99,7 @@ We also receive data from Microsoft affiliates, subsidiaries, and third parties.
 *   Developers who create experiences through or for Microsoft products.
 *   Third parties that deliver experiences through Microsoft products.
 *   Publicly available sources, such as open public sector, academic, and commercial data sets.
+*   Companies that provide workplace and productivity data for research, development, and improvement of our products and services.
 
 You have choices when it comes to the data you share. When you are asked to provide personal data, you can decline. You can also use web browser, in-product, or operating system controls to limit or prevent certain types of automatic data collection. Many of our products require some personal data to operate and provide you with a service. If you choose not to provide or allow us to collect required data, you cannot use the related product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you and you do not provide the data, we will not be able to enter into or carry out the contract. Where providing the data is optional, and you choose not to share personal data, features such as personalisation that use the data will not work for you.
 
@@ -127,7 +128,7 @@ Specifically, we use data to:
     *   **Transactions**. We use data like your payment and contact information to carry out your transactions with us and deliver your purchases.
     *   **Customer support**. We use the data to help us troubleshoot and resolve issues, repair devices, investigate security incidents, and to provide, improve, and secure the quality of our products, services, and training. We may use voice data from support calls for authentication and security purposes.
     *   **Security and Safety**. We use data to protect the security and safety of our products and customers, such as by detecting malware and malicious activities. We reserve the right to block communications or remove content that violates our terms of use. We use scanning technologies (like hash matching) to help prevent harm to our systems, our users, and others as described in our Code of Conduct, and to help prevent child exploitation. We may share information with the National Center for Missing and Exploited Children (NCMEC) and law enforcement authorities. We also use tools to detect and disrupt the misuse of video-calling capabilities to produce and share child sexual exploitation and abuse imagery by high-risk users. Learn more about our efforts to prevent and detect child exploitation [here](https://www.microsoft.com/corporate-responsibility/digital-safety-content-report).
-    *   **Providing Age Appropriate Experiences**. We use information associated with your Microsoft account to provide more age-appropriate experiences across our services. This may include information you provide, such as your date of birth or settings you choose in your account, information from your use of Microsoft services, such as how you interact with features, content, and products, or information from partners or verification services, such as age range signals received from app stores. We use this information to help us apply age-appropriate protections, settings, and experiences. When we apply age-based protections, we generally apply them across Microsoft services connected to your account so that your experience is consistent. We may share age group information with Microsoft apps and services, as well as third-party apps, so that they can apply appropriate safeguards, tailor experiences, and comply with applicable laws and regulations.
+    *   **Providing Age Appropriate Experiences**. We use information associated with your Microsoft account to provide more age-appropriate experiences across our services. This may include information you provide, such as your date of birth or settings you choose in your account, information from your use of Microsoft services, such as how you interact with features, content, and products, or information from partners or verification services, such as age range signals received from app stores. We use this information to help us apply age-appropriate protections, settings, and experiences. When we apply age-based protections, we generally apply them across Microsoft services connected to your account so that your experience is consistent. We may share age group information with Microsoft apps and services, as well as third-party apps, so that they can apply appropriate safeguards, tailor experiences, and comply with applicable laws and regulations. In services you can use without logging in, we may use device-based information to help us apply age-appropriate protections.
     *   **Troubleshooting and Updates**. We use data to troubleshoot and resolve performance issues, develop updates and security patches, and notify users of product updates. This may include using automated systems to detect security and safety issues.
 *   **Product Improvement and Development**
     *   **Product improvement**. We use data to improve our products, including adding new features and capabilities. For example, we use error reports to improve security features, queries and clicks in Bing to improve search results, and voice data to develop and improve speech recognition accuracy.
@@ -996,9 +997,11 @@ In addition to information about your device and how you use it, including Windo
 
 We may also use information about your interactions with tips, recommendations and promotions to provide and improve the personalised offers and similar messages in other Microsoft products.
 
-To manage how data collected by other Microsoft products is used to personalise offers, you can visit your [Personalised ads and offers page](https://aka.ms/personalized-offers). In some regions such as the European Economic Area, turning off Personalised offers on Windows also stops the use of data from other Microsoft products to personalise tips, ads and recommendations in Windows. In other regions, you can manage how data collected by other Microsoft products is used to personalise offers by visiting your [Personalised ads and offers page](https://aka.ms/personalized-offers).
+To manage how data collected by other Microsoft products is used to personalise offers, you can visit your [Personalised ads and offers page](https://aka.ms/personalized-offers) to opt in or out. In some regions such as the European Economic Area, turning off Personalised offers on Windows also stops the use of data from other Microsoft products to personalise tips, ads and recommendations in Windows. In other regions, you can manage how data collected by other Microsoft products is used to personalise offers by visiting your [Personalised ads and offers page](https://aka.ms/personalized-offers).
 
 Contextual data from your device and some basic account data are used to show you appropriate messaging in Windows regardless of whether the Personalised offers setting in Windows or the settings to use data from other Microsoft products to personalise offers are turned off. For example, this data is used to make sure content is in the correct language and appropriate for your age group.
+
+If you choose to turn off Personalised offers or stop the use of data from other Microsoft products, we may use basic account data and contextual info about your device to avoid showing you generic tips, ads, and recommendations that are not relevant to you. For example, we may use basic account data like your active subscriptions to avoid showing you ads for products you have already purchased, or contextual data like your device model to avoid recommending hardware accessories that are not compatible with your device.
 
 Personalised offers applies to tips, offers, ads and recommendations you see in Windows. Changing this setting will not impact the kinds of offers you may see in other Microsoft products. You can change this setting at any time by searching for **Personalised offers** in the Windows Settings app. [Learn more about personalised offers](https://support.microsoft.com/windows/807608ee-3de2-4498-8e7c-eb10d655567f).
 
@@ -1072,67 +1075,35 @@ You can also send feedback about Narrator to help Microsoft diagnose and resolve
 
 #### Linked mobile experiences on Windows
 
-The Phone Link feature lets you link your mobile phone to your Windows PC, enabling a variety of cross-device experiences across all your Windows devices.
+Phone Link features and Mobile devices in Settings let you link your mobile devices (e.g., iPhone and Android) and apps (e.g., WhatsApp) to your Windows PCs, enabling a variety of cross-device experiences across your linked Windows devices. In this section, we refer to these features collectively as “linked mobile experiences.”
 
-Some Phone Link features, and the resulting data that is synced between your phone and Windows devices, differs for Android devices and iPhones and is described separately below.
+When you enable a linked mobile experience, Windows may make certain content and functionality from your mobile device or app available on each linked Windows PC where you enable that experience. Available features and the content that is synced or made available differ based on your mobile device or app, Windows PC, region, permissions, and settings that you choose.
 
-As part of providing Phone Link’s features, Microsoft collects performance, usage, and device data that includes, for example, the hardware capabilities of your device and Windows device, the number and duration of your sessions on Phone Link, and the amount of time you spent during setup.
+As part of providing Phone Link features and Mobile devices in Settings, Microsoft collects performance, usage, and device data. This may include information about the hardware and software capabilities of your mobile devices and Windows PCs, feature configuration and permissions, connection and setup status, the number and duration of feature sessions, and reliability and performance information.
 
-**Android Devices**
+Except where a feature description below states otherwise, Microsoft does not store the content of your text messages, call history, photos, files, notifications, camera sessions, or information displayed by your mobile apps on Microsoft servers, and does not change or delete that content on your mobile device. Some content may be temporarily stored on a linked Windows PC to provide an enabled feature. Content you choose to save is stored on that Windows PC until you delete it.
 
-You can use Phone Link to see recent photos, view and send text messages, and make and receive live calls from your Android phone on your Windows device. You can also view, dismiss, or perform other actions to your Android phone notifications and instantly access and use Android apps installed on your Android phone from your Windows device and share your phone screen on your Windows device through Phone Link’s mirroring function.
+You can change your choices or unlink a device at any time. You can manage most of these controls under Mobile devices in the Bluetooth & devices section of Settings on your Windows PC. Certain controls may also be available in Phone Link features, in Link to Windows on your mobile device, or in your mobile device settings. Turning off a feature stops new content from being made available through that feature, but content you previously chose to save on a Windows PC remains there until you delete it. You can choose which linked mobile experiences to enable or disable, including:
 
-To use Phone Link, you must install the Link to Windows app on your Android device and grant the requested app permissions. You must log into your Microsoft account on the Phone Link feature on your Windows device and on Link to Windows on your Android phone. Both devices must be connected to the internet. Some features require Bluetooth and pairing your phone with your PC.
+**Text messages.** You can view text messages received on your mobile device or app and send text messages from your linked Windows device. To enable these features, Windows accesses message content and the sender’s or recipient’s contact information. Messages available on your Windows device may be stored there temporarily.
 
-We never store your texts, call history, photos, or what apps you have or information displayed by the apps on our servers or change them on your phone.
+**Calls.** You can make, receive, and view recent calls from your mobile device or app on a linked Windows device. You must grant applicable permissions, such as access to call logs and permission to make calls from your PC.
 
-You can unlink your Android phone from your Windows device at any time by going into your Phone Link settings and choosing to remove your Android phone, or from the settings in Link to Windows on your Android phone. For detailed information, see [our support page](https://support.microsoft.com/en-us/topic/unlink-a-device-in-the-phone-link-app-9382f770-b203-7e0e-c81e-18d4053cf4e5).
+**Photos and new photo notifications.** You can view, copy, share, edit, save, or delete a limited number of recent photos from your mobile device or app on a linked Windows device. You may also receive notifications on a linked Windows device when new photos are available. Photos may be temporarily stored on the Windows device while you view, open, or edit them. Photos you choose to save remain on that Windows device until you delete them. Microsoft does not store these photos on its servers, change, or delete the original photos on your mobile device or app.
 
-**Text Messages.** Phone Link allows you to view text messages delivered to your Android phone on your Windows device and send text messages from your Windows device. Phone Link accesses the content of your text messages and the sender’s or recipient’s contact information. These text messages are temporarily stored on your device and only those messages received and sent within the last 30 days are visible on your Windows device.
+**Notifications.** You can view, read, dismiss, or perform other supported actions on your mobile device or app from a linked Windows device. You must enable the applicable notification permissions on your mobile device or app and Windows PC. You can disable notification access at any time.
 
-**Calls.** Phone Link allows you to make, receive, and view your recent calls from your Android phone on your Windows device. To activate this feature, you must enable certain permissions on both the Phone Link Settings page on your Windows device and Android phone’s settings, such as call logs access and permission to make phone calls from your PC. These call details are temporarily stored on your Windows device and only calls received and dialled within the last 30 days are visible under call logs on your Windows device.
+**Apps and screen mirroring.** You can use apps installed on your mobile device or mirror your mobile screen on a linked Windows PC. Microsoft collects a list of installed apps and recent app activity to provide the experience and show recently used apps, but does not retain further information about the content displayed by those apps.
 
-**Photos.** Phone Link allows you to copy, share, edit, save, or delete a limited number of your most recent photos from your Android phone on your Windows device. These photos are temporarily stored on your Windows device.
+**Instant Hotspot.** You can share mobile hotspot information with a paired Windows device through secure Bluetooth communication so the Windows device can connect to the internet. Mobile data charges may apply according to your mobile data plan.
 
-**Notifications.** Phone Link allows you to view, read, dismiss, or perform other actions related to your Android phone’s notifications on your Windows device. To activate this Phone Link feature, you must enable certain permissions, such as sync notifications, on both your Windows device and Android phone.
+**Contacts.** You can use contacts from your Android device to support messaging and calling. If you separately enable Contacts sync in Link to Windows, your Android contacts are synced to the Microsoft cloud, associated with your Microsoft account, and may be available in other Microsoft products and services. You can disable Contacts sync in Link to Windows settings.
 
-**Apps mirroring.** On supported devices, Phone Link allows you to use the Android apps that are installed on your Android phone on your Windows device. Microsoft collects a list of your installed Android apps and recent activity to provide the service and show you your most recently used apps but does not retain further information.
+**Files, File Explorer, and Windows Share.** You can access and share files from your mobile device in File Explorer and display your linked device in Windows Share. Microsoft does not store the contents of these files in its servers. Files you copy or save to a Windows PC remain on that PC until you delete them.
 
-**Instant Hotspot.** On supported Android devices, Link to Windows enables users to share mobile hotspot information with their paired PC over secure Bluetooth communication. Your PC can then be connected to the internet. Please note mobile data charges may apply depending on your mobile data plan.
+**Use your mobile device as a connected camera.** You can use your mobile device’s camera in Windows apps and products that support camera functionality. Microsoft does not record or store your camera sessions or the information displayed by the camera in those apps or products. You can disable connected-camera access in Mobile devices in Settings.
 
-**Contacts.** Link to Windows allows you to sync your Android contacts into the Microsoft cloud. You can access them in other Microsoft products and services by going into Link to Windows settings and enabling “Contacts sync” feature. Your contacts information is stored online and associated with your Microsoft account. [Learn more](https://go.microsoft.com/fwlink/?linkid=2202359).
-
-**iPhones**
-
-You can use Phone Link to make and receive calls from your iPhone, view and send text messages, and view, dismiss, or perform other actions on your iPhone notification from your Windows device.
-
-To use Phone Link, you must have Bluetooth enabled on your iPhone. You may also optionally install the Link to Windows app on your iPhone.
-
-You can unlink your iPhone from your Windows device at any time by going into Phone Link settings and choosing to remove your iPhone. You can do the same from your iPhone by going into **Settings > Bluetooth > Selecting your PC name > click on the (i) icon > and choosing Forget This Device**. 
-
-We never store your texts or call history on our servers or change them on your iPhone.
-
-**Text Messages.** Phone Link allows you to view text (SMS) messages delivered to your iPhone on your Windows devices and send text messages from your Windows device. Phone Link accesses the content of your text messages and the sender’s or recipient’s contact information. These text messages are temporarily stored on your Windows device and only text messages received and sent within your Bluetooth session or iMessage are visible on your Windows devices.
-
-**Calls.** Phone Link allows you to make, receive, and view your recent calls from your iPhone on your Windows device. To activate this feature, you must enable the Sync Contacts feature under Bluetooth settings on your iPhone. These call details are temporarily stored on your Windows device.
-
-**Notifications.** Phone Link allows you to view, read, dismiss, or perform other actions related to your iPhone’s notifications on your Windows device. To activate this Phone Link feature, you must enable certain permissions such as sync notifications, on both your Windows device and iPhone.
-
-**Contacts.** Phone Link allows you to sync your contacts from your iPhone to access them for messaging and calling by going into Bluetooth settings on your iPhone and toggle on Sync Contacts under your PC name after connecting your iPhone to Phone Link.
-
-[Back to top](#)
-
-#### Cross-device experiences
-
-Cross-device experiences in Windows enable access to a linked mobile device from your PC through your Microsoft account. By linking your mobile device and enabling these experiences, Windows may make certain mobile device content available across Windows to deliver features and services that support integrated cross‑device functionality. These can be managed under “Mobile Devices” in the Bluetooth & Devices section in your Windows PC Settings. As part of providing these features, Microsoft collects performance usage and device data, including information about the hardware capabilities of your mobile and Windows devices. You can turn this feature on or off at any time in your Windows PC Settings.
-
-**Use your mobile device as a connected camera.** This feature allows you to use your mobile device’s camera in apps or products on Windows that support camera functionality. You can enable this feature under “Mobile Devices” in the Bluetooth & Devices section in the Settings on your PC. Microsoft does not record or store your camera sessions or any of the information displayed by your camera in any of the applications or products.
-
-**Get new photo notifications from your mobile device.** This feature allows you to receive notifications from your linked mobile device on your Windows PC. These photos are temporarily stored on your Windows PC while you are editing or opening those photos. You will need to initiate saving to your PC to store those photos until you decide to delete them. We never store your photos on our servers or change or delete any photos on your mobile device.
-
-**Show your mobile device in File Explorer and device name in Windows Share.** This feature allows you to access your mobile device’s files in File Explorer. You can enable this feature under “Mobile Devices” in the Bluetooth & Devices section in the Settings on your PC. Microsoft will not store your file contents in its services.
-
-You can also enable access to your linked mobile device through Windows Share. You can turn on this feature in Settings > Bluetooth & devices > Mobile devices. Once enabled, your linked devices are visible in Windows, allowing you to share files and folders between your PC and your mobile device. 
+**Location sharing.** You can access location information from your mobile device after you choose to enable this feature. Because many Windows PCs do not include built-in GPS hardware, location information from your mobile device can help provide location-based experiences on your PC. Microsoft processes location data in accordance with the Microsoft Privacy Statement and uses it to provide and support the location-based experiences you choose to use.
 
 [Back to top](#)
 
