@@ -66,8 +66,8 @@ Below is a list of cookies used on our Service:
 | xAI | gtm\_test | Service Functionality | 7 days | accounts.x.ai | Essential |
 | xAI | \_\_Host-id-token-nonce | Security | 12 hours | grok.com | Essential |
 | Google (Sign-In) | g\_state | Service Functionality | 6 Months | grok.com | Essential |
-| OneTrust | OptanonConsent | Consent Management | 1 year | x.ai, accounts.x.ai, console.x.ai | Essential |
-| OneTrust | OptanonAlertBoxClosed | Consent Management | 1 year | x.ai, accounts.x.ai, console.x.ai | Essential |
+| OneTrust | OptanonConsent | Consent Management | 1 year | .grok.com, x.ai, accounts.x.ai, console.x.ai | Essential |
+| OneTrust | OptanonAlertBoxClosed | Consent Management | 1 year | .grok.com, x.ai, accounts.x.ai, console.x.ai | Essential |
 | Castle | \_\_cuid | Fraud Detection | 13 Months | accounts.x.ai, console.x.ai | Essential |
 | Stripe | \_\_stripe\_mid | Fraud Detection | 1 month | console.x.ai | Essential |
 | Stripe | \_\_stripe\_sid | Fraud Detection | 1 month | console.x.ai | Essential |
@@ -76,7 +76,7 @@ Below is a list of cookies used on our Service:
 | Thought Industries | authToken, authToken.sig, authTokenExpires, authTokenExpires.sig | Maintains authenticated learner sessions and verifies cookie integrity | Session | learn.grok.com | Essential |
 | Thought Industries | csrf-token, csrf-token.sig, koa.sess, koa.sess.sig | Maintains sessions and protects authentication against cross-site request forgery | Session | learn.grok.com | Essential |
 | Thought Industries | preview, preview.sig | Enforces learning-platform access controls and verifies cookie integrity | Session | learn.grok.com | Essential |
-| Mixpanel | mp\_<token>\_mixpanel | Analytics | 1 year | .x.ai | Non-Essential |
+| Mixpanel | mp\_<token>\_mixpanel | Analytics | 1 year | .grok.com, .x.ai | Non-Essential |
 | Mixpanel | mp\_<consumer-token>\_mixpanel | Analytics | 1 year | .x.ai | Non-Essential |
 | xAI | xai\_utm | Analytics | 1 day | accounts.x.ai | Non-Essential |
 | Hightouch | htjs\_anonymous\_id | Analytics | 1 year | .grok.com, x.ai | Non-Essential |
