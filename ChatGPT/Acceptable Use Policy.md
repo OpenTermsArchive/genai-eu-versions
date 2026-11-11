@@ -327,7 +327,7 @@ For instance, one must detail in a Foreword or Introduction (or some place simil
 
 Here is some stock language you may use to describe your creative process, provided it is accurate:
 
-> The author generated this text in part with GPT‑3, OpenAI’s large-scale language-generation model. Upon generating draft language, the author reviewed, edited, and revised the language to their own liking and takes ultimate responsibility for the content of this publication.
+> _The author generated this text in part with GPT‑3, OpenAI’s large-scale language-generation model. Upon generating draft language, the author reviewed, edited, and revised the language to their own liking and takes ultimate responsibility for the content of this publication._
 
 Research
 --------
