@@ -6,34 +6,62 @@ Europe privacy policy
 1\. Personal Data we collect
 
 *   [1\. Personal Data we collect](https://openai.com/policies/eu-privacy-policy/#personal-data-we-collect)
+    
 *   [2\. How we use Personal Data](https://openai.com/policies/eu-privacy-policy/#how-we-use-personal-data)
+    
 *   [3\. Disclosure of Personal Data](https://openai.com/policies/eu-privacy-policy/#disclosure-of-personal-data)
+    
 *   [4\. Retention](https://openai.com/policies/eu-privacy-policy/#retention)
+    
 *   [5\. Data controls](https://openai.com/policies/eu-privacy-policy/#data-controls)
+    
 *   [6\. Your rights](https://openai.com/policies/eu-privacy-policy/#your-rights)
+    
 *   [7\. Children](https://openai.com/policies/eu-privacy-policy/#children)
+    
 *   [8\. Security](https://openai.com/policies/eu-privacy-policy/#security)
+    
 *   [9\. Legal bases for processing](https://openai.com/policies/eu-privacy-policy/#legal-bases-for-processing)
+    
 *   [10\. Data transfers](https://openai.com/policies/eu-privacy-policy/#data-transfers)
+    
 *   [11\. Changes to the privacy policy](https://openai.com/policies/eu-privacy-policy/#changes-to-the-privacy-policy)
+    
 *   [12\. Data controller](https://openai.com/policies/eu-privacy-policy/#data-controller)
+    
 *   [13\. How to contact us](https://openai.com/policies/eu-privacy-policy/#how-to-contact-us)
+    
 *   [14\. Useful resources](https://openai.com/policies/eu-privacy-policy/#useful-resources)
+    
 
 *   [1\. Personal Data we collect](https://openai.com/policies/eu-privacy-policy/#personal-data-we-collect)
+    
 *   [2\. How we use Personal Data](https://openai.com/policies/eu-privacy-policy/#how-we-use-personal-data)
+    
 *   [3\. Disclosure of Personal Data](https://openai.com/policies/eu-privacy-policy/#disclosure-of-personal-data)
+    
 *   [4\. Retention](https://openai.com/policies/eu-privacy-policy/#retention)
+    
 *   [5\. Data controls](https://openai.com/policies/eu-privacy-policy/#data-controls)
+    
 *   [6\. Your rights](https://openai.com/policies/eu-privacy-policy/#your-rights)
+    
 *   [7\. Children](https://openai.com/policies/eu-privacy-policy/#children)
+    
 *   [8\. Security](https://openai.com/policies/eu-privacy-policy/#security)
+    
 *   [9\. Legal bases for processing](https://openai.com/policies/eu-privacy-policy/#legal-bases-for-processing)
+    
 *   [10\. Data transfers](https://openai.com/policies/eu-privacy-policy/#data-transfers)
+    
 *   [11\. Changes to the privacy policy](https://openai.com/policies/eu-privacy-policy/#changes-to-the-privacy-policy)
+    
 *   [12\. Data controller](https://openai.com/policies/eu-privacy-policy/#data-controller)
+    
 *   [13\. How to contact us](https://openai.com/policies/eu-privacy-policy/#how-to-contact-us)
+    
 *   [14\. Useful resources](https://openai.com/policies/eu-privacy-policy/#useful-resources)
+    
 
 ([Previous version⁠](https://openai.com/policies/eu-privacy-policy/revisions/2026-06-04/))
 
@@ -317,12 +345,18 @@ Learn more about how OpenAI uses content from our services to improve and train 
 Services for individuals, such as ChatGPT, Sora, and Operator
 
 *   [Services for individuals, such as ChatGPT, Sora, and Operator](https://openai.com/policies/how-your-data-is-used-to-improve-model-performance/#services-for-individuals-such-as-chatgpt-sora-and-operator)
+    
 *   [Services for businesses, such as ChatGPT Team, ChatGPT Enterprise, and our API Platform](https://openai.com/policies/how-your-data-is-used-to-improve-model-performance/#services-for-businesses-such-as-chatgpt-team-chatgpt-enterprise-and-our-api-platform)
+    
 *   [What the process looks like](https://openai.com/policies/how-your-data-is-used-to-improve-model-performance/#what-the-process-looks-like)
+    
 
 *   [Services for individuals, such as ChatGPT, Sora, and Operator](https://openai.com/policies/how-your-data-is-used-to-improve-model-performance/#services-for-individuals-such-as-chatgpt-sora-and-operator)
+    
 *   [Services for businesses, such as ChatGPT Team, ChatGPT Enterprise, and our API Platform](https://openai.com/policies/how-your-data-is-used-to-improve-model-performance/#services-for-businesses-such-as-chatgpt-team-chatgpt-enterprise-and-our-api-platform)
+    
 *   [What the process looks like](https://openai.com/policies/how-your-data-is-used-to-improve-model-performance/#what-the-process-looks-like)
+    
 
 One of the most useful and promising features of AI models is that they can improve over time. We continuously improve our models through research breakthroughs as well as exposure to real-world problems and data. When you share your content with us, it helps our models become more accurate and better at solving your specific problems and it also helps improve their general capabilities and safety. ChatGPT, for instance, improves by further training on the conversations people have with it, unless you [opt out⁠](https://help.openai.com/en/articles/7730893-data-controls-faq).
 
