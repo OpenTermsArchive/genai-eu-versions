@@ -1,7 +1,7 @@
 Perplexity Terms of Service
 ===========================
 
-**Last updated: January 23rd, 2026**
+Last updated 23 January 2026
 
 Welcome to the Terms of Service (these “Terms”) for Perplexity AI, Inc.’s (“Company”, “we” or “us”) websites, [www.perplexity.ai](https://www.perplexity.ai/) and [https://labs.perplexity.ai](https://labs.perplexity.ai/) (the “Websites”), artificial-intelligence powered search engine (the “Perplexity Engine”), related mobile application (the “App”), and any content, tools, features and functionality offered on or through our Website, the Perplexity Engine and the App (collectively, the “Services”). These Terms do not govern use of the Company’s APIs (which are governed by the Perplexity API Terms of Service located here: [https://www.perplexity.ai/hub/legal/perplexity-api-terms-of-service](https://www.perplexity.ai/hub/legal/perplexity-api-terms-of-service)) or Perplexity Pro for Enterprise (which is governed by the Perplexity Pro for Enterprise Terms located here: ([https://www.perplexity.ai/hub/legal/enterprise-terms-of-service](https://www.perplexity.ai/hub/legal/enterprise-terms-of-service)).
 
