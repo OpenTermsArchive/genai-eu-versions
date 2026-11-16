@@ -1,7 +1,7 @@
 Perplexity Acceptable Use Policy
 ================================
 
-**Last updated: July 8th, 2025**
+Last updated 8 July 2025
 
 Thank you for choosing to use Perplexity (the “Services”). At Perplexity AI, Inc. (“Perplexity”), we are committed to lawful, safe and responsible artificial intelligence development and use, which this Acceptable Use Policy (this “Policy”) is designed to promote.
 
