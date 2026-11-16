@@ -1,9 +1,9 @@
 Perplexity Data Processing Addendum
 ===================================
 
-We’ve made a few updates to keep our subprocessor information easy to find and we’ve clarified how you’ll hear about additions, either through an in-product notification or by email. We encourage you to review and stay informed about how we operate and treat your data.
+Last updated 13 August 2026
 
-**Last Updated: August 13, 2026**
+We’ve made a few updates to keep our subprocessor information easy to find and we’ve clarified how you’ll hear about additions, either through an in-product notification or by email. We encourage you to review and stay informed about how we operate and treat your data.
 
 This Data Processing Addendum (“DPA”) forms part of and is incorporated into any terms of service or other agreement between Perplexity AI, Inc. (“Perplexity”) and a business customer (“Customer”) that expressly references it (each such agreement, as updated from time to time, an “Agreement”), governing Customer’s use of Perplexity’s services (the “Services”). For purposes of this DPA, “Services” means any Perplexity products, features, APIs, tools, or other offerings made available to Customer under the Agreement, including any future products, features, or updates that are governed by terms that incorporate this DPA by reference. Certain Services (including but not limited to the Embeddings API and Perplexity Search) may operate under data postures that differ from this DPA, and with respect to those Services and the treatment of data processed through them, the applicable product-specific terms shall govern and control over this DPA. To the extent that Perplexity processes any Personal Data in connection with Customer’s use of the Services, this DPA sets forth Customer’s instructions for the processing of such Personal Data and the rights and obligations of both Parties. Except as expressly set forth in this DPA, the Agreement shall remain unmodified and in full force and effect. In the event of any conflicts between this DPA and the Agreement, the DPA shall control.
 
