@@ -1,7 +1,7 @@
 Perplexity API Terms of Service
 ===============================
 
-**Last updated: January 23, 2026**
+Last updated 23 January 2026
 
 Thank you for choosing to use the Sonar by Perplexity and/or Agentic Research application programming interface (“API”) services (the “Services”). Please carefully read these Terms and Conditions (“Agreement”), which form a binding contract between the organization on whose behalf you are accessing or using the Services (“Customer”) and Perplexity AI, Inc. (“Perplexity”), before using the Services. **By accessing or using the Services you agree, on behalf of Customer, that Customer is bound by this Agreement.**
 
