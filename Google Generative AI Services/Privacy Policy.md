@@ -1022,15 +1022,15 @@ The Gemini Apps referred to in the [Gemini Apps Privacy Notice](https://support.
 *   The Gemini mobile apps, which include:
     *   The [Gemini app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard), including [as your default digital assistant](https://support.google.com/gemini/answer/14554984), on Android phones and paired devices. Note that Gemini is hosted by the Google app, even if you download [the Gemini app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard) ![](//lh3.googleusercontent.com/fqTyQSL82VVyKSP-iEDozGBeOLhGbqzKchkmp14SzSXMIoZnpoMTpO8vrGPx7AnbdxY2=h36).
     *   The [Gemini app](https://apps.apple.com/us/app/google-gemini/id6477489729) on iOS, including Gemini in Apple CarPlay.
-*   Gemini app on MacOS.
-*   Gemini app on Windows
+*   Gemini app on macOS.
+*   Gemini app on Windows.
 *   Gemini in the Google Messages app in [specific locations](https://support.google.com/gemini/answer/14599070#countries).
 *   Gemini in Android Auto.
 *   Gemini in [Google Built-in](https://support.google.com/built-in/answer/16518944).
 *   Gemini on Google TV on [devices updated to the new Gemini experience](https://support.google.com/googletv/answer/16522213).
 *   Gemini in Navigation.
 *   The [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome) feature. [Learn more about availability](https://support.google.com/gemini/answer/16283624).
-*   [Gemini on Android XR](https://play.google.com/store/apps/details?id=com.google.android.apps.bard&pli=1).
+*   [Gemini app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard&pli=1) on Android XR.
 
 “Gemini Apps” are also sometimes referred to as the “Gemini app” or “Gemini.” If you have a work or school Google Account, your use of Gemini Apps may be subject to different data handling terms. [Learn more in the Generative AI in Google Workspace Privacy Hub.](https://support.google.com/a/answer/15706919)
 
@@ -1452,10 +1452,10 @@ When you assign Gemini a task using the Gemini app on macOS, Gemini can also int
 
 When you assign Gemini a task, Gemini uses info from your tasks, schedules, skills, remote browser, remote computer, and any other available sources, like Connected Apps, connected folders, Personal Intelligence, and info from websites it interacts with, including those you are logged into.
 
-*   **Remote browser:** Gemini processes information from your browser session, like cookies that contain your website authentication info, and page content. If you choose to sign in to a website using Google Password Manager, Gemini asks Google Password Manager to help fill your selected username and password in the remote browser. Your password is only used to help sign you in to that site.
+*   **Remote browser:** Gemini saves and processes information from your browser session, like cookies that contain your website authentication info, and page content. If you choose to sign in to a website using Google Password Manager, Gemini asks Google Password Manager to help fill your selected username and password in the remote browser.
 *   **Remote computer:** Gemini saves and executes .md files, code, and other information related to your tasks. This saved information can include data you find sensitive from sources like Personal Intelligence and Connected Apps that Gemini used to understand and process your tasks.
 
-This data is used consistently with the [Gemini Apps Privacy Notice](#privacy_notice), including to make it easier for you to use the remote browser and remote computer in future chats. You can delete this data at any time in [your Task settings in Gemini](https://gemini.google.com/gemini-spark).
+Because your remote browser and remote computer carry over across your tasks, info you or Gemini uses across sessions will accumulate so you do not have to re-enter them each time. This data is used consistently with the [Gemini Apps Privacy Notice](#privacy_notice), including to make it easier for you to use the remote browser and remote computer in future chats. You can delete this data at any time in [your Task settings in Gemini](https://gemini.google.com/gemini-spark).
 
 #### What data is shared
 
@@ -1465,13 +1465,15 @@ If you use Google Password Manager to sign in to a third-party website, Gemini w
 
 #### How to control & manage your data
 
+Remote browser and remote computer data is saved for your convenience. This data remains on the remote browser and remote computer until a period of inactivity or until you manually clear it in [your Task settings](https://gemini.google.com/gemini-spark).
+
 **Remote browser:** You can interrupt Gemini’s actions on the remote browser by selecting Stop ![](//lh3.googleusercontent.com/oUuvfQv_WUbsvIhwd3LX03hooJJL-ES3IeYPU7vATeCq0K9v0fbhcwuFD4UsjNbIaDQ=h36) in the prompt text box or **Take Control** ![](//lh3.googleusercontent.com/l-2D5NJu8xBUbiDRvPA5bR7KBU9wRHG4PkUR-1k3NfCeai3PjncG4_1WFhgMpFwXIXE=h36) in the remote browser. [Learn how to take control of Gemini's browser](https://support.google.com/gemini/answer/16596215#monitor).
 
 You can also delete remote browser data in [your Task settings](https://gemini.google.com/gemini-spark). This will sign you out of all sites in the remote browser.
 
 Google Password Manager only fills your saved username and password when you approve it for a specific website. Once you are signed in, your session on that website remains active in the remote browser until it expires or you delete your remote browser data in Task settings.
 
-**Remote computer:** You can manage or clear your code execution history and files directly within [your Task settings](https://gemini.google.com/gemini-spark).
+**Remote computer:** Deleting your Gemini Apps activity doesn’t delete your remote code execution data. You can manage or clear your code execution history and files directly within [your Task settings](https://gemini.google.com/gemini-spark).
 
 What happens to my data when I text with Gemini for tasks?
 
