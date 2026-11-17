@@ -818,7 +818,7 @@ Table of contents
     *   [Requesting content removal and exporting your information](#pn_remove_export)
     *   [Other things to know](#pn_things_to_know)
     *   [Respect others’ rights](#pn_respect_rights)
-*   **[Privacy questions](#privacy_questions)**
+*   **[Questions](#privacy_questions)**
     *   **[General](#general)**
         *   [What are Gemini Apps?](#gemini_apps)
         *   [How can I object to the processing of my data or ask for inaccurate data in Gemini Apps’ responses to be corrected?](#right_to_object)
@@ -839,8 +839,8 @@ Table of contents
         *   [How do I know if Gemini Apps have access to and are using my precise location?](#precise_location)
         *   [How do I manage my mobile permissions when Gemini is my device assistant?](#mobile_permissions)
         *   [What do the browser & app permission choices mean?](#browser_app_permissions)
-    *   **[Uploads](#files)**
-        *   [How does Google work with my uploaded images?](#uploaded_images)
+    *   **[Attachments](#files)**
+        *   [How does Google work with my attached images?](#uploaded_images)
         *   [What happens when I share a photo or video from a media gallery connected app with Gemini Apps?](#google_photos_content)
     *   **[Connected Apps in Gemini](#extensions)**
         *   [What happens with my data that Gemini, Connected Apps, and other services exchange?](#data_exchange)
@@ -848,6 +848,7 @@ Table of contents
         *   [How is my data used to make calls & send messages with Connected Apps in Gemini?](#comms_ext)
     *   **[Tasks in Gemini](#gemini_agent)**
         *   [How does Gemini use my data with the remote browser and remote computer?](#agent_browser_data)
+        *   [What happens to my data when I text with Gemini for tasks?](#text_data)
         *   [What happens when you turn off task mode?](#turn_off_spark)
     *   **[Gemini Live](#gemini_live)**
         *   [How does Google work with Gemini Live data?](#live_data)
@@ -962,7 +963,7 @@ You can visit [your Google Account](https://account.google.com/) to manage your 
 *   Manage public links in [Your Public Links](https://gemini.google.com/sharing).
 *   Manage Gemini Apps’ access to other apps and data (including third-party services such as Model Context Protocol server tools) in [Connected Apps](https://support.google.com/gemini?p=pn_manage_ext) settings.
 *   Manage [info you have asked Gemini to save](https://gemini.google.com/saved-info).
-*   Manage your [Task settings](https://gemini.google.com/gemini-spark).
+*   Manage your [Task settings](https://gemini.google.com/gemini-spark) (including any linked phone numbers).
 *   Learn more about how to manage personalization features, including personalization with [Memory](https://support.google.com/gemini?p=pn_past_chats) and [Personal Intelligence](https://support.google.com/gemini?p=pn_pi_consent).
 *   You can use Gemini, hosted by the Google app, as your device assistant on Android. [Learn more](https://support.google.com/gemini?p=manage_app_permissions) about how to manage your Google app permissions (such as device location, microphone, notification permissions, and camera permissions).
 *   [Learn more](https://support.google.com/gemini?p=pn_mobile_app_settings) about how to manage your Gemini mobile app settings.
@@ -974,13 +975,14 @@ How long we retain your data
 
 We retain your data for different periods of time, depending on what it is and how we use it, as explained in Google's [Privacy Policy](https://policies.google.com/privacy) and [How Google Retains Data We Collect](https://policies.google.com/technologies/retention).
 
-*   You can [change your auto-delete setting](https://support.google.com/gemini?p=pn_auto_delete) in Gemini Apps Activity from the default of 18 months to 3 months, 36 months, or indefinite. You can also [manually delete](https://support.google.com/gemini?p=pn_delete_activity) your Gemini Apps chats anytime.
-*   Chats reviewed by human reviewers (and related data like your language, device type, location info, or feedback) are not deleted when you delete your activity. Instead, they are retained for up to three years.
+*   You can [change your auto-delete setting](https://support.google.com/gemini?p=pn_auto_delete) in Gemini History from the default of 18 months to 3 months, 36 months, or indefinite. You can also [manually delete](https://support.google.com/gemini?p=pn_delete_activity) your Gemini Apps chats anytime.
+*   Chats reviewed by human reviewers (and related data like your language, device type, location info, or feedback) are not deleted when you delete your history. Instead, they are retained for up to three years.
 *   We keep some data until you delete your Google Account, such as information about how often you use Gemini Apps.
 *   We retain some data for longer when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping.
-*   When you use Gemini with other Google services (like Wallet or YouTube), they may save and use activity according to their own policies and the [Google Privacy Policy](https://policies.google.com/privacy). Deleting your Gemini Apps activity does not delete data saved in those other services.
+*   When you use Gemini with other Google services (like Wallet or YouTube), they may save and use activity according to their own policies and the [Google Privacy Policy](https://policies.google.com/privacy). Deleting your Gemini history does not delete data saved in those other services.
 *   Even if [Gemini History](https://myactivity.google.com/product/gemini?utm_source=help) is turned off, future chats will still be saved for around 2 months and used to respond to you, process your feedback, and protect Google, its users, and the public, with help from human reviewers.
 *   Deleting history doesn’t delete remote browser data or remote code execution data. [Learn more about your choices](https://support.google.com/gemini?p=lm_agent_choices).
+*   Deleting history doesn’t delete your texts or messages with Gemini from your messaging app or carrier.
 
 Learn more about Google’s [data retention periods](https://policies.google.com/technologies/retention), including how long it takes us to delete your information.
 
@@ -995,6 +997,7 @@ Other things to know
 *   Supervise Gemini’s web browsing and tasks closely and interrupt if needed.
 *   Google does not monitor or secure data from custom third-party Connected Apps. Choosing to connect them may expose your data, passwords, devices, and accounts to unauthorized access.
 *   Don’t rely on Gemini Apps for diagnosis, treatment, medical advice, or legal, financial, or other professional help. Its output is for informational purposes only.
+*   Texts to Gemini may be accessible by your carrier, subject to their privacy policy and terms.
 
 Learn more in the [Gemini Apps Privacy Hub](https://support.google.com/gemini?p=privacy_help) and [Google Privacy Policy](https://policies.google.com/privacy).
 
@@ -1002,8 +1005,8 @@ Respect others’ rights
 
 Please [respect others' rights](https://policies.google.com/terms/generative-ai/use-policy) when using Gemini. Get permission before recording people in a Live chat, or using their faces or voices in Gemini. Only upload, generate, and edit content you have rights and permissions to.
 
-Privacy questions
------------------
+Questions
+---------
 
 **Last updated:** November 16, 2026
 
@@ -1173,8 +1176,8 @@ Your future chats won’t appear in your History.
 *   [Some Connected Apps](https://support.google.com/gemini/answer/13695044) are unavailable when this setting is off.
 *   Other settings like [Search Services History](https://support.google.com/websearch/answer/54068) or [Timeline](https://support.google.com/accounts/answer/14200149) may continue to save data related to your use of other Google services.
 *   Deleting history doesn’t delete remote browser data or remote code execution data. [Learn more about your choices](https://support.google.com/gemini?p=lm_agent_choices).
-*   Deleting history doesn’t delete data from other Google services. [Learn more about how Google services retain data](https://policies.google.com/technologies/retention?utm_source=gemini_connected_content_apps&utm_medium=connected_content_apps_setting_flow).  
-     
+*   Deleting history doesn’t delete data from other Google services. [Learn more about how Google services retain data](https://policies.google.com/technologies/retention?utm_source=gemini_connected_content_apps&utm_medium=connected_content_apps_setting_flow).
+*   Deleting history does not delete your texts with Gemini from your messaging app or carrier.
 
 You can [manage this setting](https://support.google.com/gemini/answer/13278892) anytime.
 
@@ -1351,9 +1354,9 @@ What do the browser & app permission choices mean?
 
 You can control how often Gemini asks for your permission before taking actions. Choose the setting that fits your comfort level: “Don’t allow,” “Allow once,” “Allow for this chat,” and “Always allow.” You can change them any time. [Learn how to manage and control your permission settings](https://support.google.com/gemini/answer/18766567#connected_apps_permissions).
 
-### Uploads
+### Attachments
 
-How does Google work with my uploaded images?
+How does Google work with my attached images?
 
 #### How images in prompts work
 
@@ -1401,6 +1404,7 @@ Some Connected Apps such as Phone, Messages, WhatsApp, and Device assistance are
 #### Things to know
 
 *   If you ask Gemini Apps to change shared content or control shared devices in other services, those actions may be visible to anyone with access to that shared content or device.
+*   If you text with Gemini for tasks, your texts–which could include information from your Connected Apps (such as Gmail, Drive, Docs, Calendar, and Photos)–may be accessible by your carrier and will be handled subject to their privacy policy and terms.
 *   Before connecting a custom third-party Model Context Protocol (MCP) server to add a custom connected app, make sure you trust that third-party and understand the supported actions. Google does not control, monitor, or secure these servers.
 
 How can I allow Gemini to personalize my experience with my data from Connected Apps?
@@ -1468,6 +1472,12 @@ You can also delete remote browser data in [your Task settings](https://gemini.g
 Google Password Manager only fills your saved username and password when you approve it for a specific website. Once you are signed in, your session on that website remains active in the remote browser until it expires or you delete your remote browser data in Task settings.
 
 **Remote computer:** You can manage or clear your code execution history and files directly within [your Task settings](https://gemini.google.com/gemini-spark).
+
+What happens to my data when I text with Gemini for tasks?
+
+Texts between you and Gemini for tasks are sent over RCS Business Messaging and are not end-to-end encrypted. These texts may be accessible by your carrier, subject to their privacy policy and terms, and could include information from your Connected Apps (such as Gmail, Drive, Docs, Calendar, and Photos).
+
+Please don’t enter confidential information that you wouldn’t want your mobile carrier to see.
 
 What happens when you turn off task mode?
 
