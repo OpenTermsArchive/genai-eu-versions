@@ -799,7 +799,7 @@ _close_
 
 - - -
 
-### **Last updated:** November 17, 2026
+### **Last updated:** November 19, 2026
 
 Table of contents
 -----------------
@@ -1008,7 +1008,7 @@ Please [respect others' rights](https://policies.google.com/terms/generative-ai/
 Questions
 ---------
 
-**Last updated:** November 17, 2026
+**Last updated:** November 19, 2026
 
 [Expand all](#privacy_questions&gemini_apps&right_to_object&legal_basis&ads&human_review&retention&feedback&keep_activity_setting&audio_live&saved_info&past_chats&signed_out&location_info&precise_location&assistant_data&mobile_permissions&uploaded_images&google_photos_content&data_exchange&app_data_personalization&comms_ext&agent_browser_data&turn_off_spark&live_data&chrome_data&mydata_screen_automation&mydata_agentic_calling&shopping_cart&shopping_data&gems_from_labs_data&import_chats&notebook_data&avatar_data&canvas_data&janus_stw&tos) [Collapse all](https://support.google.com/gemini/answer/13594961#privacy_questions)
 
@@ -1328,7 +1328,7 @@ How to check in:
 *   [The Gemini mobile app on an iPhone or iPad](https://support.google.com/gemini/answer/14554984?co=GENIE.Platform%3DiOS&oco=0#location) 
 *   [Gemini on Watch on a WearOS device](https://support.google.com/gemini/answer/16401122#location)
 *   [Gemini in Chrome](https://support.google.com/gemini/answer/16283624#config_settings)
-*   [Google Built-In](https://support.google.com/built-in/answer/16516528#zippy=%2Cgemini%2Cturn-precise-location-on-or-off)
+*   [Gemini in Google Built-In](https://support.google.com/built-in/answer/16516528#zippy=%2Cgemini%2Cturn-precise-location-on-or-off)
 
 Gemini may receive your precise location data from another Google service, like Android Auto, to fulfill your request even if the precise location settings above are off. [Learn how to turn off precise location in Android Auto](https://support.google.com/accounts/answer/3467281).
 
@@ -1498,7 +1498,7 @@ What happens when you turn off task mode?
 
 How does Google work with Gemini Live data?
 
-Recordings and transcripts of your interactions with Gemini Live, as well as other content you share with Gemini Live, are processed per the [Gemini Apps Privacy Notice](#privacy_notice) and stored in [Gemini History](https://myactivity.google.com/product/gemini?utm_source=help) if your [History](https://myactivity.google.com/product/gemini?utm_source=help) setting is on. You can [manage and delete your Gemini history](https://support.google.com/gemini/answer/13278892) anytime.
+If [History](https://myactivity.google.com/product/gemini?utm_source=help) is on, your Gemini Live audio, transcripts, and attachments, as well as your [video & screenshares](https://support.google.com/gemini/answer/15274899#ss_vid) from the mobile app, are saved in History.
 
 If History is off, your Gemini Live chats are stored in your Google Account for around two months so Google can provide the service, process any feedback, and protect Google, its users, and the public. [Learn more](#retention).
 
