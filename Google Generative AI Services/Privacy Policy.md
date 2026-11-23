@@ -799,7 +799,7 @@ _close_
 
 - - -
 
-### **Last updated:** November 19, 2026
+### **Last updated:** November 23, 2026
 
 Table of contents
 -----------------
@@ -1008,7 +1008,7 @@ Please [respect others' rights](https://policies.google.com/terms/generative-ai/
 Questions
 ---------
 
-**Last updated:** November 19, 2026
+**Last updated:** November 23, 2026
 
 [Expand all](#privacy_questions&gemini_apps&right_to_object&legal_basis&ads&human_review&retention&feedback&keep_activity_setting&audio_live&saved_info&past_chats&signed_out&location_info&precise_location&assistant_data&mobile_permissions&uploaded_images&google_photos_content&data_exchange&app_data_personalization&comms_ext&agent_browser_data&turn_off_spark&live_data&chrome_data&mydata_screen_automation&mydata_agentic_calling&shopping_cart&shopping_data&gems_from_labs_data&import_chats&notebook_data&avatar_data&canvas_data&janus_stw&tos) [Collapse all](https://support.google.com/gemini/answer/13594961#privacy_questions)
 
