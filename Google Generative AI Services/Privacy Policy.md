@@ -799,7 +799,7 @@ _close_
 
 - - -
 
-### **Last updated:** November 23, 2026
+### **Last updated:** November 24, 2026
 
 Table of contents
 -----------------
@@ -842,7 +842,7 @@ Table of contents
     *   **[Attachments](#files)**
         *   [How does Google work with my attached images?](#uploaded_images)
         *   [What happens when I share a photo or video from a media gallery connected app with Gemini Apps?](#google_photos_content)
-    *   **[Connected Apps in Gemini](#extensions)**
+    *   **[Connected Apps and Gemini](#extensions)**
         *   [What happens with my data that Gemini, Connected Apps, and other services exchange?](#data_exchange)
         *   [How can I allow Gemini to personalize my experience with my data from Connected Apps?](#app_data_personalization)
         *   [How is my data used to make calls & send messages with Connected Apps in Gemini?](#comms_ext)
@@ -1008,7 +1008,7 @@ Please [respect others' rights](https://policies.google.com/terms/generative-ai/
 Questions
 ---------
 
-**Last updated:** November 23, 2026
+**Last updated:** November 24, 2026
 
 [Expand all](#privacy_questions&gemini_apps&right_to_object&legal_basis&ads&human_review&retention&feedback&keep_activity_setting&audio_live&saved_info&past_chats&signed_out&location_info&precise_location&assistant_data&mobile_permissions&uploaded_images&google_photos_content&data_exchange&app_data_personalization&comms_ext&agent_browser_data&turn_off_spark&live_data&chrome_data&mydata_screen_automation&mydata_agentic_calling&shopping_cart&shopping_data&gems_from_labs_data&import_chats&notebook_data&avatar_data&canvas_data&janus_stw&tos) [Collapse all](https://support.google.com/gemini/answer/13594961#privacy_questions)
 
@@ -1086,7 +1086,11 @@ Google’s legal bases are:
 
 Do you use my Gemini Apps chats to show me ads?
 
-Your Gemini Apps chats are not being used to show you ads. If this changes, we will clearly communicate it to you.
+By default, your Gemini Apps chats are not being used to show you ads. If this changes, we will clearly communicate it to you.
+
+(Coming soon) Eligible users can connect Gemini chats as a Google content app when using Personal Intelligence in AI Mode. If you use Personal Intelligence in AI Mode and choose to connect Gemini chats, Search services will process Gemini chats data to personalize your Search services experience or do things for you as [explained in more detail here](https://support.google.com/gemini/answer/16598406#pi_apps).
+
+This means Gemini chats data may also be used to show you ads, which may be personalized depending on your settings. [Learn more about connecting Google content apps to Search services](https://support.google.com/websearch/answer/16859283).
 
 To learn about how we keep our users’ data private, safe, and secure, read our [Privacy and Security Principles](https://safety.google/principles/).
 
@@ -1104,9 +1108,11 @@ We take your privacy seriously, and we do not sell your personal information to 
 
 #### How you can control what’s shared with reviewers
 
-You can stop your future chats from being reviewed to train generative AI models anytime in your [Gemini History](https://myactivity.google.com/product/gemini?utm_source=help) settings. Learn more about how to manage your settings. You can also use [temporary chats](https://support.google.com/gemini/answer/13275745#temp_chats), which are not used to train generative AI models with help from human reviewers. [Learn more about temporary chats](#retention).
+You can stop your future chats from being reviewed to train generative AI models anytime in your [Gemini History](https://myactivity.google.com/product/gemini?utm_source=help) settings. [Learn more about how to manage your settings](https://support.google.com/gemini/answer/13278892). You can also use [temporary chats](https://support.google.com/gemini/answer/13275745#temp_chats), which are not used to train generative AI models with help from human reviewers. [Learn more about temporary chats](#retention).
 
 Regardless of your settings, Google uses your chats to respond to you and help protect Google, our users, and the public, including with help from human reviewers.
+
+(Coming soon) If you use Personal Intelligence in AI Mode and choose to connect Gemini chats, data from Gemini Apps is retained, shared and used by Search services according to the [Google Privacy Policy,](https://policies.google.com/privacy?utm_source=search_connected_content_apps&utm_medium=connected_content_apps_setting_flow) and may be reviewed by humans. Your data can be used by Search services to train generative AI models, depending on your Search services settings.
 
 How long does Google retain my temporary chats and chats I have when my History setting is off, and what does Google do with this data?
 
@@ -1178,6 +1184,7 @@ Your future chats won’t appear in your History.
 *   Deleting history doesn’t delete remote browser data or remote code execution data. [Learn more about your choices](https://support.google.com/gemini?p=lm_agent_choices).
 *   Deleting history doesn’t delete data from other Google services. [Learn more about how Google services retain data](https://policies.google.com/technologies/retention?utm_source=gemini_connected_content_apps&utm_medium=connected_content_apps_setting_flow).
 *   Deleting history does not delete your texts with Gemini from your messaging app or carrier.
+*   You can’t  connect Gemini chats to Personal Intelligence in AI Mode when History is off.
 
 You can [manage this setting](https://support.google.com/gemini/answer/13278892) anytime.
 
@@ -1366,7 +1373,7 @@ What happens when I share a photo or video from a media gallery connected app wi
 
 If you share a photo or video from a media gallery connected app (like Google Photos) with Gemini Apps, your photo or video is processed according to the [Gemini Apps Privacy Notice](#privacy_notice). This means, for example, that if you use [screen actions](https://support.google.com/gemini/answer/15850607) or the [Gemini attachment feature](https://support.google.com/gemini/answer/14903178) to share a photo or video from a media gallery app with Gemini Apps, and if your [History](https://myactivity.google.com/product/gemini?utm_source=help) setting is on, your photo or video is used to improve Google services with the help of human reviewers. [Learn more about the History setting](#).
 
-### Connected Apps in Gemini
+### Connected Apps and Gemini
 
 What happens with my data that Gemini, Connected Apps, and other services exchange?
 
@@ -1386,6 +1393,8 @@ Data shared between Gemini and Connected Apps plus other Google services include
 Gemini uses data from Connected Apps per the [Gemini Apps Privacy Notice](#privacy_notice), including to give you tailored help, find info for you, and help you get more done. 
 
 Data that Gemini shares with other Google services is used per the [Google Privacy Policy](https://policies.google.com/privacy), including for product improvement. When you ask Gemini to do things for you, Gemini shares necessary data with others on your behalf to help complete your tasks. Third-party apps use data from Gemini consistent with their own privacy policies and terms.
+
+(Coming soon) Eligible users can connect Gemini chats as a Google content app when using Personal Intelligence in AI Mode. If you use Personal Intelligence in AI Mode and choose to connect Gemini chats, Search services will process Gemini chats data to personalize your Search services experience or do things for you. This means Gemini chats data may also be used to show you ads, which may be personalized depending on your settings. [Learn more about connecting Google content apps to Search services](https://support.google.com/websearch/answer/16859283).
 
 #### How to manage your Connected Apps
 
@@ -1550,27 +1559,27 @@ Learn more about [how you can use Gemini to get tasks done with screen automatio
 
 What happens to my data when I use Gemini's agentic calling capability?
 
-On eligible Pixel devices, the Gemini mobile app can make calls on your behalf to help with tasks, like booking reservations at a restaurant or checking product availability at a store. [Learn how to use Gemini to make calls](https://support.google.com/gemini/answer/18336420).
+Gemini can make calls on your behalf to help with tasks, like booking reservations at a restaurant or checking product availability at a store. [Learn how to use Gemini to make calls on Pixel phones](https://support.google.com/gemini/answer/18336420) and [from the Gemini web and mobile apps](https://support.google.com/gemini/answer/18961634).
 
 #### You control the information Gemini will share on the call
 
-Before making a call, Gemini will confirm the information it plans to share with the other party. Depending on the task, this may include your name, email address, phone number, or other relevant details needed to complete your request. You must review this info and agree before Gemini will initiate the call.
+Before making a call, Gemini will confirm the information it plans to share with the other party. Depending on the task, this may include your name, email address, phone number, or other relevant details needed to complete your request. You must review this info and confirm before Gemini will initiate the call.
 
-During a call, Gemini will not share sensitive personal information like credit card numbers, passwords, or health information.
+During a call, Gemini will not share sensitive personal information like credit card numbers, passwords, or health information. Gemini may complete tasks on your behalf, like booking appointments or restaurant reservations. You remain responsible for resulting charges, such as cancellation fees.
 
 #### How data is used
 
-Google uses the transcripts from these calls to generate call summaries and to display your past calling history within the Gemini app. We don’t use these audio recordings or transcripts to train Google's AI models.
+Google uses the transcripts from these calls to generate call summaries, to display your past calling history within Gemini, and otherwise consistently with the [Gemini Apps Privacy Notice](https://support.google.com/gemini/answer/13594961?hl=en#privacy_notice). We don’t use these audio recordings or transcripts to train Google's AI models.
 
 #### How data is stored
 
-*   **On Google servers:** Transcripts are sent to and securely stored on Google servers. Google does not store your audio recordings on its servers.
-*   **On your device:** A copy of the call transcript and audio recording is saved locally in your Phone by Google app's call history.
+*   **On Google servers:** Transcripts are sent to and securely stored on Google servers. When Gemini places a call using a Google virtual number, the audio recording is also stored on Google servers. Google does not otherwise store your audio recordings on its servers.
+*   **On your device (for calls made using the Phone by Google app):** A copy of the call transcript and audio recording is saved locally in your Phone by Google app's call history.
 
 #### You’re in control
 
 *   Your calling history is available in your Gemini History and used per the [Gemini Apps Privacy Notice](#privacy_notice). You can find and delete it at any time. [Learn how to delete your Gemini history](https://support.google.com/gemini/answer/13278892).
-*   You can also delete your call history, transcripts, and recordings directly in the Phone by Google app.
+*   For calls made using the Phone by Google app, you can also delete your call history, transcripts, and recordings directly in the Phone by Google app.
 
 ### Shopping
 
