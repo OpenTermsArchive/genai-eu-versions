@@ -1507,17 +1507,17 @@ What happens when you turn off task mode?
 
 How does Google work with Gemini Live data?
 
+**Gemini Live data stored in your Gemini History**
+
 If [History](https://myactivity.google.com/product/gemini?utm_source=help) is on, your Gemini Live audio, transcripts, and attachments, as well as your [video & screenshares](https://support.google.com/gemini/answer/15274899#ss_vid) from the mobile app, are saved in History.
 
-If History is off, your Gemini Live chats are stored in your Google Account for around two months so Google can provide the service, process any feedback, and protect Google, its users, and the public. [Learn more](#retention).
+**You control whether your Gemini Live data is used to train generative AI models**
 
-#### Gemini Live transcripts and attachments
+depending on your settings in [Gemini History](https://myactivity.google.com/product/gemini?utm_source=help), transcripts of your Live chats and attachments you share with Gemini Live are used to train generative AI models.
 
-If [History](https://myactivity.google.com/product/gemini?utm_source=help) is on, transcripts of your Live chats and attachments you share with Gemini Live are used to improve Google services, including AI models. [Learn more about your History setting](#).
+By default, your Gemini Live audio, [video and screenshares](https://support.google.com/gemini/answer/15274899#ss_vid) are not used to train generative AI models. [Learn more about how to manage your settings](https://support.google.com/gemini/answer/13278892#man_audio).
 
-#### Gemini Live audio, videos & screenshares
-
-Your Gemini Live audio, [video and screenshares](https://support.google.com/gemini/answer/15274899#ss_vid) are not used to improve Google services by default. [Learn more about how to change this anytime](#audio_live).
+**Respect others' privacy**
 
 Please [respect others’ privacy](https://policies.google.com/terms/generative-ai/use-policy) and ask permission before you record or include them in a Live chat.
 
