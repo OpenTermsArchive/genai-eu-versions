@@ -1513,7 +1513,7 @@ If [History](https://myactivity.google.com/product/gemini?utm_source=help) is on
 
 **You control whether your Gemini Live data is used to train generative AI models**
 
-depending on your settings in [Gemini History](https://myactivity.google.com/product/gemini?utm_source=help), transcripts of your Live chats and attachments you share with Gemini Live are used to train generative AI models.
+Depending on your settings in [Gemini History](https://myactivity.google.com/product/gemini?utm_source=help), transcripts of your Live chats and attachments you share with Gemini Live are used to train generative AI models.
 
 By default, your Gemini Live audio, [video and screenshares](https://support.google.com/gemini/answer/15274899#ss_vid) are not used to train generative AI models. [Learn more about how to manage your settings](https://support.google.com/gemini/answer/13278892#man_audio).
 
